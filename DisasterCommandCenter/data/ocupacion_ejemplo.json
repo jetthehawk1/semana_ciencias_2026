@@ -1,0 +1,12 @@
+{
+  "description": "Distribucion FICTICIA para probar el simulador, no aforo ni ocupacion real de la UABC.",
+  "seed": 2026,
+  "id_prefix": "P",
+  "building_counts": {
+    "E1": 30,
+    "E10": 20,
+    "E15": 25,
+    "E25": 15,
+    "E30": 10
+  }
+}
