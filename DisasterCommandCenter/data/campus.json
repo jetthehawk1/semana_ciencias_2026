@@ -1,0 +1,4024 @@
+{
+  "name": "Campus Ensenada - hasta E1 (plano detallado)",
+  "width": 160,
+  "height": 100,
+  "default_terrain": "grass",
+  "zones": [
+    {
+      "name": "Terreno del campus",
+      "x": 16,
+      "y": 1,
+      "width": 143,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 15,
+      "y": 2,
+      "width": 144,
+      "height": 2,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 14,
+      "y": 4,
+      "width": 145,
+      "height": 3,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 13,
+      "y": 7,
+      "width": 146,
+      "height": 3,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 12,
+      "y": 10,
+      "width": 147,
+      "height": 4,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 11,
+      "y": 14,
+      "width": 148,
+      "height": 6,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 10,
+      "y": 20,
+      "width": 149,
+      "height": 4,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 9,
+      "y": 24,
+      "width": 150,
+      "height": 3,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 8,
+      "y": 27,
+      "width": 151,
+      "height": 3,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 7,
+      "y": 30,
+      "width": 152,
+      "height": 8,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 8,
+      "y": 38,
+      "width": 151,
+      "height": 6,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 9,
+      "y": 44,
+      "width": 150,
+      "height": 3,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 10,
+      "y": 47,
+      "width": 149,
+      "height": 3,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 11,
+      "y": 50,
+      "width": 148,
+      "height": 3,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 12,
+      "y": 53,
+      "width": 147,
+      "height": 3,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 13,
+      "y": 56,
+      "width": 146,
+      "height": 4,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 14,
+      "y": 60,
+      "width": 145,
+      "height": 4,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 15,
+      "y": 64,
+      "width": 144,
+      "height": 3,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 16,
+      "y": 67,
+      "width": 143,
+      "height": 3,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 17,
+      "y": 70,
+      "width": 142,
+      "height": 3,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 18,
+      "y": 73,
+      "width": 141,
+      "height": 2,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 19,
+      "y": 75,
+      "width": 140,
+      "height": 3,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 20,
+      "y": 78,
+      "width": 139,
+      "height": 3,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 21,
+      "y": 81,
+      "width": 138,
+      "height": 2,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 22,
+      "y": 83,
+      "width": 137,
+      "height": 3,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 23,
+      "y": 86,
+      "width": 136,
+      "height": 2,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 24,
+      "y": 88,
+      "width": 135,
+      "height": 2,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 26,
+      "y": 90,
+      "width": 133,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 27,
+      "y": 91,
+      "width": 119,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 28,
+      "y": 92,
+      "width": 104,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 29,
+      "y": 93,
+      "width": 93,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 30,
+      "y": 94,
+      "width": 81,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 31,
+      "y": 95,
+      "width": 69,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 32,
+      "y": 96,
+      "width": 56,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 34,
+      "y": 97,
+      "width": 43,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Terreno del campus",
+      "x": 37,
+      "y": 98,
+      "width": 28,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Vialidad norte",
+      "x": 14,
+      "y": 1,
+      "width": 144,
+      "height": 2,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Andador norte",
+      "x": 95,
+      "y": 8,
+      "width": 40,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Andador norte",
+      "x": 16,
+      "y": 9,
+      "width": 120,
+      "height": 2,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento sector marino",
+      "x": 23,
+      "y": 12,
+      "width": 7,
+      "height": 18,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento sector marino",
+      "x": 24,
+      "y": 30,
+      "width": 5,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Andadores laboratorios",
+      "x": 35,
+      "y": 10,
+      "width": 12,
+      "height": 20,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Patio de laboratorios",
+      "x": 68,
+      "y": 10,
+      "width": 12,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Patio de laboratorios",
+      "x": 67,
+      "y": 11,
+      "width": 13,
+      "height": 20,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Patios Facultad de Ciencias",
+      "x": 86,
+      "y": 10,
+      "width": 22,
+      "height": 21,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento E4",
+      "x": 113,
+      "y": 8,
+      "width": 16,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento E4",
+      "x": 113,
+      "y": 9,
+      "width": 17,
+      "height": 12,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Plaza central",
+      "x": 67,
+      "y": 11,
+      "width": 14,
+      "height": 18,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Vialidad principal",
+      "x": 21,
+      "y": 31,
+      "width": 93,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad principal",
+      "x": 20,
+      "y": 32,
+      "width": 94,
+      "height": 2,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad principal",
+      "x": 21,
+      "y": 34,
+      "width": 29,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad principal",
+      "x": 109,
+      "y": 34,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Acceso al circuito E1",
+      "x": 158,
+      "y": 13,
+      "width": 1,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Acceso al circuito E1",
+      "x": 157,
+      "y": 14,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Acceso al circuito E1",
+      "x": 156,
+      "y": 15,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Acceso al circuito E1",
+      "x": 155,
+      "y": 16,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Acceso al circuito E1",
+      "x": 154,
+      "y": 17,
+      "width": 5,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Acceso al circuito E1",
+      "x": 153,
+      "y": 18,
+      "width": 5,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Acceso al circuito E1",
+      "x": 148,
+      "y": 19,
+      "width": 9,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Acceso al circuito E1",
+      "x": 144,
+      "y": 20,
+      "width": 12,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Acceso al circuito E1",
+      "x": 140,
+      "y": 21,
+      "width": 15,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Acceso al circuito E1",
+      "x": 137,
+      "y": 22,
+      "width": 14,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Acceso al circuito E1",
+      "x": 134,
+      "y": 23,
+      "width": 13,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Acceso al circuito E1",
+      "x": 131,
+      "y": 24,
+      "width": 11,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Acceso al circuito E1",
+      "x": 130,
+      "y": 25,
+      "width": 9,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Acceso al circuito E1",
+      "x": 128,
+      "y": 26,
+      "width": 8,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Acceso al circuito E1",
+      "x": 127,
+      "y": 27,
+      "width": 6,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Acceso al circuito E1",
+      "x": 126,
+      "y": 28,
+      "width": 5,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Acceso al circuito E1",
+      "x": 124,
+      "y": 29,
+      "width": 6,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Acceso al circuito E1",
+      "x": 124,
+      "y": 30,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Acceso al circuito E1",
+      "x": 124,
+      "y": 31,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Glorieta principal",
+      "x": 122,
+      "y": 24,
+      "width": 1,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Glorieta principal",
+      "x": 120,
+      "y": 25,
+      "width": 6,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Glorieta principal",
+      "x": 119,
+      "y": 26,
+      "width": 8,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Glorieta principal",
+      "x": 118,
+      "y": 27,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Glorieta principal",
+      "x": 125,
+      "y": 27,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Glorieta principal",
+      "x": 117,
+      "y": 28,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Glorieta principal",
+      "x": 117,
+      "y": 29,
+      "width": 2,
+      "height": 2,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Glorieta principal",
+      "x": 117,
+      "y": 31,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Glorieta principal",
+      "x": 126,
+      "y": 28,
+      "width": 2,
+      "height": 4,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Glorieta principal",
+      "x": 118,
+      "y": 32,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Glorieta principal",
+      "x": 125,
+      "y": 32,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Glorieta principal",
+      "x": 119,
+      "y": 33,
+      "width": 8,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Glorieta principal",
+      "x": 120,
+      "y": 34,
+      "width": 6,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Acceso interior a E32",
+      "x": 115,
+      "y": 34,
+      "width": 2,
+      "height": 10,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Acceso interior a E32",
+      "x": 115,
+      "y": 44,
+      "width": 3,
+      "height": 10,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Acceso interior a E32",
+      "x": 116,
+      "y": 54,
+      "width": 2,
+      "height": 7,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Acceso interior a E32",
+      "x": 116,
+      "y": 61,
+      "width": 3,
+      "height": 12,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Acceso interior a E32",
+      "x": 117,
+      "y": 73,
+      "width": 2,
+      "height": 5,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Circuito vial oriente",
+      "x": 133,
+      "y": 31,
+      "width": 2,
+      "height": 2,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Circuito vial oriente",
+      "x": 132,
+      "y": 33,
+      "width": 3,
+      "height": 3,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Circuito vial oriente",
+      "x": 131,
+      "y": 36,
+      "width": 3,
+      "height": 4,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Circuito vial oriente",
+      "x": 130,
+      "y": 40,
+      "width": 3,
+      "height": 8,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Circuito vial oriente",
+      "x": 131,
+      "y": 48,
+      "width": 2,
+      "height": 2,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Circuito vial oriente",
+      "x": 131,
+      "y": 50,
+      "width": 3,
+      "height": 13,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Circuito vial oriente",
+      "x": 131,
+      "y": 63,
+      "width": 2,
+      "height": 3,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Circuito vial oriente",
+      "x": 131,
+      "y": 66,
+      "width": 3,
+      "height": 3,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Circuito vial oriente",
+      "x": 132,
+      "y": 69,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Circuito vial oriente",
+      "x": 132,
+      "y": 70,
+      "width": 3,
+      "height": 3,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Circuito vial oriente",
+      "x": 133,
+      "y": 73,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Circuito vial oriente",
+      "x": 133,
+      "y": 74,
+      "width": 6,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Circuito vial oriente",
+      "x": 134,
+      "y": 75,
+      "width": 7,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Circuito vial oriente",
+      "x": 137,
+      "y": 76,
+      "width": 6,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Circuito vial oriente",
+      "x": 139,
+      "y": 77,
+      "width": 7,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Circuito vial oriente",
+      "x": 141,
+      "y": 78,
+      "width": 7,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Circuito vial oriente",
+      "x": 143,
+      "y": 79,
+      "width": 8,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Circuito vial oriente",
+      "x": 146,
+      "y": 80,
+      "width": 9,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Circuito vial oriente",
+      "x": 149,
+      "y": 81,
+      "width": 7,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Circuito vial oriente",
+      "x": 152,
+      "y": 82,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 15,
+      "y": 8,
+      "width": 2,
+      "height": 3,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 14,
+      "y": 11,
+      "width": 3,
+      "height": 2,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 14,
+      "y": 13,
+      "width": 2,
+      "height": 4,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 13,
+      "y": 17,
+      "width": 3,
+      "height": 2,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 13,
+      "y": 19,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 12,
+      "y": 20,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 12,
+      "y": 21,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 11,
+      "y": 22,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 11,
+      "y": 23,
+      "width": 2,
+      "height": 2,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 10,
+      "y": 25,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 10,
+      "y": 26,
+      "width": 2,
+      "height": 4,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 9,
+      "y": 30,
+      "width": 3,
+      "height": 2,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 10,
+      "y": 32,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 10,
+      "y": 33,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 11,
+      "y": 34,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 11,
+      "y": 35,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 12,
+      "y": 36,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 12,
+      "y": 37,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 13,
+      "y": 38,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 13,
+      "y": 39,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 14,
+      "y": 40,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 14,
+      "y": 41,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 15,
+      "y": 42,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 16,
+      "y": 43,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 17,
+      "y": 44,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 17,
+      "y": 45,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 18,
+      "y": 46,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 19,
+      "y": 47,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 19,
+      "y": 48,
+      "width": 3,
+      "height": 2,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 20,
+      "y": 50,
+      "width": 2,
+      "height": 3,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 20,
+      "y": 53,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 21,
+      "y": 54,
+      "width": 2,
+      "height": 4,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 21,
+      "y": 58,
+      "width": 3,
+      "height": 2,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 22,
+      "y": 60,
+      "width": 2,
+      "height": 4,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 22,
+      "y": 64,
+      "width": 3,
+      "height": 2,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 23,
+      "y": 66,
+      "width": 2,
+      "height": 2,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 23,
+      "y": 68,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 24,
+      "y": 69,
+      "width": 2,
+      "height": 2,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 24,
+      "y": 71,
+      "width": 3,
+      "height": 2,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 25,
+      "y": 73,
+      "width": 2,
+      "height": 2,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 25,
+      "y": 75,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 26,
+      "y": 76,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 26,
+      "y": 77,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 27,
+      "y": 78,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 27,
+      "y": 79,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 28,
+      "y": 80,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 28,
+      "y": 81,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 29,
+      "y": 82,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 29,
+      "y": 83,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 30,
+      "y": 84,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 30,
+      "y": 85,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 31,
+      "y": 86,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 31,
+      "y": 87,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 32,
+      "y": 88,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 32,
+      "y": 89,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 33,
+      "y": 90,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 34,
+      "y": 91,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 34,
+      "y": 92,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 35,
+      "y": 93,
+      "width": 3,
+      "height": 2,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 36,
+      "y": 95,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 37,
+      "y": 96,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Vialidad costera oeste",
+      "x": 37,
+      "y": 97,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Glorieta occidental",
+      "x": 19,
+      "y": 29,
+      "width": 5,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Glorieta occidental",
+      "x": 18,
+      "y": 30,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Glorieta occidental",
+      "x": 22,
+      "y": 30,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Glorieta occidental",
+      "x": 23,
+      "y": 31,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Glorieta occidental",
+      "x": 24,
+      "y": 32,
+      "width": 1,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Glorieta occidental",
+      "x": 17,
+      "y": 31,
+      "width": 2,
+      "height": 3,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Glorieta occidental",
+      "x": 18,
+      "y": 34,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Glorieta occidental",
+      "x": 23,
+      "y": 33,
+      "width": 2,
+      "height": 2,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Glorieta occidental",
+      "x": 18,
+      "y": 35,
+      "width": 6,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Glorieta occidental",
+      "x": 20,
+      "y": 36,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 20,
+      "y": 34,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 20,
+      "y": 35,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 22,
+      "y": 36,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 24,
+      "y": 37,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 26,
+      "y": 38,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 27,
+      "y": 39,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 27,
+      "y": 40,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 28,
+      "y": 41,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 29,
+      "y": 42,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 29,
+      "y": 43,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 30,
+      "y": 44,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 31,
+      "y": 45,
+      "width": 2,
+      "height": 2,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 32,
+      "y": 47,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 32,
+      "y": 48,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 33,
+      "y": 49,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 33,
+      "y": 50,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 34,
+      "y": 51,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 34,
+      "y": 52,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 35,
+      "y": 53,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 35,
+      "y": 54,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 36,
+      "y": 55,
+      "width": 2,
+      "height": 2,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 37,
+      "y": 57,
+      "width": 2,
+      "height": 2,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 37,
+      "y": 59,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 38,
+      "y": 60,
+      "width": 2,
+      "height": 2,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 39,
+      "y": 62,
+      "width": 2,
+      "height": 2,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 39,
+      "y": 64,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 40,
+      "y": 65,
+      "width": 2,
+      "height": 2,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 41,
+      "y": 67,
+      "width": 2,
+      "height": 2,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 42,
+      "y": 69,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 42,
+      "y": 70,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 43,
+      "y": 71,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 43,
+      "y": 72,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 44,
+      "y": 73,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 44,
+      "y": 74,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Camino instalaciones marinas",
+      "x": 45,
+      "y": 75,
+      "width": 2,
+      "height": 2,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector sur-poniente",
+      "x": 44,
+      "y": 59,
+      "width": 5,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector sur-poniente",
+      "x": 41,
+      "y": 60,
+      "width": 17,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector sur-poniente",
+      "x": 38,
+      "y": 61,
+      "width": 7,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector sur-poniente",
+      "x": 49,
+      "y": 61,
+      "width": 13,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector sur-poniente",
+      "x": 34,
+      "y": 62,
+      "width": 8,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector sur-poniente",
+      "x": 58,
+      "y": 62,
+      "width": 7,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector sur-poniente",
+      "x": 32,
+      "y": 63,
+      "width": 6,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector sur-poniente",
+      "x": 61,
+      "y": 63,
+      "width": 5,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector sur-poniente",
+      "x": 31,
+      "y": 64,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector sur-poniente",
+      "x": 30,
+      "y": 65,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector sur-poniente",
+      "x": 29,
+      "y": 66,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector sur-poniente",
+      "x": 27,
+      "y": 67,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector sur-poniente",
+      "x": 26,
+      "y": 68,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector sur-poniente",
+      "x": 25,
+      "y": 69,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector sur-poniente",
+      "x": 24,
+      "y": 70,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector sur-poniente",
+      "x": 23,
+      "y": 71,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector sur-poniente",
+      "x": 23,
+      "y": 72,
+      "width": 1,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector E25-E56",
+      "x": 59,
+      "y": 75,
+      "width": 1,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector E25-E56",
+      "x": 56,
+      "y": 76,
+      "width": 5,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector E25-E56",
+      "x": 52,
+      "y": 77,
+      "width": 8,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector E25-E56",
+      "x": 46,
+      "y": 78,
+      "width": 11,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector E25-E56",
+      "x": 40,
+      "y": 79,
+      "width": 14,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector E25-E56",
+      "x": 36,
+      "y": 80,
+      "width": 13,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector E25-E56",
+      "x": 32,
+      "y": 81,
+      "width": 11,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector E25-E56",
+      "x": 29,
+      "y": 82,
+      "width": 9,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector E25-E56",
+      "x": 29,
+      "y": 83,
+      "width": 5,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector E22-E29",
+      "x": 62,
+      "y": 34,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector E22-E29",
+      "x": 61,
+      "y": 35,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector E22-E29",
+      "x": 59,
+      "y": 36,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector E22-E29",
+      "x": 57,
+      "y": 37,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector E22-E29",
+      "x": 55,
+      "y": 38,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector E22-E29",
+      "x": 53,
+      "y": 39,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector E22-E29",
+      "x": 51,
+      "y": 40,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector E22-E29",
+      "x": 47,
+      "y": 41,
+      "width": 6,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector E22-E29",
+      "x": 43,
+      "y": 42,
+      "width": 8,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector E22-E29",
+      "x": 35,
+      "y": 43,
+      "width": 12,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector E22-E29",
+      "x": 28,
+      "y": 44,
+      "width": 16,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Conector E22-E29",
+      "x": 29,
+      "y": 45,
+      "width": 5,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Andador sur E29",
+      "x": 69,
+      "y": 72,
+      "width": 7,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Andador sur E29",
+      "x": 69,
+      "y": 73,
+      "width": 34,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Andador sur E29",
+      "x": 87,
+      "y": 74,
+      "width": 23,
+      "height": 1,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Acceso estacionamiento centro",
+      "x": 81,
+      "y": 32,
+      "width": 2,
+      "height": 20,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Acceso estacionamiento centro",
+      "x": 82,
+      "y": 52,
+      "width": 1,
+      "height": 3,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Acceso estacionamiento IIO",
+      "x": 68,
+      "y": 34,
+      "width": 2,
+      "height": 4,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Acceso estacionamiento IIO",
+      "x": 69,
+      "y": 38,
+      "width": 1,
+      "height": 22,
+      "terrain_type": "road"
+    },
+    {
+      "name": "Estacionamiento E29",
+      "x": 65,
+      "y": 40,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento E29",
+      "x": 61,
+      "y": 41,
+      "width": 6,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento E29",
+      "x": 57,
+      "y": 42,
+      "width": 11,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento E29",
+      "x": 54,
+      "y": 43,
+      "width": 14,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento E29",
+      "x": 50,
+      "y": 44,
+      "width": 18,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento E29",
+      "x": 49,
+      "y": 45,
+      "width": 19,
+      "height": 6,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento E29",
+      "x": 50,
+      "y": 51,
+      "width": 18,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento E29",
+      "x": 50,
+      "y": 52,
+      "width": 19,
+      "height": 9,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento E29",
+      "x": 50,
+      "y": 61,
+      "width": 18,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento E29",
+      "x": 50,
+      "y": 62,
+      "width": 14,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento E29",
+      "x": 51,
+      "y": 63,
+      "width": 8,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento E29",
+      "x": 51,
+      "y": 64,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento principal",
+      "x": 86,
+      "y": 36,
+      "width": 16,
+      "height": 15,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento principal",
+      "x": 87,
+      "y": 51,
+      "width": 14,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento noreste",
+      "x": 137,
+      "y": 38,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento noreste",
+      "x": 137,
+      "y": 39,
+      "width": 5,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento noreste",
+      "x": 137,
+      "y": 40,
+      "width": 9,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento noreste",
+      "x": 137,
+      "y": 41,
+      "width": 12,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento noreste",
+      "x": 137,
+      "y": 42,
+      "width": 16,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento noreste",
+      "x": 137,
+      "y": 43,
+      "width": 20,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento noreste",
+      "x": 137,
+      "y": 44,
+      "width": 22,
+      "height": 9,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento noreste",
+      "x": 138,
+      "y": 53,
+      "width": 21,
+      "height": 6,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento noreste",
+      "x": 140,
+      "y": 59,
+      "width": 19,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento noreste",
+      "x": 142,
+      "y": 60,
+      "width": 17,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento noreste",
+      "x": 144,
+      "y": 61,
+      "width": 15,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento noreste",
+      "x": 146,
+      "y": 62,
+      "width": 13,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento noreste",
+      "x": 148,
+      "y": 63,
+      "width": 11,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento noreste",
+      "x": 150,
+      "y": 64,
+      "width": 9,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento noreste",
+      "x": 152,
+      "y": 65,
+      "width": 7,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento noreste",
+      "x": 154,
+      "y": 66,
+      "width": 5,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento noreste",
+      "x": 156,
+      "y": 67,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento noreste",
+      "x": 158,
+      "y": 68,
+      "width": 1,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento E4",
+      "x": 113,
+      "y": 8,
+      "width": 17,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento E4",
+      "x": 112,
+      "y": 9,
+      "width": 19,
+      "height": 12,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Estacionamiento costa",
+      "x": 23,
+      "y": 12,
+      "width": 8,
+      "height": 19,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Cancha de basquetbol",
+      "x": 78,
+      "y": 54,
+      "width": 12,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Cancha de basquetbol",
+      "x": 77,
+      "y": 55,
+      "width": 14,
+      "height": 11,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Cancha de basquetbol",
+      "x": 78,
+      "y": 66,
+      "width": 12,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Cancha de futsal",
+      "x": 78,
+      "y": 67,
+      "width": 14,
+      "height": 6,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Cancha de futbol rapido",
+      "x": 83,
+      "y": 75,
+      "width": 9,
+      "height": 19,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Gradas cancha de futbol",
+      "x": 61,
+      "y": 75,
+      "width": 21,
+      "height": 20,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Gradas cancha de futbol",
+      "x": 62,
+      "y": 95,
+      "width": 20,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Pozas acuicolas",
+      "x": 33,
+      "y": 44,
+      "width": 11,
+      "height": 1,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Pozas acuicolas",
+      "x": 32,
+      "y": 45,
+      "width": 13,
+      "height": 11,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Pozas IIO",
+      "x": 34,
+      "y": 82,
+      "width": 10,
+      "height": 14,
+      "terrain_type": "floor"
+    },
+    {
+      "name": "Area verde acceso",
+      "x": 12,
+      "y": 2,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "grass"
+    },
+    {
+      "name": "Area verde acceso",
+      "x": 11,
+      "y": 3,
+      "width": 4,
+      "height": 6,
+      "terrain_type": "grass"
+    },
+    {
+      "name": "Area verde acceso",
+      "x": 11,
+      "y": 9,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "grass"
+    },
+    {
+      "name": "Area verde acceso",
+      "x": 11,
+      "y": 10,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "grass"
+    },
+    {
+      "name": "Jardines central norte",
+      "x": 68,
+      "y": 8,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "grass"
+    },
+    {
+      "name": "Jardines central norte",
+      "x": 67,
+      "y": 9,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "grass"
+    },
+    {
+      "name": "Jardines central norte",
+      "x": 67,
+      "y": 10,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "grass"
+    },
+    {
+      "name": "Jardines central norte",
+      "x": 68,
+      "y": 11,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "grass"
+    },
+    {
+      "name": "Jardines plaza",
+      "x": 68,
+      "y": 11,
+      "width": 1,
+      "height": 8,
+      "terrain_type": "grass"
+    },
+    {
+      "name": "Jardines plaza",
+      "x": 67,
+      "y": 19,
+      "width": 2,
+      "height": 9,
+      "terrain_type": "grass"
+    },
+    {
+      "name": "Jardines plaza oriental",
+      "x": 80,
+      "y": 12,
+      "width": 2,
+      "height": 17,
+      "terrain_type": "grass"
+    },
+    {
+      "name": "Jardines oeste",
+      "x": 23,
+      "y": 32,
+      "width": 1,
+      "height": 1,
+      "terrain_type": "grass"
+    },
+    {
+      "name": "Jardines oeste",
+      "x": 22,
+      "y": 33,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "grass"
+    },
+    {
+      "name": "Jardines oeste",
+      "x": 22,
+      "y": 34,
+      "width": 6,
+      "height": 1,
+      "terrain_type": "grass"
+    },
+    {
+      "name": "Jardines oeste",
+      "x": 22,
+      "y": 35,
+      "width": 7,
+      "height": 1,
+      "terrain_type": "grass"
+    },
+    {
+      "name": "Jardines oeste",
+      "x": 22,
+      "y": 36,
+      "width": 6,
+      "height": 1,
+      "terrain_type": "grass"
+    },
+    {
+      "name": "Camellon glorieta",
+      "x": 120,
+      "y": 28,
+      "width": 5,
+      "height": 2,
+      "terrain_type": "grass"
+    },
+    {
+      "name": "Camellon glorieta",
+      "x": 120,
+      "y": 30,
+      "width": 6,
+      "height": 1,
+      "terrain_type": "grass"
+    },
+    {
+      "name": "Camellon glorieta",
+      "x": 121,
+      "y": 31,
+      "width": 5,
+      "height": 1,
+      "terrain_type": "grass"
+    },
+    {
+      "name": "Patio E32",
+      "x": 106,
+      "y": 35,
+      "width": 7,
+      "height": 1,
+      "terrain_type": "grass"
+    },
+    {
+      "name": "Patio E32",
+      "x": 105,
+      "y": 36,
+      "width": 8,
+      "height": 1,
+      "terrain_type": "grass"
+    },
+    {
+      "name": "Jardin area marina",
+      "x": 45,
+      "y": 74,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "grass"
+    },
+    {
+      "name": "Jardin area marina",
+      "x": 45,
+      "y": 75,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "grass"
+    },
+    {
+      "name": "Jardin area marina",
+      "x": 45,
+      "y": 76,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "grass"
+    },
+    {
+      "name": "E20",
+      "x": 18,
+      "y": 3,
+      "width": 8,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E20",
+      "x": 18,
+      "y": 4,
+      "width": 9,
+      "height": 5,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E19",
+      "x": 27,
+      "y": 4,
+      "width": 13,
+      "height": 4,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E16",
+      "x": 40,
+      "y": 4,
+      "width": 14,
+      "height": 4,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E16",
+      "x": 40,
+      "y": 8,
+      "width": 3,
+      "height": 2,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E15",
+      "x": 54,
+      "y": 4,
+      "width": 12,
+      "height": 4,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E15",
+      "x": 64,
+      "y": 8,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E15",
+      "x": 65,
+      "y": 9,
+      "width": 1,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E11",
+      "x": 72,
+      "y": 5,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E11",
+      "x": 71,
+      "y": 6,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E11",
+      "x": 72,
+      "y": 7,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E10",
+      "x": 77,
+      "y": 3,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E10",
+      "x": 76,
+      "y": 4,
+      "width": 6,
+      "height": 4,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E10",
+      "x": 80,
+      "y": 8,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E60 - norte",
+      "x": 82,
+      "y": 4,
+      "width": 4,
+      "height": 5,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E8",
+      "x": 86,
+      "y": 4,
+      "width": 12,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E8",
+      "x": 86,
+      "y": 5,
+      "width": 13,
+      "height": 2,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E8",
+      "x": 86,
+      "y": 7,
+      "width": 12,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E6",
+      "x": 99,
+      "y": 4,
+      "width": 12,
+      "height": 4,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E6",
+      "x": 99,
+      "y": 8,
+      "width": 6,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E4",
+      "x": 112,
+      "y": 4,
+      "width": 19,
+      "height": 3,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E4",
+      "x": 113,
+      "y": 7,
+      "width": 18,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E57",
+      "x": 129,
+      "y": 4,
+      "width": 12,
+      "height": 3,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E57",
+      "x": 130,
+      "y": 7,
+      "width": 6,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E57",
+      "x": 132,
+      "y": 8,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E57",
+      "x": 134,
+      "y": 9,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E57",
+      "x": 135,
+      "y": 10,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E3",
+      "x": 139,
+      "y": 4,
+      "width": 7,
+      "height": 14,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E2",
+      "x": 147,
+      "y": 7,
+      "width": 4,
+      "height": 6,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E1",
+      "x": 151,
+      "y": 4,
+      "width": 5,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E1",
+      "x": 151,
+      "y": 5,
+      "width": 6,
+      "height": 2,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E1",
+      "x": 150,
+      "y": 7,
+      "width": 8,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E1",
+      "x": 150,
+      "y": 8,
+      "width": 9,
+      "height": 2,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E1",
+      "x": 150,
+      "y": 10,
+      "width": 8,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E1",
+      "x": 151,
+      "y": 11,
+      "width": 7,
+      "height": 3,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E1",
+      "x": 151,
+      "y": 14,
+      "width": 6,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E41",
+      "x": 16,
+      "y": 11,
+      "width": 5,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E41",
+      "x": 15,
+      "y": 12,
+      "width": 8,
+      "height": 3,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E41",
+      "x": 16,
+      "y": 15,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E59",
+      "x": 24,
+      "y": 10,
+      "width": 4,
+      "height": 5,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E59",
+      "x": 24,
+      "y": 15,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E21",
+      "x": 16,
+      "y": 15,
+      "width": 5,
+      "height": 4,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E21",
+      "x": 17,
+      "y": 19,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E21",
+      "x": 18,
+      "y": 20,
+      "width": 3,
+      "height": 4,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E18",
+      "x": 31,
+      "y": 12,
+      "width": 4,
+      "height": 16,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E17",
+      "x": 40,
+      "y": 12,
+      "width": 3,
+      "height": 17,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E14",
+      "x": 56,
+      "y": 11,
+      "width": 7,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E14",
+      "x": 56,
+      "y": 12,
+      "width": 8,
+      "height": 2,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E14",
+      "x": 56,
+      "y": 14,
+      "width": 9,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E14",
+      "x": 55,
+      "y": 15,
+      "width": 11,
+      "height": 2,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E14",
+      "x": 55,
+      "y": 17,
+      "width": 12,
+      "height": 3,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E14",
+      "x": 55,
+      "y": 20,
+      "width": 9,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E14",
+      "x": 56,
+      "y": 21,
+      "width": 7,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E13",
+      "x": 48,
+      "y": 24,
+      "width": 11,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E13",
+      "x": 47,
+      "y": 25,
+      "width": 12,
+      "height": 3,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E13",
+      "x": 48,
+      "y": 28,
+      "width": 11,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E12",
+      "x": 59,
+      "y": 24,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E12",
+      "x": 59,
+      "y": 25,
+      "width": 5,
+      "height": 3,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E12",
+      "x": 59,
+      "y": 28,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E9",
+      "x": 83,
+      "y": 10,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E9",
+      "x": 82,
+      "y": 11,
+      "width": 6,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E9",
+      "x": 82,
+      "y": 12,
+      "width": 5,
+      "height": 12,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E9",
+      "x": 83,
+      "y": 24,
+      "width": 4,
+      "height": 3,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E9",
+      "x": 84,
+      "y": 27,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E5",
+      "x": 108,
+      "y": 8,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E5",
+      "x": 107,
+      "y": 9,
+      "width": 4,
+      "height": 12,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E5",
+      "x": 108,
+      "y": 21,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E7",
+      "x": 100,
+      "y": 24,
+      "width": 8,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E7",
+      "x": 99,
+      "y": 25,
+      "width": 9,
+      "height": 3,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E22",
+      "x": 37,
+      "y": 38,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E22",
+      "x": 34,
+      "y": 39,
+      "width": 7,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E22",
+      "x": 30,
+      "y": 40,
+      "width": 11,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E22",
+      "x": 30,
+      "y": 41,
+      "width": 12,
+      "height": 2,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E22",
+      "x": 31,
+      "y": 43,
+      "width": 8,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E22",
+      "x": 31,
+      "y": 44,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E53",
+      "x": 40,
+      "y": 37,
+      "width": 3,
+      "height": 3,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E53",
+      "x": 41,
+      "y": 40,
+      "width": 3,
+      "height": 3,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E53",
+      "x": 42,
+      "y": 43,
+      "width": 1,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E23",
+      "x": 49,
+      "y": 37,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E23",
+      "x": 46,
+      "y": 38,
+      "width": 5,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E23",
+      "x": 46,
+      "y": 39,
+      "width": 6,
+      "height": 2,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E23",
+      "x": 47,
+      "y": 41,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E23",
+      "x": 47,
+      "y": 42,
+      "width": 1,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E24",
+      "x": 44,
+      "y": 46,
+      "width": 4,
+      "height": 2,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E24",
+      "x": 45,
+      "y": 48,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E24",
+      "x": 45,
+      "y": 49,
+      "width": 4,
+      "height": 3,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E24",
+      "x": 46,
+      "y": 52,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E24",
+      "x": 46,
+      "y": 53,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E29-B",
+      "x": 67,
+      "y": 42,
+      "width": 3,
+      "height": 4,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E29-A",
+      "x": 68,
+      "y": 49,
+      "width": 3,
+      "height": 4,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E29-A",
+      "x": 69,
+      "y": 53,
+      "width": 1,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E29",
+      "x": 72,
+      "y": 41,
+      "width": 10,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E29",
+      "x": 71,
+      "y": 42,
+      "width": 11,
+      "height": 11,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E29",
+      "x": 72,
+      "y": 53,
+      "width": 10,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E58",
+      "x": 42,
+      "y": 55,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E58",
+      "x": 38,
+      "y": 56,
+      "width": 8,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E58",
+      "x": 35,
+      "y": 57,
+      "width": 12,
+      "height": 2,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E58",
+      "x": 35,
+      "y": 59,
+      "width": 13,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E58",
+      "x": 35,
+      "y": 60,
+      "width": 11,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E58",
+      "x": 35,
+      "y": 61,
+      "width": 6,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E25",
+      "x": 46,
+      "y": 63,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E25",
+      "x": 43,
+      "y": 64,
+      "width": 7,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E25",
+      "x": 40,
+      "y": 65,
+      "width": 11,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E25",
+      "x": 39,
+      "y": 66,
+      "width": 12,
+      "height": 2,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E25",
+      "x": 39,
+      "y": 68,
+      "width": 13,
+      "height": 2,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E25",
+      "x": 40,
+      "y": 70,
+      "width": 12,
+      "height": 2,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E25",
+      "x": 40,
+      "y": 72,
+      "width": 13,
+      "height": 2,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E25",
+      "x": 41,
+      "y": 74,
+      "width": 12,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E25",
+      "x": 41,
+      "y": 75,
+      "width": 13,
+      "height": 3,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E25",
+      "x": 42,
+      "y": 78,
+      "width": 10,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E25",
+      "x": 42,
+      "y": 79,
+      "width": 7,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E25",
+      "x": 42,
+      "y": 80,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E26",
+      "x": 57,
+      "y": 66,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E26",
+      "x": 53,
+      "y": 67,
+      "width": 7,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E26",
+      "x": 53,
+      "y": 68,
+      "width": 8,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E26",
+      "x": 53,
+      "y": 69,
+      "width": 9,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E26",
+      "x": 54,
+      "y": 70,
+      "width": 8,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E26",
+      "x": 54,
+      "y": 71,
+      "width": 9,
+      "height": 2,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E26",
+      "x": 55,
+      "y": 73,
+      "width": 9,
+      "height": 2,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E26",
+      "x": 56,
+      "y": 75,
+      "width": 5,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E26",
+      "x": 56,
+      "y": 76,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E49",
+      "x": 35,
+      "y": 77,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E49",
+      "x": 34,
+      "y": 78,
+      "width": 5,
+      "height": 2,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E49",
+      "x": 34,
+      "y": 80,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E27",
+      "x": 66,
+      "y": 66,
+      "width": 4,
+      "height": 5,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E27",
+      "x": 67,
+      "y": 71,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E28",
+      "x": 66,
+      "y": 54,
+      "width": 12,
+      "height": 10,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E30",
+      "x": 77,
+      "y": 54,
+      "width": 4,
+      "height": 3,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E61",
+      "x": 79,
+      "y": 57,
+      "width": 3,
+      "height": 2,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E56",
+      "x": 52,
+      "y": 80,
+      "width": 14,
+      "height": 18,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E56",
+      "x": 52,
+      "y": 98,
+      "width": 13,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E32",
+      "x": 101,
+      "y": 38,
+      "width": 14,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E32",
+      "x": 101,
+      "y": 39,
+      "width": 15,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E32",
+      "x": 101,
+      "y": 40,
+      "width": 16,
+      "height": 7,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E32",
+      "x": 101,
+      "y": 47,
+      "width": 13,
+      "height": 2,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E37",
+      "x": 120,
+      "y": 50,
+      "width": 5,
+      "height": 10,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E33",
+      "x": 109,
+      "y": 55,
+      "width": 8,
+      "height": 15,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E33",
+      "x": 109,
+      "y": 70,
+      "width": 7,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E31",
+      "x": 86,
+      "y": 62,
+      "width": 5,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E31",
+      "x": 86,
+      "y": 63,
+      "width": 6,
+      "height": 2,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E31",
+      "x": 86,
+      "y": 65,
+      "width": 14,
+      "height": 6,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E31",
+      "x": 86,
+      "y": 71,
+      "width": 10,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E31",
+      "x": 91,
+      "y": 72,
+      "width": 5,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E31",
+      "x": 92,
+      "y": 73,
+      "width": 4,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E34",
+      "x": 103,
+      "y": 63,
+      "width": 4,
+      "height": 15,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E55",
+      "x": 120,
+      "y": 64,
+      "width": 8,
+      "height": 6,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E55",
+      "x": 122,
+      "y": 70,
+      "width": 6,
+      "height": 2,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E51",
+      "x": 96,
+      "y": 76,
+      "width": 4,
+      "height": 11,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E36",
+      "x": 115,
+      "y": 71,
+      "width": 4,
+      "height": 10,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E35",
+      "x": 106,
+      "y": 82,
+      "width": 6,
+      "height": 8,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E45",
+      "x": 122,
+      "y": 80,
+      "width": 4,
+      "height": 10,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E40",
+      "x": 134,
+      "y": 53,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E40",
+      "x": 133,
+      "y": 54,
+      "width": 6,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E40",
+      "x": 133,
+      "y": 55,
+      "width": 7,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E40",
+      "x": 134,
+      "y": 56,
+      "width": 8,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E40",
+      "x": 134,
+      "y": 57,
+      "width": 9,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E40",
+      "x": 135,
+      "y": 58,
+      "width": 8,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E40",
+      "x": 135,
+      "y": 59,
+      "width": 9,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E40",
+      "x": 136,
+      "y": 60,
+      "width": 9,
+      "height": 2,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E40",
+      "x": 137,
+      "y": 62,
+      "width": 9,
+      "height": 3,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E40",
+      "x": 138,
+      "y": 65,
+      "width": 9,
+      "height": 3,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E40",
+      "x": 139,
+      "y": 68,
+      "width": 8,
+      "height": 2,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E40",
+      "x": 139,
+      "y": 70,
+      "width": 6,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E40",
+      "x": 141,
+      "y": 71,
+      "width": 2,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E38",
+      "x": 129,
+      "y": 83,
+      "width": 5,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E38",
+      "x": 126,
+      "y": 84,
+      "width": 8,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E38",
+      "x": 127,
+      "y": 85,
+      "width": 7,
+      "height": 2,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E38",
+      "x": 127,
+      "y": 87,
+      "width": 6,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E38",
+      "x": 127,
+      "y": 88,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E39",
+      "x": 137,
+      "y": 83,
+      "width": 4,
+      "height": 7,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E60 - sureste",
+      "x": 153,
+      "y": 85,
+      "width": 6,
+      "height": 3,
+      "terrain_type": "building"
+    },
+    {
+      "name": "E60 - sureste",
+      "x": 153,
+      "y": 88,
+      "width": 3,
+      "height": 1,
+      "terrain_type": "building"
+    }
+  ]
+}

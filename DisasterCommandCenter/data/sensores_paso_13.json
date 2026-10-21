@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "description": "Sensores VIRTUALES de ejemplo; no son ubicaciones de dispositivos físicos existentes.",
+  "sensors": [
+    {"sensor_id": "S-E1-01", "x": 152, "y": 7, "building_id": "E1"},
+    {"sensor_id": "S-E1-02", "x": 151, "y": 12, "building_id": "E1"},
+    {"sensor_id": "S-E10-01", "x": 79, "y": 4, "building_id": "E10"},
+    {"sensor_id": "S-E10-02", "x": 76, "y": 7, "building_id": "E10"},
+    {"sensor_id": "S-E15-01", "x": 54, "y": 5, "building_id": "E15"},
+    {"sensor_id": "S-E15-02", "x": 56, "y": 7, "building_id": "E15"},
+    {"sensor_id": "S-E25-01", "x": 41, "y": 68, "building_id": "E25"},
+    {"sensor_id": "S-E25-02", "x": 52, "y": 75, "building_id": "E25"},
+    {"sensor_id": "S-E30-01", "x": 78, "y": 55, "building_id": "E30"},
+    {"sensor_id": "S-E30-02", "x": 80, "y": 56, "building_id": "E30"},
+    {"sensor_id": "S-EXT-01", "x": 81, "y": 55, "building_id": null},
+    {"sensor_id": "S-EXT-02", "x": 83, "y": 56, "building_id": null}
+  ]
+}
