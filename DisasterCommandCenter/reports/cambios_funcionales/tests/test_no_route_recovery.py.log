@@ -1,0 +1,10 @@
+=== PRUEBA DE RUTA INEXISTENTE ===
+1. Posición inicial avanzada: (1, 2)
+2. Persona rodeada por obstáculos: OK
+3. No existe ruta alternativa: OK
+4. Intentos fallidos: 1
+5. No se repiten búsquedas fallidas: OK
+6. Obstáculos retirados: OK
+7. Destino alcanzado: (4, 2)
+
+PRUEBA DE RECUPERACIÓN COMPLETADA

@@ -1,0 +1,8 @@
+=== TEST SELECTOR 14.3.6B EN COPIA ===
+[OK] normal: estados por turno iguales; turnos=31; salieron=100; sensores=0.
+[OK] normal: reinicio y sincronizacion equivalentes.
+[OK] emergencia: estados por turno iguales; turnos=35; salieron=91; sensores=432.
+[OK] emergencia: reinicio y sincronizacion equivalentes.
+[OK] Activar optimizado y revertir a original sin sustituir modulos.
+[OK] Configuracion corrupta y modos invalidos rechazados.
+Paso 14.3.6B: SELECTOR APROBADO EN COPIA.

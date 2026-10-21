@@ -1,0 +1,34 @@
+{
+  "resolution": [
+    1320,
+    830
+  ],
+  "turn": 40,
+  "source_hash": "a8168b47a8ada37c352997615f4db7f2ee2ffde9150ae94207fe5bb5a3641f28",
+  "real_keyboard_D_roundtrip": true,
+  "unchanged_physics_and_positions": true,
+  "visible_text": [
+    "Disaster Command Center",
+    "MODO INTELIGENTE",
+    "VIENTO: ESTE",
+    "EN ZONA SEGURA: 171",
+    "EVACUANDO: 1358",
+    "DENTRO: 345",
+    "INCAPACITADOS: 5",
+    "Zonas: 8 / 8 disponibles",
+    "INCENDIO: MEDIO",
+    "HUMO: MEDIO",
+    "Velocidad del viento: RÁPIDO (0.8)",
+    "SIMULACIÓN EN PAUSA",
+    "A — Iniciar emergencia    ESPACIO — Pausa    + / − — Velocidad    V — Cambiar viento    H — Humo    D — Detalles",
+    "Ninguna tortuga saldrá lastimada durante esta simulación.",
+    "7 alumnos ajustaron su ruta para evacuar"
+  ],
+  "population": 1879,
+  "screenshots": [
+    "presentation.png",
+    "presentation_student.png",
+    "debug.png",
+    "presentation_return.png"
+  ]
+}

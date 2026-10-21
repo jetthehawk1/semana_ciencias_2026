@@ -1,0 +1,42 @@
+{
+  "mode": "original",
+  "selected_fine_cell": [
+    132,
+    40
+  ],
+  "selected_source_cell": [
+    44,
+    13
+  ],
+  "people": 1879,
+  "samples": [
+    {
+      "turn": 10,
+      "outside": 314,
+      "gathered": 11,
+      "fires": 23,
+      "blocked_cells": 39,
+      "elapsed_seconds": 2.51
+    },
+    {
+      "turn": 20,
+      "outside": 571,
+      "gathered": 14,
+      "fires": 32,
+      "blocked_cells": 61,
+      "elapsed_seconds": 6.66
+    },
+    {
+      "turn": 30,
+      "outside": 750,
+      "gathered": 21,
+      "fires": 66,
+      "blocked_cells": 108,
+      "elapsed_seconds": 10.61
+    }
+  ],
+  "readings": 372,
+  "no_collisions": true,
+  "maximum_one_cell_per_turn": true,
+  "target_excluded_from_observables": true
+}

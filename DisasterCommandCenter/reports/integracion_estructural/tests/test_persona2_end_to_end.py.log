@@ -1,0 +1,11 @@
+test_cli_without_database_never_imports_database_driver (__main__.EndToEndTests.test_cli_without_database_never_imports_database_driver) ... ok
+test_complete_verification_saves_reports_and_metrics (__main__.EndToEndTests.test_complete_verification_saves_reports_and_metrics) ... ok
+test_demo_preserves_original_source_and_data (__main__.EndToEndTests.test_demo_preserves_original_source_and_data) ... ok
+test_live_simulation_predictions_and_postgres (__main__.EndToEndTests.test_live_simulation_predictions_and_postgres) ... ok
+test_persist_cli_requires_configuration_explicitly (__main__.EndToEndTests.test_persist_cli_requires_configuration_explicitly) ... ok
+test_repeated_demo_does_not_duplicate_data (__main__.EndToEndTests.test_repeated_demo_does_not_duplicate_data) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 27.353s
+
+OK

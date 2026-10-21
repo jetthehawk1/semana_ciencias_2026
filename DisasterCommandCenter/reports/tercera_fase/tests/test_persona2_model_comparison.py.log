@@ -1,0 +1,21 @@
+test_additional_models_fit_train_and_predict_same_test_rows (__main__.ModelComparisonTests.test_additional_models_fit_train_and_predict_same_test_rows) ... ok
+test_changed_package_between_reads_is_rejected (__main__.ModelComparisonTests.test_changed_package_between_reads_is_rejected) ... ok
+test_changing_test_features_does_not_change_fitted_diagnostics (__main__.ModelComparisonTests.test_changing_test_features_does_not_change_fitted_diagnostics) ... ok
+test_cli_default_does_not_write (__main__.ModelComparisonTests.test_cli_default_does_not_write) ... ok
+test_cli_writes_matching_reports (__main__.ModelComparisonTests.test_cli_writes_matching_reports) ... ok
+test_decision_tree_and_reference_match_p24 (__main__.ModelComparisonTests.test_decision_tree_and_reference_match_p24) ... ok
+test_every_confusion_matrix_matches_saved_predictions (__main__.ModelComparisonTests.test_every_confusion_matrix_matches_saved_predictions) ... ok
+test_fit_warnings_are_preserved (__main__.ModelComparisonTests.test_fit_warnings_are_preserved) ... ok
+test_invalid_package_is_rejected_before_additional_training (__main__.ModelComparisonTests.test_invalid_package_is_rejected_before_additional_training) ... ok
+test_invalid_package_produces_no_reports (__main__.ModelComparisonTests.test_invalid_package_produces_no_reports) ... ok
+test_parameters_are_fixed_and_no_winner_is_selected (__main__.ModelComparisonTests.test_parameters_are_fixed_and_no_winner_is_selected) ... ok
+test_reproducible_and_read_only (__main__.ModelComparisonTests.test_reproducible_and_read_only) ... ok
+test_same_split_features_and_target_for_all_models (__main__.ModelComparisonTests.test_same_split_features_and_target_for_all_models) ... ok
+test_scaler_statistics_come_from_training_only (__main__.ModelComparisonTests.test_scaler_statistics_come_from_training_only) ... ok
+test_sensor_configuration_is_forwarded (__main__.ModelComparisonTests.test_sensor_configuration_is_forwarded) ... ok
+test_target_cannot_be_added_as_feature (__main__.ModelComparisonTests.test_target_cannot_be_added_as_feature) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 10.969s
+
+OK

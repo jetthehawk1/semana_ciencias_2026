@@ -1,0 +1,10 @@
+=== PRUEBA DE MÚLTIPLES PERSONAS ===
+1. Posición inicial A: (0, 2)
+2. Posición inicial B: (1, 2)
+3. Ruta de A: [{'x': 0, 'y': 2}, {'x': 1, 'y': 2}, {'x': 2, 'y': 2}, {'x': 3, 'y': 2}, {'x': 4, 'y': 2}]
+4. A espera porque B ocupa (1, 2): OK
+5. B avanza a: (2, 2)
+6. A avanza a: (1, 2)
+7. Sin colisiones: OK
+
+PRUEBA DE MÚLTIPLES PERSONAS COMPLETADA

@@ -1,0 +1,10 @@
+{
+  "identical_paths": 65,
+  "random_graphs": 40,
+  "real_turn240_requests": 25,
+  "query_seconds": {
+    "original": 1.5429342999996152,
+    "cached": 1.1921073999837972
+  },
+  "note": "Same graph, heuristic, heap ordering, weights and immutable cost inputs; only per-query cost memoization differs. Diagnostic ran alongside validation; use isolated episode for performance conclusions."
+}

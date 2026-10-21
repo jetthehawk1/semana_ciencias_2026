@@ -1,0 +1,122 @@
+[
+  {
+    "file": "src/simulation/access_movement.py",
+    "classes": [
+      "AccessMovementController"
+    ],
+    "tests": 0
+  },
+  {
+    "file": "src/simulation/auto_movement.py",
+    "classes": [
+      "AutoMovementController"
+    ],
+    "tests": 0
+  },
+  {
+    "file": "src/simulation/campus_map.py",
+    "classes": [
+      "CampusMap"
+    ],
+    "tests": 0
+  },
+  {
+    "file": "src/simulation/cell.py",
+    "classes": [
+      "Cell"
+    ],
+    "tests": 0
+  },
+  {
+    "file": "src/simulation/evacuation_control.py",
+    "classes": [
+      "EvacuationControlCenter"
+    ],
+    "tests": 3
+  },
+  {
+    "file": "src/simulation/fire_simulation.py",
+    "classes": [
+      "FireSimulation"
+    ],
+    "tests": 0
+  },
+  {
+    "file": "src/simulation/grid.py",
+    "classes": [
+      "Grid"
+    ],
+    "tests": 0
+  },
+  {
+    "file": "src/simulation/hazard_impact.py",
+    "classes": [
+      "Exposure",
+      "ExposureTracker",
+      "HazardEvacuationController",
+      "FireEvacuationControlCenter"
+    ],
+    "tests": 1
+  },
+  {
+    "file": "src/simulation/indoor_evacuation.py",
+    "classes": [
+      "IndoorEvacuationController"
+    ],
+    "tests": 0
+  },
+  {
+    "file": "src/simulation/indoor_people.py",
+    "classes": [
+      "IndoorPersonManager"
+    ],
+    "tests": 0
+  },
+  {
+    "file": "src/simulation/indoor_population.py",
+    "classes": [
+      "IndoorPopulationDistributor"
+    ],
+    "tests": 0
+  },
+  {
+    "file": "src/simulation/person.py",
+    "classes": [
+      "Person"
+    ],
+    "tests": 0
+  },
+  {
+    "file": "src/simulation/person_manager.py",
+    "classes": [
+      "PersonManager"
+    ],
+    "tests": 0
+  },
+  {
+    "file": "src/simulation/sensor_simulation.py",
+    "classes": [
+      "VirtualSensor",
+      "VirtualSensorNetwork"
+    ],
+    "tests": 0
+  },
+  {
+    "file": "src/simulation/smoke_simulation.py",
+    "classes": [
+      "SmokeSimulation",
+      "FireSmokeSimulation"
+    ],
+    "tests": 0
+  },
+  {
+    "file": "src/simulation/wind_simulation.py",
+    "classes": [
+      "Wind",
+      "WindFireSimulation",
+      "WindSmokeSimulation",
+      "WindFireSmokeSimulation"
+    ],
+    "tests": 0
+  }
+]

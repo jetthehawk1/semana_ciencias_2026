@@ -1,0 +1,18 @@
+=== INTEGRACIÓN PERSONA 1 + PERSONA 3 ===
+1. Persona creada: (0, 2)
+2. Solicitud registrada: OK
+3. Ruta A* calculada: [{'x': 0, 'y': 2}, {'x': 1, 'y': 2}, {'x': 1, 'y': 1}, {'x': 2, 'y': 1}, {'x': 3, 'y': 1}, {'x': 3, 'y': 2}, {'x': 4, 'y': 2}]
+4. Ruta aceptada por Persona 1: OK
+Turno 1: persona en (1, 2)
+Turno 2: persona en (1, 1)
+Turno 3: persona en (2, 1)
+Turno 4: persona en (3, 1)
+Turno 5: persona en (3, 2)
+Turno 6: persona en (4, 2)
+
+5. Destino alcanzado: OK
+6. Estado de ruta: en_destino
+7. Movimientos totales: 6
+8. Estado de la persona: normal
+
+INTEGRACIÓN COMPLETADA CORRECTAMENTE

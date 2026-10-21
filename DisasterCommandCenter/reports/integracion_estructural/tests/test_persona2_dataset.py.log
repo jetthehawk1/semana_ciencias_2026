@@ -1,0 +1,18 @@
+test_input_files_and_manifest_are_preserved (__main__.SensorDatasetTests.test_input_files_and_manifest_are_preserved) ... ok
+test_invalid_feature_selection_is_rejected (__main__.SensorDatasetTests.test_invalid_feature_selection_is_rejected) ... ok
+test_invalid_package_is_rejected_before_transformation (__main__.SensorDatasetTests.test_invalid_package_is_rejected_before_transformation) ... ok
+test_labels_do_not_influence_features (__main__.SensorDatasetTests.test_labels_do_not_influence_features) ... ok
+test_null_building_is_preserved_in_metadata (__main__.SensorDatasetTests.test_null_building_is_preserved_in_metadata) ... ok
+test_real_package_shapes_and_column_roles (__main__.SensorDatasetTests.test_real_package_shapes_and_column_roles) ... ok
+test_reordered_input_stays_aligned (__main__.SensorDatasetTests.test_reordered_input_stays_aligned) ... ok
+test_runtime_import_is_independent_of_simulator_and_ml_libraries (__main__.SensorDatasetTests.test_runtime_import_is_independent_of_simulator_and_ml_libraries) ... ok
+test_sensor_configuration_is_forwarded (__main__.SensorDatasetTests.test_sensor_configuration_is_forwarded) ... ok
+test_short_valid_package_is_not_padded (__main__.SensorDatasetTests.test_short_valid_package_is_not_padded) ... ok
+test_tables_cannot_be_reordered_in_place (__main__.SensorDatasetTests.test_tables_cannot_be_reordered_in_place) ... ok
+test_target_in_feature_selection_is_rejected (__main__.SensorDatasetTests.test_target_in_feature_selection_is_rejected) ... ok
+test_values_types_and_alignment (__main__.SensorDatasetTests.test_values_types_and_alignment) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 1.478s
+
+OK

@@ -1,0 +1,9 @@
+[SKIP] test_persona2_postgres.py: PostgreSQL opcional: instala requirements-persona2-db.txt.
+{
+  "scripts": 1,
+  "passed_scripts": 0,
+  "failed_scripts": 0,
+  "skipped_scripts": 1,
+  "unit_tests": 0,
+  "skipped": 1
+}

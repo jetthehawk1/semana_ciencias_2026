@@ -1,0 +1,7 @@
+=== INTEGRACION OPT-IN EN COPIA AISLADA ===
+[OK] normal: 500 personas; 48 turnos; salieron=500; dentro=0; pausa/manual y estados idénticos por turno.
+[OK] normal: reset, reactivacion y sincronizacion del indice.
+[OK] emergencia: 500 personas; 35 turnos; salieron=455; dentro=45; pausa/manual y estados idénticos por turno.
+[OK] emergencia: reset, reactivacion y sincronizacion del indice.
+[OK] Integracion aislada: equivalencia, alarmas, reinicios y 12 sensores.
+Paso 14.3.5 - prueba integrada aprobada, no instalada en proyecto principal.

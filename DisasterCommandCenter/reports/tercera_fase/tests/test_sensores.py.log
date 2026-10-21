@@ -1,0 +1,6 @@
+Mapa: 160 x 100; 12 sensores colocados y validados.
+Muestreo de 36 turnos: 432 lecturas sin duplicados, alarma y humo: correctos.
+Reproducibilidad de semillas y sincronización de humo/fuego: correctas.
+Exportación CSV/JSONL/manifiesto y rechazo de configuraciones inválidas: correctos.
+No se alteraron los módulos de fuego, humo, personas ni evacuación.
+Paso 13 completado correctamente (contrato propuesto para Persona 2).

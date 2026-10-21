@@ -1,0 +1,970 @@
+{
+  "turns": 160,
+  "initialization_seconds": 0.9133564000076149,
+  "elapsed_seconds": 149.61100659999647,
+  "seconds_per_turn": 0.9293603137499303,
+  "metrics": {
+    "safe_meeting_arrivals": 621,
+    "people_ever_reached_meeting": 621,
+    "mean_turns_to_first_meeting": 84.27536231884058,
+    "median_turns_to_first_meeting": 82,
+    "worst_turns_to_first_meeting": 160,
+    "people_exposed_smoke": 28,
+    "accumulated_smoke_dose": 14.23821035886616,
+    "people_close_to_fire": 22,
+    "fire_contacts": 11,
+    "incapacitated": 14,
+    "routes_recalculated": 3807,
+    "preventive_reassignments": 354,
+    "maximum_congestion": 18,
+    "distance_traveled": 165157,
+    "people_in_cells_that_later_became_hazardous": 51,
+    "unsafe_waiting_person_turns": 326,
+    "destination_became_unsafe_before_arrival": 0,
+    "confirmed_forecast_departures": 31,
+    "candidate_hazard_departures": 382,
+    "pending_candidate_departures": 350,
+    "expired_candidate_departures": 0,
+    "rejected_current_danger_departures": 1,
+    "temporary_goals": 38,
+    "temporal_routes_rejected": 146,
+    "unassigned": 128,
+    "state_counts": {
+      "WAITING_SAFE": 354,
+      "WAITING_UNSAFE": 0,
+      "EVACUATING": 886,
+      "REASSIGNING": 4,
+      "AT_MEETING_AREA": 621,
+      "INCAPACITATED": 14
+    }
+  },
+  "summary": {
+    "fase": "en_curso",
+    "inicial": 1879,
+    "dentro": 96,
+    "salieron": 1783,
+    "turnos": 160,
+    "esperando": 224,
+    "movimientos": 165157,
+    "por_edificio": {
+      "E1": {
+        "inicial": 36,
+        "dentro": 0,
+        "salieron": 36
+      },
+      "E10": {
+        "inicial": 32,
+        "dentro": 0,
+        "salieron": 32
+      },
+      "E11": {
+        "inicial": 30,
+        "dentro": 0,
+        "salieron": 30
+      },
+      "E12": {
+        "inicial": 31,
+        "dentro": 0,
+        "salieron": 31
+      },
+      "E13": {
+        "inicial": 34,
+        "dentro": 0,
+        "salieron": 34
+      },
+      "E14": {
+        "inicial": 38,
+        "dentro": 0,
+        "salieron": 38
+      },
+      "E15": {
+        "inicial": 33,
+        "dentro": 0,
+        "salieron": 33
+      },
+      "E16": {
+        "inicial": 34,
+        "dentro": 0,
+        "salieron": 34
+      },
+      "E17": {
+        "inicial": 33,
+        "dentro": 0,
+        "salieron": 33
+      },
+      "E18": {
+        "inicial": 34,
+        "dentro": 0,
+        "salieron": 34
+      },
+      "E19": {
+        "inicial": 34,
+        "dentro": 0,
+        "salieron": 34
+      },
+      "E2": {
+        "inicial": 31,
+        "dentro": 0,
+        "salieron": 31
+      },
+      "E20": {
+        "inicial": 34,
+        "dentro": 0,
+        "salieron": 34
+      },
+      "E21": {
+        "inicial": 32,
+        "dentro": 0,
+        "salieron": 32
+      },
+      "E22": {
+        "inicial": 34,
+        "dentro": 0,
+        "salieron": 34
+      },
+      "E23": {
+        "inicial": 31,
+        "dentro": 0,
+        "salieron": 31
+      },
+      "E24": {
+        "inicial": 32,
+        "dentro": 0,
+        "salieron": 32
+      },
+      "E25": {
+        "inicial": 45,
+        "dentro": 0,
+        "salieron": 45
+      },
+      "E26": {
+        "inicial": 36,
+        "dentro": 0,
+        "salieron": 36
+      },
+      "E27": {
+        "inicial": 31,
+        "dentro": 0,
+        "salieron": 31
+      },
+      "E28": {
+        "inicial": 39,
+        "dentro": 11,
+        "salieron": 28
+      },
+      "E29": {
+        "inicial": 40,
+        "dentro": 0,
+        "salieron": 40
+      },
+      "E29-A": {
+        "inicial": 31,
+        "dentro": 0,
+        "salieron": 31
+      },
+      "E29-B": {
+        "inicial": 30,
+        "dentro": 0,
+        "salieron": 30
+      },
+      "E3": {
+        "inicial": 37,
+        "dentro": 14,
+        "salieron": 23
+      },
+      "E30": {
+        "inicial": 30,
+        "dentro": 0,
+        "salieron": 30
+      },
+      "E31": {
+        "inicial": 39,
+        "dentro": 9,
+        "salieron": 30
+      },
+      "E32": {
+        "inicial": 42,
+        "dentro": 7,
+        "salieron": 35
+      },
+      "E33": {
+        "inicial": 39,
+        "dentro": 0,
+        "salieron": 39
+      },
+      "E34": {
+        "inicial": 34,
+        "dentro": 0,
+        "salieron": 34
+      },
+      "E35": {
+        "inicial": 33,
+        "dentro": 0,
+        "salieron": 33
+      },
+      "E36": {
+        "inicial": 33,
+        "dentro": 0,
+        "salieron": 33
+      },
+      "E37": {
+        "inicial": 33,
+        "dentro": 0,
+        "salieron": 33
+      },
+      "E38": {
+        "inicial": 32,
+        "dentro": 0,
+        "salieron": 32
+      },
+      "E39": {
+        "inicial": 32,
+        "dentro": 0,
+        "salieron": 32
+      },
+      "E4": {
+        "inicial": 35,
+        "dentro": 0,
+        "salieron": 35
+      },
+      "E40": {
+        "inicial": 41,
+        "dentro": 0,
+        "salieron": 41
+      },
+      "E41": {
+        "inicial": 32,
+        "dentro": 0,
+        "salieron": 32
+      },
+      "E45": {
+        "inicial": 33,
+        "dentro": 0,
+        "salieron": 33
+      },
+      "E49": {
+        "inicial": 31,
+        "dentro": 0,
+        "salieron": 31
+      },
+      "E5": {
+        "inicial": 34,
+        "dentro": 14,
+        "salieron": 20
+      },
+      "E51": {
+        "inicial": 33,
+        "dentro": 25,
+        "salieron": 8
+      },
+      "E53": {
+        "inicial": 31,
+        "dentro": 0,
+        "salieron": 31
+      },
+      "E55": {
+        "inicial": 34,
+        "dentro": 0,
+        "salieron": 34
+      },
+      "E56": {
+        "inicial": 50,
+        "dentro": 0,
+        "salieron": 50
+      },
+      "E57": {
+        "inicial": 33,
+        "dentro": 16,
+        "salieron": 17
+      },
+      "E58": {
+        "inicial": 35,
+        "dentro": 0,
+        "salieron": 35
+      },
+      "E59": {
+        "inicial": 31,
+        "dentro": 0,
+        "salieron": 31
+      },
+      "E6": {
+        "inicial": 34,
+        "dentro": 0,
+        "salieron": 34
+      },
+      "E60 - norte": {
+        "inicial": 31,
+        "dentro": 0,
+        "salieron": 31
+      },
+      "E60 - sureste": {
+        "inicial": 31,
+        "dentro": 0,
+        "salieron": 31
+      },
+      "E61": {
+        "inicial": 30,
+        "dentro": 0,
+        "salieron": 30
+      },
+      "E7": {
+        "inicial": 32,
+        "dentro": 0,
+        "salieron": 32
+      },
+      "E8": {
+        "inicial": 33,
+        "dentro": 0,
+        "salieron": 33
+      },
+      "E9": {
+        "inicial": 36,
+        "dentro": 0,
+        "salieron": 36
+      }
+    },
+    "fuego": {
+      "turn": 160,
+      "burning": 328,
+      "burned": 1235,
+      "total_ignitions": 1563,
+      "secondary_foci": 22
+    },
+    "humo": {
+      "turn": 160,
+      "smoky_cells": 3677,
+      "max_concentration": 1.0,
+      "total_concentration": 1941.0116
+    },
+    "riesgo": {
+      "normal": 1865,
+      "alerta": 0,
+      "ralentizada": 0,
+      "incapacitada": 14
+    },
+    "viento": {
+      "direccion": "W",
+      "intensidad": 0.551651126889656
+    },
+    "meeting": {
+      "gathered": 621,
+      "unassigned": 128,
+      "reassignments": 313,
+      "routes_calculated": 5578,
+      "replanned_routes": 3807,
+      "preventive_reassignments": 354,
+      "predictive_route_invalidations": 0,
+      "destination_changes": 604,
+      "unassigned_reasons": {
+        "retry_cooldown": 30,
+        "no_safe_reachable_destination": 5,
+        "budget_exhausted": 93
+      },
+      "temporary_goals": 4,
+      "route_budget": 40,
+      "astar_searches": 31,
+      "maximum_astar_searches": 40,
+      "temporal_invalidations": 41,
+      "areas": {
+        "R1": {
+          "available": true,
+          "smoke": 0.0,
+          "state": "SAFE",
+          "risk_score": 0.0,
+          "predicted_smoke": 0.0,
+          "fire_distance": 33,
+          "fire_proximity": 0.0,
+          "current_smoke": 0.0,
+          "estimated_hazard_arrival_turn": null,
+          "capacity": 1149,
+          "reserved": 71
+        },
+        "R2": {
+          "available": true,
+          "smoke": 0.009974109478508355,
+          "state": "SAFE",
+          "risk_score": 0.03324703159502785,
+          "predicted_smoke": 0.0,
+          "fire_distance": 21,
+          "fire_proximity": 0.0,
+          "current_smoke": 0.009974109478508355,
+          "estimated_hazard_arrival_turn": 199.33873748779297,
+          "capacity": 2157,
+          "reserved": 54
+        },
+        "R3": {
+          "available": true,
+          "smoke": 0.0,
+          "state": "SAFE",
+          "risk_score": 0.0,
+          "predicted_smoke": 0.0,
+          "fire_distance": 149,
+          "fire_proximity": 0.0,
+          "current_smoke": 0.0,
+          "estimated_hazard_arrival_turn": null,
+          "capacity": 2154,
+          "reserved": 208
+        },
+        "R4": {
+          "available": true,
+          "smoke": 0.0,
+          "state": "SAFE",
+          "risk_score": 0.0,
+          "predicted_smoke": 0.0,
+          "fire_distance": 173,
+          "fire_proximity": 0.0,
+          "current_smoke": 0.0,
+          "estimated_hazard_arrival_turn": null,
+          "capacity": 1725,
+          "reserved": 391
+        },
+        "R5": {
+          "available": true,
+          "smoke": 0.0,
+          "state": "SAFE",
+          "risk_score": 0.0,
+          "predicted_smoke": 0.0,
+          "fire_distance": 191,
+          "fire_proximity": 0.0,
+          "current_smoke": 0.0,
+          "estimated_hazard_arrival_turn": null,
+          "capacity": 972,
+          "reserved": 362
+        },
+        "R6": {
+          "available": true,
+          "smoke": 0.0,
+          "state": "SAFE",
+          "risk_score": 0.0,
+          "predicted_smoke": 0.0,
+          "fire_distance": 269,
+          "fire_proximity": 0.0,
+          "current_smoke": 0.0,
+          "estimated_hazard_arrival_turn": null,
+          "capacity": 1440,
+          "reserved": 234
+        },
+        "R7": {
+          "available": true,
+          "smoke": 0.0,
+          "state": "SAFE",
+          "risk_score": 0.0,
+          "predicted_smoke": 0.0,
+          "fire_distance": 34,
+          "fire_proximity": 0.0,
+          "current_smoke": 0.0,
+          "estimated_hazard_arrival_turn": null,
+          "capacity": 1869,
+          "reserved": 144
+        },
+        "R8": {
+          "available": true,
+          "smoke": 0.0,
+          "state": "SAFE",
+          "risk_score": 0.0,
+          "predicted_smoke": 0.0,
+          "fire_distance": 181,
+          "fire_proximity": 0.0,
+          "current_smoke": 0.0,
+          "estimated_hazard_arrival_turn": null,
+          "capacity": 1620,
+          "reserved": 187
+        }
+      }
+    },
+    "building_risk": {
+      "E20": "low",
+      "E10": "low",
+      "E19": "low",
+      "E16": "low",
+      "E15": "low",
+      "E60 - norte": "low",
+      "E8": "low",
+      "E6": "critical",
+      "E4": "low",
+      "E57": "low",
+      "E3": "low",
+      "E1": "low",
+      "E11": "low",
+      "E2": "low",
+      "E5": "high",
+      "E59": "low",
+      "E9": "low",
+      "E41": "low",
+      "E14": "low",
+      "E18": "low",
+      "E17": "low",
+      "E21": "low",
+      "E13": "low",
+      "E12": "low",
+      "E7": "critical",
+      "E53": "low",
+      "E23": "low",
+      "E22": "low",
+      "E32": "low",
+      "E29": "low",
+      "E29-B": "low",
+      "E24": "low",
+      "E29-A": "low",
+      "E37": "low",
+      "E40": "low",
+      "E28": "low",
+      "E30": "low",
+      "E58": "low",
+      "E33": "low",
+      "E61": "low",
+      "E31": "low",
+      "E25": "low",
+      "E34": "low",
+      "E55": "low",
+      "E26": "low",
+      "E27": "low",
+      "E36": "low",
+      "E51": "low",
+      "E49": "low",
+      "E56": "low",
+      "E45": "low",
+      "E35": "low",
+      "E38": "low",
+      "E39": "low",
+      "E60 - sureste": "low"
+    },
+    "exits": {
+      "blocked_exits": 1,
+      "alternative_exits_used": 246,
+      "alternative_exits_under_blockage": 0,
+      "distance_rebuilds": 416,
+      "crossings": {
+        "secondary-E1-S": 24,
+        "E10-A1": 32,
+        "E11-A1": 30,
+        "functional-E4-S": 25,
+        "secondary-E4-W": 10,
+        "E41-A1": 32,
+        "E49-A1": 31,
+        "E51-A1": 8,
+        "functional-E57-S": 17,
+        "E59-A1": 31,
+        "E61-A1": 30,
+        "functional-E7-N": 32,
+        "functional-E18-E": 34,
+        "E27-A1": 31,
+        "E29-A-A1": 31,
+        "E30-A1": 30,
+        "secondary-E32-S": 19,
+        "E12-A1": 31,
+        "E37-A1": 33,
+        "E39-A1": 32,
+        "E13-A1": 34,
+        "E45-A1": 33,
+        "functional-E14-E": 19,
+        "functional-E6-S": 34,
+        "functional-E60 - sureste-S": 31,
+        "functional-E8-S": 33,
+        "secondary-E9-W": 10,
+        "E15-A1": 33,
+        "E16-A1": 34,
+        "E2-A1": 31,
+        "E20-A1": 34,
+        "E22-A1": 34,
+        "E24-A1": 32,
+        "E29-B-A1": 30,
+        "E3-A1": 15,
+        "functional-E31-N": 22,
+        "E1-A1": 12,
+        "E34-A1": 34,
+        "E35-A1": 33,
+        "E38-A1": 32,
+        "E53-A1": 31,
+        "E58-A1": 35,
+        "functional-E60 - norte-S": 31,
+        "functional-E28-W": 10,
+        "secondary-E33-N": 14,
+        "E36-A1": 33,
+        "E40-A1": 21,
+        "functional-E55-S": 34,
+        "E56-A1": 24,
+        "functional-E19-S": 34,
+        "E21-A1": 32,
+        "E23-A1": 31,
+        "secondary-E25-N": 12,
+        "secondary-E3-S": 8,
+        "secondary-E32-E": 7,
+        "E5-A1": 20,
+        "secondary-E56-E": 16,
+        "secondary-E26-E": 7,
+        "secondary-E28-E": 18,
+        "functional-E32-W": 9,
+        "E33-A1": 11,
+        "E9-A1": 26,
+        "E17-A1": 33,
+        "secondary-E25-E": 11,
+        "E25-A1": 22,
+        "secondary-E29-N": 12,
+        "E29-A1": 13,
+        "functional-E31-S": 8,
+        "secondary-E33-S": 14,
+        "secondary-E14-W": 19,
+        "secondary-E40-S": 14,
+        "E26-A1": 29,
+        "secondary-E29-S": 15,
+        "secondary-E56-N": 10,
+        "secondary-E40-N": 6
+      }
+    },
+    "wind_prediction": {
+      "turn": 161,
+      "u": -0.538549559916474,
+      "v": -0.004823174022381938,
+      "direction": "W",
+      "speed": 0.5385711573170977,
+      "method": "ridge",
+      "fallback_reason": null,
+      "data_source": "synthetic_simulation"
+    },
+    "evacuation_mode": "intelligent",
+    "evacuation_states": {
+      "EVACUATING": 886,
+      "WAITING_SAFE": 354,
+      "AT_MEETING_AREA": 621,
+      "INCAPACITATED": 14,
+      "REASSIGNING": 4
+    },
+    "unsafe_waiting_person_turns": 326,
+    "confirmed_forecast_departures": 31,
+    "wind_telemetry_records": 322
+  },
+  "physics_digest": "f2798b377cd2f1fca1ac73576a0224bdf1b3a40d40e475538fce2439e365a200",
+  "fire_contact_traces": [
+    {
+      "turn": 25,
+      "person_id": "P1405",
+      "position": [
+        321,
+        43
+      ],
+      "building": "E5",
+      "route": null,
+      "diagnostic": {
+        "hazard_eta": 0.0,
+        "evacuation_eta": 57.0,
+        "safety_margin": -57.0,
+        "unsafe_wait": true,
+        "waiting_age": 0,
+        "state": "EVACUATING"
+      },
+      "fire_eta": 0.0,
+      "category": "fire_reached_occupied_cell_before_movement",
+      "final_position": [
+        321,
+        43
+      ],
+      "exposure": {
+        "dose": 0.1265774091549759,
+        "level": "incapacitada",
+        "fire_contact": true,
+        "peak_smoke": 0.06957524053516957
+      }
+    },
+    {
+      "turn": 27,
+      "person_id": "P1394",
+      "position": [
+        321,
+        44
+      ],
+      "building": "E5",
+      "route": null,
+      "diagnostic": {
+        "hazard_eta": 0.0,
+        "evacuation_eta": Infinity,
+        "safety_margin": -Infinity,
+        "unsafe_wait": true,
+        "waiting_age": 1,
+        "state": "WAITING_UNSAFE"
+      },
+      "fire_eta": 0.0,
+      "category": "fire_reached_occupied_cell_before_movement",
+      "final_position": [
+        321,
+        44
+      ],
+      "exposure": {
+        "dose": 0.06759079598910814,
+        "level": "incapacitada",
+        "fire_contact": true,
+        "peak_smoke": 0.0452827630326027
+      }
+    },
+    {
+      "turn": 49,
+      "person_id": "P1376",
+      "position": [
+        332,
+        42
+      ],
+      "building": "E5",
+      "route": null,
+      "diagnostic": {
+        "hazard_eta": 11.80932331085205,
+        "evacuation_eta": 42.0,
+        "safety_margin": -30.19067668914795,
+        "unsafe_wait": true,
+        "waiting_age": 0,
+        "state": "EVACUATING"
+      },
+      "fire_eta": 0.0,
+      "category": "fire_reached_occupied_cell_before_movement",
+      "final_position": [
+        332,
+        42
+      ],
+      "exposure": {
+        "dose": 0.17582647168072163,
+        "level": "incapacitada",
+        "fire_contact": true,
+        "peak_smoke": 0.15674411864797666
+      }
+    },
+    {
+      "turn": 51,
+      "person_id": "P1397",
+      "position": [
+        332,
+        41
+      ],
+      "building": "E5",
+      "route": null,
+      "diagnostic": {
+        "hazard_eta": 0.0,
+        "evacuation_eta": Infinity,
+        "safety_margin": -Infinity,
+        "unsafe_wait": true,
+        "waiting_age": 1,
+        "state": "WAITING_UNSAFE"
+      },
+      "fire_eta": 0.0,
+      "category": "fire_reached_occupied_cell_before_movement",
+      "final_position": [
+        332,
+        41
+      ],
+      "exposure": {
+        "dose": 0.11141521055443605,
+        "level": "incapacitada",
+        "fire_contact": true,
+        "peak_smoke": 0.07212129175879177
+      }
+    },
+    {
+      "turn": 57,
+      "person_id": "P1382",
+      "position": [
+        332,
+        40
+      ],
+      "building": "E5",
+      "route": null,
+      "diagnostic": {
+        "hazard_eta": 0.0,
+        "evacuation_eta": Infinity,
+        "safety_margin": -Infinity,
+        "unsafe_wait": true,
+        "waiting_age": 7,
+        "state": "WAITING_UNSAFE"
+      },
+      "fire_eta": 0.0,
+      "category": "fire_reached_occupied_cell_before_movement",
+      "final_position": [
+        332,
+        40
+      ],
+      "exposure": {
+        "dose": 0.32277719364014723,
+        "level": "incapacitada",
+        "fire_contact": true,
+        "peak_smoke": 0.07613839661643215
+      }
+    },
+    {
+      "turn": 58,
+      "person_id": "P1400",
+      "position": [
+        332,
+        39
+      ],
+      "building": "E5",
+      "route": null,
+      "diagnostic": {
+        "hazard_eta": 0.0,
+        "evacuation_eta": Infinity,
+        "safety_margin": -Infinity,
+        "unsafe_wait": true,
+        "waiting_age": 8,
+        "state": "WAITING_UNSAFE"
+      },
+      "fire_eta": 0.0,
+      "category": "fire_reached_occupied_cell_before_movement",
+      "final_position": [
+        332,
+        39
+      ],
+      "exposure": {
+        "dose": 0.021254195496340562,
+        "level": "incapacitada",
+        "fire_contact": true,
+        "peak_smoke": 0.005682814898219283
+      }
+    },
+    {
+      "turn": 73,
+      "person_id": "P1381",
+      "position": [
+        331,
+        38
+      ],
+      "building": "E5",
+      "route": null,
+      "diagnostic": {
+        "hazard_eta": 0.0,
+        "evacuation_eta": Infinity,
+        "safety_margin": -Infinity,
+        "unsafe_wait": true,
+        "waiting_age": 23,
+        "state": "WAITING_UNSAFE"
+      },
+      "fire_eta": 0.0,
+      "category": "fire_reached_occupied_cell_before_movement",
+      "final_position": [
+        331,
+        38
+      ],
+      "exposure": {
+        "dose": 0.6195859649534662,
+        "level": "incapacitada",
+        "fire_contact": true,
+        "peak_smoke": 0.06290826346215946
+      }
+    },
+    {
+      "turn": 92,
+      "person_id": "P1388",
+      "position": [
+        332,
+        37
+      ],
+      "building": "E5",
+      "route": null,
+      "diagnostic": {
+        "hazard_eta": 0.0,
+        "evacuation_eta": Infinity,
+        "safety_margin": -Infinity,
+        "unsafe_wait": true,
+        "waiting_age": 42,
+        "state": "WAITING_UNSAFE"
+      },
+      "fire_eta": 0.0,
+      "category": "fire_reached_occupied_cell_before_movement",
+      "final_position": [
+        332,
+        37
+      ],
+      "exposure": {
+        "dose": 0.8063232827471933,
+        "level": "incapacitada",
+        "fire_contact": true,
+        "peak_smoke": 0.07010800619784748
+      }
+    },
+    {
+      "turn": 92,
+      "person_id": "P1393",
+      "position": [
+        332,
+        35
+      ],
+      "building": "E5",
+      "route": null,
+      "diagnostic": {
+        "hazard_eta": 0.0,
+        "evacuation_eta": Infinity,
+        "safety_margin": -Infinity,
+        "unsafe_wait": true,
+        "waiting_age": 42,
+        "state": "WAITING_UNSAFE"
+      },
+      "fire_eta": 0.0,
+      "category": "fire_reached_occupied_cell_before_movement",
+      "final_position": [
+        332,
+        35
+      ],
+      "exposure": {
+        "dose": 0.09330652879950435,
+        "level": "incapacitada",
+        "fire_contact": true,
+        "peak_smoke": 0.028584437542127656
+      }
+    },
+    {
+      "turn": 96,
+      "person_id": "P1373",
+      "position": [
+        332,
+        38
+      ],
+      "building": "E5",
+      "route": null,
+      "diagnostic": {
+        "hazard_eta": 0.0,
+        "evacuation_eta": Infinity,
+        "safety_margin": -Infinity,
+        "unsafe_wait": true,
+        "waiting_age": 46,
+        "state": "WAITING_UNSAFE"
+      },
+      "fire_eta": 0.0,
+      "category": "fire_reached_occupied_cell_before_movement",
+      "final_position": [
+        332,
+        38
+      ],
+      "exposure": {
+        "dose": 2.268151604670466,
+        "level": "incapacitada",
+        "fire_contact": true,
+        "peak_smoke": 0.09842083188651125
+      }
+    },
+    {
+      "turn": 99,
+      "person_id": "P1385",
+      "position": [
+        332,
+        33
+      ],
+      "building": "E5",
+      "route": null,
+      "diagnostic": {
+        "hazard_eta": 0.0,
+        "evacuation_eta": Infinity,
+        "safety_margin": -Infinity,
+        "unsafe_wait": true,
+        "waiting_age": 49,
+        "state": "WAITING_UNSAFE"
+      },
+      "fire_eta": 0.0,
+      "category": "fire_reached_occupied_cell_before_movement",
+      "final_position": [
+        332,
+        33
+      ],
+      "exposure": {
+        "dose": 0.22364412886907198,
+        "level": "incapacitada",
+        "fire_contact": true,
+        "peak_smoke": 0.06838002806939338
+      }
+    }
+  ]
+}

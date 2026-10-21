@@ -1,0 +1,20 @@
+test_conflicting_run_is_rejected_without_changes (__main__.PostgresRepositoryTests.test_conflicting_run_is_rejected_without_changes) ... ok
+test_identifiers_are_bound_parameters (__main__.PostgresRepositoryTests.test_identifiers_are_bound_parameters) ... ok
+test_import_roundtrip_and_alarm_events (__main__.PostgresRepositoryTests.test_import_roundtrip_and_alarm_events) ... ok
+test_initialize_is_repeatable (__main__.PostgresRepositoryTests.test_initialize_is_repeatable) ... ok
+test_invalid_package_or_sampling_writes_nothing (__main__.PostgresRepositoryTests.test_invalid_package_or_sampling_writes_nothing) ... ok
+test_invalid_prediction_batch_does_not_write (__main__.PostgresRepositoryTests.test_invalid_prediction_batch_does_not_write) ... ok
+test_model_metadata_conflict_is_rejected (__main__.PostgresRepositoryTests.test_model_metadata_conflict_is_rejected) ... ok
+test_prediction_foreign_keys_rollback_the_whole_batch (__main__.PostgresRepositoryTests.test_prediction_foreign_keys_rollback_the_whole_batch) ... ok
+test_prediction_idempotency_and_atomic_conflict (__main__.PostgresRepositoryTests.test_prediction_idempotency_and_atomic_conflict) ... ok
+test_repeated_import_is_idempotent (__main__.PostgresRepositoryTests.test_repeated_import_is_idempotent) ... ok
+test_reports_are_persisted_idempotently (__main__.PostgresRepositoryTests.test_reports_are_persisted_idempotently) ... ok
+test_sampling_policy_cannot_silently_change (__main__.PostgresRepositoryTests.test_sampling_policy_cannot_silently_change) ... ok
+test_sampling_retains_alarms_and_boundaries (__main__.PostgresRepositoryTests.test_sampling_retains_alarms_and_boundaries) ... ok
+test_missing_configuration_is_explicit (__main__.RepositoryConfigurationTests.test_missing_configuration_is_explicit) ... ok
+test_schema_name_cannot_be_sql (__main__.RepositoryConfigurationTests.test_schema_name_cannot_be_sql) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 19.132s
+
+OK

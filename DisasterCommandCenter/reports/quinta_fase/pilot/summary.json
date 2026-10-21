@@ -1,0 +1,5679 @@
+{
+  "data_source": "synthetic_simulation",
+  "source_hash": "dedfc49ffcd9685e800e497d1ad44d40221c83e5be79e8f4f0543d7a6a946400",
+  "scenarios": [
+    {
+      "scenario_id": "S01",
+      "building": "E30",
+      "seed": 2026,
+      "ignition": [
+        235,
+        166
+      ],
+      "wind_inputs": [
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ],
+        [
+          "E",
+          0.5
+        ]
+      ],
+      "turns": 120,
+      "traditional": {
+        "metrics": {
+          "safe_meeting_arrivals": 207,
+          "people_ever_reached_meeting": 207,
+          "mean_turns_to_first_meeting": 51.38647342995169,
+          "median_turns_to_first_meeting": 51,
+          "worst_turns_to_first_meeting": 120,
+          "people_exposed_smoke": 74,
+          "accumulated_smoke_dose": 130.84731226980628,
+          "people_close_to_fire": 44,
+          "fire_contacts": 0,
+          "incapacitated": 39,
+          "routes_recalculated": 70,
+          "preventive_reassignments": 0,
+          "maximum_congestion": 19,
+          "distance_traveled": 113409,
+          "people_in_cells_that_later_became_hazardous": 86,
+          "unsafe_waiting_person_turns": 1892,
+          "destination_became_unsafe_before_arrival": 285,
+          "confirmed_forecast_departures": 0,
+          "unconfirmed_forecast_departures": 0,
+          "temporary_goals": 0,
+          "temporal_routes_rejected": 0,
+          "unassigned": 36,
+          "state_counts": {
+            "WAITING_SAFE": 1182,
+            "WAITING_UNSAFE": 24,
+            "EVACUATING": 432,
+            "REASSIGNING": 0,
+            "AT_MEETING_AREA": 202,
+            "INCAPACITATED": 39
+          }
+        },
+        "elapsed_seconds": 45.844693999999436,
+        "initialization_seconds": 1.0629178000090178,
+        "seconds_per_turn": 0.3731814683332535,
+        "physical_trajectory": [
+          "eb73da357c2d7dd76c1af26f16ef8476b2361b8bfcf0c0c749173a1a811480e1",
+          "0bad0b2784336aadc02d50d06f6c45ef3406cb220bcf7dda1e1cf241b27c8965",
+          "d69ca05f519aa786871fdf72251f31395fd093fc95c6e8d0f0be351e14335ced",
+          "5fdace133ffc3ccb518d1ddee4260a2095bf6a832064bb01cd786fac26860dd5",
+          "5065c12f7b2d99fa6aedc5ba8359c27798376ecb2602328c08677330fc11b110",
+          "d297b1ddc858df6e50f863127dfde31739da5024726b1de6f0b2d97e3193fc11",
+          "85b7a408212b635c1a5268a013a9d361559bc6a1e2975e480eca619e442a23ca",
+          "bc56f38a4c909361eb2f17b4e5ea9550ca5edaf267a10c6c1dc3869ca9304927",
+          "b49b3a0a7f316370c60ad269f34dc43494ff79e1871d88c14efe80c9d6ea32aa",
+          "8cf211f10c10a32e8fe3e7ddf19d01e232386ea1b9949935703849fc17000856",
+          "e2e62458c2144107de5268c6ff195a7b284705de7bdab79845a76e6fbb822b4a",
+          "b316aa7a59354035ed40c6d4108933cff479ca563be5f0f49d5aae0f9dcf478e",
+          "3affef617407329dfc7e5794a02ccca13f33b288dd26bb731e8caf393b2cbf22",
+          "74b313b93a658671248bbf0e1a5b5ad888d03172ae43b56d34e6d614ddd87352",
+          "5781914457692c1a21ef92298cb0aa9f8c37605834daea11d3b97bc91c35b59f",
+          "7a935e3b940402c3191f5403104dfa49f5520f363df10a815ac52feabfadb419",
+          "728e508069ac4e502952488a408a597183a95563529e45251224cbf550353144",
+          "e482a4606db7f9f75d887fe79cd2a021bfec3dece2fbb2a88f40cbef9bd79377",
+          "d05825817ca619945e3b236957730d6e5607af4f4a4d2da4684e32838f42643a",
+          "c12ec8e44394a6f0bef803ee9fe488a16520b408f44b485f05a1ef341b90f639",
+          "f4c9760fc2b467b82476e3d09a151ff8f1d10bee6a7b16e3faa4070728c368ab",
+          "cec55c7403ae1131dbf868a3c785de064b5bd299276e49b96829a87ba99a88b6",
+          "4ce0db6b655328b07d765300a167a2a3d261245322fc021364ce96c2afc59060",
+          "08b262f54ef37fb2b18a1181804cbc890b7bcf5d0bd0285ffb3ed2b66c29b37c",
+          "8ddd1494707fab9a3a8689fd53e35ee3772e2a25151d2419cf29a4eb4d14fb73",
+          "882ed63877bf8467b00243881dd1a7879c6665532e1e6a1840abecdd0ab36991",
+          "957f7044f14d50fb3ee6b5742a10fd267ee6759b4e7e7505dd981b5f3aa98217",
+          "90af3d0ed961deaac2b4a1f4a8988124f2aeb7f35f043d1e15f93baa08141e4a",
+          "565199f515f959be986566f69298e6614c8bfb68acab9218c275a97ab02c9da3",
+          "e6370c5f6d02862bc39389bf75c1a4522e207d5c93d4ac9af13d12b387f12edd",
+          "4ab42a75eee52b0211628cf6baf6331497a696be97044a881cbb79dc3ea9d19e",
+          "c2ff95e2e2193f5a8feb9e3dd4e5822075d8f86568be95023e70d58fb56ebeda",
+          "4b5147470425208f447140f493807cf8b468e72a2c15ee88c8a6d1284d649525",
+          "8d8a0732e41259b95a19e9a2e32e76ea63e031b4dea31f28982a21ee2bd41d87",
+          "2ac3f563ec9832054f910bd85ce3ce22d59c8a9836f8d4ee0c3b51db2a795c8e",
+          "cfcbc6b1325c109d07c546dc0518afb584b091ce5a68ccf45e31f4fe716375a8",
+          "ceefa366336bfcce8ffc988db8b9e3f97d4393ce619b46e634f873885531359d",
+          "88e17f2999e8ca00a9c5840f3d7dc80991dcc6868ef817d250cad8c4318cf1cf",
+          "106aa1874537ed8ccbda51665d8234e5da9ae745904e9b3a0d59b4f2ad4aad21",
+          "d0ff07e2a0da1f187dbce5936d7952ed1decfb8e9700b7a65c10b715eb58a4bc",
+          "e909ea57a7a3cc153467449422aee84079530d2d5aa087fe86d0828c2539cce7",
+          "f5a4bade3a75c9ce0487d5f4bfb5e41c903bac6835bd0de000a4d3ba55061a29",
+          "46444c42c4a8f97a851052212476d6f23cec03c7b53b3c22520534fd379f6d0a",
+          "21d2f26d489ae6641663fb89108f14732dae21c869a72febfd0fca91381d88f1",
+          "f907c20f3735913494a1fba1295e313ad7376b3c1cea5ffe6c41a02fe7c88663",
+          "9e0e9e761806e301727fdbe0b3b98899e22ddf9af47a91f1246cd56ae900774e",
+          "1609195ea534b72cfa9ba17e302940126e78c866110823de055247e886ce79d1",
+          "8b1d68cf75438ab1d337bdca13acc9cdd3a777784eb4fd7ad6eecc6bcd1f92e2",
+          "49ac7f2351a0baa58f8d6021fd1685e6f59a3eab637a521eac76605f95f086f7",
+          "23114a46664e1c31fa6631d26b7db37b5dda4bc5dddbdaf8ab209cb393460c37",
+          "0681e216f448402740256bc86609d49b01545ccbcdacf4538a332bff83725bf3",
+          "173ae6264a2f059e946a9b5a64239f3b5c904e3851e485d937e5b72fde3e5743",
+          "c55061ca86e87453525d32dc0231080a0ab7f6339e4a2e28773493e692b09aa6",
+          "6648866401dd339a5c6f38d4ef1324c06ec6a152cbea3553df87d5cf92771938",
+          "b326e50df4741abadeaadd03815ef55fa3e209a823acec5fc70efb09b242e40b",
+          "058b7ac662d8d8d87bb057bc3dfe12ee6ca9555c88f4b9e94e917a3b98984ebb",
+          "4d7125e2c7548d529b0c8278e409780df80c288cb40032ce53e891f847e277da",
+          "3c58f4c8af26786fb7d780d34ef5fe3635fe1e8b1baa04f4b3e124e0d5f9b912",
+          "5fe7a59a6202bea7fed84acd98684d21b502f2c3ffa99c69340db0e6b1f2c810",
+          "25832276caaefcf2cc20a1823b911dd24520dd271fee9ad2819e14fc2cc7b8e5",
+          "85c9e3e675342a774e66fd4de7f8e451d3e04d56ef1fe410329247515df4c3c1",
+          "2866d5c874a8e77a71df2afc73a093350fb5d2375ef6cf5859e5b6a2d16b3db8",
+          "4ad9dc3af162b486ec343d969e9e220d7bf3cae6fa164347155f9f07e17ba68f",
+          "96f6237d602af7d6744136c4a67c395071b3cd9b5bdde006ff60ef6e883c2902",
+          "221385d5a814d7eaa999c43f55dc70e1a55349d913e7497a77155abb24864955",
+          "1fcff12e1dafc17ef57e6002c4630156ea3e05e1044b60a1c609e1a1b9fe01fb",
+          "583c50a16c439ad9dd8489c112ac0c8b2f493624e16fad733c4d8c31c7702eed",
+          "24aab5158edc732ffdad8ef372fe964a01ccbbe45310d7cd5ee1a9a13da7894a",
+          "a8abe90796925dd9af8d1ebc3b804f39469d5a7bd0c54a5cb750524f4eb7d74a",
+          "01184a02d277fedb0bbfa630fe37c299920a7032b454d390a91bb3144d626ae9",
+          "58e5a46bd3335641ddbdbf3666d5839bb4d1b51fc493ae005e16f07b97d81b2a",
+          "430284991b06f3c5c8cae4debe60ccf7f3c0b1d1849437227c16e0d550087887",
+          "2bdd2179e1653037959b1fb0fa2f6e70af6d2fce5a05dd03b282085d1d9b5e3d",
+          "5775c301d0a4789f3eeba9afc3e085e474f108eeb38f8b1ceaec2a6e6f4a8fa2",
+          "da4c9ac322ba8a279f78e8a7e0d72d13dc3960dcd1b1a8394fb8c4be66d01243",
+          "74d10e3f4ed0777ffb35e6c3386754b5f001724b3129328040df78d860e571ce",
+          "0ea7be3a90b867cd4ff70e7849177e7a1bb1ed3abdb9092fb8b4ca0fa01ab3b9",
+          "5285a0efa6244b8e1ff736ced826a0b3c4d810c958a499e029e19690a112714a",
+          "92a34263f3def5156d859c96d7f14e0c2ffec5e70eecae420d143916189ec6e3",
+          "0c13e324a509d56df849ebcb98b6db0cd370d82191f381688b4a7326bfffb812",
+          "79da7bd0eb066368866453b148ce8fda6ba0061413ae2f0a267ebaec1ba842d2",
+          "1decc1fe2bdfdecd32f90ed3c6d3310d7e44983dc5cd97c5d6175ad521f3ffe2",
+          "89caa8d73c571fe21fd80482261c1ace7ea3fd6284a76119c0755a292a107136",
+          "2d4c24442a8ab7ced8a614bcc376fc356aeac41b283ed59d28dff2fab5275e0f",
+          "93d7f3a7a22212356dcafde182f6828054399d327eea3cc12649d5aaf6160bb6",
+          "cd11e2f77fe3861ac43cc24dd56629e6ac590cd3d047e7aef75578a367b5925c",
+          "93bc313976bf4e26b3e5c6e28d2113dd07cd0674e0cf7d045e65012e925fcdfa",
+          "aa2fa790393f7a34a51541bb14566d37118fa512a3e9bfbc7de2e256d0f7383d",
+          "e45b80c2dae52bad510203742bb7626670144691d15de2bf6f4c30e78e9d0445",
+          "010971938ac09e7efb3099c5e8b45d32956d9327fb1dc51564bfdbe2bf844029",
+          "2808c54b2fa2456f0cbe655113059f8f55c4bd924aead3b1ea617152804471af",
+          "03bf9a1dee6a2d650a99ebea088301639360d6cf179234798f90e135e3e98a97",
+          "1d0591812e01fb07713632d04d3bcabeda5bb47077858c0e32fd3bde6f194165",
+          "290bc62f2f9916e0ecab3086358dfd98de28e8a6f0a0d8c58719e3c61d78824d",
+          "fe9680cccd6ce1646e20dac6196dc86c0e8c2d997623de4859421f63f4bffa33",
+          "fa42ed8aec29eac98bc740e82f05abc5a223f528dd164620018bfdcad7045301",
+          "029b3ad71951959ae74b92c477ede5f7cfaba7cee394b41a83e87a733f3febca",
+          "f7a5cd551d0c51953ecebd14e153b51b94cc09ee9621ba4f09c522d9e31553e8",
+          "2ce7b2f7106aaf7c33d68aaf39d0e5d169ed7e19103333cfd2699807924ae535",
+          "7e28a5c9e99f1decb38043a4da922a8254c25982d4d7272e17002307a77ba860",
+          "b0123962e3a0250b6bcb47f2c53d40ba790d401911380e899c6107723c97e2f8",
+          "11c1a8942b7138c1156298bf716f8ccb81b66d749d41cc7b75cbb54d008bed4d",
+          "02f004434dc4a8205ae7bfead4bf18a06b4f16f17226cf19207549f41e3682fb",
+          "9cab0f6ac0646d2b985417ddb6b781e99ba8f383a18be83157057eded2c9b9e0",
+          "d4ba78294d0e46b1182c523f4d5ff2fb4f64979f2dea7b93681c43f073fbb3ca",
+          "3c0c4db2521189f39fbc021672d899fd3b6e5c4e9e53896cdabfd8c4121e2b00",
+          "562ed1423510f2f9ff484a8fd4cc4e824785195a6ec828e283a225c65c39d09b",
+          "a3f5dfce7d30cd50d2b7723266586976e75f5fad8d784fd5bb7ee2230f00f6bd",
+          "ac09cb7dcc5de04bfb98ad4acd72429761eed0f6d30c8055a6e42386f6173520",
+          "71b4a3641ead8dd64a8d31a526d9bc6d3d242017201b878badd1706a1441bf01",
+          "6235a2fd45dedc9f3eb86206e4a4c8f0d86eceb7fa112bf2daa4e5ae59411e37",
+          "1c61ae8bac97449f201695ef42864221a1791a931f95ce96fb40c05a5ef4c43f",
+          "167b7d6a0991ff7bb68e3937e6a6d8ece85d8550de288bcd1c2b4dcbfe40a39c",
+          "43acead0143b0e1272519ea4cfcfa6d7d5bebc87a7f86e99a134ea074bec17c1",
+          "164ae2d23e2992b4f955b33c777a6c4184a2cb4ee46c6f23926f206fe6eaa235",
+          "6c525019dd2dce7bf4e5af2cf66c432050a99f9cdce32b7bdfcae2c205113878",
+          "1cf00b2c2de233a415d28cd4aa46fa93b5b89b006e26aa449b39c873e00eb350",
+          "027c8dc1af5b14a1f66eb6876acb479a7e633b0134064647282e97035ab91eb6",
+          "085b57edc2080da8c1bc423885255f227d4d9494a14354bafdcf49db35f874ac",
+          "5081892b791ee63c378942a573370de2c0f507f5b7f7a2599c88f1946ee2c73c",
+          "f25a22a4598e34af2c022d3a7af6d9ea0df03da2a2df68a840bc45104ae8051c"
+        ],
+        "maximum_route_budget_used": 40,
+        "final_fire": {
+          "turn": 120,
+          "burning": 161,
+          "burned": 427,
+          "total_ignitions": 588,
+          "secondary_foci": 11
+        },
+        "wind_predictor_calls": {
+          "ridge": 0,
+          "persistence": 121
+        },
+        "confirmed_forecast_departures": [],
+        "destination_changes": [],
+        "unassigned_reasons": {},
+        "meeting_states": {
+          "R1": "SAFE",
+          "R2": "AVOID",
+          "R3": "SAFE",
+          "R4": "SAFE",
+          "R5": "SAFE",
+          "R6": "SAFE",
+          "R7": "SAFE",
+          "R8": "SAFE"
+        }
+      },
+      "intelligent": {
+        "metrics": {
+          "safe_meeting_arrivals": 411,
+          "people_ever_reached_meeting": 446,
+          "mean_turns_to_first_meeting": 70.7085201793722,
+          "median_turns_to_first_meeting": 73.5,
+          "worst_turns_to_first_meeting": 120,
+          "people_exposed_smoke": 32,
+          "accumulated_smoke_dose": 31.642547558039496,
+          "people_close_to_fire": 17,
+          "fire_contacts": 0,
+          "incapacitated": 7,
+          "routes_recalculated": 2397,
+          "preventive_reassignments": 266,
+          "maximum_congestion": 19,
+          "distance_traveled": 135791,
+          "people_in_cells_that_later_became_hazardous": 46,
+          "unsafe_waiting_person_turns": 888,
+          "destination_became_unsafe_before_arrival": 14,
+          "confirmed_forecast_departures": 38,
+          "unconfirmed_forecast_departures": 50,
+          "temporary_goals": 2,
+          "temporal_routes_rejected": 88,
+          "unassigned": 8,
+          "state_counts": {
+            "WAITING_SAFE": 514,
+            "WAITING_UNSAFE": 0,
+            "EVACUATING": 947,
+            "REASSIGNING": 0,
+            "AT_MEETING_AREA": 411,
+            "INCAPACITATED": 7
+          }
+        },
+        "elapsed_seconds": 129.92372419999447,
+        "initialization_seconds": 0.941898899996886,
+        "seconds_per_turn": 1.0748485441666464,
+        "physical_trajectory": [
+          "eb73da357c2d7dd76c1af26f16ef8476b2361b8bfcf0c0c749173a1a811480e1",
+          "0bad0b2784336aadc02d50d06f6c45ef3406cb220bcf7dda1e1cf241b27c8965",
+          "d69ca05f519aa786871fdf72251f31395fd093fc95c6e8d0f0be351e14335ced",
+          "5fdace133ffc3ccb518d1ddee4260a2095bf6a832064bb01cd786fac26860dd5",
+          "5065c12f7b2d99fa6aedc5ba8359c27798376ecb2602328c08677330fc11b110",
+          "d297b1ddc858df6e50f863127dfde31739da5024726b1de6f0b2d97e3193fc11",
+          "85b7a408212b635c1a5268a013a9d361559bc6a1e2975e480eca619e442a23ca",
+          "bc56f38a4c909361eb2f17b4e5ea9550ca5edaf267a10c6c1dc3869ca9304927",
+          "b49b3a0a7f316370c60ad269f34dc43494ff79e1871d88c14efe80c9d6ea32aa",
+          "8cf211f10c10a32e8fe3e7ddf19d01e232386ea1b9949935703849fc17000856",
+          "e2e62458c2144107de5268c6ff195a7b284705de7bdab79845a76e6fbb822b4a",
+          "b316aa7a59354035ed40c6d4108933cff479ca563be5f0f49d5aae0f9dcf478e",
+          "3affef617407329dfc7e5794a02ccca13f33b288dd26bb731e8caf393b2cbf22",
+          "74b313b93a658671248bbf0e1a5b5ad888d03172ae43b56d34e6d614ddd87352",
+          "5781914457692c1a21ef92298cb0aa9f8c37605834daea11d3b97bc91c35b59f",
+          "7a935e3b940402c3191f5403104dfa49f5520f363df10a815ac52feabfadb419",
+          "728e508069ac4e502952488a408a597183a95563529e45251224cbf550353144",
+          "e482a4606db7f9f75d887fe79cd2a021bfec3dece2fbb2a88f40cbef9bd79377",
+          "d05825817ca619945e3b236957730d6e5607af4f4a4d2da4684e32838f42643a",
+          "c12ec8e44394a6f0bef803ee9fe488a16520b408f44b485f05a1ef341b90f639",
+          "f4c9760fc2b467b82476e3d09a151ff8f1d10bee6a7b16e3faa4070728c368ab",
+          "cec55c7403ae1131dbf868a3c785de064b5bd299276e49b96829a87ba99a88b6",
+          "4ce0db6b655328b07d765300a167a2a3d261245322fc021364ce96c2afc59060",
+          "08b262f54ef37fb2b18a1181804cbc890b7bcf5d0bd0285ffb3ed2b66c29b37c",
+          "8ddd1494707fab9a3a8689fd53e35ee3772e2a25151d2419cf29a4eb4d14fb73",
+          "882ed63877bf8467b00243881dd1a7879c6665532e1e6a1840abecdd0ab36991",
+          "957f7044f14d50fb3ee6b5742a10fd267ee6759b4e7e7505dd981b5f3aa98217",
+          "90af3d0ed961deaac2b4a1f4a8988124f2aeb7f35f043d1e15f93baa08141e4a",
+          "565199f515f959be986566f69298e6614c8bfb68acab9218c275a97ab02c9da3",
+          "e6370c5f6d02862bc39389bf75c1a4522e207d5c93d4ac9af13d12b387f12edd",
+          "4ab42a75eee52b0211628cf6baf6331497a696be97044a881cbb79dc3ea9d19e",
+          "c2ff95e2e2193f5a8feb9e3dd4e5822075d8f86568be95023e70d58fb56ebeda",
+          "4b5147470425208f447140f493807cf8b468e72a2c15ee88c8a6d1284d649525",
+          "8d8a0732e41259b95a19e9a2e32e76ea63e031b4dea31f28982a21ee2bd41d87",
+          "2ac3f563ec9832054f910bd85ce3ce22d59c8a9836f8d4ee0c3b51db2a795c8e",
+          "cfcbc6b1325c109d07c546dc0518afb584b091ce5a68ccf45e31f4fe716375a8",
+          "ceefa366336bfcce8ffc988db8b9e3f97d4393ce619b46e634f873885531359d",
+          "88e17f2999e8ca00a9c5840f3d7dc80991dcc6868ef817d250cad8c4318cf1cf",
+          "106aa1874537ed8ccbda51665d8234e5da9ae745904e9b3a0d59b4f2ad4aad21",
+          "d0ff07e2a0da1f187dbce5936d7952ed1decfb8e9700b7a65c10b715eb58a4bc",
+          "e909ea57a7a3cc153467449422aee84079530d2d5aa087fe86d0828c2539cce7",
+          "f5a4bade3a75c9ce0487d5f4bfb5e41c903bac6835bd0de000a4d3ba55061a29",
+          "46444c42c4a8f97a851052212476d6f23cec03c7b53b3c22520534fd379f6d0a",
+          "21d2f26d489ae6641663fb89108f14732dae21c869a72febfd0fca91381d88f1",
+          "f907c20f3735913494a1fba1295e313ad7376b3c1cea5ffe6c41a02fe7c88663",
+          "9e0e9e761806e301727fdbe0b3b98899e22ddf9af47a91f1246cd56ae900774e",
+          "1609195ea534b72cfa9ba17e302940126e78c866110823de055247e886ce79d1",
+          "8b1d68cf75438ab1d337bdca13acc9cdd3a777784eb4fd7ad6eecc6bcd1f92e2",
+          "49ac7f2351a0baa58f8d6021fd1685e6f59a3eab637a521eac76605f95f086f7",
+          "23114a46664e1c31fa6631d26b7db37b5dda4bc5dddbdaf8ab209cb393460c37",
+          "0681e216f448402740256bc86609d49b01545ccbcdacf4538a332bff83725bf3",
+          "173ae6264a2f059e946a9b5a64239f3b5c904e3851e485d937e5b72fde3e5743",
+          "c55061ca86e87453525d32dc0231080a0ab7f6339e4a2e28773493e692b09aa6",
+          "6648866401dd339a5c6f38d4ef1324c06ec6a152cbea3553df87d5cf92771938",
+          "b326e50df4741abadeaadd03815ef55fa3e209a823acec5fc70efb09b242e40b",
+          "058b7ac662d8d8d87bb057bc3dfe12ee6ca9555c88f4b9e94e917a3b98984ebb",
+          "4d7125e2c7548d529b0c8278e409780df80c288cb40032ce53e891f847e277da",
+          "3c58f4c8af26786fb7d780d34ef5fe3635fe1e8b1baa04f4b3e124e0d5f9b912",
+          "5fe7a59a6202bea7fed84acd98684d21b502f2c3ffa99c69340db0e6b1f2c810",
+          "25832276caaefcf2cc20a1823b911dd24520dd271fee9ad2819e14fc2cc7b8e5",
+          "85c9e3e675342a774e66fd4de7f8e451d3e04d56ef1fe410329247515df4c3c1",
+          "2866d5c874a8e77a71df2afc73a093350fb5d2375ef6cf5859e5b6a2d16b3db8",
+          "4ad9dc3af162b486ec343d969e9e220d7bf3cae6fa164347155f9f07e17ba68f",
+          "96f6237d602af7d6744136c4a67c395071b3cd9b5bdde006ff60ef6e883c2902",
+          "221385d5a814d7eaa999c43f55dc70e1a55349d913e7497a77155abb24864955",
+          "1fcff12e1dafc17ef57e6002c4630156ea3e05e1044b60a1c609e1a1b9fe01fb",
+          "583c50a16c439ad9dd8489c112ac0c8b2f493624e16fad733c4d8c31c7702eed",
+          "24aab5158edc732ffdad8ef372fe964a01ccbbe45310d7cd5ee1a9a13da7894a",
+          "a8abe90796925dd9af8d1ebc3b804f39469d5a7bd0c54a5cb750524f4eb7d74a",
+          "01184a02d277fedb0bbfa630fe37c299920a7032b454d390a91bb3144d626ae9",
+          "58e5a46bd3335641ddbdbf3666d5839bb4d1b51fc493ae005e16f07b97d81b2a",
+          "430284991b06f3c5c8cae4debe60ccf7f3c0b1d1849437227c16e0d550087887",
+          "2bdd2179e1653037959b1fb0fa2f6e70af6d2fce5a05dd03b282085d1d9b5e3d",
+          "5775c301d0a4789f3eeba9afc3e085e474f108eeb38f8b1ceaec2a6e6f4a8fa2",
+          "da4c9ac322ba8a279f78e8a7e0d72d13dc3960dcd1b1a8394fb8c4be66d01243",
+          "74d10e3f4ed0777ffb35e6c3386754b5f001724b3129328040df78d860e571ce",
+          "0ea7be3a90b867cd4ff70e7849177e7a1bb1ed3abdb9092fb8b4ca0fa01ab3b9",
+          "5285a0efa6244b8e1ff736ced826a0b3c4d810c958a499e029e19690a112714a",
+          "92a34263f3def5156d859c96d7f14e0c2ffec5e70eecae420d143916189ec6e3",
+          "0c13e324a509d56df849ebcb98b6db0cd370d82191f381688b4a7326bfffb812",
+          "79da7bd0eb066368866453b148ce8fda6ba0061413ae2f0a267ebaec1ba842d2",
+          "1decc1fe2bdfdecd32f90ed3c6d3310d7e44983dc5cd97c5d6175ad521f3ffe2",
+          "89caa8d73c571fe21fd80482261c1ace7ea3fd6284a76119c0755a292a107136",
+          "2d4c24442a8ab7ced8a614bcc376fc356aeac41b283ed59d28dff2fab5275e0f",
+          "93d7f3a7a22212356dcafde182f6828054399d327eea3cc12649d5aaf6160bb6",
+          "cd11e2f77fe3861ac43cc24dd56629e6ac590cd3d047e7aef75578a367b5925c",
+          "93bc313976bf4e26b3e5c6e28d2113dd07cd0674e0cf7d045e65012e925fcdfa",
+          "aa2fa790393f7a34a51541bb14566d37118fa512a3e9bfbc7de2e256d0f7383d",
+          "e45b80c2dae52bad510203742bb7626670144691d15de2bf6f4c30e78e9d0445",
+          "010971938ac09e7efb3099c5e8b45d32956d9327fb1dc51564bfdbe2bf844029",
+          "2808c54b2fa2456f0cbe655113059f8f55c4bd924aead3b1ea617152804471af",
+          "03bf9a1dee6a2d650a99ebea088301639360d6cf179234798f90e135e3e98a97",
+          "1d0591812e01fb07713632d04d3bcabeda5bb47077858c0e32fd3bde6f194165",
+          "290bc62f2f9916e0ecab3086358dfd98de28e8a6f0a0d8c58719e3c61d78824d",
+          "fe9680cccd6ce1646e20dac6196dc86c0e8c2d997623de4859421f63f4bffa33",
+          "fa42ed8aec29eac98bc740e82f05abc5a223f528dd164620018bfdcad7045301",
+          "029b3ad71951959ae74b92c477ede5f7cfaba7cee394b41a83e87a733f3febca",
+          "f7a5cd551d0c51953ecebd14e153b51b94cc09ee9621ba4f09c522d9e31553e8",
+          "2ce7b2f7106aaf7c33d68aaf39d0e5d169ed7e19103333cfd2699807924ae535",
+          "7e28a5c9e99f1decb38043a4da922a8254c25982d4d7272e17002307a77ba860",
+          "b0123962e3a0250b6bcb47f2c53d40ba790d401911380e899c6107723c97e2f8",
+          "11c1a8942b7138c1156298bf716f8ccb81b66d749d41cc7b75cbb54d008bed4d",
+          "02f004434dc4a8205ae7bfead4bf18a06b4f16f17226cf19207549f41e3682fb",
+          "9cab0f6ac0646d2b985417ddb6b781e99ba8f383a18be83157057eded2c9b9e0",
+          "d4ba78294d0e46b1182c523f4d5ff2fb4f64979f2dea7b93681c43f073fbb3ca",
+          "3c0c4db2521189f39fbc021672d899fd3b6e5c4e9e53896cdabfd8c4121e2b00",
+          "562ed1423510f2f9ff484a8fd4cc4e824785195a6ec828e283a225c65c39d09b",
+          "a3f5dfce7d30cd50d2b7723266586976e75f5fad8d784fd5bb7ee2230f00f6bd",
+          "ac09cb7dcc5de04bfb98ad4acd72429761eed0f6d30c8055a6e42386f6173520",
+          "71b4a3641ead8dd64a8d31a526d9bc6d3d242017201b878badd1706a1441bf01",
+          "6235a2fd45dedc9f3eb86206e4a4c8f0d86eceb7fa112bf2daa4e5ae59411e37",
+          "1c61ae8bac97449f201695ef42864221a1791a931f95ce96fb40c05a5ef4c43f",
+          "167b7d6a0991ff7bb68e3937e6a6d8ece85d8550de288bcd1c2b4dcbfe40a39c",
+          "43acead0143b0e1272519ea4cfcfa6d7d5bebc87a7f86e99a134ea074bec17c1",
+          "164ae2d23e2992b4f955b33c777a6c4184a2cb4ee46c6f23926f206fe6eaa235",
+          "6c525019dd2dce7bf4e5af2cf66c432050a99f9cdce32b7bdfcae2c205113878",
+          "1cf00b2c2de233a415d28cd4aa46fa93b5b89b006e26aa449b39c873e00eb350",
+          "027c8dc1af5b14a1f66eb6876acb479a7e633b0134064647282e97035ab91eb6",
+          "085b57edc2080da8c1bc423885255f227d4d9494a14354bafdcf49db35f874ac",
+          "5081892b791ee63c378942a573370de2c0f507f5b7f7a2599c88f1946ee2c73c",
+          "f25a22a4598e34af2c022d3a7af6d9ea0df03da2a2df68a840bc45104ae8051c"
+        ],
+        "maximum_route_budget_used": 40,
+        "final_fire": {
+          "turn": 120,
+          "burning": 161,
+          "burned": 427,
+          "total_ignitions": 588,
+          "secondary_foci": 11
+        },
+        "wind_predictor_calls": {
+          "ridge": 0,
+          "persistence": 121
+        },
+        "confirmed_forecast_departures": [
+          {
+            "person_id": "P880",
+            "point": [
+              243,
+              166
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 2,
+            "confirmed_turn": 24
+          },
+          {
+            "person_id": "P862",
+            "point": [
+              243,
+              167
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 2,
+            "confirmed_turn": 25
+          },
+          {
+            "person_id": "P865",
+            "point": [
+              243,
+              167
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 5,
+            "confirmed_turn": 25
+          },
+          {
+            "person_id": "P854",
+            "point": [
+              243,
+              167
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 7,
+            "confirmed_turn": 25
+          },
+          {
+            "person_id": "P872",
+            "point": [
+              243,
+              167
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 8,
+            "confirmed_turn": 25
+          },
+          {
+            "person_id": "P864",
+            "point": [
+              243,
+              167
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 10,
+            "confirmed_turn": 25
+          },
+          {
+            "person_id": "P855",
+            "point": [
+              243,
+              167
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 12,
+            "confirmed_turn": 25
+          },
+          {
+            "person_id": "P866",
+            "point": [
+              243,
+              167
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 13,
+            "confirmed_turn": 25
+          },
+          {
+            "person_id": "P868",
+            "point": [
+              243,
+              167
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 14,
+            "confirmed_turn": 25
+          },
+          {
+            "person_id": "P874",
+            "point": [
+              243,
+              167
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 15,
+            "confirmed_turn": 25
+          },
+          {
+            "person_id": "P856",
+            "point": [
+              243,
+              167
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 17,
+            "confirmed_turn": 25
+          },
+          {
+            "person_id": "P878",
+            "point": [
+              243,
+              167
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 18,
+            "confirmed_turn": 25
+          },
+          {
+            "person_id": "P879",
+            "point": [
+              243,
+              167
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 21,
+            "confirmed_turn": 25
+          },
+          {
+            "person_id": "P871",
+            "point": [
+              243,
+              167
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 25,
+            "confirmed_turn": 26
+          },
+          {
+            "person_id": "P870",
+            "point": [
+              243,
+              165
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 5,
+            "confirmed_turn": 29
+          },
+          {
+            "person_id": "P877",
+            "point": [
+              243,
+              165
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 6,
+            "confirmed_turn": 29
+          },
+          {
+            "person_id": "P853",
+            "point": [
+              243,
+              165
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 8,
+            "confirmed_turn": 29
+          },
+          {
+            "person_id": "P882",
+            "point": [
+              243,
+              165
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 9,
+            "confirmed_turn": 29
+          },
+          {
+            "person_id": "P858",
+            "point": [
+              243,
+              165
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 11,
+            "confirmed_turn": 29
+          },
+          {
+            "person_id": "P860",
+            "point": [
+              243,
+              165
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 12,
+            "confirmed_turn": 29
+          },
+          {
+            "person_id": "P861",
+            "point": [
+              243,
+              165
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 14,
+            "confirmed_turn": 29
+          },
+          {
+            "person_id": "P876",
+            "point": [
+              243,
+              165
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 15,
+            "confirmed_turn": 29
+          },
+          {
+            "person_id": "P869",
+            "point": [
+              243,
+              165
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 18,
+            "confirmed_turn": 29
+          },
+          {
+            "person_id": "P881",
+            "point": [
+              243,
+              165
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 19,
+            "confirmed_turn": 29
+          },
+          {
+            "person_id": "P859",
+            "point": [
+              243,
+              165
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 21,
+            "confirmed_turn": 29
+          },
+          {
+            "person_id": "P863",
+            "point": [
+              243,
+              165
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 22,
+            "confirmed_turn": 29
+          },
+          {
+            "person_id": "P857",
+            "point": [
+              243,
+              165
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 24,
+            "confirmed_turn": 29
+          },
+          {
+            "person_id": "P873",
+            "point": [
+              243,
+              165
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 26,
+            "confirmed_turn": 29
+          },
+          {
+            "person_id": "P1750",
+            "point": [
+              248,
+              167
+            ],
+            "reason": "temporal_route",
+            "departure_turn": 41,
+            "confirmed_turn": 42
+          },
+          {
+            "person_id": "P1759",
+            "point": [
+              248,
+              166
+            ],
+            "reason": "temporal_route",
+            "departure_turn": 43,
+            "confirmed_turn": 44
+          },
+          {
+            "person_id": "P1757",
+            "point": [
+              248,
+              164
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 35,
+            "confirmed_turn": 48
+          },
+          {
+            "person_id": "P747",
+            "point": [
+              244,
+              162
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 14,
+            "confirmed_turn": 54
+          },
+          {
+            "person_id": "P719",
+            "point": [
+              245,
+              162
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 14,
+            "confirmed_turn": 56
+          },
+          {
+            "person_id": "P717",
+            "point": [
+              245,
+              162
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 20,
+            "confirmed_turn": 56
+          },
+          {
+            "person_id": "P1751",
+            "point": [
+              248,
+              163
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 37,
+            "confirmed_turn": 58
+          },
+          {
+            "person_id": "P1749",
+            "point": [
+              248,
+              162
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 41,
+            "confirmed_turn": 63
+          },
+          {
+            "person_id": "P1757",
+            "point": [
+              262,
+              162
+            ],
+            "reason": "future_destination",
+            "departure_turn": 51,
+            "confirmed_turn": 90
+          },
+          {
+            "person_id": "P1771",
+            "point": [
+              236,
+              177
+            ],
+            "reason": "future_destination",
+            "departure_turn": 51,
+            "confirmed_turn": 112
+          }
+        ],
+        "destination_changes": [
+          {
+            "turn": 41,
+            "person_id": "P1750",
+            "from": "R2",
+            "to": "INTERMEDIATE",
+            "reason": "temporal_route"
+          },
+          {
+            "turn": 43,
+            "person_id": "P1759",
+            "from": "R2",
+            "to": "INTERMEDIATE",
+            "reason": "temporal_route"
+          },
+          {
+            "turn": 51,
+            "person_id": "P1766",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 51,
+            "person_id": "P1771",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 51,
+            "person_id": "P1755",
+            "from": "R2",
+            "to": "R3",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 51,
+            "person_id": "P1757",
+            "from": "R2",
+            "to": "R3",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 51,
+            "person_id": "P1763",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 51,
+            "person_id": "P1764",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 51,
+            "person_id": "P1767",
+            "from": "R2",
+            "to": "R3",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 51,
+            "person_id": "P1775",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 51,
+            "person_id": "P1776",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 51,
+            "person_id": "P1777",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 51,
+            "person_id": "P728",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 51,
+            "person_id": "P791",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 51,
+            "person_id": "P860",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 51,
+            "person_id": "P855",
+            "from": "R2",
+            "to": "R3",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 51,
+            "person_id": "P715",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 51,
+            "person_id": "P1851",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 51,
+            "person_id": "P1864",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 51,
+            "person_id": "P058",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 51,
+            "person_id": "P063",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 51,
+            "person_id": "P070",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 51,
+            "person_id": "P083",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 51,
+            "person_id": "P1845",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 51,
+            "person_id": "P1861",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 51,
+            "person_id": "P1698",
+            "from": "R2",
+            "to": "R1",
+            "reason": "congestion"
+          },
+          {
+            "turn": 51,
+            "person_id": "P1704",
+            "from": "R2",
+            "to": "R1",
+            "reason": "congestion"
+          },
+          {
+            "turn": 52,
+            "person_id": "P859",
+            "from": "R2",
+            "to": "R4",
+            "reason": "congestion"
+          },
+          {
+            "turn": 52,
+            "person_id": "P1712",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 52,
+            "person_id": "P050",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 52,
+            "person_id": "P1688",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 52,
+            "person_id": "P1696",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 52,
+            "person_id": "P1710",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 52,
+            "person_id": "P1714",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 52,
+            "person_id": "P1797",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 52,
+            "person_id": "P1798",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 52,
+            "person_id": "P1840",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P1847",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P1873",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P1878",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P037",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P038",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P039",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P040",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P041",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P042",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P043",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P044",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P045",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P046",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P047",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P048",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P049",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P051",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P052",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P053",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P055",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P056",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P057",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P060",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P061",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P062",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P064",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P065",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P066",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P067",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P069",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P071",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P072",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 53,
+            "person_id": "P073",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P074",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P075",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P076",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P077",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P078",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P079",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P080",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P081",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P082",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P084",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P085",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P086",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P087",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P088",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P089",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P090",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P091",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P092",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P093",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P094",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P095",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P096",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P097",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P098",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P166",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P1687",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P1689",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P1690",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P1691",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 54,
+            "person_id": "P1692",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1693",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1694",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1695",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1697",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1699",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1700",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1701",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1702",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1703",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1705",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1706",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1707",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1708",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1709",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P171",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1711",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1713",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1715",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1716",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1717",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P177",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1779",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1780",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1781",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1782",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1783",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1784",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1785",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1786",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1787",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1788",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P1789",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 55,
+            "person_id": "P179",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1790",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1791",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1792",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1793",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1794",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1795",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1796",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1799",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1800",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1801",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1802",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1803",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1804",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1805",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1806",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1807",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1808",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1809",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1810",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1811",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1812",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1813",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1814",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1815",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1816",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1817",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1819",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1820",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1821",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1822",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1823",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1824",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1825",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1826",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1827",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1829",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1830",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 56,
+            "person_id": "P1831",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P881",
+            "from": "R2",
+            "to": "R4",
+            "reason": "congestion"
+          },
+          {
+            "turn": 57,
+            "person_id": "P1833",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P1834",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P1835",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P1836",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P1839",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P1841",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P1842",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P1843",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P1846",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P1848",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P1849",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P1850",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P1852",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P1853",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P1854",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P1855",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P1856",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P1857",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P1858",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P1863",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P1865",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P1866",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P1867",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P1869",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P1870",
+            "from": "R2",
+            "to": "R5",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P1871",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P1876",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P1877",
+            "from": "R2",
+            "to": "R1",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P1879",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 57,
+            "person_id": "P811",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 58,
+            "person_id": "P885",
+            "from": "R2",
+            "to": "R3",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 58,
+            "person_id": "P886",
+            "from": "R2",
+            "to": "R3",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 58,
+            "person_id": "P890",
+            "from": "R2",
+            "to": "R3",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 58,
+            "person_id": "P892",
+            "from": "R2",
+            "to": "R3",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 58,
+            "person_id": "P897",
+            "from": "R2",
+            "to": "R3",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 58,
+            "person_id": "P904",
+            "from": "R2",
+            "to": "R3",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 58,
+            "person_id": "P905",
+            "from": "R2",
+            "to": "R3",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 58,
+            "person_id": "P920",
+            "from": "R2",
+            "to": "R3",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 58,
+            "person_id": "P964",
+            "from": "R2",
+            "to": "R3",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 58,
+            "person_id": "P965",
+            "from": "R2",
+            "to": "R3",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 58,
+            "person_id": "P967",
+            "from": "R2",
+            "to": "R3",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 58,
+            "person_id": "P971",
+            "from": "R2",
+            "to": "R7",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 58,
+            "person_id": "P980",
+            "from": "R2",
+            "to": "R3",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 58,
+            "person_id": "P991",
+            "from": "R2",
+            "to": "R3",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 58,
+            "person_id": "P997",
+            "from": "R2",
+            "to": "R3",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 58,
+            "person_id": "P999",
+            "from": "R2",
+            "to": "R3",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 59,
+            "person_id": "P863",
+            "from": "R2",
+            "to": "R4",
+            "reason": "congestion"
+          },
+          {
+            "turn": 60,
+            "person_id": "P857",
+            "from": "R2",
+            "to": "R4",
+            "reason": "congestion"
+          },
+          {
+            "turn": 60,
+            "person_id": "P873",
+            "from": "R2",
+            "to": "R4",
+            "reason": "congestion"
+          },
+          {
+            "turn": 69,
+            "person_id": "P1751",
+            "from": "R2",
+            "to": "R4",
+            "reason": "congestion"
+          },
+          {
+            "turn": 73,
+            "person_id": "P1749",
+            "from": "R2",
+            "to": "R4",
+            "reason": "congestion"
+          },
+          {
+            "turn": 75,
+            "person_id": "P1772",
+            "from": "R2",
+            "to": "R4",
+            "reason": "congestion"
+          },
+          {
+            "turn": 87,
+            "person_id": "P869",
+            "from": "R2",
+            "to": "R4",
+            "reason": "congestion"
+          },
+          {
+            "turn": 99,
+            "person_id": "P874",
+            "from": "R2",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 101,
+            "person_id": "P882",
+            "from": "R2",
+            "to": "R4",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 101,
+            "person_id": "P864",
+            "from": "R2",
+            "to": "R4",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 101,
+            "person_id": "P866",
+            "from": "R2",
+            "to": "R4",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 101,
+            "person_id": "P856",
+            "from": "R2",
+            "to": "R4",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 101,
+            "person_id": "P868",
+            "from": "R2",
+            "to": "R3",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 101,
+            "person_id": "P876",
+            "from": "R2",
+            "to": "R4",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P959",
+            "from": "R2",
+            "to": "R7",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P956",
+            "from": "R2",
+            "to": "R7",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P928",
+            "from": "R2",
+            "to": "R7",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P929",
+            "from": "R2",
+            "to": "R7",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P960",
+            "from": "R2",
+            "to": "R7",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P953",
+            "from": "R2",
+            "to": "R7",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P880",
+            "from": "R2",
+            "to": "R4",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P862",
+            "from": "R2",
+            "to": "R4",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P870",
+            "from": "R2",
+            "to": "R4",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P877",
+            "from": "R2",
+            "to": "R4",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P719",
+            "from": "R2",
+            "to": "R4",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P925",
+            "from": "R2",
+            "to": "R7",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P858",
+            "from": "R2",
+            "to": "R3",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P854",
+            "from": "R2",
+            "to": "R4",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P747",
+            "from": "R2",
+            "to": "R3",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P734",
+            "from": "R2",
+            "to": "R3",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P853",
+            "from": "R2",
+            "to": "R3",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P872",
+            "from": "R2",
+            "to": "R3",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P865",
+            "from": "R2",
+            "to": "R4",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P932",
+            "from": "R2",
+            "to": "R7",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P861",
+            "from": "R2",
+            "to": "R4",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P717",
+            "from": "R2",
+            "to": "R4",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P738",
+            "from": "R2",
+            "to": "R7",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P930",
+            "from": "R2",
+            "to": "R7",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P726",
+            "from": "R2",
+            "to": "R3",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P730",
+            "from": "R2",
+            "to": "R7",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P742",
+            "from": "R2",
+            "to": "R7",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P721",
+            "from": "R2",
+            "to": "R3",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P731",
+            "from": "R2",
+            "to": "R4",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P753",
+            "from": "R2",
+            "to": "R3",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P751",
+            "from": "R2",
+            "to": "R7",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P716",
+            "from": "R2",
+            "to": "R4",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P957",
+            "from": "R2",
+            "to": "R7",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P727",
+            "from": "R2",
+            "to": "R3",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P718",
+            "from": "R2",
+            "to": "R7",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P735",
+            "from": "R2",
+            "to": "R3",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 104,
+            "person_id": "P1868",
+            "from": "R2",
+            "to": "R7",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 104,
+            "person_id": "P933",
+            "from": "R2",
+            "to": "R7",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 104,
+            "person_id": "P1862",
+            "from": "R2",
+            "to": "R7",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 104,
+            "person_id": "P1860",
+            "from": "R2",
+            "to": "R7",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 104,
+            "person_id": "P1874",
+            "from": "R2",
+            "to": "R7",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 104,
+            "person_id": "P1844",
+            "from": "R2",
+            "to": "R7",
+            "reason": "predicted_destination"
+          },
+          {
+            "turn": 104,
+            "person_id": "P808",
+            "from": "R2",
+            "to": "R7",
+            "reason": "predicted_destination"
+          }
+        ],
+        "unassigned_reasons": {
+          "budget_exhausted": 3
+        },
+        "meeting_states": {
+          "R1": "SAFE",
+          "R2": "AVOID",
+          "R3": "SAFE",
+          "R4": "SAFE",
+          "R5": "SAFE",
+          "R6": "SAFE",
+          "R7": "SAFE",
+          "R8": "SAFE"
+        }
+      },
+      "identical_physical_trajectory": true
+    },
+    {
+      "scenario_id": "S02",
+      "building": "E16",
+      "seed": 2043,
+      "ignition": [
+        139,
+        18
+      ],
+      "wind_inputs": [
+        [
+          "SE",
+          0.7544208930616895
+        ],
+        [
+          "SE",
+          0.7575430641235947
+        ],
+        [
+          "SE",
+          0.7603333975104506
+        ],
+        [
+          "SE",
+          0.7627832832970028
+        ],
+        [
+          "SE",
+          0.7648851620519653
+        ],
+        [
+          "SE",
+          0.7666325481635976
+        ],
+        [
+          "SE",
+          0.7680200498518771
+        ],
+        [
+          "SE",
+          0.769043385805516
+        ],
+        [
+          "SE",
+          0.7696993983924866
+        ],
+        [
+          "SE",
+          0.7699860634032923
+        ],
+        [
+          "SE",
+          0.769902496296922
+        ],
+        [
+          "SE",
+          0.7694489549302118
+        ],
+        [
+          "SE",
+          0.7686268387621963
+        ],
+        [
+          "SE",
+          0.7674386845359005
+        ],
+        [
+          "SE",
+          0.7658881584509
+        ],
+        [
+          "SE",
+          0.7639800448508003
+        ],
+        [
+          "SE",
+          0.7617202314605417
+        ],
+        [
+          "SE",
+          0.7591156912190818
+        ],
+        [
+          "SE",
+          0.7561744607635145
+        ],
+        [
+          "SE",
+          0.7529056156310125
+        ],
+        [
+          "SE",
+          0.7493192422551153
+        ],
+        [
+          "SE",
+          0.745426406842766
+        ],
+        [
+          "SE",
+          0.7412391212281364
+        ],
+        [
+          "SE",
+          0.736770305808599
+        ],
+        [
+          "SE",
+          0.7320337496772128
+        ],
+        [
+          "SE",
+          0.7270440680747391
+        ],
+        [
+          "SE",
+          0.7218166572924748
+        ],
+        [
+          "SE",
+          0.7163676471650554
+        ],
+        [
+          "SE",
+          0.7107138512998181
+        ],
+        [
+          "SE",
+          0.7048727151962975
+        ],
+        [
+          "SE",
+          0.6988622624159387
+        ],
+        [
+          "SE",
+          0.6927010389681278
+        ],
+        [
+          "SE",
+          0.6864080560841428
+        ],
+        [
+          "SE",
+          0.6800027315556035
+        ],
+        [
+          "SE",
+          0.67350482981843
+        ],
+        [
+          "SE",
+          0.666934400967184
+        ],
+        [
+          "SE",
+          0.6603117188879769
+        ],
+        [
+          "SE",
+          0.6536572187008384
+        ],
+        [
+          "SE",
+          0.6469914337045797
+        ],
+        [
+          "SE",
+          0.6403349320187125
+        ],
+        [
+          "S",
+          0.6337082531179243
+        ],
+        [
+          "S",
+          0.6271318444549417
+        ],
+        [
+          "S",
+          0.6206259983673386
+        ],
+        [
+          "S",
+          0.6142107894629709
+        ],
+        [
+          "S",
+          0.6079060126772456
+        ],
+        [
+          "S",
+          0.6017311221933528
+        ],
+        [
+          "S",
+          0.5957051714139322
+        ],
+        [
+          "S",
+          0.5898467541693987
+        ],
+        [
+          "S",
+          0.5841739473443354
+        ],
+        [
+          "S",
+          0.5787042550989892
+        ],
+        [
+          "S",
+          0.5734545548579778
+        ],
+        [
+          "S",
+          0.5684410452328705
+        ],
+        [
+          "S",
+          0.5636791960393301
+        ],
+        [
+          "S",
+          0.5591837005630487
+        ],
+        [
+          "S",
+          0.5549684302217616
+        ],
+        [
+          "S",
+          0.5510463917632415
+        ],
+        [
+          "S",
+          0.5474296871313393
+        ],
+        [
+          "S",
+          0.5441294761239102
+        ],
+        [
+          "S",
+          0.5411559419578525
+        ],
+        [
+          "S",
+          0.5385182598475086
+        ],
+        [
+          "S",
+          0.5362245686933843
+        ],
+        [
+          "S",
+          0.5342819459685466
+        ],
+        [
+          "S",
+          0.5326963858801884
+        ],
+        [
+          "S",
+          0.5314727808737467
+        ],
+        [
+          "S",
+          0.5306149065366463
+        ],
+        [
+          "S",
+          0.5301254099482486
+        ],
+        [
+          "S",
+          0.530005801511955
+        ],
+        [
+          "S",
+          0.5302564502946665
+        ],
+        [
+          "S",
+          0.5308765828879817
+        ],
+        [
+          "S",
+          0.5318642857946457
+        ],
+        [
+          "S",
+          0.5332165113328869
+        ],
+        [
+          "S",
+          0.5349290870404234
+        ],
+        [
+          "S",
+          0.5369967285491206
+        ],
+        [
+          "S",
+          0.5394130558905754
+        ],
+        [
+          "S",
+          0.5421706131823125
+        ],
+        [
+          "S",
+          0.5452608916338489
+        ],
+        [
+          "S",
+          0.5486743558016399
+        ],
+        [
+          "S",
+          0.5524004730118904
+        ],
+        [
+          "S",
+          0.5564277458604483
+        ],
+        [
+          "S",
+          0.5607437476894926
+        ],
+        [
+          "SW",
+          0.565335160931553
+        ],
+        [
+          "SW",
+          0.5701878182025413
+        ],
+        [
+          "SW",
+          0.575286746017001
+        ],
+        [
+          "SW",
+          0.580616210990683
+        ],
+        [
+          "SW",
+          0.5861597683878846
+        ],
+        [
+          "SW",
+          0.591900312863755
+        ],
+        [
+          "SW",
+          0.5978201312449908
+        ],
+        [
+          "SW",
+          0.6039009571860646
+        ],
+        [
+          "SW",
+          0.610124027532336
+        ],
+        [
+          "SW",
+          0.6164701402161289
+        ],
+        [
+          "SW",
+          0.6229197135071315
+        ],
+        [
+          "SW",
+          0.629452846434292
+        ],
+        [
+          "SW",
+          0.6360493801927725
+        ],
+        [
+          "SW",
+          0.6426889603464812
+        ],
+        [
+          "SW",
+          0.6493510996342502
+        ],
+        [
+          "SW",
+          0.6560152411858607
+        ],
+        [
+          "SW",
+          0.662660821952857
+        ],
+        [
+          "SW",
+          0.6692673361584222
+        ],
+        [
+          "SW",
+          0.6758143985705379
+        ],
+        [
+          "SW",
+          0.6822818074031851
+        ],
+        [
+          "SW",
+          0.6886496066515011
+        ],
+        [
+          "SW",
+          0.6948981476685464
+        ],
+        [
+          "SW",
+          0.701008149793681
+        ],
+        [
+          "SW",
+          0.7069607598454722
+        ],
+        [
+          "SW",
+          0.7127376102955616
+        ],
+        [
+          "SW",
+          0.7183208759439875
+        ],
+        [
+          "SW",
+          0.7236933289210864
+        ],
+        [
+          "SW",
+          0.7288383918462547
+        ],
+        [
+          "SW",
+          0.7337401889795461
+        ],
+        [
+          "SW",
+          0.738383595208267
+        ],
+        [
+          "SW",
+          0.742754282717418
+        ],
+        [
+          "SW",
+          0.7468387651999718
+        ],
+        [
+          "SW",
+          0.7506244394705734
+        ],
+        [
+          "SW",
+          0.7540996243542567
+        ],
+        [
+          "SW",
+          0.7572535967301809
+        ],
+        [
+          "SW",
+          0.7600766246191716
+        ],
+        [
+          "SW",
+          0.7625599972129686
+        ],
+        [
+          "SW",
+          0.7646960517525229
+        ],
+        [
+          "SW",
+          0.7664781971724042
+        ],
+        [
+          "SW",
+          0.7679009344383648
+        ]
+      ],
+      "turns": 120,
+      "traditional": {
+        "metrics": {
+          "safe_meeting_arrivals": 221,
+          "people_ever_reached_meeting": 221,
+          "mean_turns_to_first_meeting": 53.18099547511312,
+          "median_turns_to_first_meeting": 51,
+          "worst_turns_to_first_meeting": 120,
+          "people_exposed_smoke": 116,
+          "accumulated_smoke_dose": 76.39151444173791,
+          "people_close_to_fire": 27,
+          "fire_contacts": 2,
+          "incapacitated": 23,
+          "routes_recalculated": 138,
+          "preventive_reassignments": 0,
+          "maximum_congestion": 18,
+          "distance_traveled": 111262,
+          "people_in_cells_that_later_became_hazardous": 67,
+          "unsafe_waiting_person_turns": 2518,
+          "destination_became_unsafe_before_arrival": 0,
+          "confirmed_forecast_departures": 0,
+          "unconfirmed_forecast_departures": 0,
+          "temporary_goals": 0,
+          "temporal_routes_rejected": 0,
+          "unassigned": 56,
+          "state_counts": {
+            "WAITING_SAFE": 1116,
+            "WAITING_UNSAFE": 79,
+            "EVACUATING": 440,
+            "REASSIGNING": 0,
+            "AT_MEETING_AREA": 221,
+            "INCAPACITATED": 23
+          }
+        },
+        "elapsed_seconds": 50.8739964000124,
+        "initialization_seconds": 1.2017524000257254,
+        "seconds_per_turn": 0.4139353666665556,
+        "physical_trajectory": [
+          "eb50a20c29d2d4d56d598391ea18569aaf011a38c9e2ba9575ea6b9e71b14c19",
+          "d8799580a0f50c876ad84e55dd2f28f2279bd2f14cc6784275339ac4ea50ee61",
+          "ec48b060d1a11294ab16ff030a46c611af76e3323931598469f78601e01b2e51",
+          "6deb102aadd55b6c417ab875b2d4f81b386d813b86eac916c8201356ec3a43d1",
+          "ba62c02b96de7773a782e146feab90dab90ec7337f557f5c8882ef9e3d5cba45",
+          "1fabeeaefafb434e1c76ec320e7f164c3f790005f930467ca4dcd0915a42a488",
+          "987709ba0a0f5f7ca2240ebb2f6f20c93176e6991f94529252041f288e52c54f",
+          "5040b749648fe1bf4d82c5848fcaf6c20840293b131dfeb9b308670016317e20",
+          "e9e1dc71bafa2bfa8680d51803086e9e98e87a05bad3a80c287cb473972429a7",
+          "3afa0da7c25141cddc1d68b9c770db1ebd10ad17c56eaa86dfb864a3d277c189",
+          "0dbe5221c2091c47eded8e45720f6f67554044efa11867fb1ca1d978967a065f",
+          "481b265338d6727d929eccfc7da75414be7bbc7c5be5da6890faf34cf3750582",
+          "b280f3a637ef25126787e7dbdede4ddb0c2c13993b4acad920058623696039fc",
+          "64d71820aead7afa08a926ee98dc12fc3537ee41cef2cd759fe3bc200b94d38e",
+          "41b29a20fd3107496bef915855f3e64270eff729d35bf06298e227633f8ae7ce",
+          "e708e8baf44a1790628a197cfe4c8e61b5d315efa1dc7eb55228482d0824472a",
+          "b05b2b6f9125c645744452cf993167c09fbcf72954cc3e3ac504cf718d1a42a7",
+          "311d86856b08378bc891ba71793996189357e89ef587daec829809579fc1c6a2",
+          "84c52e7125d2a120345810feb0f646b1a15fae6ff84de754654fe1f1cdfffabc",
+          "868556a5085c3d3293ff4944b10cb914169a2a45c817cbbd34d70a098ad6c9ab",
+          "cf14923f7d50ddcd6b677d4b4c8e7de4a30346a8336daa47d0009c8944f2a490",
+          "b1ac4ea4b74f75ff3dc16ac69d89cade95902000505a3b1a5e10a59084000134",
+          "4034cc4c77d85e2c128584012ec0eb877f2494d1fb90164c640c4ed3dff5cf56",
+          "c73693565141eedd09a540186206c1568d8d93770122ca916730622d5436e9f8",
+          "bc82be320011d07dac46f10fa558f490a896740e3d6378718148b78ef2ea5a28",
+          "beb21fbfa193b32b28276599a04536d2fd412ecf1b84df376df5bd4833dd1619",
+          "5db28233b89dd00f6e13ef7a9abf6b2124df61c512cba4b61ad47361856d8e1d",
+          "fb0da3ff921f0583bb6e866e5809266b957af9228180618044dad0cb1f3970ba",
+          "41fc58648a340b960fee80923a0a2f8ebf0f860ed73ce66129835aae9502e4a9",
+          "48e27896f3a29c24821e2bfbd55dc4ddc16f6bfd33324d60a1e5d13ac72695de",
+          "46b652a7c41c95d45d57d5b42e13513b7a96ece26e172b3533447ec706ec73a1",
+          "409e0976a3d3ac7efbfb4b191b23a4546bccf3fc40d83f493341ed918f32f21e",
+          "ce52199f3255ec1316e89316838ce697df87e3170cd4cd54b6f2a34fce7a30ec",
+          "1760675d2eb0e1fb178bf232d6bd0528b7343e9350d7404498ea6c0dd3b9031d",
+          "beadbd1a009b783c258f447a077f5485e56568a9b19081902b2d84fa70706011",
+          "8cb937faeaa6080a5ffeb9206565fcbadf1079210aafc2355290b5ef74fd4f94",
+          "cdfb2bb30d33e873f3bb790a3a0ce7351737d6fd79f04eeb953a0943631dda9f",
+          "0980f519131e71044588435f0b20ec706cf0af5a22f0dc7251342e6efc4c407c",
+          "dccd592956560165dcc9959c919ed5d2c3e04288b489d7716ff505e89e2bd5e4",
+          "9727ffdedb41ea3bfa5e2b44210c65d822f6f78cbc0944f3d07ad7e04f21907d",
+          "3061e0b08b4c4ef36d3156e8b66011a1dd80f4ba3712984b09f5c26660551ebc",
+          "2fedd902b8eceddf56279a3e9931bd2ddbed05cae43329ec4e11a90c9638d33d",
+          "ecb5fa88aa78c20eeb5c8b8ca2e616368748dd9e00cf2ad220b4826f673be63c",
+          "15a9fd42e855bc7909db44dddf23ed8710519c226cccca4b5235892983a1ced8",
+          "60cc24fbcc732b715d9880f5ea5d4230cdbbd83ff0af64c218af72645cdf6ec8",
+          "23bebe03ae484481171a3f5e4b249fdf65a2b344ff94d5943e1cad47467cea40",
+          "1494db92de5670feeafb8d5b7cc108ce730e268dfde7cbdc2cf4405bccbc3b76",
+          "aa3f09a58a39830e76ff4a265d1225021af85bd56e1207c4d33eab719f5b9dce",
+          "14f6581bbc5c2e501d73e99c7cb31d0c89e949083e8b557c8206a687228522cd",
+          "5578bfedf9a4531e0d38dfee5c5bd9b38d5cabc66060d9adb84dfee4f1567ce6",
+          "8b44cb90bf2af5d7a59d913f27caeb2157e97b1b0714e9ecf17e338aeef2da77",
+          "fae6b10ff39880aa91f1a914f5b05f88e9cdaced2097fdd03a36b21d1dffc341",
+          "b118aae70e853a02e1c2a4132493ffeeea77509217cdd03604ee643b197157d9",
+          "018cfd0207c677999c6aff7acfcbfb347e905994ace23ad918f9f12d27d0d812",
+          "fd1eff5607b5e17ee90bc501dbaa92345a0a192b100eb9ff6bed2b263a05bc7d",
+          "695be87eee3fec53ea18bea5fedce1f6ec53a8270850f2245654f1f13b754d08",
+          "52bfdcb33ff43cce4c2f0666b956f998795a4b1241581dc2677ff6165b535a10",
+          "e519683bbe28d3beeac5c2b607e2cdda9738f2569258af3459a0aaebbda8882d",
+          "e6fa7e20e048edb8c937a93f28b97fd66ae600dbb1ce36a1db1e542d6d6e4c06",
+          "a316c42ed5f59925026e28a07f11b5a06d088426de7b0cadfb50bf457fece143",
+          "5c402ba9c9e3495440128665d4de2c229821bb2d68652a2c3d0525eb23b35b3b",
+          "398197836792a2edbe54fa7a55d5b9d7549383d82489e54b31f815b519cf5b96",
+          "c2f072191a1d17c238560f27f0208dbb894980cb2a4070529c886bf5a159eec2",
+          "5d62e34d34a7c0751446b5f3234de2d134f60086848247a1bca5098ed71c158e",
+          "3af056407b49fb764afdba04912b24d4312cc51c646061742d316c8e6f0091fe",
+          "d01b0f16188130cc211186cf09f5b31964a44d42fb2936e3651e9f0b3abad988",
+          "65032e7895c11d599d9d5a80c58e825594d67d8d93dc568672510458626ed322",
+          "9e53ec4abe85983f0c51c2c978fbde69ecf04aefa06c2628b4f4b153c6bf2cde",
+          "bead9a15744dc6658aeb8478daec913b8556039e5b71fad030264101da783bed",
+          "bb12625b0097c33eb9db74846bce95b7e2d2a8d3a759c784ad9e67ea35797869",
+          "af1beaeb92b46e38dc0fcda928e0263a7f2316854f0d97b9f2fd53e84024f90c",
+          "bcb296d93fa502074d2936a55b15d1c56a20f06e6eca13801667f2dc4425b4c3",
+          "c6a84616470e9adc5bda3f37b48e372bbb7c8f156a533a77e17af2709cbf59f0",
+          "90ac1dc9c7a35c277527bba6b65626edf742becb40929c38fbe1470c38bd34f6",
+          "d7f029c009a67c728e53b79e9c64a60bd3e0ba22bed5fbe9ec43dcfff5831065",
+          "eb03ab0e22ade0d7db4c6ee574b0da827899974228cdf4f17d059bc81ef387ee",
+          "9e1f944dcee30ac8050a4d6b374e5b2fa6cf5cf39f6a639ce32ad5a2e07a0c3d",
+          "534e64aa93b3846ecc3ddbd9805b71f55f788144334f9104938de5d7122168a2",
+          "3763b6e6819e01b9d2fb681ffb8c4044ee09511fb156e5c8ca22b2de0e129869",
+          "2589f4f509a25682947dd2a8e4237755183cf0320fb6c7050392b1ac866214f1",
+          "fc2b57de1e6e6d6df5604cd69cf248cac605f0dee6ee0e8a197b8f723a575df1",
+          "c835729ca61aed29fb045f884f63405fe7ee8b5ef166976303ee8598d363773c",
+          "aaec08bed09f54a9b4169de5c7ae7564131570e87bde9e410781c42ef5e470dd",
+          "fedca1f6f426d163a8cd7421b57ba7bb7a9ba3e4742f9edbba4c5577a9174e65",
+          "616d22cb8a5e2f7217af09361325ca2ace4ff60831a921b4ec47c4b9c8af0583",
+          "832ee14fc8c10b61a305a31edc62801556db502dab1ca2439a702577e4804179",
+          "7dffd324b26af016ae33428aa2fcc0a387d5a235f52b004c71341c6c2eddddce",
+          "587b90f45a541a9bd54cfa7c2b3c661d2ef7645c4ce9fa04c5a66e9cb2182f4a",
+          "d69cf8e0202b0f4b716ae02f21bafabdba263c6ebdb4ba9b2c956a666b0bee1b",
+          "e451db13d1e648e7f3b04bc95f5b3fffb3bbbbe0ff6c652d7d3050a8561b7092",
+          "b3a828a6a31d344272315dd59cc96d769300260d8a59631702be75a8737ea2cb",
+          "6ed27d1bea1ff29eaf12461abd5e7fd9ff1fd9de4bd49860c3341dc83ce50443",
+          "c1c058b1342204cc60df03f8bdab311d3d7fe026fa2c4664103965377642416d",
+          "090ac5adf5c3c10d0c87e05bca230b36ebf929bde3feef601cf4b102dbf4c173",
+          "8f566f390eb15e09b2b96f051eedf910c749cfee7bf9b7dbd31c2164041559d9",
+          "de11112fc88682cd1acd2b8edb546b96aa29f78b8d77440dbd7064853d2fa101",
+          "adc458f05a7ef678e781b4957369fef26b427fc140fb7246a4cc924ec1f12626",
+          "87703c4c1d88100f4888a09d567c935dddbc600244da67dd70118244b044854c",
+          "33e1c7ebbd4dd69bed3260e43bf1a7d14cc83cdf089e29e8e29dcc92da25a6ba",
+          "ac58ce828230f6b172f999451625de311067ff92c1a26ad078e80eb651a76a3b",
+          "4ff05811f5355ae70b143d822447eb215e669ec66b8eb8f6a177be373ad0ef55",
+          "e9d14dcc826e373875c8c6d2a6f175dd5bbed04db316ab097759727bf8c25b27",
+          "6e87e8154e2c1de4b1bcead47d2f663de8d76e4b2ea104a4a19224156bf93892",
+          "cbbd84486af3c8484d08b55118162745e9072e53e3888e177ece9a3e722d12c8",
+          "2722bd7539da234c2e2fd397a7a7a1c6b4278d7ea540653d678a20efaeae07c8",
+          "ebf52b4ff4bdab7c3c68dd74890a8496b2bf7579e944622dce226f2ece9e44ff",
+          "32cbb9f23a688e72e4d8d86c74e0ab73d2e0bcc18951e4c3176813d5c1bd64c9",
+          "081d92a893196ddcf35779d234fe52437d6682538b04295b36fd8a9dd79071ce",
+          "407d538633b2a6d5f5d5cb13134723ffa7b2f405482be2c6777e91ecabac9817",
+          "ccc62195f0e33cc21f0579f9891930605370b52e2454dad82c6acf812f375622",
+          "f82c5f4fd0ad2430587fc19c17d57780148735ea8fafefa827fd53491fb1fc2f",
+          "64cf40bd55a08bd3248de0668a0a2b9d82c479b27f33cf96a0346c1dc222053a",
+          "b90573b78d8591a425f1b5c8ec7a7e08e47ead8015f4c21661e7cd0fa795dd54",
+          "3bd505bbdffe2e7c7e22db05920c056406b0f372ec00e6c4a304f421fba563f5",
+          "8bfeb51f3472b0acc1fd993656f46ec637d2e411c9c03fe4b5f2e64fbd850acd",
+          "935f8271deb211e4fee917769e2d1c3509b29035deb7cb3037da74701b65621f",
+          "c71ba646d5e4a6f3569e9996fd47b598556d9d1d360bdce4bfacfe9ff3efc89e",
+          "ff9417acf3548246722b9237569af407f2d4bfc0632cbe1aafaa17b0c055d830",
+          "fb49df13dcf30b3bd17c91fdc01dbe105911313d737fb0f4622275cead01a754",
+          "255423caf7f80db6609a11cd09e52114f358562a54b82d37903d130806499103",
+          "fc37bc52a431d782c3bc7e93b0c35fa1f0acdbb05fdc076be963d33b6109c0ca"
+        ],
+        "maximum_route_budget_used": 40,
+        "final_fire": {
+          "turn": 120,
+          "burning": 162,
+          "burned": 609,
+          "total_ignitions": 771,
+          "secondary_foci": 10
+        },
+        "wind_predictor_calls": {
+          "ridge": 118,
+          "persistence": 3
+        },
+        "confirmed_forecast_departures": [],
+        "destination_changes": [],
+        "unassigned_reasons": {
+          "retry_cooldown": 37
+        },
+        "meeting_states": {
+          "R1": "SAFE",
+          "R2": "SAFE",
+          "R3": "SAFE",
+          "R4": "SAFE",
+          "R5": "SAFE",
+          "R6": "SAFE",
+          "R7": "SAFE",
+          "R8": "SAFE"
+        }
+      },
+      "intelligent": {
+        "metrics": {
+          "safe_meeting_arrivals": 478,
+          "people_ever_reached_meeting": 478,
+          "mean_turns_to_first_meeting": 70.88702928870293,
+          "median_turns_to_first_meeting": 74.0,
+          "worst_turns_to_first_meeting": 120,
+          "people_exposed_smoke": 76,
+          "accumulated_smoke_dose": 37.96602217118897,
+          "people_close_to_fire": 16,
+          "fire_contacts": 4,
+          "incapacitated": 9,
+          "routes_recalculated": 2307,
+          "preventive_reassignments": 145,
+          "maximum_congestion": 19,
+          "distance_traveled": 132915,
+          "people_in_cells_that_later_became_hazardous": 53,
+          "unsafe_waiting_person_turns": 635,
+          "destination_became_unsafe_before_arrival": 0,
+          "confirmed_forecast_departures": 28,
+          "unconfirmed_forecast_departures": 172,
+          "temporary_goals": 2,
+          "temporal_routes_rejected": 302,
+          "unassigned": 12,
+          "state_counts": {
+            "WAITING_SAFE": 558,
+            "WAITING_UNSAFE": 16,
+            "EVACUATING": 818,
+            "REASSIGNING": 0,
+            "AT_MEETING_AREA": 478,
+            "INCAPACITATED": 9
+          }
+        },
+        "elapsed_seconds": 114.88919060002081,
+        "initialization_seconds": 1.0123999000061303,
+        "seconds_per_turn": 0.9489732558334557,
+        "physical_trajectory": [
+          "eb50a20c29d2d4d56d598391ea18569aaf011a38c9e2ba9575ea6b9e71b14c19",
+          "d8799580a0f50c876ad84e55dd2f28f2279bd2f14cc6784275339ac4ea50ee61",
+          "ec48b060d1a11294ab16ff030a46c611af76e3323931598469f78601e01b2e51",
+          "6deb102aadd55b6c417ab875b2d4f81b386d813b86eac916c8201356ec3a43d1",
+          "ba62c02b96de7773a782e146feab90dab90ec7337f557f5c8882ef9e3d5cba45",
+          "1fabeeaefafb434e1c76ec320e7f164c3f790005f930467ca4dcd0915a42a488",
+          "987709ba0a0f5f7ca2240ebb2f6f20c93176e6991f94529252041f288e52c54f",
+          "5040b749648fe1bf4d82c5848fcaf6c20840293b131dfeb9b308670016317e20",
+          "e9e1dc71bafa2bfa8680d51803086e9e98e87a05bad3a80c287cb473972429a7",
+          "3afa0da7c25141cddc1d68b9c770db1ebd10ad17c56eaa86dfb864a3d277c189",
+          "0dbe5221c2091c47eded8e45720f6f67554044efa11867fb1ca1d978967a065f",
+          "481b265338d6727d929eccfc7da75414be7bbc7c5be5da6890faf34cf3750582",
+          "b280f3a637ef25126787e7dbdede4ddb0c2c13993b4acad920058623696039fc",
+          "64d71820aead7afa08a926ee98dc12fc3537ee41cef2cd759fe3bc200b94d38e",
+          "41b29a20fd3107496bef915855f3e64270eff729d35bf06298e227633f8ae7ce",
+          "e708e8baf44a1790628a197cfe4c8e61b5d315efa1dc7eb55228482d0824472a",
+          "b05b2b6f9125c645744452cf993167c09fbcf72954cc3e3ac504cf718d1a42a7",
+          "311d86856b08378bc891ba71793996189357e89ef587daec829809579fc1c6a2",
+          "84c52e7125d2a120345810feb0f646b1a15fae6ff84de754654fe1f1cdfffabc",
+          "868556a5085c3d3293ff4944b10cb914169a2a45c817cbbd34d70a098ad6c9ab",
+          "cf14923f7d50ddcd6b677d4b4c8e7de4a30346a8336daa47d0009c8944f2a490",
+          "b1ac4ea4b74f75ff3dc16ac69d89cade95902000505a3b1a5e10a59084000134",
+          "4034cc4c77d85e2c128584012ec0eb877f2494d1fb90164c640c4ed3dff5cf56",
+          "c73693565141eedd09a540186206c1568d8d93770122ca916730622d5436e9f8",
+          "bc82be320011d07dac46f10fa558f490a896740e3d6378718148b78ef2ea5a28",
+          "beb21fbfa193b32b28276599a04536d2fd412ecf1b84df376df5bd4833dd1619",
+          "5db28233b89dd00f6e13ef7a9abf6b2124df61c512cba4b61ad47361856d8e1d",
+          "fb0da3ff921f0583bb6e866e5809266b957af9228180618044dad0cb1f3970ba",
+          "41fc58648a340b960fee80923a0a2f8ebf0f860ed73ce66129835aae9502e4a9",
+          "48e27896f3a29c24821e2bfbd55dc4ddc16f6bfd33324d60a1e5d13ac72695de",
+          "46b652a7c41c95d45d57d5b42e13513b7a96ece26e172b3533447ec706ec73a1",
+          "409e0976a3d3ac7efbfb4b191b23a4546bccf3fc40d83f493341ed918f32f21e",
+          "ce52199f3255ec1316e89316838ce697df87e3170cd4cd54b6f2a34fce7a30ec",
+          "1760675d2eb0e1fb178bf232d6bd0528b7343e9350d7404498ea6c0dd3b9031d",
+          "beadbd1a009b783c258f447a077f5485e56568a9b19081902b2d84fa70706011",
+          "8cb937faeaa6080a5ffeb9206565fcbadf1079210aafc2355290b5ef74fd4f94",
+          "cdfb2bb30d33e873f3bb790a3a0ce7351737d6fd79f04eeb953a0943631dda9f",
+          "0980f519131e71044588435f0b20ec706cf0af5a22f0dc7251342e6efc4c407c",
+          "dccd592956560165dcc9959c919ed5d2c3e04288b489d7716ff505e89e2bd5e4",
+          "9727ffdedb41ea3bfa5e2b44210c65d822f6f78cbc0944f3d07ad7e04f21907d",
+          "3061e0b08b4c4ef36d3156e8b66011a1dd80f4ba3712984b09f5c26660551ebc",
+          "2fedd902b8eceddf56279a3e9931bd2ddbed05cae43329ec4e11a90c9638d33d",
+          "ecb5fa88aa78c20eeb5c8b8ca2e616368748dd9e00cf2ad220b4826f673be63c",
+          "15a9fd42e855bc7909db44dddf23ed8710519c226cccca4b5235892983a1ced8",
+          "60cc24fbcc732b715d9880f5ea5d4230cdbbd83ff0af64c218af72645cdf6ec8",
+          "23bebe03ae484481171a3f5e4b249fdf65a2b344ff94d5943e1cad47467cea40",
+          "1494db92de5670feeafb8d5b7cc108ce730e268dfde7cbdc2cf4405bccbc3b76",
+          "aa3f09a58a39830e76ff4a265d1225021af85bd56e1207c4d33eab719f5b9dce",
+          "14f6581bbc5c2e501d73e99c7cb31d0c89e949083e8b557c8206a687228522cd",
+          "5578bfedf9a4531e0d38dfee5c5bd9b38d5cabc66060d9adb84dfee4f1567ce6",
+          "8b44cb90bf2af5d7a59d913f27caeb2157e97b1b0714e9ecf17e338aeef2da77",
+          "fae6b10ff39880aa91f1a914f5b05f88e9cdaced2097fdd03a36b21d1dffc341",
+          "b118aae70e853a02e1c2a4132493ffeeea77509217cdd03604ee643b197157d9",
+          "018cfd0207c677999c6aff7acfcbfb347e905994ace23ad918f9f12d27d0d812",
+          "fd1eff5607b5e17ee90bc501dbaa92345a0a192b100eb9ff6bed2b263a05bc7d",
+          "695be87eee3fec53ea18bea5fedce1f6ec53a8270850f2245654f1f13b754d08",
+          "52bfdcb33ff43cce4c2f0666b956f998795a4b1241581dc2677ff6165b535a10",
+          "e519683bbe28d3beeac5c2b607e2cdda9738f2569258af3459a0aaebbda8882d",
+          "e6fa7e20e048edb8c937a93f28b97fd66ae600dbb1ce36a1db1e542d6d6e4c06",
+          "a316c42ed5f59925026e28a07f11b5a06d088426de7b0cadfb50bf457fece143",
+          "5c402ba9c9e3495440128665d4de2c229821bb2d68652a2c3d0525eb23b35b3b",
+          "398197836792a2edbe54fa7a55d5b9d7549383d82489e54b31f815b519cf5b96",
+          "c2f072191a1d17c238560f27f0208dbb894980cb2a4070529c886bf5a159eec2",
+          "5d62e34d34a7c0751446b5f3234de2d134f60086848247a1bca5098ed71c158e",
+          "3af056407b49fb764afdba04912b24d4312cc51c646061742d316c8e6f0091fe",
+          "d01b0f16188130cc211186cf09f5b31964a44d42fb2936e3651e9f0b3abad988",
+          "65032e7895c11d599d9d5a80c58e825594d67d8d93dc568672510458626ed322",
+          "9e53ec4abe85983f0c51c2c978fbde69ecf04aefa06c2628b4f4b153c6bf2cde",
+          "bead9a15744dc6658aeb8478daec913b8556039e5b71fad030264101da783bed",
+          "bb12625b0097c33eb9db74846bce95b7e2d2a8d3a759c784ad9e67ea35797869",
+          "af1beaeb92b46e38dc0fcda928e0263a7f2316854f0d97b9f2fd53e84024f90c",
+          "bcb296d93fa502074d2936a55b15d1c56a20f06e6eca13801667f2dc4425b4c3",
+          "c6a84616470e9adc5bda3f37b48e372bbb7c8f156a533a77e17af2709cbf59f0",
+          "90ac1dc9c7a35c277527bba6b65626edf742becb40929c38fbe1470c38bd34f6",
+          "d7f029c009a67c728e53b79e9c64a60bd3e0ba22bed5fbe9ec43dcfff5831065",
+          "eb03ab0e22ade0d7db4c6ee574b0da827899974228cdf4f17d059bc81ef387ee",
+          "9e1f944dcee30ac8050a4d6b374e5b2fa6cf5cf39f6a639ce32ad5a2e07a0c3d",
+          "534e64aa93b3846ecc3ddbd9805b71f55f788144334f9104938de5d7122168a2",
+          "3763b6e6819e01b9d2fb681ffb8c4044ee09511fb156e5c8ca22b2de0e129869",
+          "2589f4f509a25682947dd2a8e4237755183cf0320fb6c7050392b1ac866214f1",
+          "fc2b57de1e6e6d6df5604cd69cf248cac605f0dee6ee0e8a197b8f723a575df1",
+          "c835729ca61aed29fb045f884f63405fe7ee8b5ef166976303ee8598d363773c",
+          "aaec08bed09f54a9b4169de5c7ae7564131570e87bde9e410781c42ef5e470dd",
+          "fedca1f6f426d163a8cd7421b57ba7bb7a9ba3e4742f9edbba4c5577a9174e65",
+          "616d22cb8a5e2f7217af09361325ca2ace4ff60831a921b4ec47c4b9c8af0583",
+          "832ee14fc8c10b61a305a31edc62801556db502dab1ca2439a702577e4804179",
+          "7dffd324b26af016ae33428aa2fcc0a387d5a235f52b004c71341c6c2eddddce",
+          "587b90f45a541a9bd54cfa7c2b3c661d2ef7645c4ce9fa04c5a66e9cb2182f4a",
+          "d69cf8e0202b0f4b716ae02f21bafabdba263c6ebdb4ba9b2c956a666b0bee1b",
+          "e451db13d1e648e7f3b04bc95f5b3fffb3bbbbe0ff6c652d7d3050a8561b7092",
+          "b3a828a6a31d344272315dd59cc96d769300260d8a59631702be75a8737ea2cb",
+          "6ed27d1bea1ff29eaf12461abd5e7fd9ff1fd9de4bd49860c3341dc83ce50443",
+          "c1c058b1342204cc60df03f8bdab311d3d7fe026fa2c4664103965377642416d",
+          "090ac5adf5c3c10d0c87e05bca230b36ebf929bde3feef601cf4b102dbf4c173",
+          "8f566f390eb15e09b2b96f051eedf910c749cfee7bf9b7dbd31c2164041559d9",
+          "de11112fc88682cd1acd2b8edb546b96aa29f78b8d77440dbd7064853d2fa101",
+          "adc458f05a7ef678e781b4957369fef26b427fc140fb7246a4cc924ec1f12626",
+          "87703c4c1d88100f4888a09d567c935dddbc600244da67dd70118244b044854c",
+          "33e1c7ebbd4dd69bed3260e43bf1a7d14cc83cdf089e29e8e29dcc92da25a6ba",
+          "ac58ce828230f6b172f999451625de311067ff92c1a26ad078e80eb651a76a3b",
+          "4ff05811f5355ae70b143d822447eb215e669ec66b8eb8f6a177be373ad0ef55",
+          "e9d14dcc826e373875c8c6d2a6f175dd5bbed04db316ab097759727bf8c25b27",
+          "6e87e8154e2c1de4b1bcead47d2f663de8d76e4b2ea104a4a19224156bf93892",
+          "cbbd84486af3c8484d08b55118162745e9072e53e3888e177ece9a3e722d12c8",
+          "2722bd7539da234c2e2fd397a7a7a1c6b4278d7ea540653d678a20efaeae07c8",
+          "ebf52b4ff4bdab7c3c68dd74890a8496b2bf7579e944622dce226f2ece9e44ff",
+          "32cbb9f23a688e72e4d8d86c74e0ab73d2e0bcc18951e4c3176813d5c1bd64c9",
+          "081d92a893196ddcf35779d234fe52437d6682538b04295b36fd8a9dd79071ce",
+          "407d538633b2a6d5f5d5cb13134723ffa7b2f405482be2c6777e91ecabac9817",
+          "ccc62195f0e33cc21f0579f9891930605370b52e2454dad82c6acf812f375622",
+          "f82c5f4fd0ad2430587fc19c17d57780148735ea8fafefa827fd53491fb1fc2f",
+          "64cf40bd55a08bd3248de0668a0a2b9d82c479b27f33cf96a0346c1dc222053a",
+          "b90573b78d8591a425f1b5c8ec7a7e08e47ead8015f4c21661e7cd0fa795dd54",
+          "3bd505bbdffe2e7c7e22db05920c056406b0f372ec00e6c4a304f421fba563f5",
+          "8bfeb51f3472b0acc1fd993656f46ec637d2e411c9c03fe4b5f2e64fbd850acd",
+          "935f8271deb211e4fee917769e2d1c3509b29035deb7cb3037da74701b65621f",
+          "c71ba646d5e4a6f3569e9996fd47b598556d9d1d360bdce4bfacfe9ff3efc89e",
+          "ff9417acf3548246722b9237569af407f2d4bfc0632cbe1aafaa17b0c055d830",
+          "fb49df13dcf30b3bd17c91fdc01dbe105911313d737fb0f4622275cead01a754",
+          "255423caf7f80db6609a11cd09e52114f358562a54b82d37903d130806499103",
+          "fc37bc52a431d782c3bc7e93b0c35fa1f0acdbb05fdc076be963d33b6109c0ca"
+        ],
+        "maximum_route_budget_used": 40,
+        "final_fire": {
+          "turn": 120,
+          "burning": 162,
+          "burned": 609,
+          "total_ignitions": 771,
+          "secondary_foci": 10
+        },
+        "wind_predictor_calls": {
+          "ridge": 118,
+          "persistence": 3
+        },
+        "confirmed_forecast_departures": [
+          {
+            "person_id": "P267",
+            "point": [
+              138,
+              24
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 3,
+            "confirmed_turn": 34
+          },
+          {
+            "person_id": "P257",
+            "point": [
+              138,
+              24
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 5,
+            "confirmed_turn": 34
+          },
+          {
+            "person_id": "P265",
+            "point": [
+              140,
+              24
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 7,
+            "confirmed_turn": 34
+          },
+          {
+            "person_id": "P263",
+            "point": [
+              140,
+              24
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 9,
+            "confirmed_turn": 34
+          },
+          {
+            "person_id": "P236",
+            "point": [
+              138,
+              24
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 12,
+            "confirmed_turn": 34
+          },
+          {
+            "person_id": "P256",
+            "point": [
+              140,
+              24
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 12,
+            "confirmed_turn": 34
+          },
+          {
+            "person_id": "P246",
+            "point": [
+              138,
+              24
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 13,
+            "confirmed_turn": 34
+          },
+          {
+            "person_id": "P260",
+            "point": [
+              140,
+              24
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 14,
+            "confirmed_turn": 34
+          },
+          {
+            "person_id": "P264",
+            "point": [
+              138,
+              24
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 15,
+            "confirmed_turn": 34
+          },
+          {
+            "person_id": "P251",
+            "point": [
+              138,
+              24
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 16,
+            "confirmed_turn": 34
+          },
+          {
+            "person_id": "P258",
+            "point": [
+              140,
+              24
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 16,
+            "confirmed_turn": 34
+          },
+          {
+            "person_id": "P238",
+            "point": [
+              140,
+              24
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 18,
+            "confirmed_turn": 34
+          },
+          {
+            "person_id": "P255",
+            "point": [
+              138,
+              24
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 18,
+            "confirmed_turn": 34
+          },
+          {
+            "person_id": "P266",
+            "point": [
+              138,
+              24
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 19,
+            "confirmed_turn": 34
+          },
+          {
+            "person_id": "P261",
+            "point": [
+              138,
+              24
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 20,
+            "confirmed_turn": 34
+          },
+          {
+            "person_id": "P254",
+            "point": [
+              138,
+              24
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 21,
+            "confirmed_turn": 34
+          },
+          {
+            "person_id": "P240",
+            "point": [
+              138,
+              24
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 23,
+            "confirmed_turn": 34
+          },
+          {
+            "person_id": "P253",
+            "point": [
+              138,
+              24
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 24,
+            "confirmed_turn": 34
+          },
+          {
+            "person_id": "P262",
+            "point": [
+              140,
+              24
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 25,
+            "confirmed_turn": 34
+          },
+          {
+            "person_id": "P241",
+            "point": [
+              138,
+              24
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 27,
+            "confirmed_turn": 34
+          },
+          {
+            "person_id": "P249",
+            "point": [
+              138,
+              24
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 28,
+            "confirmed_turn": 34
+          },
+          {
+            "person_id": "P248",
+            "point": [
+              138,
+              24
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 29,
+            "confirmed_turn": 34
+          },
+          {
+            "person_id": "P242",
+            "point": [
+              138,
+              24
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 30,
+            "confirmed_turn": 34
+          },
+          {
+            "person_id": "P244",
+            "point": [
+              138,
+              24
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 31,
+            "confirmed_turn": 34
+          },
+          {
+            "person_id": "P237",
+            "point": [
+              138,
+              24
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 32,
+            "confirmed_turn": 34
+          },
+          {
+            "person_id": "P239",
+            "point": [
+              138,
+              24
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 33,
+            "confirmed_turn": 34
+          },
+          {
+            "person_id": "P261",
+            "point": [
+              126,
+              32
+            ],
+            "reason": "unsafe_wait",
+            "departure_turn": 52,
+            "confirmed_turn": 89
+          },
+          {
+            "person_id": "P262",
+            "point": [
+              127,
+              35
+            ],
+            "reason": "temporal_route",
+            "departure_turn": 81,
+            "confirmed_turn": 90
+          }
+        ],
+        "destination_changes": [
+          {
+            "turn": 39,
+            "person_id": "P223",
+            "from": "R5",
+            "to": "INTERMEDIATE",
+            "reason": "temporal_route"
+          },
+          {
+            "turn": 81,
+            "person_id": "P262",
+            "from": "R5",
+            "to": "INTERMEDIATE",
+            "reason": "temporal_route"
+          },
+          {
+            "turn": 102,
+            "person_id": "P281",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 102,
+            "person_id": "P161",
+            "from": "R5",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 102,
+            "person_id": "P160",
+            "from": "R5",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 102,
+            "person_id": "P144",
+            "from": "R5",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 102,
+            "person_id": "P140",
+            "from": "R5",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 102,
+            "person_id": "P139",
+            "from": "R5",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 102,
+            "person_id": "P133",
+            "from": "R5",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 102,
+            "person_id": "P149",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 102,
+            "person_id": "P155",
+            "from": "R5",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 102,
+            "person_id": "P176",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 102,
+            "person_id": "P192",
+            "from": "R5",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 102,
+            "person_id": "P193",
+            "from": "R5",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 102,
+            "person_id": "P201",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 102,
+            "person_id": "P320",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 102,
+            "person_id": "P327",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 102,
+            "person_id": "P347",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 102,
+            "person_id": "P345",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 102,
+            "person_id": "P362",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 102,
+            "person_id": "P336",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 102,
+            "person_id": "P340",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 102,
+            "person_id": "P350",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 102,
+            "person_id": "P352",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 102,
+            "person_id": "P353",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 102,
+            "person_id": "P355",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 102,
+            "person_id": "P356",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 102,
+            "person_id": "P358",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 102,
+            "person_id": "P360",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 102,
+            "person_id": "P363",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 102,
+            "person_id": "P366",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P182",
+            "from": "R5",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P184",
+            "from": "R5",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P367",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P369",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P296",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P280",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P289",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P290",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 103,
+            "person_id": "P145",
+            "from": "R5",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 104,
+            "person_id": "P334",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 104,
+            "person_id": "P285",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 104,
+            "person_id": "P291",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 104,
+            "person_id": "P194",
+            "from": "R5",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 104,
+            "person_id": "P317",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 104,
+            "person_id": "P100",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 104,
+            "person_id": "P113",
+            "from": "R5",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 104,
+            "person_id": "P1276",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 104,
+            "person_id": "P1278",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 104,
+            "person_id": "P1279",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 104,
+            "person_id": "P1280",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 104,
+            "person_id": "P1281",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 104,
+            "person_id": "P1282",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 104,
+            "person_id": "P1284",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 104,
+            "person_id": "P1285",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 104,
+            "person_id": "P1286",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 104,
+            "person_id": "P1287",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 104,
+            "person_id": "P1290",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 104,
+            "person_id": "P1291",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 105,
+            "person_id": "P170",
+            "from": "R5",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 105,
+            "person_id": "P1292",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 105,
+            "person_id": "P1293",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 105,
+            "person_id": "P1294",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 105,
+            "person_id": "P1295",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 105,
+            "person_id": "P1296",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 105,
+            "person_id": "P1299",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 105,
+            "person_id": "P130",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 105,
+            "person_id": "P1301",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 105,
+            "person_id": "P1302",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 105,
+            "person_id": "P1303",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 105,
+            "person_id": "P1304",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 105,
+            "person_id": "P1305",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 105,
+            "person_id": "P1307",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 105,
+            "person_id": "P132",
+            "from": "R5",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 105,
+            "person_id": "P134",
+            "from": "R5",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 105,
+            "person_id": "P143",
+            "from": "R5",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 105,
+            "person_id": "P150",
+            "from": "R5",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 105,
+            "person_id": "P151",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 105,
+            "person_id": "P152",
+            "from": "R5",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 105,
+            "person_id": "P153",
+            "from": "R5",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 105,
+            "person_id": "P154",
+            "from": "R5",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 105,
+            "person_id": "P162",
+            "from": "R5",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 105,
+            "person_id": "P173",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 105,
+            "person_id": "P174",
+            "from": "R5",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 105,
+            "person_id": "P175",
+            "from": "R5",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 106,
+            "person_id": "P298",
+            "from": "R5",
+            "to": "R6",
+            "reason": "congestion"
+          },
+          {
+            "turn": 106,
+            "person_id": "P178",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 106,
+            "person_id": "P183",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 106,
+            "person_id": "P185",
+            "from": "R5",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 106,
+            "person_id": "P187",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 106,
+            "person_id": "P195",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 106,
+            "person_id": "P197",
+            "from": "R5",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 106,
+            "person_id": "P198",
+            "from": "R5",
+            "to": "R4",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 106,
+            "person_id": "P200",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 106,
+            "person_id": "P309",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 106,
+            "person_id": "P314",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 106,
+            "person_id": "P315",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 106,
+            "person_id": "P322",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 106,
+            "person_id": "P335",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 106,
+            "person_id": "P401",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 106,
+            "person_id": "P402",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 106,
+            "person_id": "P404",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 106,
+            "person_id": "P409",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 106,
+            "person_id": "P410",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 106,
+            "person_id": "P412",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 106,
+            "person_id": "P417",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 106,
+            "person_id": "P420",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 106,
+            "person_id": "P421",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 106,
+            "person_id": "P425",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 106,
+            "person_id": "P426",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 106,
+            "person_id": "P429",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 107,
+            "person_id": "P430",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 107,
+            "person_id": "P432",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 107,
+            "person_id": "P433",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 107,
+            "person_id": "P434",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 107,
+            "person_id": "P158",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 107,
+            "person_id": "P301",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 108,
+            "person_id": "P330",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 109,
+            "person_id": "P326",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 110,
+            "person_id": "P141",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 110,
+            "person_id": "P137",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 111,
+            "person_id": "P269",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 111,
+            "person_id": "P271",
+            "from": "R5",
+            "to": "R6",
+            "reason": "congestion"
+          },
+          {
+            "turn": 112,
+            "person_id": "P295",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 112,
+            "person_id": "P333",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 113,
+            "person_id": "P273",
+            "from": "R5",
+            "to": "R6",
+            "reason": "congestion"
+          },
+          {
+            "turn": 113,
+            "person_id": "P278",
+            "from": "R5",
+            "to": "R6",
+            "reason": "congestion"
+          },
+          {
+            "turn": 113,
+            "person_id": "P136",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 113,
+            "person_id": "P319",
+            "from": "R5",
+            "to": "R6",
+            "reason": "congestion"
+          },
+          {
+            "turn": 114,
+            "person_id": "P407",
+            "from": "R5",
+            "to": "R6",
+            "reason": "congestion"
+          },
+          {
+            "turn": 114,
+            "person_id": "P297",
+            "from": "R5",
+            "to": "R6",
+            "reason": "congestion"
+          },
+          {
+            "turn": 114,
+            "person_id": "P142",
+            "from": "R5",
+            "to": "R6",
+            "reason": "congestion"
+          },
+          {
+            "turn": 114,
+            "person_id": "P323",
+            "from": "R5",
+            "to": "R6",
+            "reason": "congestion"
+          },
+          {
+            "turn": 114,
+            "person_id": "P131",
+            "from": "R5",
+            "to": "R6",
+            "reason": "congestion"
+          },
+          {
+            "turn": 114,
+            "person_id": "P148",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 115,
+            "person_id": "P135",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 116,
+            "person_id": "P138",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 116,
+            "person_id": "P157",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 119,
+            "person_id": "P408",
+            "from": "R5",
+            "to": "R6",
+            "reason": "congestion"
+          },
+          {
+            "turn": 119,
+            "person_id": "P329",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 119,
+            "person_id": "P270",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 119,
+            "person_id": "P279",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 119,
+            "person_id": "P310",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 119,
+            "person_id": "P146",
+            "from": "R5",
+            "to": "R6",
+            "reason": "future_destination"
+          },
+          {
+            "turn": 119,
+            "person_id": "P147",
+            "from": "R5",
+            "to": "R6",
+            "reason": "congestion"
+          },
+          {
+            "turn": 119,
+            "person_id": "P163",
+            "from": "R5",
+            "to": "R6",
+            "reason": "congestion"
+          }
+        ],
+        "unassigned_reasons": {
+          "retry_cooldown": 8,
+          "budget_exhausted": 3
+        },
+        "meeting_states": {
+          "R1": "SAFE",
+          "R2": "SAFE",
+          "R3": "SAFE",
+          "R4": "SAFE",
+          "R5": "SAFE",
+          "R6": "SAFE",
+          "R7": "SAFE",
+          "R8": "SAFE"
+        }
+      },
+      "identical_physical_trajectory": true
+    }
+  ],
+  "aggregate": {
+    "traditional": {
+      "safe_meeting_arrivals": {
+        "mean": 214,
+        "median": 214.0,
+        "worst": 207,
+        "measured_scenarios": 2
+      },
+      "people_ever_reached_meeting": {
+        "mean": 214,
+        "median": 214.0,
+        "worst": 221,
+        "measured_scenarios": 2
+      },
+      "mean_turns_to_first_meeting": {
+        "mean": 52.28373445253241,
+        "median": 52.28373445253241,
+        "worst": 53.18099547511312,
+        "measured_scenarios": 2
+      },
+      "median_turns_to_first_meeting": {
+        "mean": 51,
+        "median": 51.0,
+        "worst": 51,
+        "measured_scenarios": 2
+      },
+      "worst_turns_to_first_meeting": {
+        "mean": 120,
+        "median": 120.0,
+        "worst": 120,
+        "measured_scenarios": 2
+      },
+      "people_exposed_smoke": {
+        "mean": 95,
+        "median": 95.0,
+        "worst": 116,
+        "measured_scenarios": 2
+      },
+      "accumulated_smoke_dose": {
+        "mean": 103.6194133557721,
+        "median": 103.6194133557721,
+        "worst": 130.84731226980628,
+        "measured_scenarios": 2
+      },
+      "people_close_to_fire": {
+        "mean": 35.5,
+        "median": 35.5,
+        "worst": 44,
+        "measured_scenarios": 2
+      },
+      "fire_contacts": {
+        "mean": 1,
+        "median": 1.0,
+        "worst": 2,
+        "measured_scenarios": 2
+      },
+      "incapacitated": {
+        "mean": 31,
+        "median": 31.0,
+        "worst": 39,
+        "measured_scenarios": 2
+      },
+      "routes_recalculated": {
+        "mean": 104,
+        "median": 104.0,
+        "worst": 138,
+        "measured_scenarios": 2
+      },
+      "preventive_reassignments": {
+        "mean": 0,
+        "median": 0.0,
+        "worst": 0,
+        "measured_scenarios": 2
+      },
+      "maximum_congestion": {
+        "mean": 18.5,
+        "median": 18.5,
+        "worst": 19,
+        "measured_scenarios": 2
+      },
+      "distance_traveled": {
+        "mean": 112335.5,
+        "median": 112335.5,
+        "worst": 113409,
+        "measured_scenarios": 2
+      },
+      "people_in_cells_that_later_became_hazardous": {
+        "mean": 76.5,
+        "median": 76.5,
+        "worst": 86,
+        "measured_scenarios": 2
+      },
+      "unsafe_waiting_person_turns": {
+        "mean": 2205,
+        "median": 2205.0,
+        "worst": 2518,
+        "measured_scenarios": 2
+      },
+      "destination_became_unsafe_before_arrival": {
+        "mean": 142.5,
+        "median": 142.5,
+        "worst": 285,
+        "measured_scenarios": 2
+      },
+      "confirmed_forecast_departures": {
+        "mean": 0,
+        "median": 0.0,
+        "worst": 0,
+        "measured_scenarios": 2
+      },
+      "unconfirmed_forecast_departures": {
+        "mean": 0,
+        "median": 0.0,
+        "worst": 0,
+        "measured_scenarios": 2
+      },
+      "temporary_goals": {
+        "mean": 0,
+        "median": 0.0,
+        "worst": 0,
+        "measured_scenarios": 2
+      },
+      "temporal_routes_rejected": {
+        "mean": 0,
+        "median": 0.0,
+        "worst": 0,
+        "measured_scenarios": 2
+      },
+      "unassigned": {
+        "mean": 46,
+        "median": 46.0,
+        "worst": 56,
+        "measured_scenarios": 2
+      }
+    },
+    "intelligent": {
+      "safe_meeting_arrivals": {
+        "mean": 444.5,
+        "median": 444.5,
+        "worst": 411,
+        "measured_scenarios": 2
+      },
+      "people_ever_reached_meeting": {
+        "mean": 462,
+        "median": 462.0,
+        "worst": 478,
+        "measured_scenarios": 2
+      },
+      "mean_turns_to_first_meeting": {
+        "mean": 70.79777473403757,
+        "median": 70.79777473403757,
+        "worst": 70.88702928870293,
+        "measured_scenarios": 2
+      },
+      "median_turns_to_first_meeting": {
+        "mean": 73.75,
+        "median": 73.75,
+        "worst": 74.0,
+        "measured_scenarios": 2
+      },
+      "worst_turns_to_first_meeting": {
+        "mean": 120,
+        "median": 120.0,
+        "worst": 120,
+        "measured_scenarios": 2
+      },
+      "people_exposed_smoke": {
+        "mean": 54,
+        "median": 54.0,
+        "worst": 76,
+        "measured_scenarios": 2
+      },
+      "accumulated_smoke_dose": {
+        "mean": 34.80428486461423,
+        "median": 34.80428486461423,
+        "worst": 37.96602217118897,
+        "measured_scenarios": 2
+      },
+      "people_close_to_fire": {
+        "mean": 16.5,
+        "median": 16.5,
+        "worst": 17,
+        "measured_scenarios": 2
+      },
+      "fire_contacts": {
+        "mean": 2,
+        "median": 2.0,
+        "worst": 4,
+        "measured_scenarios": 2
+      },
+      "incapacitated": {
+        "mean": 8,
+        "median": 8.0,
+        "worst": 9,
+        "measured_scenarios": 2
+      },
+      "routes_recalculated": {
+        "mean": 2352,
+        "median": 2352.0,
+        "worst": 2397,
+        "measured_scenarios": 2
+      },
+      "preventive_reassignments": {
+        "mean": 205.5,
+        "median": 205.5,
+        "worst": 266,
+        "measured_scenarios": 2
+      },
+      "maximum_congestion": {
+        "mean": 19,
+        "median": 19.0,
+        "worst": 19,
+        "measured_scenarios": 2
+      },
+      "distance_traveled": {
+        "mean": 134353,
+        "median": 134353.0,
+        "worst": 135791,
+        "measured_scenarios": 2
+      },
+      "people_in_cells_that_later_became_hazardous": {
+        "mean": 49.5,
+        "median": 49.5,
+        "worst": 53,
+        "measured_scenarios": 2
+      },
+      "unsafe_waiting_person_turns": {
+        "mean": 761.5,
+        "median": 761.5,
+        "worst": 888,
+        "measured_scenarios": 2
+      },
+      "destination_became_unsafe_before_arrival": {
+        "mean": 7,
+        "median": 7.0,
+        "worst": 14,
+        "measured_scenarios": 2
+      },
+      "confirmed_forecast_departures": {
+        "mean": 33,
+        "median": 33.0,
+        "worst": 28,
+        "measured_scenarios": 2
+      },
+      "unconfirmed_forecast_departures": {
+        "mean": 111,
+        "median": 111.0,
+        "worst": 172,
+        "measured_scenarios": 2
+      },
+      "temporary_goals": {
+        "mean": 2,
+        "median": 2.0,
+        "worst": 2,
+        "measured_scenarios": 2
+      },
+      "temporal_routes_rejected": {
+        "mean": 195,
+        "median": 195.0,
+        "worst": 302,
+        "measured_scenarios": 2
+      },
+      "unassigned": {
+        "mean": 10,
+        "median": 10.0,
+        "worst": 12,
+        "measured_scenarios": 2
+      }
+    },
+    "paired_risk_comparison": {
+      "people_exposed_smoke": {
+        "intelligent_wins": 2,
+        "ties": 0,
+        "traditional_wins": 0,
+        "mean_delta": -41
+      },
+      "accumulated_smoke_dose": {
+        "intelligent_wins": 2,
+        "ties": 0,
+        "traditional_wins": 0,
+        "mean_delta": -68.81512849115786
+      },
+      "people_close_to_fire": {
+        "intelligent_wins": 2,
+        "ties": 0,
+        "traditional_wins": 0,
+        "mean_delta": -19
+      },
+      "fire_contacts": {
+        "intelligent_wins": 0,
+        "ties": 1,
+        "traditional_wins": 1,
+        "mean_delta": 1
+      },
+      "incapacitated": {
+        "intelligent_wins": 2,
+        "ties": 0,
+        "traditional_wins": 0,
+        "mean_delta": -23
+      },
+      "unsafe_waiting_person_turns": {
+        "intelligent_wins": 2,
+        "ties": 0,
+        "traditional_wins": 0,
+        "mean_delta": -1443.5
+      },
+      "destination_became_unsafe_before_arrival": {
+        "intelligent_wins": 1,
+        "ties": 1,
+        "traditional_wins": 0,
+        "mean_delta": -135.5
+      },
+      "people_in_cells_that_later_became_hazardous": {
+        "intelligent_wins": 2,
+        "ties": 0,
+        "traditional_wins": 0,
+        "mean_delta": -27
+      }
+    },
+    "consistent_risk_improvement": true
+  },
+  "complete": true,
+  "definitions": {
+    "confirmed_forecast_departures": "Departure explicitly triggered by forecast; abandoned cell actually dangerous later within horizon and person absent at confirmation. Observed proxy, not proven prevented injury.",
+    "smoke_dose": "Existing ExposureTracker cumulative dose; stops accumulating after incapacitation.",
+    "arrival_times": "First arrival among people who reached an available area. Unreached are censored, not assigned zero.",
+    "later_hazard": "Person occupied cell in previous horizon before observed smoke >=0.30 or fire clearance violation.",
+    "unsafe_wait": "No displacement, mobile, finite hazard ETA minus evacuation ETA <= unsafe-wait margin; same observer both modes."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "reason": "Traditional decision_policy is always None; IntelligentEvacuationPolicy.replan_reason is never called in this mode. The sole changed actor function is replan_reason. AST equality excluding that function and hashes of every other actor/data/executor input were verified.",
+  "execution_source_hash": "57e7b862b79f990b398ae0669c5cd12b6a6dbd8c0e80f43f5ee2fc510e25013d",
+  "evaluation_source_hash": "ba5ff7b59b1a9894ab52a01ca451a7fda2058bb5662b23bd759460981aeb4ccf",
+  "changed_actor_files": [
+    "src\\routing\\intelligent_policy.py"
+  ],
+  "ast_equal_excluding_uncalled_function": true,
+  "unchanged_executor_and_physics_digest": true
+}

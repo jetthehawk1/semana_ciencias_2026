@@ -1,0 +1,13 @@
+Poblacion inicial: 100 personas, todas dentro de sus edificios y en estado normal.
+Alarma, pausa, paso manual y reanudacion: correctos.
+Las 100 personas cruzaron sus puertas en 31 turnos.
+Sin colisiones, diagonales ni personas marcadas erroneamente como a_salvo.
+Resumen por edificio:
+  E1: 30/30 salieron, ultimo cruce: turno 31
+  E10: 20/20 salieron, ultimo cruce: turno 21
+  E15: 25/25 salieron, ultimo cruce: turno 25
+  E25: 15/15 salieron, ultimo cruce: turno 19
+  E30: 10/10 salieron, ultimo cruce: turno 10
+Reporte JSON e historial por turno: correctos.
+Reinicio reproducible: correcto.
+Paso 8.13 completado correctamente.

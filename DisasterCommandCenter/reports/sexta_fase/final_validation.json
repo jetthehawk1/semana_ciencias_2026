@@ -1,0 +1,27 @@
+{
+  "classification": "PARTIALLY READY",
+  "scenarios": 16,
+  "paired_runs": 32,
+  "turns_per_run": 160,
+  "all_physics_identical": true,
+  "strict_json": true,
+  "feedback_sections": 35,
+  "feedback_sha256": "7545316f5b838bd09f7ebd7ce17f059a7de71f910d9cedd7bbf2ce7a57844a97",
+  "test_summary": {
+    "scripts": 42,
+    "passed_scripts": 42,
+    "failed_scripts": 0,
+    "skipped_scripts": 0,
+    "unit_tests": 334,
+    "skipped": 0
+  },
+  "readiness_checks": {
+    "fire_contacts": false,
+    "incapacitated": true,
+    "smoke_exposure": true,
+    "smoke_dose": true,
+    "unsafe_wait": true,
+    "unassigned": true,
+    "isolated_runtime_target": true
+  }
+}

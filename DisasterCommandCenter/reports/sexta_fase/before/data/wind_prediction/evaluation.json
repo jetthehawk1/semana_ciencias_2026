@@ -1,0 +1,128 @@
+{
+  "data_source": "synthetic_simulation",
+  "seed": 2026,
+  "description": "Viento virtual global de ocho direcciones, rampas/oscilaciones/rotaciones/persistencia/cambios ocasionales; no meteorologia real.",
+  "split": {
+    "train": [
+      "synthetic-wind-2026-000",
+      "synthetic-wind-2026-001",
+      "synthetic-wind-2026-002",
+      "synthetic-wind-2026-003",
+      "synthetic-wind-2026-004",
+      "synthetic-wind-2026-005",
+      "synthetic-wind-2026-006",
+      "synthetic-wind-2026-007",
+      "synthetic-wind-2026-008",
+      "synthetic-wind-2026-009",
+      "synthetic-wind-2026-010",
+      "synthetic-wind-2026-011",
+      "synthetic-wind-2026-012",
+      "synthetic-wind-2026-013",
+      "synthetic-wind-2026-014",
+      "synthetic-wind-2026-015",
+      "synthetic-wind-2026-016",
+      "synthetic-wind-2026-017",
+      "synthetic-wind-2026-018",
+      "synthetic-wind-2026-019",
+      "synthetic-wind-2026-020",
+      "synthetic-wind-2026-021",
+      "synthetic-wind-2026-022",
+      "synthetic-wind-2026-023",
+      "synthetic-wind-2026-024",
+      "synthetic-wind-2026-025",
+      "synthetic-wind-2026-026",
+      "synthetic-wind-2026-027",
+      "synthetic-wind-2026-028",
+      "synthetic-wind-2026-029",
+      "synthetic-wind-2026-030",
+      "synthetic-wind-2026-031",
+      "synthetic-wind-2026-032"
+    ],
+    "validation": [
+      "synthetic-wind-2026-033",
+      "synthetic-wind-2026-034",
+      "synthetic-wind-2026-035",
+      "synthetic-wind-2026-036",
+      "synthetic-wind-2026-037",
+      "synthetic-wind-2026-038",
+      "synthetic-wind-2026-039"
+    ],
+    "test": [
+      "synthetic-wind-2026-040",
+      "synthetic-wind-2026-041",
+      "synthetic-wind-2026-042",
+      "synthetic-wind-2026-043",
+      "synthetic-wind-2026-044",
+      "synthetic-wind-2026-045",
+      "synthetic-wind-2026-046",
+      "synthetic-wind-2026-047"
+    ]
+  },
+  "training_samples": 5148,
+  "validation": {
+    "persistence": {
+      "uv_rmse": 0.11222348869123112,
+      "speed_mae": 0.020895275268681422,
+      "angular_mae_degrees": 4.162087983245249,
+      "angular_samples": 1092,
+      "samples": 1092
+    },
+    "ridge": {
+      "uv_rmse": 0.11112505604180445,
+      "speed_mae": 0.02663705404898932,
+      "angular_mae_degrees": 4.855094709872871,
+      "angular_samples": 1092,
+      "samples": 1092
+    },
+    "selected_with_fallback": {
+      "uv_rmse": 0.11156111330211482,
+      "speed_mae": 0.02241927587388192,
+      "angular_mae_degrees": 4.705229833200362,
+      "angular_samples": 1092,
+      "samples": 1092
+    }
+  },
+  "test": {
+    "persistence": {
+      "uv_rmse": 0.08457533638824787,
+      "speed_mae": 0.011575128755147185,
+      "angular_mae_degrees": 2.9927887323766265,
+      "angular_samples": 1248,
+      "samples": 1248
+    },
+    "ridge": {
+      "uv_rmse": 0.08406115592663073,
+      "speed_mae": 0.019858766706028357,
+      "angular_mae_degrees": 3.655514553072004,
+      "angular_samples": 1248,
+      "samples": 1248
+    },
+    "selected_with_fallback": {
+      "uv_rmse": 0.08385467304699976,
+      "speed_mae": 0.012485747814704589,
+      "angular_mae_degrees": 3.3818164464055793,
+      "angular_samples": 1248,
+      "samples": 1248
+    }
+  },
+  "selected_model": "ridge",
+  "selection_rule": "minimum_validation_uv_rmse; test is report-only",
+  "feature_names": [
+    "u_lag3",
+    "v_lag3",
+    "speed_lag3",
+    "u_lag2",
+    "v_lag2",
+    "speed_lag2",
+    "u_lag1",
+    "v_lag1",
+    "speed_lag1",
+    "u_lag0",
+    "v_lag0",
+    "speed_lag0",
+    "delta_u",
+    "delta_v",
+    "delta_speed"
+  ],
+  "sklearn_version": "1.9.1"
+}

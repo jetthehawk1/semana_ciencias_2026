@@ -1,0 +1,14 @@
+Campus: 160 x 100
+Edificios identificados: 55
+E1: celdas disponibles=78, personas solicitadas=30
+E10: celdas disponibles=30, personas solicitadas=20
+E15: celdas disponibles=51, personas solicitadas=25
+E25: celdas disponibles=194, personas solicitadas=15
+E30: celdas disponibles=12, personas solicitadas=10
+Distribucion automatica: 100 personas colocadas.
+Sin IDs repetidos, celdas ocupadas ni ubicaciones fuera del edificio.
+Semilla reproducible y cambio de semilla: correctos.
+Capacidad, edificios desconocidos y valores invalidos: correctos.
+Ocupacion previa, IDs consecutivos y capacidad completa: correctos.
+Las personas interiores permanecen inmoviles hasta el Paso 8.12.
+Paso 8.11 completado correctamente.

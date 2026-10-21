@@ -1,0 +1,1223 @@
+{
+  "source_hash": "57e7b862b79f990b398ae0669c5cd12b6a6dbd8c0e80f43f5ee2fc510e25013d",
+  "scenario": {
+    "scenario_id": "S15",
+    "category": "blocked_primary_exit",
+    "building": "E31",
+    "seed": 2264,
+    "ignition": [
+      270,
+      186
+    ],
+    "wind_inputs": [
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ],
+      [
+        "E",
+        0.65
+      ]
+    ],
+    "turns": 160
+  },
+  "result": {
+    "metrics": {
+      "safe_meeting_arrivals": 943,
+      "people_ever_reached_meeting": 943,
+      "mean_turns_to_first_meeting": 82.02014846235419,
+      "median_turns_to_first_meeting": 78,
+      "worst_turns_to_first_meeting": 160,
+      "people_exposed_smoke": 27,
+      "accumulated_smoke_dose": 55.68202456909831,
+      "people_close_to_fire": 9,
+      "fire_contacts": 2,
+      "incapacitated": 18,
+      "routes_recalculated": 3075,
+      "preventive_reassignments": 0,
+      "maximum_congestion": 19,
+      "distance_traveled": 157113,
+      "people_in_cells_that_later_became_hazardous": 30,
+      "unsafe_waiting_person_turns": 174,
+      "destination_became_unsafe_before_arrival": 103,
+      "confirmed_forecast_departures": 0,
+      "candidate_hazard_departures": 0,
+      "pending_candidate_departures": 0,
+      "expired_candidate_departures": 0,
+      "rejected_current_danger_departures": 0,
+      "temporary_goals": 0,
+      "temporal_routes_rejected": 0,
+      "unassigned": 95,
+      "state_counts": {
+        "WAITING_SAFE": 367,
+        "WAITING_UNSAFE": 14,
+        "EVACUATING": 537,
+        "REASSIGNING": 0,
+        "AT_MEETING_AREA": 943,
+        "INCAPACITATED": 18
+      },
+      "SafetyScore": 99.14337672484659,
+      "runtime_seconds": 98.01878959999885
+    },
+    "elapsed_seconds": 98.01878959999885,
+    "initialization_seconds": 1.0677226999832783,
+    "seconds_per_turn": 0.6059441681250973,
+    "physical_trajectory": [
+      "af61dfe97d12eab880aef0bacd19b016a3f57af56c452c5b8a45af7db88fa3f4",
+      "61cd580e649dac60c1510e73bc482ecb646f65d3040637fe28a719f8a555c753",
+      "a336cfe0e9554f59db8db6fb31250884c620fb3606d074cfbe8f1dacc0e752f5",
+      "f164106f0a92958695f25420844981d1f7614a7594bb9fd1c90da5af2a61cd6d",
+      "44637ed184fff800b1cdf802f5d084e4711c41da84eaea7319367c6a4b927409",
+      "f756bc3d00920021d417d42d7573872c78d43b9156f480dec5e318993e645012",
+      "4b759c41f28922f964028524cc89fc4602a1448ddf86179842609d1669b046e3",
+      "4967e0b84d6981d1bff996cf08d7457d971abda6aed6da5840b04a46b7d2231c",
+      "1334e5e3f7d487655dc30035d6f81c6558d0771eed86fee3e5ba5ba8a3fd96bc",
+      "7e4b3bab922b6fb66ef1a99838b2dadc87ac989ebab247daf444de72102b9362",
+      "52b95927790ba4ec3d4733842de68c59e845f30c76e78cb538a5017af33048a4",
+      "4cdf284008ccdb8de7c67113dfca6f7afaacafea1d3901055b9a20945acc60a3",
+      "3927f331156cab3e10e44230f0b5dd18ead62ff8253586ecdddbc1acca7a1a0c",
+      "9c04e4f92987e0921a75897290e17f48a3e87f552d8a0e122695e9cffa113ab7",
+      "a5c9e927044eaebbb8ecbcd606c7aaca37cb229fa4989ccfca37695a9335cdad",
+      "da0c5360175746f70696ca9ab3eb2d8198777b40a648dd8949ab6c3c11ba1f63",
+      "331f7666708e39a675b697df46311b70ce61614c5392d9006a751377c8c4eb13",
+      "c8ab1de7393ac21bb7d9cab9d2e9d456ed5ca272e29080e5f8d81f56cb8fcd04",
+      "0ca50c2df7e7e01f95c648694c4eac6bba97212b3122950c446efd404b759b02",
+      "1ecbccd36e762c68ccd93434ed44556abc08ccf9d65a2de9208ff580491ceb22",
+      "2ece72f3ca5dfb340b55b80d7f3546ed07e868dddb0d48309a3e4e904018bdf0",
+      "cf8dfc27953f61e82c6d9226aef99a78fe1ec4eb530f36a1953d6c1bd511cb4c",
+      "32123c7d15ab8cde492e3b80957050a4c21c44b5ae19cc7c913f9ef3c24e913d",
+      "2726a9a5017ef6198df360ea8cbf9894177007205e4b9534dd17e4676a42d62e",
+      "7758478c57ee6adfe7b810606c8f0ddb92fefd8a6760c49c96850f581feaf371",
+      "80de69342051d6cef1a8a2e43eef27c48555a61c0241886326febe3ce146b60b",
+      "7d46d41d5fc07f0240b5749f9e52810b7284a04a5f6e05c85deec0c23deca746",
+      "d8ef38f314968207ee0b5bca131c397a0ca67959ae50f3b3879d30c1c2a21806",
+      "c2ddf1b93ef8d8350a68f92e1245fcb599344f33420abb9483801fc6e6d6d003",
+      "029d2ecc4732482e67177dc8efdf08ff1c82de65f69a36aa0331e9bc98d811de",
+      "5de11f14f3a3baf4af0a6ce750a84b1c466abccf90e3f948f24e4369b5b5fa15",
+      "63fc7f60134d6b357b1921980fc630563d836e9f2a6cbface758a182b33dd4c9",
+      "75569c126ec97728761336b5057dab4973d5abcfbf1c8e41923717ff65e7fe9d",
+      "d2faf91a5e153efbff85612ddb1d833c7b43de00c1ba471f88f2d575cda1a381",
+      "5cea577c97b00b5eca7bab2df08d8588fa3cdf19c42849865a2e93342408e9b1",
+      "a174947ea7f091a261c54cfc657cd155d4685fcaf5f744142d30910525196993",
+      "8ea80f3d60d9626f6746e304b793120563c3f9e00abd91d3ada8f4086bf5a2c9",
+      "68be88dd039fff43202268ebfaaa4670849799593b07035c04992846c62da846",
+      "9a861c82293f9b19c4208148f048d1d2dc510d23a63a72bca25afabbe1274ffd",
+      "438854b7abfd57db7fe81e14715dcfdf146f2c36e1a77ea6d84397648550d133",
+      "4df1ecdce47987dc10d5d54e4955583a7840b077e82e036b03fc4b5c1754dfb4",
+      "0693910fc3e4bc5f7cc5b153c1741f7a607e447c553b07162c4e0e0316d9b217",
+      "0d74e66d7c2b91b668cb0c66066f47f234ebdd966122187ea64ee59e9f19b9a0",
+      "b770374f5c5496b346787248f8ebcb4da315be199ef504c8d348755d108f4f9e",
+      "c4d5cf4e65855d5c7c5d6a3ce83fb07068e4590be5a6a7af7e50a25c731aee50",
+      "97418535cbd85a70ab350f3a49ecfdf985bdecf11fdba8e7827a45bf60553bc2",
+      "b896a7034d4b2b07bbdca94f01ec87b0ebfa747cb2cbb685148b030ac51202c3",
+      "741ae738d2c544a8c7b0a58a52790d7b242e037116782da38fa1e9f216bca6c0",
+      "3e2eb4aad27c4322e591f34fae296609c002e35c6f5979e2e01ef4c34c10a63e",
+      "33ae918e9a4110639e3d06655cf3fd2f86713c37bb32379c2cf5447de6a14e44",
+      "9d67e7cb4fb1c6ff2ec1f8c9bcd5749fb5e13a42bc1d5ab81354b18a82ec7c05",
+      "36c6acfb4584e33c432e54834645c3ac5ba421f1e642fabaef57bbee3823f6de",
+      "d5d4d9594643c38a11f11e5c6cc4c85f810bed6d2dd128d72fbdb34afee60df0",
+      "47e13a21ca164b626a1813823d4066aba3eedb5b254286f99da5acd9d5de13ef",
+      "0182f16f77dcdcd819c095195a6f8b148140bc15c4a37cbca94fc3595af10eda",
+      "a71d72ee05d7fa30458c2368a268e7daa9c7ec2ede8493b9659562e05231c9f2",
+      "3a78dbe6f237277ab296f6bf3c3073c852bea019638d5000547aaec4efb514b8",
+      "9c10ac5cb786ddcb7eb44d298f1974b6a71cb9154e7de05a254ea4c900f8d005",
+      "95de3462f857adaa1569470625346c161884fc8c0bc74e5f191ca8f9aaf041b6",
+      "9f9f4c4e7c89829233879d272a886f92e8aeebba8e955a8d1b53ef718d8f26ec",
+      "7acd8f36dc5c224758d1abe28f225834a1548c40f24068f65bfd4821aef3df1b",
+      "13df8a2564782739a97b627f9a7eae70b5ec4e01dc46fa529b9f22deda26b457",
+      "c06dc3ed5e62579bfcf32dee3d5e2823493db468117bba28836c1a3ff666e3c8",
+      "0ed48fb12854dc330fd0ba3c8dcf4f6189d7c71d9a8c63ee4f9638e40d31b519",
+      "f671774fd32e944aba417e253f37c0b381c7e3963789135287aa9064a9a15ffa",
+      "bde1ee7183aed6a5ddfcd805d80a5e72039a6464dc5740db846bb74f0c430bac",
+      "82ca86edd5b1927c22b18f278358faa2b2ba2a03792da67c2894d1ef4d790938",
+      "5367df8f977dd77b918d8c8b99c67ecec07b4fc25ee91680c6ed5129be297d55",
+      "d9333d9755c362017160f8a4ac787e52b7cd638a426269c0d26b2a551c461b05",
+      "0890e0281190588f86e79fdf0a2e939e60734c4d10d7c9c722833dd796247dc4",
+      "d3c61d50ffba6d12649114dd628f463ee0fb567622b4a399c8bc92da2455f9db",
+      "e198c8ae61929ce02ccd588d1eaaa9703514e1f94d724cd3ac4a555209435074",
+      "ff6ef5b995bc00ccca445aa27bb0a8d199c5d145888f0c8f6289a6cc112cf751",
+      "b191bd009329961f5e4ff3af719d3b9c7bdddf5d61649338f4393836985856bd",
+      "5e3915736279e5c2565c7f614fb200256c9a57d4a32ca405c1cf21ef73189927",
+      "e63862d434d2f68f497af6753e0f789aae080068499c9c1f6a18191bf1d58005",
+      "dc712aa25f065866edad4c83b99cd48dc2f35bd61d275896c12721844d8ee1f4",
+      "5bd767689b35be9f0b48ee1d94e30203ad0e6e7598932f20f4c5329ddaaaf969",
+      "a3344be8c5511fa08fc916331c2cfe8c674123df0e598ac6811cde6ccb9fbc73",
+      "4d6ef8e1eec45504367abc52705f95727dfbf02228c86078d891f9c39b95b178",
+      "675c8b97555d557c18ff94d276c4ef19c05dc200119b111f79a4a3f5412146df",
+      "4b829b08c221a4f043d99a532d15660d4bd589334a0daf810e588ad19819381f",
+      "8996716e0abbf08c55e4ab12d6fddc7dbf7b492e747779ebfe8b6e172331acc0",
+      "0a35619139c33cba24598838248915f4ec63d79cda2103ef9901423256e51f28",
+      "c49c6c7ff139add442598c0b84f64d93e67b091b16c0843ec174aac4cdf7e7db",
+      "7b6d1056d1f910e896740035396ec9a81a4af1137b4d0bc782c72cb04f315a70",
+      "2373f63216f51b5246d4627f679ebca2cf40f776e3a9c882706015e9fb6358a7",
+      "78864ed788b6fcb11148662e30c37d84302cb5640012613c29df3e386f8423e5",
+      "fed24db348e7dd7a09ae18e439cad334110f0cc6075496d344b72c5bc11fc5b1",
+      "7e9700dac056ce75505663ce9bf5283d89359ec94dfe5710efbf6bc7fcf1f85d",
+      "e1087daefdffaa4cc0ae3512b50046f3c6aee4c54bbdc870909cd02c683da6be",
+      "7ad2701d22b53e4f8aa5459eebcf0dba3b53acad55f784db258f357e1c6a57c1",
+      "ba8ab94a7b49d26a55d2dbcc7fa56d848ad27167c724d318df4f130ef1b69e24",
+      "e3c661162a426bbe544391d470fe05fe7aa915d0f6ea6dbd7c5c0f1528116d1a",
+      "3ab404c23153e4931b64769d07a2ac8e71a12babb0cd0812f4725d92433c46dc",
+      "7dcfda2185bb2c159c92a214b1c845afb5c6f090316a8534302c0ad8b29d435f",
+      "aaca37a066e38c4663907ae45ee226e50a1d0798ed2fe93d3476107dc9d60e4f",
+      "ece91d9e6a2ebff5096d28cc3b1bf922554c7a762db59ab7ef54a3d364b69f6d",
+      "570c25dfa60221f63226e7ef11d82340ab4c52b89a0679ae2b9106607a4510c4",
+      "69024ad9010ad7e59bb8e38f59a7b894e5ac60b405c7107b584956e9e7dd487a",
+      "2e2093e7818bb09b76b068e8e03b5c6c389e7c2456a6bd430872f9637c0f1528",
+      "379d2b044c5d9f5e4eb8cd49cf27349f014410e26f1cc7a551d7d932a1af4ae3",
+      "3ba3401093376d9a24fb2810c4ecffa794cc86e28b298607d6c7ccab764ed87d",
+      "c13af43341ca9c35f952a13173a5fa92c2f935272eeebb51803340d6fc5b8254",
+      "e9babda2d6042578a58d1c24f607e8aac3947fceb0312b93b43157ddb03fd5ab",
+      "9e3dfe275aeae36ab35b3da00464e255b0db5bbeeceb316e3d11dd6130c067f3",
+      "e99cf06e205be2bf9f9b20407117b32b0ee3d2690b6c943c90bc0fc02eb3a055",
+      "200389c83fa1813934314f3a9067d23433a7c4840cc4305330b5b0d789c78b7c",
+      "6af536151847596dc63537163460b0473e77a6a7f4d9971ad54a3a3a81d3db2b",
+      "005aed643ab4af79d65e4d82989211c1995f82f3a3c430fd5f85c187f371110d",
+      "783537e7926d51eb3153206c685b8f0d09e22cce47d7cecc8d97aa066ed01445",
+      "1a2e66abd661f519f975d24ea2cb0ec8c49513bbceb5f6ddf0fa45a28b72f4d9",
+      "58682d306084bfb1346c92cece146ea48a83960baa2b61a8d6391e30fa9ace96",
+      "50a842ae663f41e1dfe6e5db23ec29a1ac4aaca2d2f99c6bb7411e40107ec5d2",
+      "f852448f25030a94326140dc1977d28b39834c790d391b305387f58bb7e0f89d",
+      "c0ce6d7a847c7a001767f7912e717acbf28760fc2840332ed7d06f462664bf62",
+      "1b61c5db2d5cd475730055c09b93e731a6f0c3c5db114541908be62507ca1b49",
+      "1d35fa38a6765649da0bf25defff309ab6d65d4f9a01e14cf1579a6a4e504ec0",
+      "e27f636174fe66acb2e64d2faabff1eced6a06639ae7bfe85c3ea60501081112",
+      "db15ba622adb2bd90d99c4e77cf35937e2f72806d2cf3c0f5558784ac1ad1cce",
+      "6cf7133fe634be2dad720630e74088a6d985812c2f1e985bfa65d8baec3c6361",
+      "abd55c306b6202a817359080a8f0bb2edb41b5bfa26ea6e13071393ff8e420a1",
+      "1f34b7d7d9aec04848c8d0b351cea963b3eaf30090c37378de7a0ac977042b2f",
+      "2d142d319bee02508432016b84420818b4917ff85d59f1d566c67a0f9388ef69",
+      "68c2a54216f660a86b7cd8d862f540940192559d6456b73e1c2f63c7d219c942",
+      "f53347f94cb13fdb5c19823f2c4d5dfbbebc684a033bce519ea99fb68d1739d2",
+      "9043589cdd9f042ecb640d2396a3ece426b96f73e04df1e298a7423824b16626",
+      "dd978823e20b59a966c8061a7cd52809cf0fed1cd44e7e071df2a1d2158c2f7a",
+      "48772d6bf9327c2c8bc148eaf7cef26a1a3e2c506c974136790364ac5fc428f6",
+      "a1d4ed3134e37600734f5ad001996a7619778bac4d793434f5103f27b354e337",
+      "5111096e6c79aef919b4710be500bf6a0deb878afc0db8a5b41dc4db740c74e4",
+      "cf74350e5a765cb589aebf2c5fc7e55134e8e57a9d0fe254ca2e4be089609f32",
+      "f0323886b62a88019f3541df5074161a70c9d96761fa6f6109313e4622b0db41",
+      "dbdc33998b6c48318bfbbb251be88aa3506a84fe0bd6d60c746e43a5ffc96bec",
+      "547c840c80da9c4853a0689560ebd2039cac4564a58a89b295f0f39ce8cf8292",
+      "1e32d9c3649df39a96244fcd158da4b7849b1d4fc28c01b0cbd1bc0c56225f48",
+      "4cefee98544e72431802a08652205561b75706d7930b41b37bd02a5d0e955cc4",
+      "d4095493657df52d31207dc7494ebebdec47d4f97e4b6e923b1b97315d0e79d5",
+      "879b36d2516d0a4407d74e1c132c2f9231020bf6885af0c988623579dff51ffd",
+      "25792547a91e7073f079e81d7f7e71d28d20f91063a5a4e912308f6b4490bd46",
+      "50f740d5d9a5b91c3e8e039ec1f8ca105e16f99828bd6dee7df06b8b91716dd4",
+      "34404cf5ec19b24dead728659845dabf96ec95f89d84d1a8e6e920337079b5bb",
+      "72be3f1d734ead8cdc95b8f42762f35a1d209d8c9c220153e643ff963b1adb37",
+      "0b64db40872a60a4beb4e4f5725c41bd60a57daa3c2d49b86adb86129e2abbab",
+      "ffa060f0913d8f67a142bb35f7960a0f8b53d251f99a2b2e39fbc066db94a630",
+      "cecf6556c1de3e0f62d28bf98abc4053f7e61d4d118082bf1170d331ada2e432",
+      "4e0580de9cdcf507363f9a67cba3f4d472b31837ae9a92433daaf33abd4b061e",
+      "47ebf57f8f43d41cb0f6f4bfeebe479fdef1f96daee961796ea87fb3150d5145",
+      "a95580365cc64bf9430a5725acd77e2470a249ff314226c2a8eec7abfc3b440c",
+      "35042879e2ce81f7512dd7c74773cb80dd0dc9a18d51c573985bf04001e1e158",
+      "3ecad390ae1b1c0993396a8de46fad13c0d52affa6744ca8cde62269f410ccad",
+      "ecda75492c3898972fc70ec88707669f6a4be64bdc4c9c42bb2de07a84399051",
+      "0e4f09c3dddb57c4ff96f442cec3a23a10cc601429fff5e81a58c47c98000cc1",
+      "0ed66b2ef909015a9f1bd94b1399cff6624aeaa36cca938068eaf2ffed3d9dd9",
+      "c7989a063c72198fcadf90528205f4f1dcabe846ec0f4ebdc3513aed036c50ac",
+      "db2e80b5895fd29e623a03c53a1db10b23198c7e44b7e37a238c73bd18874949",
+      "ef489aab4f10b2dacdbd19f4872d8e895c4717fc660431e18dab2fe959885755",
+      "59588197197e7b03428f567013bae3b02b6d67d32f049bc593407663d6e1c74a",
+      "8926c542252676defaea2639bca86b38c36f3abba4df7ee531aca298fe836cc4",
+      "3cd81d0bdec66b33677fb3f704898f84468ac31f00cac48c06920074b0ef083a",
+      "8aca26cd23a7da69f885ad598fc3ca07179dd0d70b5fa9a5c2d2d8d1cb2bb7f8"
+    ],
+    "samples": [
+      {
+        "turn": 40,
+        "safe_meeting_arrivals": 179,
+        "people_ever_reached_meeting": 179,
+        "mean_turns_to_first_meeting": 26.083798882681563,
+        "median_turns_to_first_meeting": 27,
+        "worst_turns_to_first_meeting": 40,
+        "people_exposed_smoke": 8,
+        "accumulated_smoke_dose": 6.793529627196595,
+        "people_close_to_fire": 8,
+        "fire_contacts": 2,
+        "incapacitated": 2,
+        "routes_recalculated": 221,
+        "preventive_reassignments": 0,
+        "maximum_congestion": 16,
+        "distance_traveled": 46541,
+        "people_in_cells_that_later_became_hazardous": 9,
+        "unsafe_waiting_person_turns": 1,
+        "destination_became_unsafe_before_arrival": 0,
+        "confirmed_forecast_departures": 0,
+        "candidate_hazard_departures": 0,
+        "pending_candidate_departures": 0,
+        "expired_candidate_departures": 0,
+        "rejected_current_danger_departures": 0,
+        "temporary_goals": 0,
+        "temporal_routes_rejected": 0,
+        "unassigned": 96,
+        "state_counts": {
+          "WAITING_SAFE": 673,
+          "WAITING_UNSAFE": 0,
+          "EVACUATING": 1025,
+          "REASSIGNING": 0,
+          "AT_MEETING_AREA": 179,
+          "INCAPACITATED": 2
+        },
+        "SafetyScore": 99.90563830966028
+      },
+      {
+        "turn": 80,
+        "safe_meeting_arrivals": 486,
+        "people_ever_reached_meeting": 486,
+        "mean_turns_to_first_meeting": 48.33539094650206,
+        "median_turns_to_first_meeting": 51.0,
+        "worst_turns_to_first_meeting": 80,
+        "people_exposed_smoke": 12,
+        "accumulated_smoke_dose": 7.255276086464224,
+        "people_close_to_fire": 8,
+        "fire_contacts": 2,
+        "incapacitated": 2,
+        "routes_recalculated": 1119,
+        "preventive_reassignments": 0,
+        "maximum_congestion": 18,
+        "distance_traveled": 92247,
+        "people_in_cells_that_later_became_hazardous": 15,
+        "unsafe_waiting_person_turns": 9,
+        "destination_became_unsafe_before_arrival": 0,
+        "confirmed_forecast_departures": 0,
+        "candidate_hazard_departures": 0,
+        "pending_candidate_departures": 0,
+        "expired_candidate_departures": 0,
+        "rejected_current_danger_departures": 0,
+        "temporary_goals": 0,
+        "temporal_routes_rejected": 0,
+        "unassigned": 27,
+        "state_counts": {
+          "WAITING_SAFE": 248,
+          "WAITING_UNSAFE": 0,
+          "EVACUATING": 1143,
+          "REASSIGNING": 0,
+          "AT_MEETING_AREA": 486,
+          "INCAPACITATED": 2
+        },
+        "SafetyScore": 99.90383223352906
+      },
+      {
+        "turn": 120,
+        "safe_meeting_arrivals": 737,
+        "people_ever_reached_meeting": 737,
+        "mean_turns_to_first_meeting": 65.61194029850746,
+        "median_turns_to_first_meeting": 65,
+        "worst_turns_to_first_meeting": 120,
+        "people_exposed_smoke": 24,
+        "accumulated_smoke_dose": 31.042238150436017,
+        "people_close_to_fire": 8,
+        "fire_contacts": 2,
+        "incapacitated": 8,
+        "routes_recalculated": 2215,
+        "preventive_reassignments": 0,
+        "maximum_congestion": 19,
+        "distance_traveled": 129068,
+        "people_in_cells_that_later_became_hazardous": 20,
+        "unsafe_waiting_person_turns": 52,
+        "destination_became_unsafe_before_arrival": 0,
+        "confirmed_forecast_departures": 0,
+        "candidate_hazard_departures": 0,
+        "pending_candidate_departures": 0,
+        "expired_candidate_departures": 0,
+        "rejected_current_danger_departures": 0,
+        "temporary_goals": 0,
+        "temporal_routes_rejected": 0,
+        "unassigned": 39,
+        "state_counts": {
+          "WAITING_SAFE": 330,
+          "WAITING_UNSAFE": 3,
+          "EVACUATING": 801,
+          "REASSIGNING": 0,
+          "AT_MEETING_AREA": 737,
+          "INCAPACITATED": 8
+        },
+        "SafetyScore": 99.70534612435566
+      },
+      {
+        "turn": 160,
+        "safe_meeting_arrivals": 943,
+        "people_ever_reached_meeting": 943,
+        "mean_turns_to_first_meeting": 82.02014846235419,
+        "median_turns_to_first_meeting": 78,
+        "worst_turns_to_first_meeting": 160,
+        "people_exposed_smoke": 27,
+        "accumulated_smoke_dose": 55.68202456909831,
+        "people_close_to_fire": 9,
+        "fire_contacts": 2,
+        "incapacitated": 18,
+        "routes_recalculated": 3075,
+        "preventive_reassignments": 0,
+        "maximum_congestion": 19,
+        "distance_traveled": 157113,
+        "people_in_cells_that_later_became_hazardous": 30,
+        "unsafe_waiting_person_turns": 174,
+        "destination_became_unsafe_before_arrival": 103,
+        "confirmed_forecast_departures": 0,
+        "candidate_hazard_departures": 0,
+        "pending_candidate_departures": 0,
+        "expired_candidate_departures": 0,
+        "rejected_current_danger_departures": 0,
+        "temporary_goals": 0,
+        "temporal_routes_rejected": 0,
+        "unassigned": 95,
+        "state_counts": {
+          "WAITING_SAFE": 367,
+          "WAITING_UNSAFE": 14,
+          "EVACUATING": 537,
+          "REASSIGNING": 0,
+          "AT_MEETING_AREA": 943,
+          "INCAPACITATED": 18
+        },
+        "SafetyScore": 99.14337672484659
+      }
+    ],
+    "total_astar_searches": 660,
+    "cache_hits": 4505,
+    "cache_misses": 848,
+    "flow_field_usage": 4277,
+    "fire_contact_traces": [
+      {
+        "turn": 31,
+        "person_id": "P899",
+        "point": [
+          270,
+          192
+        ],
+        "building": "E31",
+        "source_building": "E31",
+        "category": "fire_reached_occupied_cell_before_movement",
+        "prior_diagnostic": null,
+        "route": null
+      },
+      {
+        "turn": 33,
+        "person_id": "P921",
+        "point": [
+          268,
+          189
+        ],
+        "building": "E31",
+        "source_building": "E31",
+        "category": "fire_reached_occupied_cell_before_movement",
+        "prior_diagnostic": null,
+        "route": null
+      }
+    ],
+    "unassigned_reasons": {
+      "ROUTE_BUDGET_EXHAUSTED": 47,
+      "CONGESTION_BLOCKED": 13,
+      "RETRY_COOLDOWN": 19,
+      "INCAPACITATED": 16
+    },
+    "per_person_route_reasons": {
+      "P1642": "RETRY_COOLDOWN",
+      "P1647": "RETRY_COOLDOWN",
+      "P1650": "RETRY_COOLDOWN",
+      "P1289": "RETRY_COOLDOWN",
+      "P1624": "RETRY_COOLDOWN",
+      "P408": "RETRY_COOLDOWN",
+      "P425": "RETRY_COOLDOWN",
+      "P433": "RETRY_COOLDOWN",
+      "P1297": "RETRY_COOLDOWN",
+      "P1635": "RETRY_COOLDOWN",
+      "P340": "CONGESTION_BLOCKED",
+      "P341": "CONGESTION_BLOCKED",
+      "P406": "CONGESTION_BLOCKED",
+      "P407": "CONGESTION_BLOCKED",
+      "P409": "CONGESTION_BLOCKED",
+      "P411": "CONGESTION_BLOCKED",
+      "P415": "CONGESTION_BLOCKED",
+      "P419": "CONGESTION_BLOCKED",
+      "P424": "CONGESTION_BLOCKED",
+      "P427": "CONGESTION_BLOCKED",
+      "P428": "CONGESTION_BLOCKED",
+      "P430": "CONGESTION_BLOCKED",
+      "P426": "RETRY_COOLDOWN",
+      "P1580": "RETRY_COOLDOWN",
+      "P966": "INCAPACITATED",
+      "P967": "INCAPACITATED",
+      "P971": "INCAPACITATED",
+      "P1392": "RETRY_COOLDOWN",
+      "P1776": "RETRY_COOLDOWN",
+      "P991": "INCAPACITATED",
+      "P1381": "CONGESTION_BLOCKED",
+      "P999": "INCAPACITATED",
+      "P974": "INCAPACITATED",
+      "P970": "INCAPACITATED",
+      "P965": "INCAPACITATED",
+      "P892": "INCAPACITATED",
+      "P964": "INCAPACITATED",
+      "P1070": "INCAPACITATED",
+      "P889": "INCAPACITATED",
+      "P997": "INCAPACITATED",
+      "P1080": "INCAPACITATED",
+      "P1084": "INCAPACITATED",
+      "P1091": "INCAPACITATED",
+      "P365": "RETRY_COOLDOWN",
+      "P1759": "RETRY_COOLDOWN",
+      "P876": "RETRY_COOLDOWN",
+      "P1665": "RETRY_COOLDOWN",
+      "P736": "RETRY_COOLDOWN",
+      "P1744": "ROUTE_BUDGET_EXHAUSTED",
+      "P1745": "ROUTE_BUDGET_EXHAUSTED",
+      "P224": "ROUTE_BUDGET_EXHAUSTED",
+      "P233": "ROUTE_BUDGET_EXHAUSTED",
+      "P240": "ROUTE_BUDGET_EXHAUSTED",
+      "P290": "ROUTE_BUDGET_EXHAUSTED",
+      "P336": "ROUTE_BUDGET_EXHAUSTED",
+      "P342": "ROUTE_BUDGET_EXHAUSTED",
+      "P343": "ROUTE_BUDGET_EXHAUSTED",
+      "P344": "ROUTE_BUDGET_EXHAUSTED",
+      "P345": "ROUTE_BUDGET_EXHAUSTED",
+      "P347": "ROUTE_BUDGET_EXHAUSTED",
+      "P348": "ROUTE_BUDGET_EXHAUSTED",
+      "P350": "ROUTE_BUDGET_EXHAUSTED",
+      "P351": "ROUTE_BUDGET_EXHAUSTED",
+      "P354": "ROUTE_BUDGET_EXHAUSTED",
+      "P355": "ROUTE_BUDGET_EXHAUSTED",
+      "P358": "ROUTE_BUDGET_EXHAUSTED",
+      "P361": "ROUTE_BUDGET_EXHAUSTED",
+      "P367": "ROUTE_BUDGET_EXHAUSTED",
+      "P368": "ROUTE_BUDGET_EXHAUSTED",
+      "P053": "ROUTE_BUDGET_EXHAUSTED",
+      "P077": "ROUTE_BUDGET_EXHAUSTED",
+      "P1367": "ROUTE_BUDGET_EXHAUSTED",
+      "P1368": "ROUTE_BUDGET_EXHAUSTED",
+      "P1370": "ROUTE_BUDGET_EXHAUSTED",
+      "P1694": "ROUTE_BUDGET_EXHAUSTED",
+      "P1695": "ROUTE_BUDGET_EXHAUSTED",
+      "P1769": "ROUTE_BUDGET_EXHAUSTED",
+      "P1774": "ROUTE_BUDGET_EXHAUSTED",
+      "P1806": "ROUTE_BUDGET_EXHAUSTED",
+      "P1808": "ROUTE_BUDGET_EXHAUSTED",
+      "P1816": "ROUTE_BUDGET_EXHAUSTED",
+      "P1823": "ROUTE_BUDGET_EXHAUSTED",
+      "P1826": "ROUTE_BUDGET_EXHAUSTED",
+      "P1836": "ROUTE_BUDGET_EXHAUSTED",
+      "P1848": "ROUTE_BUDGET_EXHAUSTED",
+      "P1851": "ROUTE_BUDGET_EXHAUSTED",
+      "P1853": "ROUTE_BUDGET_EXHAUSTED",
+      "P1864": "ROUTE_BUDGET_EXHAUSTED",
+      "P1870": "ROUTE_BUDGET_EXHAUSTED",
+      "P590": "ROUTE_BUDGET_EXHAUSTED",
+      "P595": "ROUTE_BUDGET_EXHAUSTED",
+      "P598": "ROUTE_BUDGET_EXHAUSTED",
+      "P857": "ROUTE_BUDGET_EXHAUSTED",
+      "P872": "ROUTE_BUDGET_EXHAUSTED",
+      "P873": "ROUTE_BUDGET_EXHAUSTED"
+    },
+    "hard_invalidations": {
+      "current_danger": 90,
+      "stationary_obstacle": 3070
+    },
+    "watchdog_events": [],
+    "soft_replans": 0,
+    "route_comparisons": [],
+    "escape_progress": [],
+    "meeting_load": {
+      "R1": {
+        "current_occupancy": 141,
+        "assigned_in_transit": 91,
+        "predicted_arrival_rate": 2.9353451062187275,
+        "remaining_capacity": 921,
+        "congestion_near_area": 2.96
+      },
+      "R2": {
+        "current_occupancy": 122,
+        "assigned_in_transit": 196,
+        "predicted_arrival_rate": 3.88435153886784,
+        "remaining_capacity": 1849,
+        "congestion_near_area": 1.28
+      },
+      "R3": {
+        "current_occupancy": 113,
+        "assigned_in_transit": 100,
+        "predicted_arrival_rate": 5.234064362915462,
+        "remaining_capacity": 1944,
+        "congestion_near_area": 1.44
+      },
+      "R4": {
+        "current_occupancy": 234,
+        "assigned_in_transit": 149,
+        "predicted_arrival_rate": 2.0512642205249856,
+        "remaining_capacity": 1344,
+        "congestion_near_area": 2.12
+      },
+      "R5": {
+        "current_occupancy": 150,
+        "assigned_in_transit": 158,
+        "predicted_arrival_rate": 5.180651181152967,
+        "remaining_capacity": 670,
+        "congestion_near_area": 1.84
+      },
+      "R6": {
+        "current_occupancy": 115,
+        "assigned_in_transit": 6,
+        "predicted_arrival_rate": 1.1761904761904762,
+        "remaining_capacity": 1322,
+        "congestion_near_area": 0.7916666666666666
+      },
+      "R7": {
+        "current_occupancy": 86,
+        "assigned_in_transit": 15,
+        "predicted_arrival_rate": 0.9171584014854776,
+        "remaining_capacity": 1769,
+        "congestion_near_area": 0.48
+      },
+      "R8": {
+        "current_occupancy": 23,
+        "assigned_in_transit": 110,
+        "predicted_arrival_rate": 3.2289880398127817,
+        "remaining_capacity": 1492,
+        "congestion_near_area": 0.24
+      }
+    },
+    "meeting_states": {
+      "R1": "SAFE",
+      "R2": "CAUTION",
+      "R3": "AVOID",
+      "R4": "SAFE",
+      "R5": "SAFE",
+      "R6": "SAFE",
+      "R7": "SAFE",
+      "R8": "SAFE"
+    },
+    "destination_changes": []
+  }
+}

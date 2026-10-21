@@ -1,0 +1,24 @@
+test_absent_positive_class_is_reported_explicitly (__main__.BaselineTests.test_absent_positive_class_is_reported_explicitly) ... ok
+test_audited_predictions_match_held_out_rows_and_metrics (__main__.BaselineTests.test_audited_predictions_match_held_out_rows_and_metrics) ... ok
+test_both_partitions_contain_both_classes (__main__.BaselineTests.test_both_partitions_contain_both_classes) ... ok
+test_cli_writes_matching_reports (__main__.BaselineTests.test_cli_writes_matching_reports) ... ok
+test_fit_receives_only_training_features_and_labels (__main__.BaselineTests.test_fit_receives_only_training_features_and_labels) ... ok
+test_insufficient_sensor_strata_are_rejected_without_row_fallback (__main__.BaselineTests.test_insufficient_sensor_strata_are_rejected_without_row_fallback) ... ok
+test_invalid_metric_inputs_are_rejected (__main__.BaselineTests.test_invalid_metric_inputs_are_rejected) ... ok
+test_invalid_package_produces_no_report (__main__.BaselineTests.test_invalid_package_produces_no_report) ... ok
+test_invalid_partition_parameters_are_rejected (__main__.BaselineTests.test_invalid_partition_parameters_are_rejected) ... ok
+test_known_metrics_and_matrix_order (__main__.BaselineTests.test_known_metrics_and_matrix_order) ... ok
+test_majority_accuracy_does_not_hide_zero_recall (__main__.BaselineTests.test_majority_accuracy_does_not_hide_zero_recall) ... ok
+test_misaligned_dataset_is_rejected (__main__.BaselineTests.test_misaligned_dataset_is_rejected) ... ok
+test_reference_uses_training_majority (__main__.BaselineTests.test_reference_uses_training_majority) ... ok
+test_report_is_reproducible_and_input_unchanged (__main__.BaselineTests.test_report_is_reproducible_and_input_unchanged) ... ok
+test_sensor_configuration_is_forwarded (__main__.BaselineTests.test_sensor_configuration_is_forwarded) ... ok
+test_sensors_and_readings_are_disjoint_and_complete (__main__.BaselineTests.test_sensors_and_readings_are_disjoint_and_complete) ... ok
+test_single_class_dataset_is_rejected (__main__.BaselineTests.test_single_class_dataset_is_rejected) ... ok
+test_split_is_reproducible_and_independent_of_input_order (__main__.BaselineTests.test_split_is_reproducible_and_independent_of_input_order) ... ok
+test_target_or_unapproved_features_are_rejected (__main__.BaselineTests.test_target_or_unapproved_features_are_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 19 tests in 6.113s
+
+OK

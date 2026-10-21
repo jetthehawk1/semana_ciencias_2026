@@ -1,0 +1,9 @@
+Emision de humo por el fuego y dispersion cardinal: correctas.
+Disipacion al apagarse el incendio: correcta.
+Conservacion sin disipacion, bordes y reinicio: correctos.
+Limites de concentracion y parametros invalidos: correctos.
+Campus real: 160 x 100; E30 (78, 55); 35 turnos reproducibles.
+Humo sobre pisos/calles; incendio y mapa sin modificaciones: correctos.
+Celdas con humo: 424
+Concentracion maxima: 0.5305
+Paso 10 completado correctamente.

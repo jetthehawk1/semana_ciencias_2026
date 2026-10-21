@@ -1,0 +1,310 @@
+{
+  "scripts": [
+    {
+      "script": "test_app_modos_14_4_4.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 0,
+      "skipped": 0,
+      "log": "test_app_modos_14_4_4.py.log"
+    },
+    {
+      "script": "test_automatic_replanning.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 0,
+      "skipped": 0,
+      "log": "test_automatic_replanning.py.log"
+    },
+    {
+      "script": "test_centro_evacuacion.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 0,
+      "skipped": 0,
+      "log": "test_centro_evacuacion.py.log"
+    },
+    {
+      "script": "test_distribucion_personas.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 0,
+      "skipped": 0,
+      "log": "test_distribucion_personas.py.log"
+    },
+    {
+      "script": "test_dynamic_obstacles.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 0,
+      "skipped": 0,
+      "log": "test_dynamic_obstacles.py.log"
+    },
+    {
+      "script": "test_dynamic_replanning.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 0,
+      "skipped": 0,
+      "log": "test_dynamic_replanning.py.log"
+    },
+    {
+      "script": "test_efectos_personas.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 0,
+      "skipped": 0,
+      "log": "test_efectos_personas.py.log"
+    },
+    {
+      "script": "test_ejemplo_persona3_15_2_3.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 0,
+      "skipped": 0,
+      "log": "test_ejemplo_persona3_15_2_3.py.log"
+    },
+    {
+      "script": "test_entrega_persona2_15_1.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 0,
+      "skipped": 0,
+      "log": "test_entrega_persona2_15_1.py.log"
+    },
+    {
+      "script": "test_integracion_aislada_14_3_5.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 0,
+      "skipped": 0,
+      "log": "test_integracion_aislada_14_3_5.py.log"
+    },
+    {
+      "script": "test_integral_14_4_5.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 0,
+      "skipped": 0,
+      "log": "test_integral_14_4_5.py.log"
+    },
+    {
+      "script": "test_integration_persona1.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 0,
+      "skipped": 0,
+      "log": "test_integration_persona1.py.log"
+    },
+    {
+      "script": "test_interfaz_rutas.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 0,
+      "skipped": 0,
+      "log": "test_interfaz_rutas.py.log"
+    },
+    {
+      "script": "test_multiple_automatic.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 0,
+      "skipped": 0,
+      "log": "test_multiple_automatic.py.log"
+    },
+    {
+      "script": "test_multiple_people.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 0,
+      "skipped": 0,
+      "log": "test_multiple_people.py.log"
+    },
+    {
+      "script": "test_no_route_recovery.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 0,
+      "skipped": 0,
+      "log": "test_no_route_recovery.py.log"
+    },
+    {
+      "script": "test_persona2_baseline.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 19,
+      "skipped": 0,
+      "log": "test_persona2_baseline.py.log"
+    },
+    {
+      "script": "test_persona2_dataset.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 13,
+      "skipped": 0,
+      "log": "test_persona2_dataset.py.log"
+    },
+    {
+      "script": "test_persona2_eda.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 16,
+      "skipped": 0,
+      "log": "test_persona2_eda.py.log"
+    },
+    {
+      "script": "test_persona2_end_to_end.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 6,
+      "skipped": 0,
+      "log": "test_persona2_end_to_end.py.log"
+    },
+    {
+      "script": "test_persona2_gateway.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 10,
+      "skipped": 0,
+      "log": "test_persona2_gateway.py.log"
+    },
+    {
+      "script": "test_persona2_inference.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 16,
+      "skipped": 0,
+      "log": "test_persona2_inference.py.log"
+    },
+    {
+      "script": "test_persona2_ingestion.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 19,
+      "skipped": 0,
+      "log": "test_persona2_ingestion.py.log"
+    },
+    {
+      "script": "test_persona2_model_comparison.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 16,
+      "skipped": 0,
+      "log": "test_persona2_model_comparison.py.log"
+    },
+    {
+      "script": "test_persona2_postgres.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 15,
+      "skipped": 0,
+      "log": "test_persona2_postgres.py.log"
+    },
+    {
+      "script": "test_personas_interiores.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 0,
+      "skipped": 0,
+      "log": "test_personas_interiores.py.log"
+    },
+    {
+      "script": "test_replanning_integration.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 0,
+      "skipped": 0,
+      "log": "test_replanning_integration.py.log"
+    },
+    {
+      "script": "test_route_conflicts.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 0,
+      "skipped": 0,
+      "log": "test_route_conflicts.py.log"
+    },
+    {
+      "script": "test_routing_controller.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 0,
+      "skipped": 0,
+      "log": "test_routing_controller.py.log"
+    },
+    {
+      "script": "test_salida_edificios.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 0,
+      "skipped": 0,
+      "log": "test_salida_edificios.py.log"
+    },
+    {
+      "script": "test_selector_modo_14_3_6B.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 0,
+      "skipped": 0,
+      "log": "test_selector_modo_14_3_6B.py.log"
+    },
+    {
+      "script": "test_sensores.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 0,
+      "skipped": 0,
+      "log": "test_sensores.py.log"
+    },
+    {
+      "script": "test_simulacion_fuego.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 0,
+      "skipped": 0,
+      "log": "test_simulacion_fuego.py.log"
+    },
+    {
+      "script": "test_simulacion_humo.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 0,
+      "skipped": 0,
+      "log": "test_simulacion_humo.py.log"
+    },
+    {
+      "script": "test_simulacion_viento.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 0,
+      "skipped": 0,
+      "log": "test_simulacion_viento.py.log"
+    },
+    {
+      "script": "tests/test_consolidation.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 8,
+      "skipped": 0,
+      "log": "tests__test_consolidation.py.log"
+    },
+    {
+      "script": "tests/test_functional_changes.py",
+      "status": "passed",
+      "exit_code": 0,
+      "unit_tests": 21,
+      "skipped": 0,
+      "log": "tests__test_functional_changes.py.log"
+    }
+  ],
+  "summary": {
+    "scripts": 37,
+    "passed_scripts": 37,
+    "failed_scripts": 0,
+    "skipped_scripts": 0,
+    "unit_tests": 159,
+    "skipped": 0
+  },
+  "isolated_copy": true,
+  "headless": true
+}

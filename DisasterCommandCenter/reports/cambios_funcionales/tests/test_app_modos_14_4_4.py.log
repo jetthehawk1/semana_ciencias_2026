@@ -1,0 +1,14 @@
+=== PASO 14.4.4: SELECTOR Y APP UNIFICADA ===
+[OK] Archivos nuevos y campus: 160x100, 55 accesos.
+[OK] original/normal: 100 personas, 31 turnos, 0 lecturas; equivalencia exacta de estados y sensores.
+[OK] original/emergencia: 100 personas, 35 turnos, 432 lecturas; equivalencia exacta de estados y sensores.
+[OK] optimizado/normal: 100 personas, 31 turnos, 0 lecturas; equivalencia exacta de estados y sensores.
+[OK] optimizado/emergencia: 100 personas, 35 turnos, 432 lecturas; equivalencia exacta de estados y sensores.
+[OK] Modo visible por instancia; alternar antes de alarma; reversion, config intacta y config corrupta rechazada.
+[OK] Exportacion en modo optimizado: CSV/JSONL/manifiesto, 48 muestras sin duplicar.
+pygame 2.6.1 (SDL 2.28.4, Python 3.13.7)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+[OK] Pygame sin pantalla: 3 fotogramas en modo original.
+[OK] Pygame sin pantalla: 3 fotogramas en modo original.
+[OK] Archivos anteriores sin cambios: 111.
+Paso 14.4.4: PRUEBAS APROBADAS. No se modifico el modo guardado.

@@ -1,0 +1,7 @@
+Ocho direcciones, intensidad y parametros invalidos: correctos.
+Fuego favorecido a sotavento y frenado a barlovento: correcto.
+Humo desplazado con viento, cambio en marcha y bordes: correctos.
+Viento cero: resultados identicos a fuego y humo de los pasos 9 y 10.
+Mapa real: 160 x 100, incendio E30, viento variable y resultados reproducibles.
+Los modulos originales y el campus permanecen sin modificaciones.
+Paso 11 completado correctamente.

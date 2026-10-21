@@ -1,0 +1,63 @@
+         23871676 function calls in 12.147 seconds
+
+   Ordered by: cumulative time
+   List reduced from 254 to 55 due to restriction <55>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        5    0.015    0.003   12.152    2.430 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\simulation\functional_scenario.py:175(step)
+        5    0.001    0.000   10.601    2.120 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\routing\meeting_areas.py:338(advance)
+        5    0.108    0.022   10.600    2.120 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\routing\meeting_areas.py:405(_advance_policy)
+      197    0.089    0.000    9.021    0.046 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\routing\meeting_areas.py:204(_plan)
+      188    0.048    0.000    7.719    0.041 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\routing\congestion_route_adapter.py:5(calculate_congestion_route)
+      188    3.211    0.017    7.671    0.041 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\routing\weighted_astar.py:6(weighted_astar)
+   578133    0.646    0.000    1.643    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\routing\weighted_astar.py:44(movement_cost)
+  5431798    1.312    0.000    1.312    0.000 {method 'get' of 'dict' objects}
+  1155793    0.545    0.000    0.817    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\routing\weighted_astar.py:38(heuristic)
+        5    0.000    0.000    0.644    0.129 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\simulation\wind_simulation.py:227(step)
+        5    0.438    0.088    0.641    0.128 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\simulation\wind_simulation.py:134(step)
+     7024    0.032    0.000    0.625    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\routing\intelligent_policy.py:177(replan_reason)
+     5895    0.288    0.000    0.606    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\routing\intelligent_policy.py:110(validate_route)
+  1249905    0.259    0.000    0.590    0.000 {built-in method builtins.min}
+   578326    0.218    0.000    0.586    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\routing\congestion.py:84(get_cost)
+      456    0.229    0.001    0.528    0.001 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\integration\route_gateway.py:40(_blocked_set)
+   844939    0.273    0.000    0.519    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\routing\congestion.py:74(get_congestion)
+    14491    0.252    0.000    0.511    0.000 {built-in method builtins.any}
+   555380    0.191    0.000    0.502    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\routing\graph.py:64(neighbors)
+      262    0.031    0.000    0.421    0.002 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\integration\route_gateway.py:56(build_route_request)
+  3501094    0.404    0.000    0.404    0.000 {built-in method builtins.abs}
+      189    0.006    0.000    0.330    0.002 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\routing\meeting_areas.py:288(_commit)
+   357533    0.240    0.000    0.316    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\routing\meeting_areas.py:234(<lambda>)
+   555564    0.311    0.000    0.311    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\routing\graph.py:37(get_neighbors)
+  1945342    0.293    0.000    0.308    0.000 {built-in method builtins.max}
+        5    0.005    0.001    0.288    0.058 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\simulation\functional_scenario.py:116(_update_risk)
+   576972    0.283    0.000    0.283    0.000 {built-in method _heapq.heappop}
+   578329    0.247    0.000    0.247    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\routing\intelligent_policy.py:38(risk_cost)
+        5    0.122    0.024    0.192    0.038 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\routing\congestion.py:24(update)
+      189    0.005    0.000    0.187    0.001 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\integration\route_gateway.py:142(set_request)
+        5    0.058    0.012    0.186    0.037 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\simulation\evacuation_metrics.py:36(sample)
+        5    0.138    0.028    0.183    0.037 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\simulation\hazard_arrival.py:25(update)
+   115712    0.072    0.000    0.168    0.000 {built-in method builtins.all}
+    18790    0.040    0.000    0.157    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\routing\intelligent_policy.py:48(evacuation_eta)
+        5    0.002    0.000    0.151    0.030 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\simulation\adaptive_exits.py:130(step_with_hazards)
+        5    0.004    0.001    0.148    0.030 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\simulation\hazard_impact.py:87(step_with_hazards)
+       10    0.011    0.001    0.132    0.013 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\routing\meeting_areas.py:133(assess)
+     9395    0.033    0.000    0.131    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\routing\intelligent_policy.py:72(inspect)
+        5    0.035    0.007    0.130    0.026 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\simulation\adaptive_exits.py:58(hazard_routes)
+   600096    0.128    0.000    0.128    0.000 {built-in method _heapq.heappush}
+      189    0.010    0.000    0.118    0.001 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\integration\route_gateway.py:182(submit_route)
+   884316    0.114    0.000    0.114    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\routing\meeting_areas.py:433(<genexpr>)
+   111309    0.101    0.000    0.113    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\integration\route_gateway.py:21(_position)
+   881930    0.111    0.000    0.111    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\routing\meeting_areas.py:435(<genexpr>)
+   590537    0.100    0.000    0.101    0.000 {built-in method builtins.next}
+        5    0.016    0.003    0.100    0.020 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\simulation\dynamic_risk.py:84(update)
+   276061    0.099    0.000    0.099    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\simulation\hazard_arrival.py:68(time_to_hazard)
+       19    0.059    0.003    0.091    0.005 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\simulation\adaptive_exits.py:101(_weighted_distances)
+    23126    0.053    0.000    0.089    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\integration\route_gateway.py:243(route_snapshot)
+        5    0.018    0.004    0.060    0.012 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\integration\route_gateway.py:260(step)
+   514770    0.058    0.000    0.058    0.000 {built-in method builtins.isinstance}
+   345384    0.056    0.000    0.056    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\integration\route_gateway.py:46(<genexpr>)
+   286222    0.056    0.000    0.056    0.000 {method 'add' of 'set' objects}
+       10    0.054    0.005    0.055    0.005 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\reports\sexta_fase\before\src\routing\meeting_policy.py:20(evaluate)
+     6928    0.029    0.000    0.041    0.000 {built-in method builtins.sorted}
+
+

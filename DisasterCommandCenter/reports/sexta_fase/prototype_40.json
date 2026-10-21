@@ -1,0 +1,148 @@
+{
+  "metrics": {
+    "safe_meeting_arrivals": 171,
+    "people_ever_reached_meeting": 171,
+    "mean_turns_to_first_meeting": 25.666666666666668,
+    "median_turns_to_first_meeting": 28,
+    "worst_turns_to_first_meeting": 40,
+    "people_exposed_smoke": 25,
+    "accumulated_smoke_dose": 30.687789224246576,
+    "people_close_to_fire": 16,
+    "fire_contacts": 4,
+    "incapacitated": 12,
+    "routes_recalculated": 59,
+    "preventive_reassignments": 13,
+    "maximum_congestion": 17,
+    "distance_traveled": 49467,
+    "people_in_cells_that_later_became_hazardous": 30,
+    "unsafe_waiting_person_turns": 594,
+    "destination_became_unsafe_before_arrival": 0,
+    "confirmed_forecast_departures": 0,
+    "candidate_hazard_departures": 13,
+    "pending_candidate_departures": 13,
+    "expired_candidate_departures": 0,
+    "rejected_current_danger_departures": 0,
+    "temporary_goals": 14,
+    "temporal_routes_rejected": 0,
+    "unassigned": 51,
+    "state_counts": {
+      "WAITING_SAFE": 480,
+      "WAITING_UNSAFE": 2,
+      "EVACUATING": 1214,
+      "REASSIGNING": 0,
+      "AT_MEETING_AREA": 171,
+      "INCAPACITATED": 12
+    },
+    "SafetyScore": 99.51256628992913
+  },
+  "traces": [
+    {
+      "turn": 12,
+      "person_id": "P868",
+      "point": [
+        235,
+        167
+      ],
+      "building": "E30",
+      "source_building": "E30",
+      "category": "fire_reached_occupied_cell_before_movement",
+      "prior_diagnostic": {
+        "hazard_eta": 0.0,
+        "evacuation_eta": Infinity,
+        "safety_margin": -Infinity,
+        "environmental_hazard_eta": 0.0,
+        "personal_hazard_eta": 0.0,
+        "toxic_dose_eta": 30.579477454120607,
+        "fire_eta": 0.0,
+        "smoke_eta": 7.4040961265563965,
+        "personal_safety_margin": -Infinity,
+        "unsafe_wait": true,
+        "waiting_age": 10,
+        "state": "WAITING_UNSAFE",
+        "priority": 799.4439136729288
+      },
+      "route": null
+    },
+    {
+      "turn": 15,
+      "person_id": "P879",
+      "point": [
+        235,
+        168
+      ],
+      "building": "E30",
+      "source_building": "E30",
+      "category": "fire_reached_occupied_cell_before_movement",
+      "prior_diagnostic": {
+        "hazard_eta": 0.0,
+        "evacuation_eta": Infinity,
+        "safety_margin": -Infinity,
+        "environmental_hazard_eta": 0.0,
+        "personal_hazard_eta": 0.0,
+        "toxic_dose_eta": 100.38868452185528,
+        "fire_eta": 0.0,
+        "smoke_eta": 4.545454502105713,
+        "personal_safety_margin": -Infinity,
+        "unsafe_wait": true,
+        "waiting_age": 13,
+        "state": "WAITING_UNSAFE",
+        "priority": 806.1417969158148
+      },
+      "route": null
+    },
+    {
+      "turn": 18,
+      "person_id": "P878",
+      "point": [
+        234,
+        167
+      ],
+      "building": "E30",
+      "source_building": "E30",
+      "category": "fire_reached_occupied_cell_before_movement",
+      "prior_diagnostic": {
+        "hazard_eta": 0.0,
+        "evacuation_eta": Infinity,
+        "safety_margin": -Infinity,
+        "environmental_hazard_eta": 0.0,
+        "personal_hazard_eta": 0.0,
+        "toxic_dose_eta": 51.54266841906114,
+        "fire_eta": 0.0,
+        "smoke_eta": 12.137928009033203,
+        "personal_safety_margin": -Infinity,
+        "unsafe_wait": true,
+        "waiting_age": 16,
+        "state": "WAITING_UNSAFE",
+        "priority": 824.1797161118241
+      },
+      "route": null
+    },
+    {
+      "turn": 20,
+      "person_id": "P875",
+      "point": [
+        236,
+        164
+      ],
+      "building": "E30",
+      "source_building": "E30",
+      "category": "fire_reached_occupied_cell_before_movement",
+      "prior_diagnostic": {
+        "hazard_eta": 0.0,
+        "evacuation_eta": Infinity,
+        "safety_margin": -Infinity,
+        "environmental_hazard_eta": 0.0,
+        "personal_hazard_eta": 0.0,
+        "toxic_dose_eta": 92.86130349272845,
+        "fire_eta": 0.0,
+        "smoke_eta": 4.545454502105713,
+        "personal_safety_margin": -Infinity,
+        "unsafe_wait": true,
+        "waiting_age": 11,
+        "state": "WAITING_UNSAFE",
+        "priority": 797.2106932766732
+      },
+      "route": null
+    }
+  ]
+}

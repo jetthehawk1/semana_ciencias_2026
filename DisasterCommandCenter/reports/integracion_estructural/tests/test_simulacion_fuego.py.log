@@ -1,0 +1,7 @@
+Ignicion, propagacion cardinal y agotamiento: correctos.
+Calles, pisos y probabilidad de propagacion: correctos.
+Validacion de coordenadas, terreno y parametros: correcta.
+Mapa real: 160 x 100, 502 zonas, 3306 edificios y 163 jardines combustibles.
+Semilla reproducible y propagacion dentro del terreno combustible: correctas.
+Fuego inicial E30 (78, 55); turnos: 35 ; afectados: 289
+Paso 9 completado correctamente.

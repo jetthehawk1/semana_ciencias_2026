@@ -1,0 +1,7 @@
+=== PASO 15.1: PRUEBA DE CONTRATO PARA PERSONA 2 ===
+[OK] Exportacion real: 432 lecturas, 12 sensores, turnos 0..35; CSV/JSONL/manifiesto coinciden.
+[OK] Canal observable sin la etiqueta de verdad-terreno.
+[OK] Paquetes alterados rechazados: duplicados, recuentos, rangos y formatos divergentes.
+[OK] Escenario normal: cero muestras; exportacion vacia rechazada.
+[OK] Integridad: 159 archivos .py/.json sin cambios.
+PASO 15.1: CONTRATO CON PERSONA 2 APROBADO. Simulador intacto.

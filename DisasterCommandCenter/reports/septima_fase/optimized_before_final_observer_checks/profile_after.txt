@@ -1,0 +1,78 @@
+         8003460 function calls in 4.991 seconds
+
+   Ordered by: cumulative time
+   List reduced from 359 to 70 due to restriction <70>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        5    0.020    0.004    4.992    0.998 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\simulation\functional_scenario.py:199(step)
+        5    0.000    0.000    3.280    0.656 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\routing\meeting_areas.py:395(advance)
+        5    0.002    0.000    3.280    0.656 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\routing\meeting_areas.py:462(_advance_policy)
+        5    0.138    0.028    3.278    0.656 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\routing\safe_routing.py:70(advance_safe)
+      114    0.084    0.001    1.823    0.016 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\routing\meeting_areas.py:227(_plan)
+      123    0.538    0.004    0.712    0.006 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\routing\meeting_flow.py:60(route)
+        5    0.000    0.000    0.643    0.129 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\simulation\wind_simulation.py:227(step)
+        5    0.442    0.088    0.640    0.128 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\simulation\wind_simulation.py:134(step)
+      282    0.159    0.001    0.367    0.001 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\integration\route_gateway.py:40(_blocked_set)
+    15107    0.161    0.000    0.353    0.000 {built-in method builtins.any}
+   920601    0.178    0.000    0.316    0.000 {built-in method builtins.min}
+        5    0.005    0.001    0.314    0.063 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\simulation\functional_scenario.py:133(_update_risk)
+      144    0.019    0.000    0.269    0.002 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\integration\route_gateway.py:56(build_route_request)
+        5    0.151    0.030    0.235    0.047 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\routing\congestion.py:24(update)
+       20    0.002    0.000    0.224    0.011 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\routing\congestion_route_adapter.py:5(calculate_congestion_route)
+       20    0.096    0.005    0.223    0.011 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\routing\weighted_astar.py:6(weighted_astar)
+      113    0.003    0.000    0.221    0.002 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\routing\meeting_areas.py:336(_commit)
+     9239    0.131    0.000    0.194    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\routing\intelligent_policy.py:178(route_fire_margin)
+        5    0.065    0.013    0.190    0.038 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\simulation\evacuation_metrics.py:38(sample)
+     9395    0.063    0.000    0.189    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\routing\intelligent_policy.py:81(inspect)
+   730327    0.186    0.000    0.186    0.000 {method 'get' of 'dict' objects}
+        5    0.131    0.026    0.174    0.035 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\simulation\hazard_arrival.py:28(update)
+    43113    0.099    0.000    0.169    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\integration\route_gateway.py:243(route_snapshot)
+       10    0.054    0.005    0.165    0.016 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\routing\safe_routing.py:31(refresh_meeting_load)
+   835653    0.137    0.000    0.157    0.000 {built-in method builtins.max}
+        5    0.002    0.000    0.153    0.031 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\simulation\adaptive_exits.py:165(step_with_hazards)
+        5    0.002    0.000    0.152    0.030 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\simulation\hazard_impact.py:91(step_with_hazards)
+    18790    0.043    0.000    0.147    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\routing\intelligent_policy.py:57(evacuation_eta)
+      133    0.004    0.000    0.147    0.001 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\integration\route_gateway.py:142(set_request)
+        5    0.037    0.007    0.145    0.029 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\simulation\adaptive_exits.py:60(hazard_routes)
+   151497    0.104    0.000    0.136    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\routing\meeting_areas.py:261(<lambda>)
+       10    0.011    0.001    0.135    0.014 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\routing\meeting_areas.py:150(assess)
+   887134    0.120    0.000    0.120    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\routing\safe_routing.py:108(<genexpr>)
+     9239    0.040    0.000    0.106    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\routing\intelligent_policy.py:279(replan_reason)
+    74236    0.045    0.000    0.105    0.000 {built-in method builtins.all}
+        5    0.028    0.006    0.105    0.021 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\integration\route_gateway.py:260(step)
+   899856    0.104    0.000    0.104    0.000 {built-in method builtins.abs}
+       20    0.066    0.003    0.102    0.005 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\simulation\adaptive_exits.py:108(_weighted_distances)
+        5    0.016    0.003    0.101    0.020 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\simulation\dynamic_risk.py:84(update)
+      583    0.028    0.000    0.092    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\routing\intelligent_policy.py:140(validate_route)
+      129    0.006    0.000    0.084    0.001 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\routing\meeting_areas.py:119(_can_reach_goal)
+    80854    0.074    0.000    0.082    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\integration\route_gateway.py:21(_position)
+   154158    0.073    0.000    0.073    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\routing\graph.py:37(get_neighbors)
+       47    0.066    0.001    0.066    0.001 {built-in method numpy.array}
+      133    0.006    0.000    0.065    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\integration\route_gateway.py:182(submit_route)
+        5    0.000    0.000    0.060    0.012 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\simulation\interior_prediction.py:38(prepare)
+       10    0.053    0.005    0.054    0.005 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\routing\meeting_policy.py:20(evaluate)
+   333630    0.043    0.000    0.053    0.000 {built-in method builtins.isinstance}
+    37450    0.038    0.000    0.053    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\routing\meeting_areas.py:364(at_meeting)
+        5    0.031    0.006    0.050    0.010 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\routing\meeting_flow.py:40(prepare)
+    16383    0.019    0.000    0.048    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\routing\weighted_astar.py:44(movement_cost)
+      761    0.046    0.000    0.046    0.000 {built-in method numpy.asarray}
+    16472    0.031    0.000    0.043    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\routing\intelligent_policy.py:197(step_safe)
+    61425    0.021    0.000    0.043    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\routing\congestion.py:74(get_congestion)
+   139065    0.041    0.000    0.041    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\simulation\interior_prediction.py:42(<genexpr>)
+     8159    0.010    0.000    0.039    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\.venv\Lib\site-packages\numpy\_core\fromnumeric.py:3187(min)
+   221124    0.038    0.000    0.038    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\integration\route_gateway.py:46(<genexpr>)
+   157174    0.035    0.000    0.035    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\integration\route_gateway.py:30(_point)
+   257506    0.035    0.000    0.035    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\simulation\person.py:60(position)
+     7529    0.021    0.000    0.035    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\indexed_indoor_people.py:55(move_person)
+   217221    0.034    0.000    0.034    0.000 {built-in method builtins.len}
+        5    0.016    0.003    0.034    0.007 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\simulation\next_turn_fire.py:26(update)
+      583    0.012    0.000    0.033    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\routing\intelligent_policy.py:169(minimum_fire_margin)
+   159938    0.033    0.000    0.033    0.000 {method 'add' of 'set' objects}
+    18698    0.010    0.000    0.032    0.000 C:\Users\enriq\AppData\Local\Programs\Python\Python313\Lib\collections\__init__.py:673(update)
+       10    0.012    0.001    0.031    0.003 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\simulation\dynamic_risk.py:46(_proximity)
+     8159    0.015    0.000    0.030    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\.venv\Lib\site-packages\numpy\_core\fromnumeric.py:66(_wrapreduction)
+        5    0.029    0.006    0.029    0.006 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\simulation\exterior_risk.py:5(exterior_blocked_cells)
+    52683    0.016    0.000    0.028    0.000 C:\Users\enriq\OneDrive\Documentos\GitHub\semana_ciencias\semana_ciencias_2026\DisasterCommandCenter\src\simulation\person_manager.py:52(get_person)
+   158501    0.027    0.000    0.027    0.000 {method 'append' of 'list' objects}
+
+

@@ -1,0 +1,25 @@
+{
+  "before": {
+    "A": [
+      5,
+      3
+    ],
+    "B": [
+      4,
+      3
+    ]
+  },
+  "after": {
+    "A": [
+      5,
+      3
+    ],
+    "B": [
+      3,
+      3
+    ]
+  },
+  "urgent_still_frontier": true,
+  "safe_neighbor_free_after_pass": true,
+  "conclusion": "one-pass priority inversion: front clears after urgent pupil already waited"
+}

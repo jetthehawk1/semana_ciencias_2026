@@ -1,0 +1,59 @@
+{
+  "source_hash": "a8168b47a8ada37c352997615f4db7f2ee2ffde9150ae94207fe5bb5a3641f28",
+  "benchmark_execution_source_hash": "417124e87c5ae4c8aeecea0f797c56b8e8567da477b0a6f333c024b44a736205",
+  "validated_ui_only_revision": {
+    "changed_ui_files": {
+      "src/dcc_app/functional_application.py": {
+        "execution": "4516fbc8807b39696eb2999b1f7c34625f8c940a1f5718a0eef98ea625626c06",
+        "final": "d6d8f5357d24c49ee2479d45b261a75d24681b663c17ae5cca9da4e034926026"
+      },
+      "src/dcc_app/mode_application.py": {
+        "execution": "753b1ccbf4b8df96eda612675f33ec8a6c7209410d88f661b1e26546315b48eb",
+        "final": "160b8ff9a31ebafaa258107b583862c5addd2b24aefc52c709803dd9d07b3943"
+      },
+      "src/dcc_app/presentation_view.py": {
+        "execution": "c79c2f6ac01188ac40661aaf0ec63bb582bfdc24b6b7bc9a4c5277ee4ddcffa6",
+        "final": "446e14ca43963e06db58161b924ed40470a6847e04483071c29eb0a299a98159"
+      }
+    },
+    "backend_and_all_data_unchanged": true,
+    "manifest": "reports\\septima_fase\\ui_revision_manifest.json",
+    "note": "Metrics executed with source_hash; final_source_hash includes later UI-only changes, separately tested/rendered."
+  },
+  "state": "READY",
+  "readiness_checks": {
+    "fire_contacts": true,
+    "incapacitated": true,
+    "smoke_exposure": true,
+    "smoke_dose": true,
+    "unsafe_wait": true,
+    "unassigned": true,
+    "isolated_runtime_target": true
+  },
+  "tests": {
+    "scripts": 43,
+    "passed_scripts": 43,
+    "failed_scripts": 0,
+    "skipped_scripts": 0,
+    "unit_tests": 372,
+    "skipped": 0
+  },
+  "all_physics_identical": true,
+  "traditional_original_metrics_unchanged": true,
+  "all_previous_config_values_preserved": true,
+  "changed_files": [
+    "src/dcc_app/functional_application.py",
+    "src/dcc_app/mode_application.py",
+    "src/routing/intelligent_policy.py",
+    "src/routing/safe_routing.py",
+    "src/simulation/adaptive_exits.py",
+    "src/simulation/evacuation_metrics.py",
+    "src/simulation/functional_scenario.py",
+    "src/simulation/hazard_impact.py",
+    "data/functional_scenario.json",
+    "tools/profile_evacuation.py",
+    "tests/test_second_functional_changes.py",
+    "README.md"
+  ],
+  "feedback_sections": 26
+}

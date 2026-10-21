@@ -1,0 +1,18 @@
+{
+  "building": "E56",
+  "turns": 80,
+  "physical_prefix_identical": true,
+  "peak_blocked_groups": 1,
+  "initial": 50,
+  "crossings": {
+    "secondary-E56-E": {
+      "role": "secondary",
+      "crossings": 35
+    },
+    "secondary-E56-N": {
+      "role": "secondary",
+      "crossings": 15
+    }
+  },
+  "secondary_crossings": 50
+}

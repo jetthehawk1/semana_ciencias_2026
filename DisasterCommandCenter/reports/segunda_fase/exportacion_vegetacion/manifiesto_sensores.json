@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "dataset_kind": "synthetic_simulation",
+  "project": "Disaster Command Center",
+  "step": "13",
+  "run_id": "dcc_functional_04f8a86fbe4d436382761c3f63bb8834",
+  "records": 372,
+  "sensor_count": 12,
+  "turn_count": 31,
+  "first_turn": 0,
+  "last_turn": 30,
+  "time_unit": "simulation_turn_not_seconds",
+  "temperature_note": "Celsius ficticios generados por regla, NO termometría real",
+  "smoke_index_note": "Concentración normalizada 0..1, NO ppm",
+  "labels_note": "fire_within_2_cells es etiqueta de verdad-terreno, NO señal observable del sensor",
+  "metadata": {
+    "scenario": "functional_refined",
+    "people": 1879,
+    "subdivision": 3,
+    "native_grid": [
+      480,
+      300
+    ],
+    "export_coordinate_grid": [
+      160,
+      100
+    ],
+    "smoke_projection": "maximum_of_subcells",
+    "fire_projection": "any_burning_subcell",
+    "target_distance_unit": "source_grid_cell",
+    "person_manager_mode": "original",
+    "final_turn": 30
+  }
+}

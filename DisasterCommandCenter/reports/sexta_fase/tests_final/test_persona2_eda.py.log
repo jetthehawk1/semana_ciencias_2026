@@ -1,0 +1,21 @@
+test_analysis_is_read_only_and_deterministic (__main__.SensorEdaTests.test_analysis_is_read_only_and_deterministic) ... ok
+test_cli_default_does_not_write (__main__.SensorEdaTests.test_cli_default_does_not_write) ... ok
+test_cli_rejects_invalid_package_without_report (__main__.SensorEdaTests.test_cli_rejects_invalid_package_without_report) ... ok
+test_cli_saves_matching_json_and_markdown (__main__.SensorEdaTests.test_cli_saves_matching_json_and_markdown) ... ok
+test_imbalance_threshold_boundary (__main__.SensorEdaTests.test_imbalance_threshold_boundary) ... ok
+test_known_class_and_alarm_distribution (__main__.SensorEdaTests.test_known_class_and_alarm_distribution) ... ok
+test_known_counts_and_coverage (__main__.SensorEdaTests.test_known_counts_and_coverage) ... ok
+test_known_statistics (__main__.SensorEdaTests.test_known_statistics) ... ok
+test_markdown_contains_computed_results_and_notes (__main__.SensorEdaTests.test_markdown_contains_computed_results_and_notes) ... ok
+test_one_observation_has_zero_population_stddev (__main__.SensorEdaTests.test_one_observation_has_zero_population_stddev) ... ok
+test_real_generated_package (__main__.SensorEdaTests.test_real_generated_package) ... ok
+test_reordering_does_not_change_statistics (__main__.SensorEdaTests.test_reordering_does_not_change_statistics) ... ok
+test_required_missing_value_is_rejected (__main__.SensorEdaTests.test_required_missing_value_is_rejected) ... ok
+test_single_class_positive_and_negative (__main__.SensorEdaTests.test_single_class_positive_and_negative) ... ok
+test_target_changes_do_not_change_feature_profiles_or_statistics (__main__.SensorEdaTests.test_target_changes_do_not_change_feature_profiles_or_statistics) ... ok
+test_types_nulls_and_roles_after_p22 (__main__.SensorEdaTests.test_types_nulls_and_roles_after_p22) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 1.901s
+
+OK

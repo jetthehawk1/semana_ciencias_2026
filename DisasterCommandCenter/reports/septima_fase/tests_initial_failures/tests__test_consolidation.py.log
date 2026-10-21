@@ -1,0 +1,13 @@
+test_new_and_legacy_entry_points_work_outside_project_directory (__main__.EntryPointTests.test_new_and_legacy_entry_points_work_outside_project_directory) ... ok
+test_both_astar_algorithms_accept_the_real_campus_graph (__main__.RoutingCompatibilityTests.test_both_astar_algorithms_accept_the_real_campus_graph) ... ok
+test_graph_alias_keeps_terrain_and_cardinal_restrictions (__main__.RoutingCompatibilityTests.test_graph_alias_keeps_terrain_and_cardinal_restrictions) ... ok
+test_optimizer_routes_are_consumed_only_by_persona1_gateway (__main__.RoutingCompatibilityTests.test_optimizer_routes_are_consumed_only_by_persona1_gateway) ... ok
+test_priority_preserves_existing_scores_and_order (__main__.RoutingCompatibilityTests.test_priority_preserves_existing_scores_and_order) ... ok
+test_weighted_route_avoids_congestion_without_changing_weights (__main__.RoutingCompatibilityTests.test_weighted_route_avoids_congestion_without_changing_weights) ... ok
+test_weighted_route_respects_obstacles_and_reports_no_route (__main__.RoutingCompatibilityTests.test_weighted_route_respects_obstacles_and_reports_no_route) ... ok
+test_failing_script_does_not_hide_later_tests_or_modify_source (__main__.TestRunnerTests.test_failing_script_does_not_hide_later_tests_or_modify_source) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 4.480s
+
+OK

@@ -1,0 +1,16 @@
+=== PRUEBA DE RECÁLCULO INTEGRADO ===
+1. Ruta original: [{'x': 0, 'y': 2}, {'x': 1, 'y': 2}, {'x': 2, 'y': 2}, {'x': 3, 'y': 2}, {'x': 4, 'y': 2}]
+2. Posición después del primer turno: (1, 2)
+3. Obstáculo detectado: [{'x': 2, 'y': 2}]
+4. Movimiento detenido: OK
+5. Ruta alternativa: [{'x': 1, 'y': 2}, {'x': 1, 'y': 1}, {'x': 2, 'y': 1}, {'x': 3, 'y': 1}, {'x': 3, 'y': 2}, {'x': 4, 'y': 2}]
+6. Nueva ruta registrada: OK
+Movimiento alternativo 1: (1, 1)
+Movimiento alternativo 2: (2, 1)
+Movimiento alternativo 3: (3, 1)
+Movimiento alternativo 4: (3, 2)
+Movimiento alternativo 5: (4, 2)
+
+La persona evitó el obstáculo: OK
+La persona llegó al destino: OK
+PRUEBA DE RECÁLCULO INTEGRADO COMPLETADA

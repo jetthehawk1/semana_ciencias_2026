@@ -1,0 +1,30 @@
+Collecting pygame==2.6.1 (from -r requirements.txt (line 1))
+  Using cached pygame-2.6.1-cp313-cp313-win_amd64.whl.metadata (13 kB)
+Collecting scikit-learn==1.9.1 (from -r C:\Users\enriq\AppData\Local\Temp\dcc_clean_install_jwvblnu_\DisasterCommandCenter\requirements-persona2-ml.txt (line 3))
+  Using cached scikit_learn-1.9.1-cp313-cp313-win_amd64.whl.metadata (9.3 kB)
+Collecting numpy==2.5.4 (from -r C:\Users\enriq\AppData\Local\Temp\dcc_clean_install_jwvblnu_\DisasterCommandCenter\requirements-persona2-ml.txt (line 5))
+  Using cached numpy-2.5.4-cp313-cp313-win_amd64.whl.metadata (6.6 kB)
+Collecting scipy==1.18.1 (from -r C:\Users\enriq\AppData\Local\Temp\dcc_clean_install_jwvblnu_\DisasterCommandCenter\requirements-persona2-ml.txt (line 6))
+  Using cached scipy-1.18.1-cp313-cp313-win_amd64.whl.metadata (61 kB)
+Collecting joblib==1.6.0 (from -r C:\Users\enriq\AppData\Local\Temp\dcc_clean_install_jwvblnu_\DisasterCommandCenter\requirements-persona2-ml.txt (line 7))
+  Using cached joblib-1.6.0-py3-none-any.whl.metadata (6.5 kB)
+Collecting threadpoolctl==3.7.0 (from -r C:\Users\enriq\AppData\Local\Temp\dcc_clean_install_jwvblnu_\DisasterCommandCenter\requirements-persona2-ml.txt (line 8))
+  Using cached threadpoolctl-3.7.0-py3-none-any.whl.metadata (24 kB)
+Collecting narwhals==2.27.1 (from -r C:\Users\enriq\AppData\Local\Temp\dcc_clean_install_jwvblnu_\DisasterCommandCenter\requirements-persona2-ml.txt (line 9))
+  Using cached narwhals-2.27.1-py3-none-any.whl.metadata (15 kB)
+Collecting cloudpickle==3.1.2 (from -r C:\Users\enriq\AppData\Local\Temp\dcc_clean_install_jwvblnu_\DisasterCommandCenter\requirements-persona2-ml.txt (line 10))
+  Using cached cloudpickle-3.1.2-py3-none-any.whl.metadata (7.1 kB)
+Using cached pygame-2.6.1-cp313-cp313-win_amd64.whl (10.6 MB)
+Using cached scikit_learn-1.9.1-cp313-cp313-win_amd64.whl (8.2 MB)
+Using cached numpy-2.5.4-cp313-cp313-win_amd64.whl (12.6 MB)
+Using cached scipy-1.18.1-cp313-cp313-win_amd64.whl (36.6 MB)
+Using cached joblib-1.6.0-py3-none-any.whl (306 kB)
+Using cached threadpoolctl-3.7.0-py3-none-any.whl (26 kB)
+Using cached narwhals-2.27.1-py3-none-any.whl (483 kB)
+Using cached cloudpickle-3.1.2-py3-none-any.whl (22 kB)
+Installing collected packages: threadpoolctl, pygame, numpy, narwhals, cloudpickle, scipy, joblib, scikit-learn
+
+Successfully installed cloudpickle-3.1.2 joblib-1.6.0 narwhals-2.27.1 numpy-2.5.4 pygame-2.6.1 scikit-learn-1.9.1 scipy-1.18.1 threadpoolctl-3.7.0
+
+[notice] A new release of pip is available: 25.2 -> 26.2.1
+[notice] To update, run: C:\Users\enriq\AppData\Local\Temp\dcc_clean_install_jwvblnu_\venv\Scripts\python.exe -m pip install --upgrade pip

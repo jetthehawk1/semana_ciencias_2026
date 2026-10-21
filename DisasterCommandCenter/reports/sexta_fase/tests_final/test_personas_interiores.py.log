@@ -1,0 +1,13 @@
+Mapa: 160 x 100
+Edificios identificados: 55
+Celdas interiores identificadas: 3306
+Personas iniciales en edificios: 3
+Personas iniciales en exterior: 1
+P001: (151, 5), edificio=E1
+P002: (80, 55), edificio=E30
+P003: (80, 58), edificio=E61
+P004: (150, 5), edificio=None
+Edificio correcto, ocupacion y limites: correctos.
+Salida desde el interior bloqueada (hasta Paso 8.12): correcta.
+Movimiento exterior y PersonManager original: correctos.
+Paso 8.10 completado correctamente.

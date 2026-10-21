@@ -1,0 +1,41 @@
+pygame 2.6.1 (SDL 2.28.4, Python 3.13.7)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+[OK] App integrada 14.4.4: 480x300; personas=1879; escenario=emergencia; modo=optimizado; sensores=12.
+A alarma; ESPACIO pausa; . turno; R reinicia; T cambia escenario antes de A; M modo (solo antes de alarma); V viento; [ ] intensidad; H humo; clic izquierdo selecciona foco antes de A; despues no genera focos; E exportar; S sensores; TAB seleccionar; F encuadrar; N etiquetas; G cuadricula; P accesos; ESC cerrar.
+[OK] Paso 14.4.4: arranque grafico de 3 fotogramas; modo=optimizado
+test_all_preserved_walkways_and_doors_are_transitable (__main__.ClickAndVegetationTests.test_all_preserved_walkways_and_doors_are_transitable) ... ok
+test_click_outside_map_or_in_hud_does_not_select (__main__.ClickAndVegetationTests.test_click_outside_map_or_in_hud_does_not_select) ... ok
+test_door_crossing_also_respects_exterior_risk_mask (__main__.ClickAndVegetationTests.test_door_crossing_also_respects_exterior_risk_mask) ... ok
+test_fallback_is_original_focus (__main__.ClickAndVegetationTests.test_fallback_is_original_focus) ... ok
+test_later_click_cannot_change_origin_or_add_fire (__main__.ClickAndVegetationTests.test_later_click_cannot_change_origin_or_add_fire) ... ok
+test_meeting_areas_remain_noncombustible (__main__.ClickAndVegetationTests.test_meeting_areas_remain_noncombustible) ... ok
+test_noncombustible_click_is_rejected_without_selection (__main__.ClickAndVegetationTests.test_noncombustible_click_is_rejected_without_selection) ... ok
+test_only_floor_beds_change_not_roads_or_buildings (__main__.ClickAndVegetationTests.test_only_floor_beds_change_not_roads_or_buildings) ... ok
+test_real_pygame_events_select_then_lock_after_alarm (__main__.ClickAndVegetationTests.test_real_pygame_events_select_then_lock_after_alarm) ... ok
+test_selected_vegetation_really_ignites_and_produces_smoke (__main__.ClickAndVegetationTests.test_selected_vegetation_really_ignites_and_produces_smoke) ... ok
+test_valid_click_selects_correct_cell_after_zoom_and_pan (__main__.ClickAndVegetationTests.test_valid_click_selects_correct_cell_after_zoom_and_pan) ... ok
+test_all_pairs_are_adjacent_interior_exterior (__main__.EntranceOrientationTests.test_all_pairs_are_adjacent_interior_exterior) ... ok
+test_e14_east (__main__.EntranceOrientationTests.test_e14_east) ... ok
+test_e18_east (__main__.EntranceOrientationTests.test_e18_east) ... ok
+test_e19_south (__main__.EntranceOrientationTests.test_e19_south) ... ok
+test_e28_west (__main__.EntranceOrientationTests.test_e28_west) ... ok
+test_e31_north_and_south (__main__.EntranceOrientationTests.test_e31_north_and_south) ... ok
+test_e32_west (__main__.EntranceOrientationTests.test_e32_west) ... ok
+test_e4_south (__main__.EntranceOrientationTests.test_e4_south) ... ok
+test_e55_south (__main__.EntranceOrientationTests.test_e55_south) ... ok
+test_e57_south (__main__.EntranceOrientationTests.test_e57_south) ... ok
+test_e60_south (__main__.EntranceOrientationTests.test_e60_south) ... ok
+test_e6_south (__main__.EntranceOrientationTests.test_e6_south) ... ok
+test_e7_north (__main__.EntranceOrientationTests.test_e7_north) ... ok
+test_e8_south (__main__.EntranceOrientationTests.test_e8_south) ... ok
+test_regeneration_preserves_source_defined_orientations (__main__.EntranceOrientationTests.test_regeneration_preserves_source_defined_orientations) ... ok
+test_fire_next_to_walkway_forces_same_router_to_replan (__main__.ExteriorRoutingTests.test_fire_next_to_walkway_forces_same_router_to_replan) ... ok
+test_nearby_vegetation_can_close_a_meeting_area (__main__.ExteriorRoutingTests.test_nearby_vegetation_can_close_a_meeting_area) ... ok
+test_smoke_threshold_still_blocks_exterior (__main__.ExteriorRoutingTests.test_smoke_threshold_still_blocks_exterior) ... ok
+test_active_and_legacy_applications_start (__main__.HudAndEntryTests.test_active_and_legacy_applications_start) ... ok
+test_exact_turtle_message_is_rendered_in_footer (__main__.HudAndEntryTests.test_exact_turtle_message_is_rendered_in_footer) ... ok
+
+----------------------------------------------------------------------
+Ran 31 tests in 18.086s
+
+OK

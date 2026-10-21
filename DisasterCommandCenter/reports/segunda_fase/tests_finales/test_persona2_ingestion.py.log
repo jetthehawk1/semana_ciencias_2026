@@ -1,0 +1,24 @@
+test_divergent_csv_and_jsonl (__main__.SensorIngestionTests.test_divergent_csv_and_jsonl) ... ok
+test_duplicate_turn_sensor (__main__.SensorIngestionTests.test_duplicate_turn_sensor) ... ok
+test_each_field_is_required (__main__.SensorIngestionTests.test_each_field_is_required) ... ok
+test_empty_package (__main__.SensorIngestionTests.test_empty_package) ... ok
+test_explicit_sensor_configuration (__main__.SensorIngestionTests.test_explicit_sensor_configuration) ... ok
+test_exterior_building_id_remains_none (__main__.SensorIngestionTests.test_exterior_building_id_remains_none) ... ok
+test_finite_numeric_limits_are_accepted (__main__.SensorIngestionTests.test_finite_numeric_limits_are_accepted) ... ok
+test_identity_and_location_checked_by_default (__main__.SensorIngestionTests.test_identity_and_location_checked_by_default) ... ok
+test_import_and_default_configuration_from_another_directory (__main__.SensorIngestionTests.test_import_and_default_configuration_from_another_directory) ... ok
+test_manifest_counts_and_provenance (__main__.SensorIngestionTests.test_manifest_counts_and_provenance) ... ok
+test_missing_package_file (__main__.SensorIngestionTests.test_missing_package_file) ... ok
+test_missing_sensor_in_one_turn (__main__.SensorIngestionTests.test_missing_sensor_in_one_turn) ... ok
+test_missing_turn (__main__.SensorIngestionTests.test_missing_turn) ... ok
+test_nonfinite_measurements (__main__.SensorIngestionTests.test_nonfinite_measurements) ... ok
+test_null_is_rejected_except_building_id (__main__.SensorIngestionTests.test_null_is_rejected_except_building_id) ... ok
+test_real_package_and_input_files_unchanged (__main__.SensorIngestionTests.test_real_package_and_input_files_unchanged) ... ok
+test_target_is_separate_and_rows_do_not_alias (__main__.SensorIngestionTests.test_target_is_separate_and_rows_do_not_alias) ... ok
+test_types_and_ranges (__main__.SensorIngestionTests.test_types_and_ranges) ... ok
+test_unexpected_field_is_rejected (__main__.SensorIngestionTests.test_unexpected_field_is_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 19 tests in 3.663s
+
+OK

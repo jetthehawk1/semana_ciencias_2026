@@ -1,0 +1,28 @@
+pygame 2.6.1 (SDL 2.28.4, Python 3.13.7)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+test_population_routes_wind_pause_and_sensor_export_together (__main__.FunctionalSceneIntegrationTests.test_population_routes_wind_pause_and_sensor_export_together) ... ok
+test_projection_keeps_source_grid_and_conservative_smoke (__main__.FunctionalSceneIntegrationTests.test_projection_keeps_source_grid_and_conservative_smoke) ... ok
+test_disabled_area_is_not_assigned (__main__.MeetingRouterTests.test_disabled_area_is_not_assigned) ... ok
+test_dynamic_blockage_replans_through_gateway (__main__.MeetingRouterTests.test_dynamic_blockage_replans_through_gateway) ... ok
+test_full_area_is_not_double_booked (__main__.MeetingRouterTests.test_full_area_is_not_double_booked) ... ok
+test_no_safe_area_means_wait_without_teleporting (__main__.MeetingRouterTests.test_no_safe_area_means_wait_without_teleporting) ... ok
+test_priority_changes_real_assignment_order_with_limited_budget (__main__.MeetingRouterTests.test_priority_changes_real_assignment_order_with_limited_budget) ... ok
+test_reassigns_even_after_arrival_when_meeting_area_smokes (__main__.MeetingRouterTests.test_reassigns_even_after_arrival_when_meeting_area_smokes) ... ok
+test_unreachable_closest_area_falls_back_to_reachable_area (__main__.MeetingRouterTests.test_unreachable_closest_area_falls_back_to_reachable_area) ... ok
+test_all_accesses_connect_to_the_meeting_network (__main__.ScenarioDataTests.test_all_accesses_connect_to_the_meeting_network) ... ok
+test_exact_eleven_laboratories_are_structured (__main__.ScenarioDataTests.test_exact_eleven_laboratories_are_structured) ... ok
+test_generated_assets_are_reproducible_without_changing_source (__main__.ScenarioDataTests.test_generated_assets_are_reproducible_without_changing_source) ... ok
+test_population_30_to_50_fits_every_building (__main__.ScenarioDataTests.test_population_30_to_50_fits_every_building) ... ok
+test_real_grid_has_nine_times_more_cells (__main__.ScenarioDataTests.test_real_grid_has_nine_times_more_cells) ... ok
+test_scaled_accesses_remain_cardinal_and_owned (__main__.ScenarioDataTests.test_scaled_accesses_remain_cardinal_and_owned) ... ok
+test_laboratory_escalates_before_comparable_normal_building (__main__.WindAndRiskTests.test_laboratory_escalates_before_comparable_normal_building) ... ok
+test_more_concentration_produces_more_visual_darkening (__main__.WindAndRiskTests.test_more_concentration_produces_more_visual_darkening) ... ok
+test_risk_clears_when_fire_is_no_longer_near (__main__.WindAndRiskTests.test_risk_clears_when_fire_is_no_longer_near) ... ok
+test_smoke_moves_with_wind_and_changes_direction (__main__.WindAndRiskTests.test_smoke_moves_with_wind_and_changes_direction) ... ok
+test_subcell_smoke_is_not_just_cosmetic (__main__.WindAndRiskTests.test_subcell_smoke_is_not_just_cosmetic) ... ok
+test_wind_history_prediction_and_invalid_change_are_explicit (__main__.WindAndRiskTests.test_wind_history_prediction_and_invalid_change_are_explicit) ... ok
+
+----------------------------------------------------------------------
+Ran 21 tests in 6.422s
+
+OK

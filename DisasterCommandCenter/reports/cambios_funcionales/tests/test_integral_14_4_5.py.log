@@ -1,0 +1,8 @@
+=== PASO 14.4.5: ENSAYO FUNCIONAL FINAL ===
+[OK] Campus 160x100, 55 edificios y 55 accesos.
+[OK] Final normal: original/optimizado iguales, 31 turnos, fuera=100, sensores=0; pausa, avance manual, exportacion y reinicio.
+[OK] Final emergencia: original/optimizado iguales, 35 turnos, fuera=91, sensores=432; pausa, avance manual, exportacion y reinicio.
+[OK] Segundo foco y cambio de viento: equivalencia, 10 turnos y 132 lecturas.
+[OK] Reversion: config temporal original, autorizacion, bloqueo en alarma, reset y rechazo de JSON corrupto.
+[OK] Codigo y JSON originales sin cambios: 115.
+Paso 14.4.5: ENSAYO FUNCIONAL APROBADO EN COPIA.

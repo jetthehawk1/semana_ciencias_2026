@@ -1,0 +1,57 @@
+[
+  {
+    "file": "src/persona2/__init__.py",
+    "classes": [],
+    "tests": 0
+  },
+  {
+    "file": "src/persona2/baseline.py",
+    "classes": [
+      "SensorSplit"
+    ],
+    "tests": 0
+  },
+  {
+    "file": "src/persona2/dataset.py",
+    "classes": [
+      "SensorDataset"
+    ],
+    "tests": 0
+  },
+  {
+    "file": "src/persona2/eda.py",
+    "classes": [],
+    "tests": 0
+  },
+  {
+    "file": "src/persona2/inference.py",
+    "classes": [
+      "PredictionService"
+    ],
+    "tests": 0
+  },
+  {
+    "file": "src/persona2/ingestion.py",
+    "classes": [],
+    "tests": 0
+  },
+  {
+    "file": "src/persona2/model_comparison.py",
+    "classes": [],
+    "tests": 0
+  },
+  {
+    "file": "src/persona2/observations.py",
+    "classes": [
+      "ObservationProcessor"
+    ],
+    "tests": 0
+  },
+  {
+    "file": "src/persona2/postgres_repository.py",
+    "classes": [
+      "PostgresRepository"
+    ],
+    "tests": 0
+  }
+]

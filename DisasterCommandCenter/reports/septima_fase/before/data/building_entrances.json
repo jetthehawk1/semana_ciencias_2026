@@ -1,0 +1,893 @@
+{
+  "map_name": "Campus Ensenada - hasta E1 (plano detallado)",
+  "width": 160,
+  "height": 100,
+  "coordinate_system": "Origen (0,0) en esquina superior izquierda; x derecha, y abajo",
+  "description": "Accesos de simulacion, no verificados como puertas fisicas",
+  "passable_terrain": [
+    "road",
+    "floor"
+  ],
+  "accesses": [
+    {
+      "id": "E1-A1",
+      "building": "E1",
+      "interior_cell": {
+        "x": 151,
+        "y": 5
+      },
+      "exterior_cell": {
+        "x": 150,
+        "y": 5
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "O",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E10-A1",
+      "building": "E10",
+      "interior_cell": {
+        "x": 78,
+        "y": 7
+      },
+      "exterior_cell": {
+        "x": 78,
+        "y": 8
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "S",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E11-A1",
+      "building": "E11",
+      "interior_cell": {
+        "x": 73,
+        "y": 6
+      },
+      "exterior_cell": {
+        "x": 74,
+        "y": 6
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "E",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E12-A1",
+      "building": "E12",
+      "interior_cell": {
+        "x": 61,
+        "y": 24
+      },
+      "exterior_cell": {
+        "x": 61,
+        "y": 23
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "N",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E13-A1",
+      "building": "E13",
+      "interior_cell": {
+        "x": 53,
+        "y": 24
+      },
+      "exterior_cell": {
+        "x": 53,
+        "y": 23
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "N",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E14-A1",
+      "building": "E14",
+      "interior_cell": {
+        "x": 60,
+        "y": 21
+      },
+      "exterior_cell": {
+        "x": 60,
+        "y": 22
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "S",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E15-A1",
+      "building": "E15",
+      "interior_cell": {
+        "x": 60,
+        "y": 7
+      },
+      "exterior_cell": {
+        "x": 60,
+        "y": 8
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "S",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E16-A1",
+      "building": "E16",
+      "interior_cell": {
+        "x": 46,
+        "y": 7
+      },
+      "exterior_cell": {
+        "x": 46,
+        "y": 8
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "S",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E17-A1",
+      "building": "E17",
+      "interior_cell": {
+        "x": 40,
+        "y": 20
+      },
+      "exterior_cell": {
+        "x": 39,
+        "y": 20
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "O",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E18-A1",
+      "building": "E18",
+      "interior_cell": {
+        "x": 31,
+        "y": 19
+      },
+      "exterior_cell": {
+        "x": 30,
+        "y": 19
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "O",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E19-A1",
+      "building": "E19",
+      "interior_cell": {
+        "x": 33,
+        "y": 4
+      },
+      "exterior_cell": {
+        "x": 33,
+        "y": 3
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "N",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E2-A1",
+      "building": "E2",
+      "interior_cell": {
+        "x": 147,
+        "y": 10
+      },
+      "exterior_cell": {
+        "x": 146,
+        "y": 10
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "O",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E20-A1",
+      "building": "E20",
+      "interior_cell": {
+        "x": 22,
+        "y": 8
+      },
+      "exterior_cell": {
+        "x": 22,
+        "y": 9
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "S",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E21-A1",
+      "building": "E21",
+      "interior_cell": {
+        "x": 20,
+        "y": 18
+      },
+      "exterior_cell": {
+        "x": 21,
+        "y": 18
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "E",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E22-A1",
+      "building": "E22",
+      "interior_cell": {
+        "x": 35,
+        "y": 43
+      },
+      "exterior_cell": {
+        "x": 35,
+        "y": 44
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "S",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E23-A1",
+      "building": "E23",
+      "interior_cell": {
+        "x": 47,
+        "y": 38
+      },
+      "exterior_cell": {
+        "x": 47,
+        "y": 37
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "N",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E24-A1",
+      "building": "E24",
+      "interior_cell": {
+        "x": 45,
+        "y": 49
+      },
+      "exterior_cell": {
+        "x": 44,
+        "y": 49
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "O",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E25-A1",
+      "building": "E25",
+      "interior_cell": {
+        "x": 40,
+        "y": 72
+      },
+      "exterior_cell": {
+        "x": 39,
+        "y": 72
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "O",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E26-A1",
+      "building": "E26",
+      "interior_cell": {
+        "x": 54,
+        "y": 71
+      },
+      "exterior_cell": {
+        "x": 53,
+        "y": 71
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "O",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E27-A1",
+      "building": "E27",
+      "interior_cell": {
+        "x": 69,
+        "y": 68
+      },
+      "exterior_cell": {
+        "x": 70,
+        "y": 68
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "E",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E28-A1",
+      "building": "E28",
+      "interior_cell": {
+        "x": 71,
+        "y": 63
+      },
+      "exterior_cell": {
+        "x": 71,
+        "y": 64
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "S",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E29-A1",
+      "building": "E29",
+      "interior_cell": {
+        "x": 71,
+        "y": 47
+      },
+      "exterior_cell": {
+        "x": 70,
+        "y": 47
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "O",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E29-A-A1",
+      "building": "E29-A",
+      "interior_cell": {
+        "x": 68,
+        "y": 51
+      },
+      "exterior_cell": {
+        "x": 67,
+        "y": 51
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "O",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E29-B-A1",
+      "building": "E29-B",
+      "interior_cell": {
+        "x": 68,
+        "y": 42
+      },
+      "exterior_cell": {
+        "x": 68,
+        "y": 41
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "N",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E3-A1",
+      "building": "E3",
+      "interior_cell": {
+        "x": 139,
+        "y": 10
+      },
+      "exterior_cell": {
+        "x": 138,
+        "y": 10
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "O",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E30-A1",
+      "building": "E30",
+      "interior_cell": {
+        "x": 80,
+        "y": 55
+      },
+      "exterior_cell": {
+        "x": 81,
+        "y": 55
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "E",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E31-A1",
+      "building": "E31",
+      "interior_cell": {
+        "x": 93,
+        "y": 65
+      },
+      "exterior_cell": {
+        "x": 93,
+        "y": 64
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "N",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E32-A1",
+      "building": "E32",
+      "interior_cell": {
+        "x": 108,
+        "y": 38
+      },
+      "exterior_cell": {
+        "x": 108,
+        "y": 37
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "N",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E33-A1",
+      "building": "E33",
+      "interior_cell": {
+        "x": 109,
+        "y": 62
+      },
+      "exterior_cell": {
+        "x": 108,
+        "y": 62
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "O",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E34-A1",
+      "building": "E34",
+      "interior_cell": {
+        "x": 103,
+        "y": 70
+      },
+      "exterior_cell": {
+        "x": 102,
+        "y": 70
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "O",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E35-A1",
+      "building": "E35",
+      "interior_cell": {
+        "x": 106,
+        "y": 85
+      },
+      "exterior_cell": {
+        "x": 105,
+        "y": 85
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "O",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E36-A1",
+      "building": "E36",
+      "interior_cell": {
+        "x": 115,
+        "y": 75
+      },
+      "exterior_cell": {
+        "x": 114,
+        "y": 75
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "O",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E37-A1",
+      "building": "E37",
+      "interior_cell": {
+        "x": 120,
+        "y": 54
+      },
+      "exterior_cell": {
+        "x": 119,
+        "y": 54
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "O",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E38-A1",
+      "building": "E38",
+      "interior_cell": {
+        "x": 130,
+        "y": 83
+      },
+      "exterior_cell": {
+        "x": 130,
+        "y": 82
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "N",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E39-A1",
+      "building": "E39",
+      "interior_cell": {
+        "x": 137,
+        "y": 86
+      },
+      "exterior_cell": {
+        "x": 136,
+        "y": 86
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "O",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E4-A1",
+      "building": "E4",
+      "interior_cell": {
+        "x": 120,
+        "y": 4
+      },
+      "exterior_cell": {
+        "x": 120,
+        "y": 3
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "N",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E40-A1",
+      "building": "E40",
+      "interior_cell": {
+        "x": 137,
+        "y": 63
+      },
+      "exterior_cell": {
+        "x": 136,
+        "y": 63
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "O",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E41-A1",
+      "building": "E41",
+      "interior_cell": {
+        "x": 18,
+        "y": 11
+      },
+      "exterior_cell": {
+        "x": 18,
+        "y": 10
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "N",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E45-A1",
+      "building": "E45",
+      "interior_cell": {
+        "x": 122,
+        "y": 84
+      },
+      "exterior_cell": {
+        "x": 121,
+        "y": 84
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "O",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E49-A1",
+      "building": "E49",
+      "interior_cell": {
+        "x": 36,
+        "y": 77
+      },
+      "exterior_cell": {
+        "x": 36,
+        "y": 76
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "N",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E5-A1",
+      "building": "E5",
+      "interior_cell": {
+        "x": 110,
+        "y": 14
+      },
+      "exterior_cell": {
+        "x": 111,
+        "y": 14
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "E",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E51-A1",
+      "building": "E51",
+      "interior_cell": {
+        "x": 96,
+        "y": 81
+      },
+      "exterior_cell": {
+        "x": 95,
+        "y": 81
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "O",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E53-A1",
+      "building": "E53",
+      "interior_cell": {
+        "x": 42,
+        "y": 38
+      },
+      "exterior_cell": {
+        "x": 43,
+        "y": 38
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "E",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E55-A1",
+      "building": "E55",
+      "interior_cell": {
+        "x": 124,
+        "y": 64
+      },
+      "exterior_cell": {
+        "x": 124,
+        "y": 63
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "N",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E56-A1",
+      "building": "E56",
+      "interior_cell": {
+        "x": 52,
+        "y": 89
+      },
+      "exterior_cell": {
+        "x": 51,
+        "y": 89
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "O",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E57-A1",
+      "building": "E57",
+      "interior_cell": {
+        "x": 134,
+        "y": 4
+      },
+      "exterior_cell": {
+        "x": 134,
+        "y": 3
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "N",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E58-A1",
+      "building": "E58",
+      "interior_cell": {
+        "x": 40,
+        "y": 56
+      },
+      "exterior_cell": {
+        "x": 40,
+        "y": 55
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "N",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E59-A1",
+      "building": "E59",
+      "interior_cell": {
+        "x": 24,
+        "y": 12
+      },
+      "exterior_cell": {
+        "x": 23,
+        "y": 12
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "O",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E6-A1",
+      "building": "E6",
+      "interior_cell": {
+        "x": 104,
+        "y": 4
+      },
+      "exterior_cell": {
+        "x": 104,
+        "y": 3
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "N",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E60-NORTE-A1",
+      "building": "E60 - norte",
+      "interior_cell": {
+        "x": 83,
+        "y": 4
+      },
+      "exterior_cell": {
+        "x": 83,
+        "y": 3
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "N",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E60-SURESTE-A1",
+      "building": "E60 - sureste",
+      "interior_cell": {
+        "x": 155,
+        "y": 85
+      },
+      "exterior_cell": {
+        "x": 155,
+        "y": 84
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "N",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E61-A1",
+      "building": "E61",
+      "interior_cell": {
+        "x": 80,
+        "y": 58
+      },
+      "exterior_cell": {
+        "x": 80,
+        "y": 59
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "S",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E7-A1",
+      "building": "E7",
+      "interior_cell": {
+        "x": 103,
+        "y": 27
+      },
+      "exterior_cell": {
+        "x": 103,
+        "y": 28
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "S",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E8-A1",
+      "building": "E8",
+      "interior_cell": {
+        "x": 92,
+        "y": 4
+      },
+      "exterior_cell": {
+        "x": 92,
+        "y": 3
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "N",
+      "use": "entry_exit",
+      "status": "provisional"
+    },
+    {
+      "id": "E9-A1",
+      "building": "E9",
+      "interior_cell": {
+        "x": 86,
+        "y": 18
+      },
+      "exterior_cell": {
+        "x": 87,
+        "y": 18
+      },
+      "exterior_terrain": "floor",
+      "direction_to_exterior": "E",
+      "use": "entry_exit",
+      "status": "provisional"
+    }
+  ]
+}

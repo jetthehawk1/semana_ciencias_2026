@@ -1,0 +1,15 @@
+test_empty_scene_does_not_call_provider (__main__.GatewayTests.test_empty_scene_does_not_call_provider) ... ok
+test_failure_does_not_mark_turn_processed (__main__.GatewayTests.test_failure_does_not_mark_turn_processed) ... ok
+test_gateway_import_needs_no_ml_db_or_pygame (__main__.GatewayTests.test_gateway_import_needs_no_ml_db_or_pygame) ... ok
+test_label_is_removed_and_cannot_influence_provider (__main__.GatewayTests.test_label_is_removed_and_cannot_influence_provider) ... ok
+test_mixed_turns_are_rejected (__main__.GatewayTests.test_mixed_turns_are_rejected) ... ok
+test_modified_same_turn_and_retrograde_turn_are_rejected (__main__.GatewayTests.test_modified_same_turn_and_retrograde_turn_are_rejected) ... ok
+test_new_run_can_start_at_turn_zero (__main__.GatewayTests.test_new_run_can_start_at_turn_zero) ... ok
+test_observable_only_rows_are_accepted (__main__.GatewayTests.test_observable_only_rows_are_accepted) ... ok
+test_same_turn_is_not_processed_twice (__main__.GatewayTests.test_same_turn_is_not_processed_twice) ... ok
+test_unknown_or_missing_fields_are_rejected (__main__.GatewayTests.test_unknown_or_missing_fields_are_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 1.272s
+
+OK

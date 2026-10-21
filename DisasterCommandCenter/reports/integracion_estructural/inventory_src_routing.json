@@ -1,0 +1,78 @@
+[
+  {
+    "file": "src/routing/__init__.py",
+    "classes": [],
+    "tests": 0
+  },
+  {
+    "file": "src/routing/astar.py",
+    "classes": [],
+    "tests": 0
+  },
+  {
+    "file": "src/routing/congestion.py",
+    "classes": [
+      "CongestionManager"
+    ],
+    "tests": 0
+  },
+  {
+    "file": "src/routing/congestion_route_adapter.py",
+    "classes": [],
+    "tests": 0
+  },
+  {
+    "file": "src/routing/dynamic_replanner.py",
+    "classes": [
+      "DynamicReplanner"
+    ],
+    "tests": 0
+  },
+  {
+    "file": "src/routing/evacuation_optimizer.py",
+    "classes": [
+      "EvacuationOptimizer"
+    ],
+    "tests": 0
+  },
+  {
+    "file": "src/routing/evacuation_priority.py",
+    "classes": [
+      "EvacuationPriority"
+    ],
+    "tests": 0
+  },
+  {
+    "file": "src/routing/graph.py",
+    "classes": [
+      "CampusGraph"
+    ],
+    "tests": 0
+  },
+  {
+    "file": "src/routing/multi_person_replanner.py",
+    "classes": [
+      "MultiPersonReplanner"
+    ],
+    "tests": 0
+  },
+  {
+    "file": "src/routing/route_adapter.py",
+    "classes": [
+      "SafeGraph"
+    ],
+    "tests": 0
+  },
+  {
+    "file": "src/routing/routing_controller.py",
+    "classes": [
+      "RoutingController"
+    ],
+    "tests": 0
+  },
+  {
+    "file": "src/routing/weighted_astar.py",
+    "classes": [],
+    "tests": 0
+  }
+]

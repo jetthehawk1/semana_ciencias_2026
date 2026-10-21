@@ -1,0 +1,18 @@
+{
+  "postgresql_version": "18.4",
+  "dataset_kind": "synthetic_simulation",
+  "counts": {
+    "simulations": 1,
+    "sensors": 12,
+    "readings": 432,
+    "events": 126,
+    "predictions": 432,
+    "reports": 4
+  },
+  "repeated_import_inserted": false,
+  "model_id": "synthetic-dt-4bd852c08c17644f1fc8fe532b95f5bd1b9b4c569f762febfa306350fab81683",
+  "notes": [
+    "Resultado obtenido con PostgreSQL real, sin mocks.",
+    "La CLI usa un cluster temporal o DCC_TEST_DATABASE_URL; no imprime credenciales."
+  ]
+}

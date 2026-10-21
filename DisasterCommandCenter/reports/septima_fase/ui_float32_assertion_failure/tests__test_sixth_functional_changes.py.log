@@ -1,0 +1,62 @@
+pygame 2.6.1 (SDL 2.28.4, Python 3.13.7)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+[OK] App integrada 14.4.4: 480x300; personas=1879; escenario=emergencia; modo=optimizado; sensores=12.
+A alarma; ESPACIO pausa; . turno; R reinicia; T cambia escenario antes de A; M modo (solo antes de alarma); V viento; [ ] intensidad; H humo; clic izquierdo selecciona foco antes de A; despues no genera focos; E exportar; S sensores; TAB seleccionar; F encuadrar; N etiquetas; G cuadricula; P accesos; ESC cerrar.
+[OK] Paso 14.4.4: arranque grafico de 3 fotogramas; modo=optimizado
+test_clean_air_without_predicted_dose_is_infinite (__main__.DoseTests.test_clean_air_without_predicted_dose_is_infinite) ... ok
+test_dose_eta_uses_remaining_budget_not_full_budget (__main__.DoseTests.test_dose_eta_uses_remaining_budget_not_full_budget) ... ok
+test_high_dose_in_moderate_smoke_is_critical (__main__.DoseTests.test_high_dose_in_moderate_smoke_is_critical) ... ok
+test_high_dose_precedes_low_dose_same_location (__main__.DoseTests.test_high_dose_precedes_low_dose_same_location) ... ok
+test_incapacitated_has_zero_remaining_eta (__main__.DoseTests.test_incapacitated_has_zero_remaining_eta) ... ok
+test_personal_hazard_uses_lower_toxic_eta (__main__.DoseTests.test_personal_hazard_uses_lower_toxic_eta) ... ok
+test_prediction_does_not_change_accumulated_dose (__main__.DoseTests.test_prediction_does_not_change_accumulated_dose) ... ok
+test_urgent_person_already_escaping_keeps_safe_route (__main__.DoseTests.test_urgent_person_already_escaping_keeps_safe_route) ... ok
+test_urgent_resident_really_leaves_instead_of_only_getting_priority (__main__.DoseTests.test_urgent_resident_really_leaves_instead_of_only_getting_priority) ... ok
+test_components_are_exposed_separately (__main__.FireSafetyTests.test_components_are_exposed_separately) ... ok
+test_critical_smoke_blocks_next_step (__main__.FireSafetyTests.test_critical_smoke_blocks_next_step) ... ok
+test_extreme_prediction_blocks_next_step (__main__.FireSafetyTests.test_extreme_prediction_blocks_next_step) ... ok
+test_fire_1_all_points_reject_between_smoke_samples (__main__.FireSafetyTests.test_fire_1_all_points_reject_between_smoke_samples) ... ok
+test_fire_2_gateway_watchdog_stops_new_fire_after_planning (__main__.FireSafetyTests.test_fire_2_gateway_watchdog_stops_new_fire_after_planning) ... ok
+test_fire_3_marginal_fire_margin_is_hard_not_cost (__main__.FireSafetyTests.test_fire_3_marginal_fire_margin_is_hard_not_cost) ... ok
+test_fire_4_no_alternative_never_steps_into_fire (__main__.FireSafetyTests.test_fire_4_no_alternative_never_steps_into_fire) ... ok
+test_fire_has_no_escape_grace_exception (__main__.FireSafetyTests.test_fire_has_no_escape_grace_exception) ... ok
+test_blocked_primary_scenario_covers_all_fine_door_pairs (__main__.IntegrationTests.test_blocked_primary_scenario_covers_all_fine_door_pairs) ... ok
+test_physics_population_and_one_cell_per_turn_preserved (__main__.IntegrationTests.test_physics_population_and_one_cell_per_turn_preserved) ... ok
+test_post_alarm_click_selects_person_and_debug_renders_in_real_pygame (__main__.IntegrationTests.test_post_alarm_click_selects_person_and_debug_renders_in_real_pygame) ... ok
+test_report_json_is_strict_and_preserves_metrics (__main__.IntegrationTests.test_report_json_is_strict_and_preserves_metrics) ... ok
+test_score_same_formula_bounded_and_keeps_raw_metrics (__main__.IntegrationTests.test_score_same_formula_bounded_and_keeps_raw_metrics) ... ok
+test_sixteen_categories_include_directed_cases (__main__.IntegrationTests.test_sixteen_categories_include_directed_cases) ... ok
+test_traditional_never_calls_changed_intelligent_replan_function (__main__.IntegrationTests.test_traditional_never_calls_changed_intelligent_replan_function) ... ok
+test_budget_reason (__main__.SchedulingAndStabilityTests.test_budget_reason) ... ok
+test_clear_risk_improvement_is_accepted (__main__.SchedulingAndStabilityTests.test_clear_risk_improvement_is_accepted) ... ok
+test_congestion_blocked_reason (__main__.SchedulingAndStabilityTests.test_congestion_blocked_reason) ... ok
+test_continuous_critical_flow_does_not_starve_old_request (__main__.SchedulingAndStabilityTests.test_continuous_critical_flow_does_not_starve_old_request) ... ok
+test_cost_improvement_cannot_allow_risk_increase (__main__.SchedulingAndStabilityTests.test_cost_improvement_cannot_allow_risk_increase) ... ok
+test_disconnected_reason (__main__.SchedulingAndStabilityTests.test_disconnected_reason) ... ok
+test_dose_priority_affects_real_planning_queue (__main__.SchedulingAndStabilityTests.test_dose_priority_affects_real_planning_queue) ... ok
+test_escape_prefers_upwind_and_direction_changes_choice (__main__.SchedulingAndStabilityTests.test_escape_prefers_upwind_and_direction_changes_choice) ... ok
+test_escape_records_measurable_progress_and_history (__main__.SchedulingAndStabilityTests.test_escape_records_measurable_progress_and_history) ... ok
+test_full_meeting_reason (__main__.SchedulingAndStabilityTests.test_full_meeting_reason) ... ok
+test_imminent_fire_invalidates_without_cooldown (__main__.SchedulingAndStabilityTests.test_imminent_fire_invalidates_without_cooldown) ... ok
+test_incapacitated_reason (__main__.SchedulingAndStabilityTests.test_incapacitated_reason) ... ok
+test_no_safe_meeting_reason (__main__.SchedulingAndStabilityTests.test_no_safe_meeting_reason) ... ok
+test_no_safe_route_reason (__main__.SchedulingAndStabilityTests.test_no_safe_route_reason) ... ok
+test_reason_vocabulary_is_explicit (__main__.SchedulingAndStabilityTests.test_reason_vocabulary_is_explicit) ... ok
+test_recent_intermediate_goal_is_not_reused (__main__.SchedulingAndStabilityTests.test_recent_intermediate_goal_is_not_reused) ... ok
+test_retry_reason (__main__.SchedulingAndStabilityTests.test_retry_reason) ... ok
+test_small_field_changes_keep_actual_route (__main__.SchedulingAndStabilityTests.test_small_field_changes_keep_actual_route) ... ok
+test_small_route_improvement_is_rejected (__main__.SchedulingAndStabilityTests.test_small_route_improvement_is_rejected) ... ok
+test_soft_proposal_rollback_restores_assignment_load_and_counters (__main__.SchedulingAndStabilityTests.test_soft_proposal_rollback_restores_assignment_load_and_counters) ... ok
+test_strong_avoid_for_resident_overrides_soft_cooldown (__main__.SchedulingAndStabilityTests.test_strong_avoid_for_resident_overrides_soft_cooldown) ... ok
+test_cache_same_snapshot_same_path (__main__.SharedGuideTests.test_cache_same_snapshot_same_path) ... ok
+test_changed_blocked_signature_invalidates_and_avoids_new_block (__main__.SharedGuideTests.test_changed_blocked_signature_invalidates_and_avoids_new_block) ... ok
+test_changed_risk_signature_recalculates (__main__.SharedGuideTests.test_changed_risk_signature_recalculates) ... ok
+test_disabled_guide_uses_existing_astar_fallback (__main__.SharedGuideTests.test_disabled_guide_uses_existing_astar_fallback) ... ok
+test_entry_capacity_and_load_are_reported (__main__.SharedGuideTests.test_entry_capacity_and_load_are_reported) ... ok
+test_physical_occupancy_counts_unassigned_passers (__main__.SharedGuideTests.test_physical_occupancy_counts_unassigned_passers) ... ok
+test_shared_guide_does_not_share_occupancy (__main__.SharedGuideTests.test_shared_guide_does_not_share_occupancy) ... ok
+
+----------------------------------------------------------------------
+Ran 52 tests in 12.604s
+
+OK

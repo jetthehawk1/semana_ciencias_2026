@@ -1,0 +1,15 @@
+=== PRUEBA DEL CONTROLADOR DE RUTAS ===
+1. Ruta inicial: [{'x': 0, 'y': 2}, {'x': 1, 'y': 2}, {'x': 2, 'y': 2}, {'x': 3, 'y': 2}, {'x': 4, 'y': 2}]
+2. Turno 1: {'turn': 1, 'moved': 1, 'replanned': [], 'replan_count': 0}
+   Posición: (1, 2)
+3. Turno 2: {'turn': 2, 'moved': 0, 'replanned': ['persona-001'], 'replan_count': 1}
+   Recálculo automático: OK
+Turno 3: posición=(1, 1), movimientos=1
+Turno 4: posición=(2, 1), movimientos=1
+Turno 5: posición=(3, 1), movimientos=1
+Turno 6: posición=(3, 2), movimientos=1
+Turno 7: posición=(4, 2), movimientos=1
+
+Recálculos: 1
+Destino alcanzado: OK
+PRUEBA DEL CONTROLADOR COMPLETADA

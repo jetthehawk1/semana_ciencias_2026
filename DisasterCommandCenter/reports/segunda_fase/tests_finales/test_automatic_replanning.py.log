@@ -1,0 +1,15 @@
+=== PRUEBA DE RECÁLCULO AUTOMÁTICO ===
+1. Ruta original: [{'x': 0, 'y': 2}, {'x': 1, 'y': 2}, {'x': 2, 'y': 2}, {'x': 3, 'y': 2}, {'x': 4, 'y': 2}]
+2. Posición inicial avanzada: (1, 2)
+3. Obstáculo detectado: [{'x': 2, 'y': 2}]
+4. Ruta bloqueada: OK
+5. Recálculo automático: OK
+Turno alternativo 1: (1, 1)
+Turno alternativo 2: (2, 1)
+Turno alternativo 3: (3, 1)
+Turno alternativo 4: (3, 2)
+Turno alternativo 5: (4, 2)
+
+Recálculos realizados: 1
+Destino alcanzado: OK
+PRUEBA AUTOMÁTICA COMPLETADA

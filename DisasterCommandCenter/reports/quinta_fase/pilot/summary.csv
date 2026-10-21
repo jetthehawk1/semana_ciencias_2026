@@ -1,0 +1,5 @@
+scenario_id,seed,building,mode,safe_meeting_arrivals,people_ever_reached_meeting,mean_turns_to_first_meeting,median_turns_to_first_meeting,worst_turns_to_first_meeting,people_exposed_smoke,accumulated_smoke_dose,people_close_to_fire,fire_contacts,incapacitated,routes_recalculated,preventive_reassignments,maximum_congestion,distance_traveled,people_in_cells_that_later_became_hazardous,unsafe_waiting_person_turns,destination_became_unsafe_before_arrival,confirmed_forecast_departures,unconfirmed_forecast_departures,temporary_goals,temporal_routes_rejected,unassigned
+S01,2026,E30,traditional,207,207,51.38647342995169,51,120,74,130.84731226980628,44,0,39,70,0,19,113409,86,1892,285,0,0,0,0,36
+S01,2026,E30,intelligent,411,446,70.7085201793722,73.5,120,32,31.642547558039496,17,0,7,2397,266,19,135791,46,888,14,38,50,2,88,8
+S02,2043,E16,traditional,221,221,53.18099547511312,51,120,116,76.39151444173791,27,2,23,138,0,18,111262,67,2518,0,0,0,0,0,56
+S02,2043,E16,intelligent,478,478,70.88702928870293,74.0,120,76,37.96602217118897,16,4,9,2307,145,19,132915,53,635,0,28,172,2,302,12

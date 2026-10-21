@@ -1,0 +1,10 @@
+=== PRUEBA DE RECÁLCULO DINÁMICO ===
+1. Ruta original: [{'x': 0, 'y': 2}, {'x': 1, 'y': 2}, {'x': 2, 'y': 2}, {'x': 3, 'y': 2}, {'x': 4, 'y': 2}]
+2. Posición actual: {'x': 1, 'y': 2}
+3. Obstáculo: [{'x': 2, 'y': 2}]
+4. Ruta alternativa: [{'x': 1, 'y': 2}, {'x': 1, 'y': 1}, {'x': 2, 'y': 1}, {'x': 3, 'y': 1}, {'x': 3, 'y': 2}, {'x': 4, 'y': 2}]
+5. La ruta evita el obstáculo: OK
+6. La ruta comienza en la posición actual: OK
+7. La ruta llega al destino: OK
+
+PRUEBA DE RECÁLCULO DINÁMICO COMPLETADA

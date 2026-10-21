@@ -1,0 +1,19 @@
+[
+  {
+    "file": "tools/postgres_test_server.py",
+    "classes": [
+      "PostgresTestServer"
+    ],
+    "tests": 0
+  },
+  {
+    "file": "tools/run_tests.py",
+    "classes": [],
+    "tests": 0
+  },
+  {
+    "file": "tools/verify_persona2.py",
+    "classes": [],
+    "tests": 0
+  }
+]

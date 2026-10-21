@@ -1,0 +1,222 @@
+{
+  "E1": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E10": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E11": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E12": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E13": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E14": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E15": {
+    "laboratory": true,
+    "flammable_materials": true
+  },
+  "E16": {
+    "laboratory": true,
+    "flammable_materials": true
+  },
+  "E17": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E18": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E19": {
+    "laboratory": true,
+    "flammable_materials": true
+  },
+  "E2": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E20": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E21": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E22": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E23": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E24": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E25": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E26": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E27": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E28": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E29": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E29-A": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E29-B": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E3": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E30": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E31": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E32": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E33": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E34": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E35": {
+    "laboratory": true,
+    "flammable_materials": true
+  },
+  "E36": {
+    "laboratory": true,
+    "flammable_materials": true
+  },
+  "E37": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E38": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E39": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E4": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E40": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E41": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E45": {
+    "laboratory": true,
+    "flammable_materials": true
+  },
+  "E49": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E5": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E51": {
+    "laboratory": true,
+    "flammable_materials": true
+  },
+  "E53": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E55": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E56": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E57": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E58": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E59": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E6": {
+    "laboratory": true,
+    "flammable_materials": true
+  },
+  "E60 - norte": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E60 - sureste": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E61": {
+    "laboratory": false,
+    "flammable_materials": false
+  },
+  "E7": {
+    "laboratory": true,
+    "flammable_materials": true
+  },
+  "E8": {
+    "laboratory": true,
+    "flammable_materials": true
+  },
+  "E9": {
+    "laboratory": true,
+    "flammable_materials": true
+  }
+}

@@ -1,0 +1,14 @@
+=== PRUEBA DE CONFLICTOS ENTRE RUTAS ===
+Ruta persona-A: [{'x': 0, 'y': 2}, {'x': 1, 'y': 2}, {'x': 2, 'y': 2}, {'x': 3, 'y': 2}, {'x': 4, 'y': 2}]
+Ruta persona-B: [{'x': 2, 'y': 1}, {'x': 2, 'y': 2}, {'x': 2, 'y': 3}]
+Turno 1: A=(1, 2), B=(2, 2), movimientos=2
+Turno 2: A=(2, 2), B=(2, 3), movimientos=2
+Turno 3: A=(3, 2), B=(2, 3), movimientos=1
+Turno 4: A=(4, 2), B=(2, 3), movimientos=1
+Turno 5: A=(4, 2), B=(2, 3), movimientos=0
+Turno 6: A=(4, 2), B=(2, 3), movimientos=0
+
+Estado A: en_destino
+Estado B: en_destino
+Sin colisiones: OK
+PRUEBA DE CONFLICTOS COMPLETADA

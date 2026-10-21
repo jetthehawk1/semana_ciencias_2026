@@ -1,0 +1,2642 @@
+{
+  "source": {
+    "dataset_kind": "synthetic_simulation",
+    "schema_version": "1.0",
+    "run_id": "dcc_14_4_3_sesion_0001",
+    "time_unit": "simulation_turn_not_seconds",
+    "package_sha256": {
+      "lecturas_sensores.csv": "c8c6c1efae51824bedf876ddd94e67519db59224867d84fb4b5bf71761ea652b",
+      "lecturas_sensores.jsonl": "dd3ba0b935f796a1e72cc0ab4715884c1ae42a2c50b7d0e29890e5e9b784a480",
+      "manifiesto_sensores.json": "4145b0f09285735c8d283df157522211b31a44c918b1d10f0a8c622287b690d9"
+    }
+  },
+  "environment": {
+    "python": "3.13.7",
+    "dependencies": {
+      "scikit-learn": "1.9.1",
+      "numpy": "2.5.4",
+      "scipy": "1.18.1",
+      "joblib": "1.6.0",
+      "threadpoolctl": "3.7.0",
+      "narwhals": "2.27.1",
+      "cloudpickle": "3.1.2"
+    }
+  },
+  "feature_columns": [
+    "temperature_c",
+    "smoke_index",
+    "alarm"
+  ],
+  "target_column": "fire_within_2_cells",
+  "split": {
+    "strategy": "sensor_holdout_stratified_by_any_positive",
+    "random_state": 2026,
+    "test_fraction_of_sensors": 0.25,
+    "train_sensors": [
+      "S-E1-01",
+      "S-E10-01",
+      "S-E10-02",
+      "S-E15-01",
+      "S-E15-02",
+      "S-E25-02",
+      "S-E30-02",
+      "S-EXT-01",
+      "S-EXT-02"
+    ],
+    "test_sensors": [
+      "S-E1-02",
+      "S-E25-01",
+      "S-E30-01"
+    ],
+    "train_records": 324,
+    "test_records": 108,
+    "train_turns": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "test_turns": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "turns_shared_between_sets": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "class_distribution": {
+      "train": {
+        "false": 301,
+        "true": 23,
+        "majority_fraction": 0.9290123456790124,
+        "imbalanced_at_80_percent": true
+      },
+      "test": {
+        "false": 85,
+        "true": 23,
+        "majority_fraction": 0.7870370370370371,
+        "imbalanced_at_80_percent": false
+      }
+    }
+  },
+  "models": {
+    "logistic_regression": {
+      "name": "LogisticRegression",
+      "parameters": {
+        "solver": "lbfgs",
+        "C": 1.0,
+        "class_weight": "balanced",
+        "max_iter": 2000,
+        "tol": 0.0001,
+        "random_state": 2026
+      },
+      "preprocessing": "StandardScaler fitted on train",
+      "metrics": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "confusion_matrix": [
+          [
+            85,
+            0
+          ],
+          [
+            0,
+            23
+          ]
+        ],
+        "confusion_matrix_labels": [
+          false,
+          true
+        ],
+        "undefined_metrics": []
+      },
+      "test_predictions": [
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 0,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 0,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 0,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 1,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 1,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 1,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 2,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 2,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 2,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 3,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 3,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 3,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 4,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 4,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 4,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 5,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 5,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 5,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 6,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 6,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 6,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 7,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 7,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 7,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 8,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 8,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 8,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 9,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 9,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 9,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 10,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 10,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 10,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 11,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 11,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 11,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 12,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 12,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 12,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 13,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 13,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 13,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 14,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 14,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 14,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 15,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 15,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 15,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 16,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 16,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 16,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 17,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 17,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 17,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 18,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 18,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 18,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 19,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 19,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 19,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 20,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 20,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 20,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 21,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 21,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 21,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 22,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 22,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 22,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 23,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 23,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 23,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 24,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 24,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 24,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 25,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 25,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 25,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 26,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 26,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 26,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 27,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 27,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 27,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 28,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 28,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 28,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 29,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 29,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 29,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 30,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 30,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 30,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 31,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 31,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 31,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 32,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 32,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 32,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 33,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 33,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 33,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 34,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 34,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 34,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 35,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 35,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 35,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        }
+      ],
+      "fit_warnings": [],
+      "diagnostics": {
+        "converged": true,
+        "iterations": [
+          13
+        ],
+        "scaler_mean": [
+          27.764129629629632,
+          0.14729836419753078,
+          0.2777777777777778
+        ],
+        "scaler_scale": [
+          15.00030240153568,
+          0.2522940567408765,
+          0.447903208238808
+        ]
+      }
+    },
+    "decision_tree": {
+      "name": "DecisionTreeClassifier",
+      "parameters": {
+        "max_depth": 3,
+        "min_samples_leaf": 2,
+        "class_weight": "balanced",
+        "random_state": 2026
+      },
+      "preprocessing": "none",
+      "metrics": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "confusion_matrix": [
+          [
+            85,
+            0
+          ],
+          [
+            0,
+            23
+          ]
+        ],
+        "confusion_matrix_labels": [
+          false,
+          true
+        ],
+        "undefined_metrics": []
+      },
+      "test_predictions": [
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 0,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 0,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 0,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 1,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 1,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 1,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 2,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 2,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 2,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 3,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 3,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 3,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 4,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 4,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 4,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 5,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 5,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 5,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 6,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 6,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 6,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 7,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 7,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 7,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 8,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 8,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 8,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 9,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 9,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 9,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 10,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 10,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 10,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 11,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 11,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 11,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 12,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 12,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 12,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 13,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 13,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 13,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 14,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 14,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 14,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 15,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 15,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 15,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 16,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 16,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 16,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 17,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 17,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 17,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 18,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 18,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 18,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 19,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 19,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 19,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 20,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 20,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 20,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 21,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 21,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 21,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 22,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 22,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 22,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 23,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 23,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 23,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 24,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 24,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 24,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 25,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 25,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 25,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 26,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 26,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 26,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 27,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 27,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 27,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 28,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 28,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 28,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 29,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 29,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 29,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 30,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 30,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 30,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 31,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 31,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 31,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 32,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 32,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 32,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 33,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 33,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 33,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 34,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 34,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 34,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 35,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 35,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 35,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        }
+      ],
+      "fit_warnings": [],
+      "diagnostics": {
+        "depth": 1,
+        "leaves": 2,
+        "feature_importances": {
+          "temperature_c": 1.0,
+          "smoke_index": 0.0,
+          "alarm": 0.0
+        },
+        "rules": "|--- temperature_c <= 36.52\n|   |--- class: False\n|--- temperature_c >  36.52\n|   |--- class: True\n"
+      }
+    },
+    "random_forest": {
+      "name": "RandomForestClassifier",
+      "parameters": {
+        "n_estimators": 100,
+        "max_depth": 3,
+        "min_samples_leaf": 2,
+        "max_features": "sqrt",
+        "bootstrap": true,
+        "class_weight": "balanced",
+        "n_jobs": 1,
+        "random_state": 2026
+      },
+      "preprocessing": "none",
+      "metrics": {
+        "accuracy": 0.9629629629629629,
+        "precision": 0.8518518518518519,
+        "recall": 1.0,
+        "f1": 0.92,
+        "confusion_matrix": [
+          [
+            81,
+            4
+          ],
+          [
+            0,
+            23
+          ]
+        ],
+        "confusion_matrix_labels": [
+          false,
+          true
+        ],
+        "undefined_metrics": []
+      },
+      "test_predictions": [
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 0,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 0,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 0,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 1,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 1,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 1,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 2,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 2,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 2,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 3,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 3,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 3,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 4,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 4,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 4,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 5,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 5,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 5,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 6,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 6,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 6,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 7,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 7,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 7,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 8,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 8,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 8,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 9,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 9,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 9,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 10,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 10,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 10,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 11,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 11,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 11,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 12,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 12,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 12,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 13,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 13,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 13,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 14,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 14,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 14,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 15,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 15,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 15,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 16,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 16,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 16,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 17,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 17,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 17,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 18,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 18,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 18,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 19,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 19,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 19,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 20,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 20,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 20,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 21,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 21,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 21,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 22,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 22,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 22,
+          "sensor_id": "S-E30-01",
+          "actual": true,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 23,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 23,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 23,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 24,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 24,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 24,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 25,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 25,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 25,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 26,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 26,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 26,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": true
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 27,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 27,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 27,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 28,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 28,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 28,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 29,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 29,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 29,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 30,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 30,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 30,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 31,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 31,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 31,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 32,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 32,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 32,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 33,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 33,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 33,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 34,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 34,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 34,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 35,
+          "sensor_id": "S-E1-02",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 35,
+          "sensor_id": "S-E25-01",
+          "actual": false,
+          "predicted": false
+        },
+        {
+          "run_id": "dcc_14_4_3_sesion_0001",
+          "turn": 35,
+          "sensor_id": "S-E30-01",
+          "actual": false,
+          "predicted": false
+        }
+      ],
+      "fit_warnings": [],
+      "diagnostics": {
+        "fitted_tree_count": 100,
+        "feature_importances": {
+          "temperature_c": 0.5674153628672076,
+          "smoke_index": 0.2721310990187133,
+          "alarm": 0.16045353811407906
+        }
+      }
+    }
+  },
+  "majority_reference": {
+    "strategy": "most_frequent_from_training_only",
+    "predicted_class": false,
+    "metrics": {
+      "accuracy": 0.7870370370370371,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "confusion_matrix": [
+        [
+          85,
+          0
+        ],
+        [
+          23,
+          0
+        ]
+      ],
+      "confusion_matrix_labels": [
+        false,
+        true
+      ],
+      "undefined_metrics": [
+        "precision"
+      ]
+    }
+  },
+  "selection": {
+    "selected_model": null,
+    "reason": "Comparacion descriptiva sobre el holdout ya observado en P2.4; no hay validacion independiente para elegir un modelo definitivo."
+  },
+  "notes": [
+    "Datos sinteticos de una sola ejecucion; no son sensores fisicos reales.",
+    "Ningun sensor ni lectura se comparte entre entrenamiento y prueba.",
+    "Los turnos y el entorno se comparten; no es una evaluacion de futuro temporal.",
+    "La estratificacion usa presencia de positivos por sensor solo para particionar.",
+    "Los parametros se fijaron antes de medir; no hubo seleccion ni ajuste sobre test.",
+    "No se ha medido generalizacion a otras ejecuciones, incendios o datos reales.",
+    "La temperatura y el target dependen de proximidad al fuego en el generador.",
+    "Un resultado alto puede reflejar esa regla sintetica; no demuestra seguridad operativa.",
+    "La referencia mayoritaria muestra por que accuracy sola no basta.",
+    "Precision, recall y F1 usan True como clase positiva; divisiones indefinidas valen 0.",
+    "Los tres modelos usan la misma particion y las mismas features.",
+    "LR estandariza solo con train; arbol y bosque reciben las features sin escalar.",
+    "RF usa 100 arboles con n_jobs=1; no hay busqueda de hiperparametros.",
+    "Se reutiliza el holdout de P2.4; las metricas no son una prueba final independiente.",
+    "No se selecciona automaticamente un ganador ni se reentrena con el conjunto completo."
+  ]
+}

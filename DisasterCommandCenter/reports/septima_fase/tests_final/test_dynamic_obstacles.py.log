@@ -1,0 +1,12 @@
+=== PRUEBA DE OBSTÁCULOS DINÁMICOS ===
+1. Ruta inicial: [{'x': 0, 'y': 2}, {'x': 1, 'y': 2}, {'x': 2, 'y': 2}, {'x': 3, 'y': 2}, {'x': 4, 'y': 2}]
+2. Primer movimiento: (1, 2)
+3. Nuevo obstáculo en (2, 2)
+4. Movimiento detenido correctamente: OK
+5. Obstáculo eliminado
+Movimiento después de liberar: (2, 2)
+Movimiento después de liberar: (3, 2)
+Movimiento después de liberar: (4, 2)
+6. Destino alcanzado: OK
+
+PRUEBA DINÁMICA COMPLETADA

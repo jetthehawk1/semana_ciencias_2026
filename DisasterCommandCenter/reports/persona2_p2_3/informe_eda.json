@@ -1,0 +1,318 @@
+{
+  "source": {
+    "schema_version": "1.0",
+    "dataset_kind": "synthetic_simulation",
+    "time_unit": "simulation_turn_not_seconds",
+    "run_id": "dcc_14_4_3_sesion_0001",
+    "package_sha256": {
+      "lecturas_sensores.csv": "c8c6c1efae51824bedf876ddd94e67519db59224867d84fb4b5bf71761ea652b",
+      "lecturas_sensores.jsonl": "dd3ba0b935f796a1e72cc0ab4715884c1ae42a2c50b7d0e29890e5e9b784a480",
+      "manifiesto_sensores.json": "4145b0f09285735c8d283df157522211b31a44c918b1d10f0a8c622287b690d9"
+    }
+  },
+  "summary": {
+    "records": 432,
+    "sensor_count": 12,
+    "turn_count": 36,
+    "first_turn": 0,
+    "last_turn": 35,
+    "feature_count": 3,
+    "missing_required_values": 0,
+    "allowed_null_values": 72
+  },
+  "feature_columns": [
+    "temperature_c",
+    "smoke_index",
+    "alarm"
+  ],
+  "columns": {
+    "temperature_c": {
+      "role": "feature",
+      "types": {
+        "float": 432
+      },
+      "null_count": 0,
+      "allowed_null_count": 0,
+      "missing_required_count": 0,
+      "unique_non_null": 258
+    },
+    "smoke_index": {
+      "role": "feature",
+      "types": {
+        "float": 432
+      },
+      "null_count": 0,
+      "allowed_null_count": 0,
+      "missing_required_count": 0,
+      "unique_non_null": 269
+    },
+    "alarm": {
+      "role": "feature",
+      "types": {
+        "int": 432
+      },
+      "null_count": 0,
+      "allowed_null_count": 0,
+      "missing_required_count": 0,
+      "unique_non_null": 2
+    },
+    "schema_version": {
+      "role": "metadata",
+      "types": {
+        "str": 432
+      },
+      "null_count": 0,
+      "allowed_null_count": 0,
+      "missing_required_count": 0,
+      "unique_non_null": 1
+    },
+    "run_id": {
+      "role": "metadata",
+      "types": {
+        "str": 432
+      },
+      "null_count": 0,
+      "allowed_null_count": 0,
+      "missing_required_count": 0,
+      "unique_non_null": 1
+    },
+    "turn": {
+      "role": "metadata",
+      "types": {
+        "int": 432
+      },
+      "null_count": 0,
+      "allowed_null_count": 0,
+      "missing_required_count": 0,
+      "unique_non_null": 36
+    },
+    "sensor_id": {
+      "role": "metadata",
+      "types": {
+        "str": 432
+      },
+      "null_count": 0,
+      "allowed_null_count": 0,
+      "missing_required_count": 0,
+      "unique_non_null": 12
+    },
+    "x": {
+      "role": "metadata",
+      "types": {
+        "int": 432
+      },
+      "null_count": 0,
+      "allowed_null_count": 0,
+      "missing_required_count": 0,
+      "unique_non_null": 12
+    },
+    "y": {
+      "role": "metadata",
+      "types": {
+        "int": 432
+      },
+      "null_count": 0,
+      "allowed_null_count": 0,
+      "missing_required_count": 0,
+      "unique_non_null": 8
+    },
+    "building_id": {
+      "role": "metadata",
+      "types": {
+        "NoneType": 72,
+        "str": 360
+      },
+      "null_count": 72,
+      "allowed_null_count": 72,
+      "missing_required_count": 0,
+      "unique_non_null": 5
+    },
+    "fire_within_2_cells": {
+      "role": "target",
+      "types": {
+        "bool": 432
+      },
+      "null_count": 0,
+      "allowed_null_count": 0,
+      "missing_required_count": 0,
+      "unique_non_null": 2
+    }
+  },
+  "numeric_statistics": {
+    "temperature_c": {
+      "count": 432,
+      "min": 23.852,
+      "max": 109.137,
+      "mean": 29.589296296296297,
+      "median": 24.014,
+      "stddev_population": 17.97195736946831
+    },
+    "smoke_index": {
+      "count": 432,
+      "min": 0.0,
+      "max": 1.0,
+      "mean": 0.16504969907407407,
+      "median": 0.002045,
+      "stddev_population": 0.2756815348530569
+    }
+  },
+  "alarm_distribution": {
+    "counts": {
+      "false": 306,
+      "true": 126
+    },
+    "proportions": {
+      "false": 0.7083333333333334,
+      "true": 0.2916666666666667
+    }
+  },
+  "target": {
+    "counts": {
+      "false": 386,
+      "true": 46
+    },
+    "proportions": {
+      "false": 0.8935185185185185,
+      "true": 0.10648148148148148
+    },
+    "name": "fire_within_2_cells",
+    "single_class": false,
+    "majority_fraction": 0.8935185185185185,
+    "imbalance_threshold": 0.8,
+    "imbalanced": true
+  },
+  "by_sensor": {
+    "S-E1-01": {
+      "records": 36,
+      "target_counts": {
+        "false": 36,
+        "true": 0
+      }
+    },
+    "S-E1-02": {
+      "records": 36,
+      "target_counts": {
+        "false": 36,
+        "true": 0
+      }
+    },
+    "S-E10-01": {
+      "records": 36,
+      "target_counts": {
+        "false": 36,
+        "true": 0
+      }
+    },
+    "S-E10-02": {
+      "records": 36,
+      "target_counts": {
+        "false": 36,
+        "true": 0
+      }
+    },
+    "S-E15-01": {
+      "records": 36,
+      "target_counts": {
+        "false": 36,
+        "true": 0
+      }
+    },
+    "S-E15-02": {
+      "records": 36,
+      "target_counts": {
+        "false": 36,
+        "true": 0
+      }
+    },
+    "S-E25-01": {
+      "records": 36,
+      "target_counts": {
+        "false": 36,
+        "true": 0
+      }
+    },
+    "S-E25-02": {
+      "records": 36,
+      "target_counts": {
+        "false": 36,
+        "true": 0
+      }
+    },
+    "S-E30-01": {
+      "records": 36,
+      "target_counts": {
+        "false": 13,
+        "true": 23
+      }
+    },
+    "S-E30-02": {
+      "records": 36,
+      "target_counts": {
+        "false": 24,
+        "true": 12
+      }
+    },
+    "S-EXT-01": {
+      "records": 36,
+      "target_counts": {
+        "false": 25,
+        "true": 11
+      }
+    },
+    "S-EXT-02": {
+      "records": 36,
+      "target_counts": {
+        "false": 36,
+        "true": 0
+      }
+    }
+  },
+  "records_by_turn": {
+    "0": 12,
+    "1": 12,
+    "2": 12,
+    "3": 12,
+    "4": 12,
+    "5": 12,
+    "6": 12,
+    "7": 12,
+    "8": 12,
+    "9": 12,
+    "10": 12,
+    "11": 12,
+    "12": 12,
+    "13": 12,
+    "14": 12,
+    "15": 12,
+    "16": 12,
+    "17": 12,
+    "18": 12,
+    "19": 12,
+    "20": 12,
+    "21": 12,
+    "22": 12,
+    "23": 12,
+    "24": 12,
+    "25": 12,
+    "26": 12,
+    "27": 12,
+    "28": 12,
+    "29": 12,
+    "30": 12,
+    "31": 12,
+    "32": 12,
+    "33": 12,
+    "34": 12,
+    "35": 12
+  },
+  "notes": [
+    "Datos sinteticos: no representan sensores fisicos reales.",
+    "Los turnos son pasos de simulacion, no segundos ni fechas.",
+    "El analisis solo recibe paquetes que superan P2.1; un paquete invalido se rechaza.",
+    "building_id=None es valido para sensores exteriores; no es una medicion perdida.",
+    "Los tipos corresponden a P2.2: mediciones float, alarm int 0/1, target bool.",
+    "fire_within_2_cells se analiza como target y permanece fuera de X.",
+    "Desbalance: regla descriptiva de clase mayoritaria >=80%, no criterio universal.",
+    "Las lecturas de un mismo sensor y turnos cercanos no son muestras independientes."
+  ]
+}

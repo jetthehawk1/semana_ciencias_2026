@@ -1,0 +1,165 @@
+{
+  "scope": "DisasterCommandCenter",
+  "scripts": [
+    {
+      "script": "test_app_modos_14_4_4.py",
+      "exit_code": 0,
+      "unit_tests": null,
+      "skipped": false,
+      "graphics_smoke_tests": [
+        "[OK] Pygame sin pantalla: 3 fotogramas en modo original.",
+        "[OK] Pygame sin pantalla: 3 fotogramas en modo original."
+      ]
+    },
+    {
+      "script": "test_centro_evacuacion.py",
+      "exit_code": 0,
+      "unit_tests": null,
+      "skipped": false
+    },
+    {
+      "script": "test_distribucion_personas.py",
+      "exit_code": 0,
+      "unit_tests": null,
+      "skipped": false
+    },
+    {
+      "script": "test_efectos_personas.py",
+      "exit_code": 0,
+      "unit_tests": null,
+      "skipped": false
+    },
+    {
+      "script": "test_ejemplo_persona3_15_2_3.py",
+      "exit_code": 0,
+      "unit_tests": null,
+      "skipped": false
+    },
+    {
+      "script": "test_entrega_persona2_15_1.py",
+      "exit_code": 0,
+      "unit_tests": null,
+      "skipped": false
+    },
+    {
+      "script": "test_integracion_aislada_14_3_5.py",
+      "exit_code": 0,
+      "unit_tests": null,
+      "skipped": false
+    },
+    {
+      "script": "test_integral_14_4_5.py",
+      "exit_code": 0,
+      "unit_tests": null,
+      "skipped": false
+    },
+    {
+      "script": "test_interfaz_rutas.py",
+      "exit_code": 0,
+      "unit_tests": null,
+      "skipped": false
+    },
+    {
+      "script": "test_persona2_baseline.py",
+      "exit_code": 0,
+      "unit_tests": 19,
+      "skipped": false
+    },
+    {
+      "script": "test_persona2_dataset.py",
+      "exit_code": 0,
+      "unit_tests": 13,
+      "skipped": false
+    },
+    {
+      "script": "test_persona2_eda.py",
+      "exit_code": 0,
+      "unit_tests": 16,
+      "skipped": false
+    },
+    {
+      "script": "test_persona2_end_to_end.py",
+      "exit_code": 0,
+      "unit_tests": 6,
+      "skipped": false
+    },
+    {
+      "script": "test_persona2_gateway.py",
+      "exit_code": 0,
+      "unit_tests": 10,
+      "skipped": false
+    },
+    {
+      "script": "test_persona2_inference.py",
+      "exit_code": 0,
+      "unit_tests": 16,
+      "skipped": false
+    },
+    {
+      "script": "test_persona2_ingestion.py",
+      "exit_code": 0,
+      "unit_tests": 19,
+      "skipped": false
+    },
+    {
+      "script": "test_persona2_model_comparison.py",
+      "exit_code": 0,
+      "unit_tests": 16,
+      "skipped": false
+    },
+    {
+      "script": "test_persona2_postgres.py",
+      "exit_code": 0,
+      "unit_tests": 15,
+      "skipped": false
+    },
+    {
+      "script": "test_personas_interiores.py",
+      "exit_code": 0,
+      "unit_tests": null,
+      "skipped": false
+    },
+    {
+      "script": "test_salida_edificios.py",
+      "exit_code": 0,
+      "unit_tests": null,
+      "skipped": false
+    },
+    {
+      "script": "test_selector_modo_14_3_6B.py",
+      "exit_code": 0,
+      "unit_tests": null,
+      "skipped": false
+    },
+    {
+      "script": "test_sensores.py",
+      "exit_code": 0,
+      "unit_tests": null,
+      "skipped": false
+    },
+    {
+      "script": "test_simulacion_fuego.py",
+      "exit_code": 0,
+      "unit_tests": null,
+      "skipped": false
+    },
+    {
+      "script": "test_simulacion_humo.py",
+      "exit_code": 0,
+      "unit_tests": null,
+      "skipped": false
+    },
+    {
+      "script": "test_simulacion_viento.py",
+      "exit_code": 0,
+      "unit_tests": null,
+      "skipped": false
+    }
+  ],
+  "script_count": 25,
+  "persona2_unit_tests": 130,
+  "all_passed": true,
+  "any_skipped": false,
+  "existing_files_unchanged": true,
+  "postgresql": "18.4, clusters temporales reales"
+}

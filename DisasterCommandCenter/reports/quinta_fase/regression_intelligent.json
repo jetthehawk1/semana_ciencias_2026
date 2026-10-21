@@ -1,0 +1,3230 @@
+{
+  "mode": "intelligent",
+  "events": [
+    {
+      "turn": 1,
+      "person_id": "P232",
+      "origin": "E15",
+      "position": [
+        180,
+        18
+      ],
+      "building": "E15",
+      "fire_contact": true,
+      "dose": 0.62,
+      "smoke": 0.62,
+      "previous": {
+        "position": [
+          180,
+          18
+        ],
+        "level": "normal",
+        "assignment": null,
+        "state": null,
+        "hazard_eta": 0.0,
+        "margin": null,
+        "route_status": null
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 27,
+      "person_id": "P207",
+      "origin": "E15",
+      "position": [
+        175,
+        23
+      ],
+      "building": "E15",
+      "fire_contact": true,
+      "dose": 0.025042020608925592,
+      "smoke": 0.022850804665321897,
+      "previous": {
+        "position": [
+          175,
+          23
+        ],
+        "level": "normal",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -Infinity,
+        "route_status": null
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 28,
+      "person_id": "P213",
+      "origin": "E15",
+      "position": [
+        179,
+        23
+      ],
+      "building": "E15",
+      "fire_contact": true,
+      "dose": 0.08899554657011091,
+      "smoke": 0.0441531648571961,
+      "previous": {
+        "position": [
+          179,
+          23
+        ],
+        "level": "normal",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -118.0,
+        "route_status": null
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 29,
+      "person_id": "P206",
+      "origin": "E15",
+      "position": [
+        180,
+        23
+      ],
+      "building": "E15",
+      "fire_contact": true,
+      "dose": 0.06556870264637737,
+      "smoke": 0.004676373652627117,
+      "previous": {
+        "position": [
+          180,
+          23
+        ],
+        "level": "normal",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -117.0,
+        "route_status": null
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 131,
+      "person_id": "P1845",
+      "origin": "E9",
+      "position": [
+        210,
+        33
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 3.2743193694413986,
+      "smoke": 0.6135215664892513,
+      "previous": {
+        "position": [
+          210,
+          33
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -241.2,
+        "route_status": {
+          "person_id": "P1845",
+          "route_id": "meeting-116-P1845-3844",
+          "destination_id": "R2",
+          "goal": {
+            "x": 257,
+            "y": 116
+          },
+          "current": {
+            "x": 210,
+            "y": 33
+          },
+          "steps_done": 3,
+          "steps_total": 143,
+          "status": "esperando_ocupacion",
+          "waits": 9
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 132,
+      "person_id": "P1689",
+      "origin": "E60 - norte",
+      "position": [
+        211,
+        31
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 3.219465768210014,
+      "smoke": 0.6040206283065,
+      "previous": {
+        "position": [
+          211,
+          31
+        ],
+        "level": "ralentizada",
+        "assignment": [
+          "R2",
+          [
+            257,
+            109
+          ]
+        ],
+        "state": "EVACUATING",
+        "hazard_eta": 0.0,
+        "margin": -390.6,
+        "route_status": {
+          "person_id": "P1689",
+          "route_id": "meeting-125-P1689-4110",
+          "destination_id": "R2",
+          "goal": {
+            "x": 257,
+            "y": 109
+          },
+          "current": {
+            "x": 211,
+            "y": 31
+          },
+          "steps_done": 6,
+          "steps_total": 200,
+          "status": "en_camino",
+          "waits": 0
+        }
+      },
+      "current_assignment": [
+        "R2",
+        [
+          257,
+          109
+        ]
+      ],
+      "current_eta": 0.0
+    },
+    {
+      "turn": 132,
+      "person_id": "P1822",
+      "origin": "E8",
+      "position": [
+        222,
+        26
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.8352487723724624,
+      "smoke": 0.4431722827195224,
+      "previous": {
+        "position": [
+          222,
+          26
+        ],
+        "level": "ralentizada",
+        "assignment": [
+          "INTERMEDIATE",
+          [
+            228,
+            27
+          ]
+        ],
+        "state": "EVACUATING",
+        "hazard_eta": 0.0,
+        "margin": -16.8,
+        "route_status": {
+          "person_id": "P1822",
+          "route_id": "escape-125-P1822",
+          "destination_id": "INTERMEDIATE",
+          "goal": {
+            "x": 228,
+            "y": 27
+          },
+          "current": {
+            "x": 222,
+            "y": 26
+          },
+          "steps_done": 5,
+          "steps_total": 12,
+          "status": "en_camino",
+          "waits": 1
+        }
+      },
+      "current_assignment": [
+        "INTERMEDIATE",
+        [
+          228,
+          27
+        ]
+      ],
+      "current_eta": 0.0
+    },
+    {
+      "turn": 132,
+      "person_id": "P1833",
+      "origin": "E8",
+      "position": [
+        210,
+        34
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.8026749888026545,
+      "smoke": 0.5982387337184549,
+      "previous": {
+        "position": [
+          210,
+          34
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -239.8,
+        "route_status": {
+          "person_id": "P1833",
+          "route_id": "meeting-118-P1833-3910",
+          "destination_id": "R2",
+          "goal": {
+            "x": 257,
+            "y": 123
+          },
+          "current": {
+            "x": 210,
+            "y": 34
+          },
+          "steps_done": 3,
+          "steps_total": 155,
+          "status": "esperando_ocupacion",
+          "waits": 9
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 133,
+      "person_id": "P1704",
+      "origin": "E60 - norte",
+      "position": [
+        212,
+        34
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.8516393231393913,
+      "smoke": 0.5557190208990586,
+      "previous": {
+        "position": [
+          212,
+          34
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -236.4,
+        "route_status": {
+          "person_id": "P1704",
+          "route_id": "meeting-117-P1704-3881",
+          "destination_id": "R2",
+          "goal": {
+            "x": 269,
+            "y": 110
+          },
+          "current": {
+            "x": 212,
+            "y": 34
+          },
+          "steps_done": 8,
+          "steps_total": 165,
+          "status": "esperando_ocupacion",
+          "waits": 5
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 133,
+      "person_id": "P1819",
+      "origin": "E8",
+      "position": [
+        220,
+        26
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 3.015694291677464,
+      "smoke": 0.5655473491888937,
+      "previous": {
+        "position": [
+          220,
+          26
+        ],
+        "level": "ralentizada",
+        "assignment": [
+          "INTERMEDIATE",
+          [
+            228,
+            26
+          ]
+        ],
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -16.8,
+        "route_status": {
+          "person_id": "P1819",
+          "route_id": "escape-125-P1819",
+          "destination_id": "INTERMEDIATE",
+          "goal": {
+            "x": 228,
+            "y": 26
+          },
+          "current": {
+            "x": 220,
+            "y": 26
+          },
+          "steps_done": 4,
+          "steps_total": 12,
+          "status": "en_camino",
+          "waits": 2
+        }
+      },
+      "current_assignment": [
+        "INTERMEDIATE",
+        [
+          228,
+          26
+        ]
+      ],
+      "current_eta": 0.0
+    },
+    {
+      "turn": 133,
+      "person_id": "P1821",
+      "origin": "E8",
+      "position": [
+        215,
+        32
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 3.112307783877778,
+      "smoke": 0.5177812322526246,
+      "previous": {
+        "position": [
+          215,
+          32
+        ],
+        "level": "ralentizada",
+        "assignment": [
+          "INTERMEDIATE",
+          [
+            217,
+            34
+          ]
+        ],
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -9.4,
+        "route_status": {
+          "person_id": "P1821",
+          "route_id": "escape-131-P1821",
+          "destination_id": "INTERMEDIATE",
+          "goal": {
+            "x": 217,
+            "y": 34
+          },
+          "current": {
+            "x": 215,
+            "y": 32
+          },
+          "steps_done": 1,
+          "steps_total": 5,
+          "status": "en_camino",
+          "waits": 0
+        }
+      },
+      "current_assignment": [
+        "INTERMEDIATE",
+        [
+          217,
+          34
+        ]
+      ],
+      "current_eta": 0.0
+    },
+    {
+      "turn": 133,
+      "person_id": "P1835",
+      "origin": "E8",
+      "position": [
+        223,
+        28
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.8221811549439604,
+      "smoke": 0.3661159974564891,
+      "previous": {
+        "position": [
+          223,
+          28
+        ],
+        "level": "ralentizada",
+        "assignment": [
+          "INTERMEDIATE",
+          [
+            229,
+            29
+          ]
+        ],
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -14.6,
+        "route_status": {
+          "person_id": "P1835",
+          "route_id": "escape-125-P1835",
+          "destination_id": "INTERMEDIATE",
+          "goal": {
+            "x": 229,
+            "y": 29
+          },
+          "current": {
+            "x": 223,
+            "y": 28
+          },
+          "steps_done": 5,
+          "steps_total": 12,
+          "status": "en_camino",
+          "waits": 0
+        }
+      },
+      "current_assignment": [
+        "INTERMEDIATE",
+        [
+          229,
+          29
+        ]
+      ],
+      "current_eta": 0.0
+    },
+    {
+      "turn": 134,
+      "person_id": "P059",
+      "origin": "E10",
+      "position": [
+        210,
+        35
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 3.127692253092196,
+      "smoke": 0.625019401529029,
+      "previous": {
+        "position": [
+          210,
+          35
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -238.0,
+        "route_status": {
+          "person_id": "P059",
+          "route_id": "meeting-116-P059-3848",
+          "destination_id": "R2",
+          "goal": {
+            "x": 259,
+            "y": 120
+          },
+          "current": {
+            "x": 210,
+            "y": 35
+          },
+          "steps_done": 3,
+          "steps_total": 151,
+          "status": "esperando_ocupacion",
+          "waits": 12
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 134,
+      "person_id": "P1681",
+      "origin": "E6",
+      "position": [
+        213,
+        34
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 3.205068375924501,
+      "smoke": 0.5496488525099076,
+      "previous": {
+        "position": [
+          213,
+          34
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -235.0,
+        "route_status": {
+          "person_id": "P1681",
+          "route_id": "meeting-97-P1681-3303",
+          "destination_id": "R1",
+          "goal": {
+            "x": 373,
+            "y": 37
+          },
+          "current": {
+            "x": 213,
+            "y": 34
+          },
+          "steps_done": 27,
+          "steps_total": 324,
+          "status": "en_camino",
+          "waits": 6
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 134,
+      "person_id": "P1683",
+      "origin": "E6",
+      "position": [
+        221,
+        30
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 3.018763105844212,
+      "smoke": 0.42035161679940813,
+      "previous": {
+        "position": [
+          221,
+          30
+        ],
+        "level": "ralentizada",
+        "assignment": [
+          "INTERMEDIATE",
+          [
+            225,
+            35
+          ]
+        ],
+        "state": "EVACUATING",
+        "hazard_eta": 0.0,
+        "margin": -20.8,
+        "route_status": {
+          "person_id": "P1683",
+          "route_id": "escape-129-P1683",
+          "destination_id": "INTERMEDIATE",
+          "goal": {
+            "x": 225,
+            "y": 35
+          },
+          "current": {
+            "x": 221,
+            "y": 30
+          },
+          "steps_done": 3,
+          "steps_total": 12,
+          "status": "en_camino",
+          "waits": 0
+        }
+      },
+      "current_assignment": [
+        "INTERMEDIATE",
+        [
+          225,
+          35
+        ]
+      ],
+      "current_eta": 0.0
+    },
+    {
+      "turn": 134,
+      "person_id": "P1699",
+      "origin": "E60 - norte",
+      "position": [
+        213,
+        33
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 3.2099667126365543,
+      "smoke": 0.5705944992415718,
+      "previous": {
+        "position": [
+          213,
+          33
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -236.0,
+        "route_status": {
+          "person_id": "P1699",
+          "route_id": "meeting-108-P1699-3614",
+          "destination_id": "R2",
+          "goal": {
+            "x": 257,
+            "y": 113
+          },
+          "current": {
+            "x": 213,
+            "y": 33
+          },
+          "steps_done": 7,
+          "steps_total": 149,
+          "status": "esperando_ocupacion",
+          "waits": 16
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 134,
+      "person_id": "P1702",
+      "origin": "E60 - norte",
+      "position": [
+        214,
+        33
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.8702784673799666,
+      "smoke": 0.5438044059228422,
+      "previous": {
+        "position": [
+          214,
+          33
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -234.4,
+        "route_status": {
+          "person_id": "P1702",
+          "route_id": "meeting-108-P1702-3626",
+          "destination_id": "R2",
+          "goal": {
+            "x": 263,
+            "y": 114
+          },
+          "current": {
+            "x": 214,
+            "y": 33
+          },
+          "steps_done": 7,
+          "steps_total": 159,
+          "status": "en_camino",
+          "waits": 15
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 134,
+      "person_id": "P1817",
+      "origin": "E8",
+      "position": [
+        218,
+        31
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.7892101697092353,
+      "smoke": 0.48041841986004774,
+      "previous": {
+        "position": [
+          218,
+          31
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -229.4,
+        "route_status": {
+          "person_id": "P1817",
+          "route_id": "meeting-124-P1817-4076",
+          "destination_id": "R2",
+          "goal": {
+            "x": 256,
+            "y": 122
+          },
+          "current": {
+            "x": 218,
+            "y": 31
+          },
+          "steps_done": 0,
+          "steps_total": 247,
+          "status": "esperando_ocupacion",
+          "waits": 8
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 135,
+      "person_id": "P054",
+      "origin": "E10",
+      "position": [
+        210,
+        36
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.905073954620303,
+      "smoke": 0.6232972313736487,
+      "previous": {
+        "position": [
+          210,
+          36
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -236.4,
+        "route_status": {
+          "person_id": "P054",
+          "route_id": "meeting-119-P054-3932",
+          "destination_id": "R2",
+          "goal": {
+            "x": 270,
+            "y": 109
+          },
+          "current": {
+            "x": 210,
+            "y": 36
+          },
+          "steps_done": 3,
+          "steps_total": 150,
+          "status": "esperando_ocupacion",
+          "waits": 11
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 135,
+      "person_id": "P1696",
+      "origin": "E60 - norte",
+      "position": [
+        212,
+        35
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.9697111549887047,
+      "smoke": 0.5776200621071881,
+      "previous": {
+        "position": [
+          212,
+          35
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -234.6,
+        "route_status": {
+          "person_id": "P1696",
+          "route_id": "meeting-113-P1696-3761",
+          "destination_id": "R2",
+          "goal": {
+            "x": 255,
+            "y": 116
+          },
+          "current": {
+            "x": 212,
+            "y": 35
+          },
+          "steps_done": 3,
+          "steps_total": 137,
+          "status": "esperando_ocupacion",
+          "waits": 16
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 135,
+      "person_id": "P1707",
+      "origin": "E60 - norte",
+      "position": [
+        214,
+        34
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 3.0313762251654817,
+      "smoke": 0.539810780710955,
+      "previous": {
+        "position": [
+          214,
+          34
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -233.0,
+        "route_status": {
+          "person_id": "P1707",
+          "route_id": "meeting-124-P1707-4077",
+          "destination_id": "R2",
+          "goal": {
+            "x": 269,
+            "y": 111
+          },
+          "current": {
+            "x": 214,
+            "y": 34
+          },
+          "steps_done": 1,
+          "steps_total": 213,
+          "status": "esperando_ocupacion",
+          "waits": 7
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 135,
+      "person_id": "P1813",
+      "origin": "E8",
+      "position": [
+        219,
+        32
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.8892020173908652,
+      "smoke": 0.4454590484109032,
+      "previous": {
+        "position": [
+          219,
+          32
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -226.4,
+        "route_status": {
+          "person_id": "P1813",
+          "route_id": "meeting-124-P1813-4073",
+          "destination_id": "R2",
+          "goal": {
+            "x": 262,
+            "y": 110
+          },
+          "current": {
+            "x": 219,
+            "y": 32
+          },
+          "steps_done": 3,
+          "steps_total": 206,
+          "status": "esperando_ocupacion",
+          "waits": 5
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 135,
+      "person_id": "P1814",
+      "origin": "E8",
+      "position": [
+        217,
+        33
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.86243634650712,
+      "smoke": 0.47489478425744075,
+      "previous": {
+        "position": [
+          217,
+          33
+        ],
+        "level": "ralentizada",
+        "assignment": [
+          "INTERMEDIATE",
+          [
+            217,
+            33
+          ]
+        ],
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -1.4000000000000001,
+        "route_status": {
+          "person_id": "P1814",
+          "route_id": "escape-131-P1814",
+          "destination_id": "INTERMEDIATE",
+          "goal": {
+            "x": 217,
+            "y": 33
+          },
+          "current": {
+            "x": 217,
+            "y": 33
+          },
+          "steps_done": 2,
+          "steps_total": 2,
+          "status": "en_destino",
+          "waits": 0
+        }
+      },
+      "current_assignment": [
+        "INTERMEDIATE",
+        [
+          217,
+          33
+        ]
+      ],
+      "current_eta": 0.0
+    },
+    {
+      "turn": 135,
+      "person_id": "P1824",
+      "origin": "E8",
+      "position": [
+        212,
+        36
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.762032459710336,
+      "smoke": 0.5299850079732449,
+      "previous": {
+        "position": [
+          212,
+          36
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -232.4,
+        "route_status": {
+          "person_id": "P1824",
+          "route_id": "meeting-107-P1824-3603",
+          "destination_id": "R2",
+          "goal": {
+            "x": 267,
+            "y": 112
+          },
+          "current": {
+            "x": 212,
+            "y": 36
+          },
+          "steps_done": 16,
+          "steps_total": 167,
+          "status": "esperando_ocupacion",
+          "waits": 9
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 135,
+      "person_id": "P1831",
+      "origin": "E8",
+      "position": [
+        217,
+        32
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 3.1215082640071223,
+      "smoke": 0.500342720974441,
+      "previous": {
+        "position": [
+          217,
+          32
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -229.8,
+        "route_status": {
+          "person_id": "P1831",
+          "route_id": "meeting-110-P1831-3686",
+          "destination_id": "R2",
+          "goal": {
+            "x": 271,
+            "y": 109
+          },
+          "current": {
+            "x": 217,
+            "y": 32
+          },
+          "steps_done": 8,
+          "steps_total": 171,
+          "status": "esperando_ocupacion",
+          "waits": 10
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 136,
+      "person_id": "P053",
+      "origin": "E10",
+      "position": [
+        214,
+        35
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.85232041315979,
+      "smoke": 0.5354198170908977,
+      "previous": {
+        "position": [
+          214,
+          35
+        ],
+        "level": "ralentizada",
+        "assignment": [
+          "R2",
+          [
+            259,
+            113
+          ]
+        ],
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -388.8,
+        "route_status": {
+          "person_id": "P053",
+          "route_id": "meeting-131-P053-4285",
+          "destination_id": "R2",
+          "goal": {
+            "x": 259,
+            "y": 113
+          },
+          "current": {
+            "x": 214,
+            "y": 35
+          },
+          "steps_done": 0,
+          "steps_total": 193,
+          "status": "esperando_ocupacion",
+          "waits": 4
+        }
+      },
+      "current_assignment": [
+        "R2",
+        [
+          259,
+          113
+        ]
+      ],
+      "current_eta": 0.0
+    },
+    {
+      "turn": 136,
+      "person_id": "P068",
+      "origin": "E10",
+      "position": [
+        218,
+        32
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 3.2378834058411456,
+      "smoke": 0.49386339353304887,
+      "previous": {
+        "position": [
+          218,
+          32
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -228.2,
+        "route_status": {
+          "person_id": "P068",
+          "route_id": "meeting-115-P068-3817",
+          "destination_id": "R2",
+          "goal": {
+            "x": 265,
+            "y": 109
+          },
+          "current": {
+            "x": 218,
+            "y": 32
+          },
+          "steps_done": 2,
+          "steps_total": 150,
+          "status": "esperando_ocupacion",
+          "waits": 11
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 136,
+      "person_id": "P1815",
+      "origin": "E8",
+      "position": [
+        215,
+        35
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.82663573575947,
+      "smoke": 0.5022853676724444,
+      "previous": {
+        "position": [
+          215,
+          35
+        ],
+        "level": "ralentizada",
+        "assignment": [
+          "R2",
+          [
+            257,
+            115
+          ]
+        ],
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -390.4,
+        "route_status": {
+          "person_id": "P1815",
+          "route_id": "meeting-129-P1815-4224",
+          "destination_id": "R2",
+          "goal": {
+            "x": 257,
+            "y": 115
+          },
+          "current": {
+            "x": 215,
+            "y": 35
+          },
+          "steps_done": 1,
+          "steps_total": 195,
+          "status": "esperando_ocupacion",
+          "waits": 5
+        }
+      },
+      "current_assignment": [
+        "R2",
+        [
+          257,
+          115
+        ]
+      ],
+      "current_eta": 0.0
+    },
+    {
+      "turn": 136,
+      "person_id": "P1830",
+      "origin": "E8",
+      "position": [
+        221,
+        31
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.79908944409396,
+      "smoke": 0.45276225940051756,
+      "previous": {
+        "position": [
+          221,
+          31
+        ],
+        "level": "ralentizada",
+        "assignment": [
+          "INTERMEDIATE",
+          [
+            221,
+            32
+          ]
+        ],
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -3.8,
+        "route_status": {
+          "person_id": "P1830",
+          "route_id": "escape-126-P1830",
+          "destination_id": "INTERMEDIATE",
+          "goal": {
+            "x": 221,
+            "y": 32
+          },
+          "current": {
+            "x": 221,
+            "y": 31
+          },
+          "steps_done": 2,
+          "steps_total": 3,
+          "status": "esperando_ocupacion",
+          "waits": 7
+        }
+      },
+      "current_assignment": [
+        "INTERMEDIATE",
+        [
+          221,
+          32
+        ]
+      ],
+      "current_eta": 0.0
+    },
+    {
+      "turn": 136,
+      "person_id": "P1843",
+      "origin": "E8",
+      "position": [
+        215,
+        34
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 3.0576779258921034,
+      "smoke": 0.5279280714450484,
+      "previous": {
+        "position": [
+          215,
+          34
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -230.4,
+        "route_status": {
+          "person_id": "P1843",
+          "route_id": "meeting-108-P1843-3633",
+          "destination_id": "R2",
+          "goal": {
+            "x": 258,
+            "y": 120
+          },
+          "current": {
+            "x": 215,
+            "y": 34
+          },
+          "steps_done": 10,
+          "steps_total": 165,
+          "status": "en_camino",
+          "waits": 13
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 136,
+      "person_id": "P1861",
+      "origin": "E9",
+      "position": [
+        213,
+        35
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 3.2009019571707538,
+      "smoke": 0.5655032025482593,
+      "previous": {
+        "position": [
+          213,
+          35
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -232.8,
+        "route_status": {
+          "person_id": "P1861",
+          "route_id": "meeting-113-P1861-3763",
+          "destination_id": "R2",
+          "goal": {
+            "x": 256,
+            "y": 116
+          },
+          "current": {
+            "x": 213,
+            "y": 35
+          },
+          "steps_done": 3,
+          "steps_total": 139,
+          "status": "esperando_ocupacion",
+          "waits": 17
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 136,
+      "person_id": "P1864",
+      "origin": "E9",
+      "position": [
+        209,
+        37
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.7946982794170485,
+      "smoke": 0.6233690419742194,
+      "previous": {
+        "position": [
+          209,
+          37
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -235.8,
+        "route_status": {
+          "person_id": "P1864",
+          "route_id": "meeting-115-P1864-3820",
+          "destination_id": "R2",
+          "goal": {
+            "x": 262,
+            "y": 117
+          },
+          "current": {
+            "x": 209,
+            "y": 37
+          },
+          "steps_done": 3,
+          "steps_total": 148,
+          "status": "esperando_ocupacion",
+          "waits": 16
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 136,
+      "person_id": "P1876",
+      "origin": "E9",
+      "position": [
+        207,
+        39
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.87083588262085,
+      "smoke": 0.3696737066651477,
+      "previous": {
+        "position": [
+          207,
+          39
+        ],
+        "level": "ralentizada",
+        "assignment": [
+          "R2",
+          [
+            266,
+            112
+          ]
+        ],
+        "state": "EVACUATING",
+        "hazard_eta": 5.714242458343506,
+        "margin": -279.4,
+        "route_status": {
+          "person_id": "P1876",
+          "route_id": "meeting-111-P1876-3718",
+          "destination_id": "R2",
+          "goal": {
+            "x": 266,
+            "y": 112
+          },
+          "current": {
+            "x": 207,
+            "y": 39
+          },
+          "steps_done": 9,
+          "steps_total": 147,
+          "status": "en_camino",
+          "waits": 14
+        }
+      },
+      "current_assignment": [
+        "R2",
+        [
+          266,
+          112
+        ]
+      ],
+      "current_eta": 0.0
+    },
+    {
+      "turn": 137,
+      "person_id": "P048",
+      "origin": "E10",
+      "position": [
+        210,
+        37
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 3.2858309873728158,
+      "smoke": 0.655600329286242,
+      "previous": {
+        "position": [
+          210,
+          37
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -234.2,
+        "route_status": {
+          "person_id": "P048",
+          "route_id": "meeting-102-P048-3458",
+          "destination_id": "R2",
+          "goal": {
+            "x": 267,
+            "y": 108
+          },
+          "current": {
+            "x": 210,
+            "y": 37
+          },
+          "steps_done": 10,
+          "steps_total": 160,
+          "status": "esperando_ocupacion",
+          "waits": 22
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 137,
+      "person_id": "P1716",
+      "origin": "E60 - norte",
+      "position": [
+        219,
+        33
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 3.1718287123072186,
+      "smoke": 0.46663788136270795,
+      "previous": {
+        "position": [
+          219,
+          33
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -224.6,
+        "route_status": {
+          "person_id": "P1716",
+          "route_id": "meeting-124-P1716-4074",
+          "destination_id": "R2",
+          "goal": {
+            "x": 267,
+            "y": 109
+          },
+          "current": {
+            "x": 219,
+            "y": 33
+          },
+          "steps_done": 3,
+          "steps_total": 213,
+          "status": "esperando_ocupacion",
+          "waits": 5
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 137,
+      "person_id": "P1816",
+      "origin": "E8",
+      "position": [
+        212,
+        37
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.9351653510468565,
+      "smoke": 0.563097389410608,
+      "previous": {
+        "position": [
+          212,
+          37
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -230.0,
+        "route_status": {
+          "person_id": "P1816",
+          "route_id": "meeting-107-P1816-3602",
+          "destination_id": "R2",
+          "goal": {
+            "x": 262,
+            "y": 114
+          },
+          "current": {
+            "x": 212,
+            "y": 37
+          },
+          "steps_done": 16,
+          "steps_total": 161,
+          "status": "esperando_ocupacion",
+          "waits": 11
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 137,
+      "person_id": "P1834",
+      "origin": "E8",
+      "position": [
+        221,
+        32
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.8584601952174578,
+      "smoke": 0.4472490988372468,
+      "previous": {
+        "position": [
+          221,
+          32
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -222.2,
+        "route_status": {
+          "person_id": "P1834",
+          "route_id": "meeting-123-P1834-4052",
+          "destination_id": "R2",
+          "goal": {
+            "x": 264,
+            "y": 111
+          },
+          "current": {
+            "x": 221,
+            "y": 32
+          },
+          "steps_done": 3,
+          "steps_total": 157,
+          "status": "esperando_ocupacion",
+          "waits": 5
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 137,
+      "person_id": "P1839",
+      "origin": "E8",
+      "position": [
+        210,
+        38
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 3.011324362479881,
+      "smoke": 0.5575916550356648,
+      "previous": {
+        "position": [
+          210,
+          38
+        ],
+        "level": "ralentizada",
+        "assignment": [
+          "R2",
+          [
+            257,
+            113
+          ]
+        ],
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -370.0,
+        "route_status": {
+          "person_id": "P1839",
+          "route_id": "meeting-131-P1839-4284",
+          "destination_id": "R2",
+          "goal": {
+            "x": 257,
+            "y": 113
+          },
+          "current": {
+            "x": 210,
+            "y": 38
+          },
+          "steps_done": 3,
+          "steps_total": 187,
+          "status": "en_camino",
+          "waits": 1
+        }
+      },
+      "current_assignment": [
+        "R2",
+        [
+          257,
+          113
+        ]
+      ],
+      "current_eta": 0.0
+    },
+    {
+      "turn": 138,
+      "person_id": "P1697",
+      "origin": "E60 - norte",
+      "position": [
+        220,
+        33
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.956178677716207,
+      "smoke": 0.46482250662167546,
+      "previous": {
+        "position": [
+          220,
+          33
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -222.2,
+        "route_status": {
+          "person_id": "P1697",
+          "route_id": "meeting-126-P1697-4141",
+          "destination_id": "R2",
+          "goal": {
+            "x": 264,
+            "y": 108
+          },
+          "current": {
+            "x": 220,
+            "y": 33
+          },
+          "steps_done": 1,
+          "steps_total": 212,
+          "status": "esperando_ocupacion",
+          "waits": 7
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 138,
+      "person_id": "P1811",
+      "origin": "E8",
+      "position": [
+        216,
+        35
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 3.2621588524280325,
+      "smoke": 0.5127249124408746,
+      "previous": {
+        "position": [
+          216,
+          35
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -226.0,
+        "route_status": {
+          "person_id": "P1811",
+          "route_id": "meeting-108-P1811-3631",
+          "destination_id": "R2",
+          "goal": {
+            "x": 264,
+            "y": 113
+          },
+          "current": {
+            "x": 216,
+            "y": 35
+          },
+          "steps_done": 8,
+          "steps_total": 160,
+          "status": "esperando_ocupacion",
+          "waits": 14
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 138,
+      "person_id": "P1820",
+      "origin": "E8",
+      "position": [
+        219,
+        34
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.9033215079144816,
+      "smoke": 0.4619043963488945,
+      "previous": {
+        "position": [
+          219,
+          34
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -222.6,
+        "route_status": {
+          "person_id": "P1820",
+          "route_id": "escape-127-P1820",
+          "destination_id": "INTERMEDIATE",
+          "goal": {
+            "x": 219,
+            "y": 34
+          },
+          "current": {
+            "x": 219,
+            "y": 34
+          },
+          "steps_done": 2,
+          "steps_total": 2,
+          "status": "en_destino",
+          "waits": 0
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 138,
+      "person_id": "P1823",
+      "origin": "E8",
+      "position": [
+        209,
+        38
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.9548857278237293,
+      "smoke": 0.6282815721765731,
+      "previous": {
+        "position": [
+          209,
+          38
+        ],
+        "level": "ralentizada",
+        "assignment": [
+          "R2",
+          [
+            258,
+            111
+          ]
+        ],
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -374.0,
+        "route_status": {
+          "person_id": "P1823",
+          "route_id": "meeting-132-P1823-4306",
+          "destination_id": "R2",
+          "goal": {
+            "x": 258,
+            "y": 111
+          },
+          "current": {
+            "x": 209,
+            "y": 38
+          },
+          "steps_done": 2,
+          "steps_total": 188,
+          "status": "esperando_ocupacion",
+          "waits": 3
+        }
+      },
+      "current_assignment": [
+        "R2",
+        [
+          258,
+          111
+        ]
+      ],
+      "current_eta": 0.0
+    },
+    {
+      "turn": 138,
+      "person_id": "P1826",
+      "origin": "E8",
+      "position": [
+        228,
+        29
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.8562801844077645,
+      "smoke": 0.29692178264705205,
+      "previous": {
+        "position": [
+          228,
+          29
+        ],
+        "level": "ralentizada",
+        "assignment": [
+          "INTERMEDIATE",
+          [
+            231,
+            30
+          ]
+        ],
+        "state": "EVACUATING",
+        "hazard_eta": 5.953009605407715,
+        "margin": -4.849723434448242,
+        "route_status": {
+          "person_id": "P1826",
+          "route_id": "escape-127-P1826",
+          "destination_id": "INTERMEDIATE",
+          "goal": {
+            "x": 231,
+            "y": 30
+          },
+          "current": {
+            "x": 228,
+            "y": 29
+          },
+          "steps_done": 8,
+          "steps_total": 12,
+          "status": "en_camino",
+          "waits": 0
+        }
+      },
+      "current_assignment": [
+        "INTERMEDIATE",
+        [
+          231,
+          30
+        ]
+      ],
+      "current_eta": 5.6246256828308105
+    },
+    {
+      "turn": 138,
+      "person_id": "P1836",
+      "origin": "E8",
+      "position": [
+        217,
+        35
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.9142613029290976,
+      "smoke": 0.48926603931402235,
+      "previous": {
+        "position": [
+          217,
+          35
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -224.0,
+        "route_status": {
+          "person_id": "P1836",
+          "route_id": "meeting-108-P1836-3632",
+          "destination_id": "R2",
+          "goal": {
+            "x": 265,
+            "y": 112
+          },
+          "current": {
+            "x": 217,
+            "y": 35
+          },
+          "steps_done": 8,
+          "steps_total": 163,
+          "status": "esperando_ocupacion",
+          "waits": 15
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 138,
+      "person_id": "P1851",
+      "origin": "E9",
+      "position": [
+        207,
+        41
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.97171344750261,
+      "smoke": 0.5989803301694719,
+      "previous": {
+        "position": [
+          207,
+          41
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -231.8,
+        "route_status": {
+          "person_id": "P1851",
+          "route_id": "meeting-110-P1851-3684",
+          "destination_id": "R2",
+          "goal": {
+            "x": 259,
+            "y": 110
+          },
+          "current": {
+            "x": 207,
+            "y": 41
+          },
+          "steps_done": 9,
+          "steps_total": 140,
+          "status": "en_camino",
+          "waits": 16
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 139,
+      "person_id": "P1654",
+      "origin": "E6",
+      "position": [
+        218,
+        35
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 3.062460962371059,
+      "smoke": 0.4809121937040454,
+      "previous": {
+        "position": [
+          218,
+          35
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -222.0,
+        "route_status": {
+          "person_id": "P1654",
+          "route_id": "meeting-120-P1654-3961",
+          "destination_id": "R1",
+          "goal": {
+            "x": 371,
+            "y": 37
+          },
+          "current": {
+            "x": 218,
+            "y": 35
+          },
+          "steps_done": 2,
+          "steps_total": 295,
+          "status": "esperando_ocupacion",
+          "waits": 8
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 139,
+      "person_id": "P1693",
+      "origin": "E60 - norte",
+      "position": [
+        209,
+        39
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 3.0737693534306456,
+      "smoke": 0.5746958992098432,
+      "previous": {
+        "position": [
+          209,
+          39
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -231.8,
+        "route_status": {
+          "person_id": "P1693",
+          "route_id": "meeting-107-P1693-3580",
+          "destination_id": "R2",
+          "goal": {
+            "x": 256,
+            "y": 111
+          },
+          "current": {
+            "x": 209,
+            "y": 39
+          },
+          "steps_done": 9,
+          "steps_total": 144,
+          "status": "esperando_ocupacion",
+          "waits": 20
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 139,
+      "person_id": "P1701",
+      "origin": "E60 - norte",
+      "position": [
+        211,
+        38
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 3.3137625250156404,
+      "smoke": 0.6476307946161576,
+      "previous": {
+        "position": [
+          211,
+          38
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -385.4,
+        "route_status": {
+          "person_id": "P1701",
+          "route_id": "meeting-130-P1701-4258",
+          "destination_id": "R2",
+          "goal": {
+            "x": 260,
+            "y": 117
+          },
+          "current": {
+            "x": 211,
+            "y": 38
+          },
+          "steps_done": 1,
+          "steps_total": 193,
+          "status": "en_camino",
+          "waits": 6
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 139,
+      "person_id": "P1713",
+      "origin": "E60 - norte",
+      "position": [
+        220,
+        34
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.8950173249901283,
+      "smoke": 0.4587526739398527,
+      "previous": {
+        "position": [
+          220,
+          34
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -220.6,
+        "route_status": {
+          "person_id": "P1713",
+          "route_id": "meeting-124-P1713-4081",
+          "destination_id": "R2",
+          "goal": {
+            "x": 258,
+            "y": 124
+          },
+          "current": {
+            "x": 220,
+            "y": 34
+          },
+          "steps_done": 3,
+          "steps_total": 247,
+          "status": "esperando_ocupacion",
+          "waits": 5
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 139,
+      "person_id": "P1832",
+      "origin": "E8",
+      "position": [
+        223,
+        33
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.90728755338915,
+      "smoke": 0.4164970544851034,
+      "previous": {
+        "position": [
+          223,
+          33
+        ],
+        "level": "ralentizada",
+        "assignment": [
+          "INTERMEDIATE",
+          [
+            231,
+            32
+          ]
+        ],
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -19.6,
+        "route_status": {
+          "person_id": "P1832",
+          "route_id": "escape-134-P1832",
+          "destination_id": "INTERMEDIATE",
+          "goal": {
+            "x": 231,
+            "y": 32
+          },
+          "current": {
+            "x": 223,
+            "y": 33
+          },
+          "steps_done": 2,
+          "steps_total": 11,
+          "status": "esperando_ocupacion",
+          "waits": 1
+        }
+      },
+      "current_assignment": [
+        "INTERMEDIATE",
+        [
+          231,
+          32
+        ]
+      ],
+      "current_eta": 0.0
+    },
+    {
+      "turn": 139,
+      "person_id": "P1841",
+      "origin": "E8",
+      "position": [
+        224,
+        32
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 3.045187215147701,
+      "smoke": 0.4218220091852889,
+      "previous": {
+        "position": [
+          224,
+          32
+        ],
+        "level": "ralentizada",
+        "assignment": [
+          "INTERMEDIATE",
+          [
+            232,
+            32
+          ]
+        ],
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -20.6,
+        "route_status": {
+          "person_id": "P1841",
+          "route_id": "escape-135-P1841",
+          "destination_id": "INTERMEDIATE",
+          "goal": {
+            "x": 232,
+            "y": 32
+          },
+          "current": {
+            "x": 224,
+            "y": 32
+          },
+          "steps_done": 2,
+          "steps_total": 12,
+          "status": "en_camino",
+          "waits": 0
+        }
+      },
+      "current_assignment": [
+        "INTERMEDIATE",
+        [
+          232,
+          32
+        ]
+      ],
+      "current_eta": 0.0
+    },
+    {
+      "turn": 140,
+      "person_id": "P1671",
+      "origin": "E6",
+      "position": [
+        219,
+        35
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 3.1954085178204763,
+      "smoke": 0.4729015818228645,
+      "previous": {
+        "position": [
+          219,
+          35
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -220.6,
+        "route_status": {
+          "person_id": "P1671",
+          "route_id": "meeting-127-P1671-4169",
+          "destination_id": "R1",
+          "goal": {
+            "x": 373,
+            "y": 36
+          },
+          "current": {
+            "x": 219,
+            "y": 35
+          },
+          "steps_done": 0,
+          "steps_total": 361,
+          "status": "esperando_ocupacion",
+          "waits": 8
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 140,
+      "person_id": "P1691",
+      "origin": "E60 - norte",
+      "position": [
+        220,
+        35
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.8514298146991353,
+      "smoke": 0.4536805480480593,
+      "previous": {
+        "position": [
+          220,
+          35
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -218.6,
+        "route_status": {
+          "person_id": "P1691",
+          "route_id": "meeting-117-P1691-3882",
+          "destination_id": "R2",
+          "goal": {
+            "x": 272,
+            "y": 108
+          },
+          "current": {
+            "x": 220,
+            "y": 35
+          },
+          "steps_done": 5,
+          "steps_total": 174,
+          "status": "esperando_ocupacion",
+          "waits": 7
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 140,
+      "person_id": "P1853",
+      "origin": "E9",
+      "position": [
+        207,
+        40
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 3.1244393836474154,
+      "smoke": 0.6365287775330265,
+      "previous": {
+        "position": [
+          207,
+          40
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -233.8,
+        "route_status": {
+          "person_id": "P1853",
+          "route_id": "meeting-112-P1853-3737",
+          "destination_id": "R2",
+          "goal": {
+            "x": 258,
+            "y": 110
+          },
+          "current": {
+            "x": 207,
+            "y": 40
+          },
+          "steps_done": 11,
+          "steps_total": 134,
+          "status": "esperando_ocupacion",
+          "waits": 14
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 141,
+      "person_id": "P1712",
+      "origin": "E60 - norte",
+      "position": [
+        208,
+        41
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.834888202634208,
+      "smoke": 0.5816032102682382,
+      "previous": {
+        "position": [
+          208,
+          41
+        ],
+        "level": "ralentizada",
+        "assignment": [
+          "INTERMEDIATE",
+          [
+            207,
+            46
+          ]
+        ],
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -13.0,
+        "route_status": {
+          "person_id": "P1712",
+          "route_id": "escape-139-P1712",
+          "destination_id": "INTERMEDIATE",
+          "goal": {
+            "x": 207,
+            "y": 46
+          },
+          "current": {
+            "x": 208,
+            "y": 41
+          },
+          "steps_done": 1,
+          "steps_total": 7,
+          "status": "en_camino",
+          "waits": 0
+        }
+      },
+      "current_assignment": [
+        "INTERMEDIATE",
+        [
+          207,
+          46
+        ]
+      ],
+      "current_eta": 0.0
+    },
+    {
+      "turn": 141,
+      "person_id": "P1825",
+      "origin": "E8",
+      "position": [
+        221,
+        35
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.9722042333469374,
+      "smoke": 0.4512461933182936,
+      "previous": {
+        "position": [
+          221,
+          35
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -216.0,
+        "route_status": {
+          "person_id": "P1825",
+          "route_id": "meeting-121-P1825-3990",
+          "destination_id": "R2",
+          "goal": {
+            "x": 257,
+            "y": 117
+          },
+          "current": {
+            "x": 221,
+            "y": 35
+          },
+          "steps_done": 4,
+          "steps_total": 152,
+          "status": "esperando_ocupacion",
+          "waits": 4
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 141,
+      "person_id": "P1829",
+      "origin": "E8",
+      "position": [
+        222,
+        34
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 3.1462610003747784,
+      "smoke": 0.4603483250403469,
+      "previous": {
+        "position": [
+          222,
+          34
+        ],
+        "level": "ralentizada",
+        "assignment": [
+          "INTERMEDIATE",
+          [
+            230,
+            35
+          ]
+        ],
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -24.0,
+        "route_status": {
+          "person_id": "P1829",
+          "route_id": "escape-127-P1829",
+          "destination_id": "INTERMEDIATE",
+          "goal": {
+            "x": 230,
+            "y": 35
+          },
+          "current": {
+            "x": 222,
+            "y": 34
+          },
+          "steps_done": 1,
+          "steps_total": 12,
+          "status": "esperando_ocupacion",
+          "waits": 11
+        }
+      },
+      "current_assignment": [
+        "INTERMEDIATE",
+        [
+          230,
+          35
+        ]
+      ],
+      "current_eta": 0.0
+    },
+    {
+      "turn": 141,
+      "person_id": "P1838",
+      "origin": "E8",
+      "position": [
+        223,
+        34
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.7708705045154303,
+      "smoke": 0.4412851258197907,
+      "previous": {
+        "position": [
+          223,
+          34
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -213.6,
+        "route_status": {
+          "person_id": "P1838",
+          "route_id": "meeting-123-P1838-4057",
+          "destination_id": "R2",
+          "goal": {
+            "x": 270,
+            "y": 111
+          },
+          "current": {
+            "x": 223,
+            "y": 34
+          },
+          "steps_done": 5,
+          "steps_total": 169,
+          "status": "esperando_ocupacion",
+          "waits": 3
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 142,
+      "person_id": "P1667",
+      "origin": "E6",
+      "position": [
+        222,
+        35
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 3.0890858521459905,
+      "smoke": 0.4516788655057838,
+      "previous": {
+        "position": [
+          222,
+          35
+        ],
+        "level": "ralentizada",
+        "assignment": null,
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -213.8,
+        "route_status": {
+          "person_id": "P1667",
+          "route_id": "meeting-124-P1667-4078",
+          "destination_id": "R1",
+          "goal": {
+            "x": 370,
+            "y": 36
+          },
+          "current": {
+            "x": 222,
+            "y": 35
+          },
+          "steps_done": 2,
+          "steps_total": 305,
+          "status": "esperando_ocupacion",
+          "waits": 6
+        }
+      },
+      "current_assignment": null,
+      "current_eta": 0.0
+    },
+    {
+      "turn": 142,
+      "person_id": "P1812",
+      "origin": "E8",
+      "position": [
+        230,
+        31
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.9485725672834993,
+      "smoke": 0.3087263789887689,
+      "previous": {
+        "position": [
+          230,
+          31
+        ],
+        "level": "ralentizada",
+        "assignment": [
+          "INTERMEDIATE",
+          [
+            233,
+            31
+          ]
+        ],
+        "state": "EVACUATING",
+        "hazard_eta": 5.836830139160156,
+        "margin": -8.8,
+        "route_status": {
+          "person_id": "P1812",
+          "route_id": "escape-130-P1812",
+          "destination_id": "INTERMEDIATE",
+          "goal": {
+            "x": 233,
+            "y": 31
+          },
+          "current": {
+            "x": 230,
+            "y": 31
+          },
+          "steps_done": 9,
+          "steps_total": 12,
+          "status": "en_camino",
+          "waits": 0
+        }
+      },
+      "current_assignment": [
+        "INTERMEDIATE",
+        [
+          233,
+          31
+        ]
+      ],
+      "current_eta": 0.0
+    },
+    {
+      "turn": 143,
+      "person_id": "P1828",
+      "origin": "E8",
+      "position": [
+        228,
+        33
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.850221367681615,
+      "smoke": 0.3837519194286908,
+      "previous": {
+        "position": [
+          228,
+          33
+        ],
+        "level": "ralentizada",
+        "assignment": [
+          "INTERMEDIATE",
+          [
+            233,
+            33
+          ]
+        ],
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 0.0,
+        "margin": -10.8,
+        "route_status": {
+          "person_id": "P1828",
+          "route_id": "escape-134-P1828",
+          "destination_id": "INTERMEDIATE",
+          "goal": {
+            "x": 233,
+            "y": 33
+          },
+          "current": {
+            "x": 228,
+            "y": 33
+          },
+          "steps_done": 7,
+          "steps_total": 12,
+          "status": "en_camino",
+          "waits": 0
+        }
+      },
+      "current_assignment": [
+        "INTERMEDIATE",
+        [
+          233,
+          33
+        ]
+      ],
+      "current_eta": 0.0
+    },
+    {
+      "turn": 144,
+      "person_id": "P1837",
+      "origin": "E8",
+      "position": [
+        231,
+        33
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 3.0034834388954916,
+      "smoke": 0.2909394331389193,
+      "previous": {
+        "position": [
+          231,
+          33
+        ],
+        "level": "ralentizada",
+        "assignment": [
+          "INTERMEDIATE",
+          [
+            234,
+            33
+          ]
+        ],
+        "state": "EVACUATING",
+        "hazard_eta": 5.974523544311523,
+        "margin": -3.377300262451172,
+        "route_status": {
+          "person_id": "P1837",
+          "route_id": "escape-132-P1837",
+          "destination_id": "INTERMEDIATE",
+          "goal": {
+            "x": 234,
+            "y": 33
+          },
+          "current": {
+            "x": 231,
+            "y": 33
+          },
+          "steps_done": 9,
+          "steps_total": 12,
+          "status": "en_camino",
+          "waits": 0
+        }
+      },
+      "current_assignment": [
+        "INTERMEDIATE",
+        [
+          234,
+          33
+        ]
+      ],
+      "current_eta": 5.672484397888184
+    },
+    {
+      "turn": 151,
+      "person_id": "P055",
+      "origin": "E10",
+      "position": [
+        207,
+        48
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.89382690178271,
+      "smoke": 0.18682056420422202,
+      "previous": {
+        "position": [
+          207,
+          48
+        ],
+        "level": "ralentizada",
+        "assignment": [
+          "R2",
+          [
+            263,
+            116
+          ]
+        ],
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 6.749930381774902,
+        "margin": -242.0500696182251,
+        "route_status": {
+          "person_id": "P055",
+          "route_id": "meeting-119-P055-3928",
+          "destination_id": "R2",
+          "goal": {
+            "x": 263,
+            "y": 116
+          },
+          "current": {
+            "x": 207,
+            "y": 48
+          },
+          "steps_done": 15,
+          "steps_total": 139,
+          "status": "en_camino",
+          "waits": 11
+        }
+      },
+      "current_assignment": [
+        "R2",
+        [
+          263,
+          116
+        ]
+      ],
+      "current_eta": 6.505435466766357
+    },
+    {
+      "turn": 159,
+      "person_id": "P1700",
+      "origin": "E60 - norte",
+      "position": [
+        207,
+        54
+      ],
+      "building": null,
+      "fire_contact": false,
+      "dose": 2.786900194984752,
+      "smoke": 0.10320509399211736,
+      "previous": {
+        "position": [
+          207,
+          54
+        ],
+        "level": "ralentizada",
+        "assignment": [
+          "R2",
+          [
+            257,
+            112
+          ]
+        ],
+        "state": "WAITING_UNSAFE",
+        "hazard_eta": 7.357608795166016,
+        "margin": -209.042391204834,
+        "route_status": {
+          "person_id": "P1700",
+          "route_id": "meeting-139-P1700-4485",
+          "destination_id": "R2",
+          "goal": {
+            "x": 257,
+            "y": 112
+          },
+          "current": {
+            "x": 207,
+            "y": 54
+          },
+          "steps_done": 10,
+          "steps_total": 118,
+          "status": "en_camino",
+          "waits": 0
+        }
+      },
+      "current_assignment": [
+        "R2",
+        [
+          257,
+          112
+        ]
+      ],
+      "current_eta": 7.174359321594238
+    }
+  ],
+  "samples": [
+    {
+      "turn": 20,
+      "incap": 1,
+      "unassigned": 93,
+      "states": {
+        "WAITING_SAFE": 859,
+        "EVACUATING": 976,
+        "WAITING_UNSAFE": 2,
+        "INCAPACITATED": 1,
+        "AT_MEETING_AREA": 41
+      },
+      "gathered": 41,
+      "wind": [
+        "N",
+        0.738383595208267
+      ],
+      "areas": {
+        "R1": "SAFE",
+        "R2": "SAFE",
+        "R3": "SAFE",
+        "R4": "SAFE",
+        "R5": "SAFE",
+        "R6": "SAFE",
+        "R7": "SAFE",
+        "R8": "SAFE"
+      }
+    },
+    {
+      "turn": 40,
+      "incap": 4,
+      "unassigned": 53,
+      "states": {
+        "EVACUATING": 1229,
+        "WAITING_SAFE": 551,
+        "WAITING_UNSAFE": 6,
+        "INCAPACITATED": 4,
+        "AT_MEETING_AREA": 89
+      },
+      "gathered": 89,
+      "wind": [
+        "N",
+        0.7619554559234551
+      ],
+      "areas": {
+        "R1": "SAFE",
+        "R2": "SAFE",
+        "R3": "SAFE",
+        "R4": "SAFE",
+        "R5": "SAFE",
+        "R6": "SAFE",
+        "R7": "SAFE",
+        "R8": "SAFE"
+      }
+    },
+    {
+      "turn": 60,
+      "incap": 4,
+      "unassigned": 15,
+      "states": {
+        "EVACUATING": 1276,
+        "WAITING_SAFE": 427,
+        "INCAPACITATED": 4,
+        "AT_MEETING_AREA": 172
+      },
+      "gathered": 172,
+      "wind": [
+        "NE",
+        0.6609580682665699
+      ],
+      "areas": {
+        "R1": "SAFE",
+        "R2": "SAFE",
+        "R3": "SAFE",
+        "R4": "SAFE",
+        "R5": "SAFE",
+        "R6": "SAFE",
+        "R7": "SAFE",
+        "R8": "SAFE"
+      }
+    },
+    {
+      "turn": 80,
+      "incap": 4,
+      "unassigned": 19,
+      "states": {
+        "EVACUATING": 1116,
+        "WAITING_SAFE": 500,
+        "INCAPACITATED": 4,
+        "AT_MEETING_AREA": 259
+      },
+      "gathered": 259,
+      "wind": [
+        "NE",
+        0.5477679891832861
+      ],
+      "areas": {
+        "R1": "SAFE",
+        "R2": "SAFE",
+        "R3": "SAFE",
+        "R4": "SAFE",
+        "R5": "SAFE",
+        "R6": "SAFE",
+        "R7": "SAFE",
+        "R8": "SAFE"
+      }
+    },
+    {
+      "turn": 100,
+      "incap": 4,
+      "unassigned": 21,
+      "states": {
+        "WAITING_SAFE": 540,
+        "EVACUATING": 960,
+        "AT_MEETING_AREA": 372,
+        "INCAPACITATED": 4,
+        "WAITING_UNSAFE": 3
+      },
+      "gathered": 372,
+      "wind": [
+        "E",
+        0.5483281926740886
+      ],
+      "areas": {
+        "R1": "SAFE",
+        "R2": "SAFE",
+        "R3": "SAFE",
+        "R4": "SAFE",
+        "R5": "SAFE",
+        "R6": "SAFE",
+        "R7": "SAFE",
+        "R8": "SAFE"
+      }
+    },
+    {
+      "turn": 120,
+      "incap": 4,
+      "unassigned": 23,
+      "states": {
+        "WAITING_SAFE": 520,
+        "EVACUATING": 830,
+        "WAITING_UNSAFE": 39,
+        "AT_MEETING_AREA": 486,
+        "INCAPACITATED": 4
+      },
+      "gathered": 486,
+      "wind": [
+        "E",
+        0.662015358265589
+      ],
+      "areas": {
+        "R1": "SAFE",
+        "R2": "SAFE",
+        "R3": "SAFE",
+        "R4": "SAFE",
+        "R5": "SAFE",
+        "R6": "SAFE",
+        "R7": "SAFE",
+        "R8": "SAFE"
+      }
+    },
+    {
+      "turn": 140,
+      "incap": 54,
+      "unassigned": 71,
+      "states": {
+        "WAITING_SAFE": 506,
+        "EVACUATING": 702,
+        "INCAPACITATED": 54,
+        "WAITING_UNSAFE": 17,
+        "AT_MEETING_AREA": 599,
+        "REASSIGNING": 1
+      },
+      "gathered": 599,
+      "wind": [
+        "SE",
+        0.762333419727953
+      ],
+      "areas": {
+        "R1": "SAFE",
+        "R2": "SAFE",
+        "R3": "SAFE",
+        "R4": "SAFE",
+        "R5": "SAFE",
+        "R6": "SAFE",
+        "R7": "SAFE",
+        "R8": "SAFE"
+      }
+    },
+    {
+      "turn": 160,
+      "incap": 64,
+      "unassigned": 78,
+      "states": {
+        "WAITING_SAFE": 540,
+        "EVACUATING": 581,
+        "WAITING_UNSAFE": 15,
+        "INCAPACITATED": 64,
+        "AT_MEETING_AREA": 679
+      },
+      "gathered": 679,
+      "wind": [
+        "SE",
+        0.7376616846042262
+      ],
+      "areas": {
+        "R1": "SAFE",
+        "R2": "SAFE",
+        "R3": "SAFE",
+        "R4": "SAFE",
+        "R5": "SAFE",
+        "R6": "SAFE",
+        "R7": "SAFE",
+        "R8": "SAFE"
+      }
+    }
+  ],
+  "metrics": {
+    "safe_meeting_arrivals": 679,
+    "people_ever_reached_meeting": 679,
+    "mean_turns_to_first_meeting": 90.95581737849778,
+    "median_turns_to_first_meeting": 95,
+    "worst_turns_to_first_meeting": 160,
+    "people_exposed_smoke": 90,
+    "accumulated_smoke_dose": 197.37505730516312,
+    "people_close_to_fire": 30,
+    "fire_contacts": 4,
+    "incapacitated": 64,
+    "routes_recalculated": 3194,
+    "preventive_reassignments": 132,
+    "maximum_congestion": 19,
+    "distance_traveled": 166131,
+    "people_in_cells_that_later_became_hazardous": 160,
+    "unsafe_waiting_person_turns": 1808,
+    "destination_became_unsafe_before_arrival": 0,
+    "confirmed_forecast_departures": 141,
+    "forecast_departures": 183,
+    "unconfirmed_forecast_departures": 28,
+    "expired_unconfirmed_forecast_departures": 14,
+    "temporary_goals": 49,
+    "temporal_routes_rejected": 729,
+    "unassigned": 78,
+    "state_counts": {
+      "WAITING_SAFE": 540,
+      "WAITING_UNSAFE": 15,
+      "EVACUATING": 581,
+      "REASSIGNING": 0,
+      "AT_MEETING_AREA": 679,
+      "INCAPACITATED": 64
+    }
+  },
+  "incapacitated_by_origin": {
+    "E15": 4,
+    "E9": 6,
+    "E60 - norte": 14,
+    "E8": 29,
+    "E10": 6,
+    "E6": 5
+  },
+  "incapacitated_inside": 4,
+  "incap_after_120": 60
+}

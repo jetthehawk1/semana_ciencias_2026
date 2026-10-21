@@ -1,0 +1,771 @@
+{
+  "seed": 128,
+  "mode": "optimizado",
+  "ignition": [
+    235,
+    166
+  ],
+  "wind": {
+    "direction": "E",
+    "speed": 0.75,
+    "speed_unit": "normalized_0_1",
+    "history_limit": 256
+  },
+  "turns": 2,
+  "samples": [
+    {
+      "turn": 0,
+      "fire_cells": 1,
+      "smoke_cells_ge_005": 0,
+      "outside_students": 0,
+      "gathered_students": 0,
+      "routes_calculated": 0,
+      "routes_recalculated": 0,
+      "secondary_foci": 0,
+      "buildings_reached": [
+        "E30"
+      ],
+      "blocked_exits": 0,
+      "alternative_exits_used": 0,
+      "alternative_exits_under_blockage": 0,
+      "incapacitated_students": 0,
+      "available_meeting_areas": 8,
+      "unsafe_waiting": 0,
+      "temporary_goals": 0,
+      "confirmed_forecast_departures": 0,
+      "route_budget": 24,
+      "wind_direction": "E",
+      "wind_speed": 0.75,
+      "predicted_wind": {
+        "turn": 1,
+        "u": 0.75,
+        "v": 0.0,
+        "direction": "E",
+        "speed": 0.75,
+        "method": "persistence",
+        "fallback_reason": "insufficient_history",
+        "data_source": "synthetic_simulation"
+      },
+      "meeting_states": {
+        "R1": "SAFE",
+        "R2": "SAFE",
+        "R3": "SAFE",
+        "R4": "SAFE",
+        "R5": "SAFE",
+        "R6": "SAFE",
+        "R7": "SAFE",
+        "R8": "SAFE"
+      },
+      "preventive_reassignments": 0,
+      "predictive_route_invalidations": 0,
+      "destination_changes": 0
+    },
+    {
+      "turn": 2,
+      "fire_cells": 2,
+      "smoke_cells_ge_005": 2,
+      "outside_students": 55,
+      "gathered_students": 2,
+      "routes_calculated": 22,
+      "routes_recalculated": 0,
+      "secondary_foci": 0,
+      "buildings_reached": [
+        "E30"
+      ],
+      "blocked_exits": 0,
+      "alternative_exits_used": 5,
+      "alternative_exits_under_blockage": 0,
+      "incapacitated_students": 0,
+      "available_meeting_areas": 8,
+      "unsafe_waiting": 10,
+      "temporary_goals": 0,
+      "confirmed_forecast_departures": 0,
+      "route_budget": 24,
+      "wind_direction": "E",
+      "wind_speed": 0.75,
+      "predicted_wind": {
+        "turn": 3,
+        "u": 0.75,
+        "v": 0.0,
+        "direction": "E",
+        "speed": 0.75,
+        "method": "persistence",
+        "fallback_reason": "insufficient_history",
+        "data_source": "synthetic_simulation"
+      },
+      "meeting_states": {
+        "R1": "SAFE",
+        "R2": "SAFE",
+        "R3": "SAFE",
+        "R4": "SAFE",
+        "R5": "SAFE",
+        "R6": "SAFE",
+        "R7": "SAFE",
+        "R8": "SAFE"
+      },
+      "preventive_reassignments": 0,
+      "predictive_route_invalidations": 0,
+      "destination_changes": 0
+    }
+  ],
+  "spotting_events": [],
+  "final_summary": {
+    "fase": "en_curso",
+    "inicial": 1879,
+    "dentro": 1824,
+    "salieron": 55,
+    "turnos": 2,
+    "esperando": 30,
+    "movimientos": 3712,
+    "por_edificio": {
+      "E1": {
+        "inicial": 36,
+        "dentro": 34,
+        "salieron": 2
+      },
+      "E10": {
+        "inicial": 32,
+        "dentro": 31,
+        "salieron": 1
+      },
+      "E11": {
+        "inicial": 30,
+        "dentro": 26,
+        "salieron": 4
+      },
+      "E12": {
+        "inicial": 31,
+        "dentro": 30,
+        "salieron": 1
+      },
+      "E13": {
+        "inicial": 34,
+        "dentro": 32,
+        "salieron": 2
+      },
+      "E14": {
+        "inicial": 38,
+        "dentro": 36,
+        "salieron": 2
+      },
+      "E15": {
+        "inicial": 33,
+        "dentro": 32,
+        "salieron": 1
+      },
+      "E16": {
+        "inicial": 34,
+        "dentro": 33,
+        "salieron": 1
+      },
+      "E17": {
+        "inicial": 33,
+        "dentro": 33,
+        "salieron": 0
+      },
+      "E18": {
+        "inicial": 34,
+        "dentro": 33,
+        "salieron": 1
+      },
+      "E19": {
+        "inicial": 34,
+        "dentro": 34,
+        "salieron": 0
+      },
+      "E2": {
+        "inicial": 31,
+        "dentro": 30,
+        "salieron": 1
+      },
+      "E20": {
+        "inicial": 34,
+        "dentro": 33,
+        "salieron": 1
+      },
+      "E21": {
+        "inicial": 32,
+        "dentro": 32,
+        "salieron": 0
+      },
+      "E22": {
+        "inicial": 34,
+        "dentro": 33,
+        "salieron": 1
+      },
+      "E23": {
+        "inicial": 31,
+        "dentro": 31,
+        "salieron": 0
+      },
+      "E24": {
+        "inicial": 32,
+        "dentro": 31,
+        "salieron": 1
+      },
+      "E25": {
+        "inicial": 45,
+        "dentro": 45,
+        "salieron": 0
+      },
+      "E26": {
+        "inicial": 36,
+        "dentro": 36,
+        "salieron": 0
+      },
+      "E27": {
+        "inicial": 31,
+        "dentro": 29,
+        "salieron": 2
+      },
+      "E28": {
+        "inicial": 39,
+        "dentro": 39,
+        "salieron": 0
+      },
+      "E29": {
+        "inicial": 40,
+        "dentro": 40,
+        "salieron": 0
+      },
+      "E29-A": {
+        "inicial": 31,
+        "dentro": 28,
+        "salieron": 3
+      },
+      "E29-B": {
+        "inicial": 30,
+        "dentro": 28,
+        "salieron": 2
+      },
+      "E3": {
+        "inicial": 37,
+        "dentro": 36,
+        "salieron": 1
+      },
+      "E30": {
+        "inicial": 30,
+        "dentro": 28,
+        "salieron": 2
+      },
+      "E31": {
+        "inicial": 39,
+        "dentro": 38,
+        "salieron": 1
+      },
+      "E32": {
+        "inicial": 42,
+        "dentro": 41,
+        "salieron": 1
+      },
+      "E33": {
+        "inicial": 39,
+        "dentro": 39,
+        "salieron": 0
+      },
+      "E34": {
+        "inicial": 34,
+        "dentro": 34,
+        "salieron": 0
+      },
+      "E35": {
+        "inicial": 33,
+        "dentro": 33,
+        "salieron": 0
+      },
+      "E36": {
+        "inicial": 33,
+        "dentro": 33,
+        "salieron": 0
+      },
+      "E37": {
+        "inicial": 33,
+        "dentro": 32,
+        "salieron": 1
+      },
+      "E38": {
+        "inicial": 32,
+        "dentro": 32,
+        "salieron": 0
+      },
+      "E39": {
+        "inicial": 32,
+        "dentro": 31,
+        "salieron": 1
+      },
+      "E4": {
+        "inicial": 35,
+        "dentro": 32,
+        "salieron": 3
+      },
+      "E40": {
+        "inicial": 41,
+        "dentro": 41,
+        "salieron": 0
+      },
+      "E41": {
+        "inicial": 32,
+        "dentro": 31,
+        "salieron": 1
+      },
+      "E45": {
+        "inicial": 33,
+        "dentro": 31,
+        "salieron": 2
+      },
+      "E49": {
+        "inicial": 31,
+        "dentro": 29,
+        "salieron": 2
+      },
+      "E5": {
+        "inicial": 34,
+        "dentro": 34,
+        "salieron": 0
+      },
+      "E51": {
+        "inicial": 33,
+        "dentro": 32,
+        "salieron": 1
+      },
+      "E53": {
+        "inicial": 31,
+        "dentro": 31,
+        "salieron": 0
+      },
+      "E55": {
+        "inicial": 34,
+        "dentro": 34,
+        "salieron": 0
+      },
+      "E56": {
+        "inicial": 50,
+        "dentro": 50,
+        "salieron": 0
+      },
+      "E57": {
+        "inicial": 33,
+        "dentro": 31,
+        "salieron": 2
+      },
+      "E58": {
+        "inicial": 35,
+        "dentro": 35,
+        "salieron": 0
+      },
+      "E59": {
+        "inicial": 31,
+        "dentro": 29,
+        "salieron": 2
+      },
+      "E6": {
+        "inicial": 34,
+        "dentro": 33,
+        "salieron": 1
+      },
+      "E60 - norte": {
+        "inicial": 31,
+        "dentro": 31,
+        "salieron": 0
+      },
+      "E60 - sureste": {
+        "inicial": 31,
+        "dentro": 30,
+        "salieron": 1
+      },
+      "E61": {
+        "inicial": 30,
+        "dentro": 27,
+        "salieron": 3
+      },
+      "E7": {
+        "inicial": 32,
+        "dentro": 30,
+        "salieron": 2
+      },
+      "E8": {
+        "inicial": 33,
+        "dentro": 32,
+        "salieron": 1
+      },
+      "E9": {
+        "inicial": 36,
+        "dentro": 35,
+        "salieron": 1
+      }
+    },
+    "fuego": {
+      "turn": 2,
+      "burning": 2,
+      "burned": 0,
+      "total_ignitions": 2,
+      "secondary_foci": 0
+    },
+    "humo": {
+      "turn": 2,
+      "smoky_cells": 2,
+      "max_concentration": 0.8084,
+      "total_concentration": 1.235
+    },
+    "riesgo": {
+      "normal": 1879,
+      "alerta": 0,
+      "ralentizada": 0,
+      "incapacitada": 0
+    },
+    "viento": {
+      "direccion": "E",
+      "intensidad": 0.75
+    },
+    "meeting": {
+      "gathered": 2,
+      "unassigned": 0,
+      "reassignments": 0,
+      "routes_calculated": 22,
+      "replanned_routes": 0,
+      "preventive_reassignments": 0,
+      "predictive_route_invalidations": 0,
+      "destination_changes": 0,
+      "unassigned_reasons": {},
+      "temporary_goals": 0,
+      "route_budget": 24,
+      "temporal_invalidations": 0,
+      "areas": {
+        "R1": {
+          "available": true,
+          "smoke": 0.0,
+          "state": "SAFE",
+          "risk_score": 0.0,
+          "predicted_smoke": 0.0,
+          "fire_distance": 243,
+          "fire_proximity": 0.0,
+          "current_smoke": 0.0,
+          "capacity": 1149,
+          "reserved": 4
+        },
+        "R2": {
+          "available": true,
+          "smoke": 0.0,
+          "state": "SAFE",
+          "risk_score": 0.0,
+          "predicted_smoke": 0.0,
+          "fire_distance": 33,
+          "fire_proximity": 0.0,
+          "current_smoke": 0.0,
+          "capacity": 2157,
+          "reserved": 9
+        },
+        "R3": {
+          "available": true,
+          "smoke": 0.0,
+          "state": "SAFE",
+          "risk_score": 0.0,
+          "predicted_smoke": 0.0,
+          "fire_distance": 61,
+          "fire_proximity": 0.0,
+          "current_smoke": 0.0,
+          "capacity": 2154,
+          "reserved": 1
+        },
+        "R4": {
+          "available": true,
+          "smoke": 0.0,
+          "state": "SAFE",
+          "risk_score": 0.0,
+          "predicted_smoke": 0.0,
+          "fire_distance": 38,
+          "fire_proximity": 0.0,
+          "current_smoke": 0.0,
+          "capacity": 1725,
+          "reserved": 4
+        },
+        "R5": {
+          "available": true,
+          "smoke": 0.0,
+          "state": "SAFE",
+          "risk_score": 0.0,
+          "predicted_smoke": 0.0,
+          "fire_distance": 225,
+          "fire_proximity": 0.0,
+          "current_smoke": 0.0,
+          "capacity": 972,
+          "reserved": 3
+        },
+        "R6": {
+          "available": true,
+          "smoke": 0.0,
+          "state": "SAFE",
+          "risk_score": 0.0,
+          "predicted_smoke": 0.0,
+          "fire_distance": 131,
+          "fire_proximity": 0.0,
+          "current_smoke": 0.0,
+          "capacity": 1440,
+          "reserved": 1
+        },
+        "R7": {
+          "available": true,
+          "smoke": 0.0,
+          "state": "SAFE",
+          "risk_score": 0.0,
+          "predicted_smoke": 0.0,
+          "fire_distance": 135,
+          "fire_proximity": 0.0,
+          "current_smoke": 0.0,
+          "capacity": 1869,
+          "reserved": 0
+        },
+        "R8": {
+          "available": true,
+          "smoke": 0.0,
+          "state": "SAFE",
+          "risk_score": 0.0,
+          "predicted_smoke": 0.0,
+          "fire_distance": 206,
+          "fire_proximity": 0.0,
+          "current_smoke": 0.0,
+          "capacity": 1620,
+          "reserved": 0
+        }
+      }
+    },
+    "building_risk": {
+      "E20": "low",
+      "E10": "low",
+      "E19": "low",
+      "E16": "low",
+      "E15": "low",
+      "E60 - norte": "low",
+      "E8": "low",
+      "E6": "low",
+      "E4": "low",
+      "E57": "low",
+      "E3": "low",
+      "E1": "low",
+      "E11": "low",
+      "E2": "low",
+      "E5": "low",
+      "E59": "low",
+      "E9": "low",
+      "E41": "low",
+      "E14": "low",
+      "E18": "low",
+      "E17": "low",
+      "E21": "low",
+      "E13": "low",
+      "E12": "low",
+      "E7": "low",
+      "E53": "low",
+      "E23": "low",
+      "E22": "low",
+      "E32": "low",
+      "E29": "high",
+      "E29-B": "low",
+      "E24": "low",
+      "E29-A": "low",
+      "E37": "low",
+      "E40": "low",
+      "E28": "high",
+      "E30": "high",
+      "E58": "low",
+      "E33": "low",
+      "E61": "low",
+      "E31": "low",
+      "E25": "low",
+      "E34": "low",
+      "E55": "low",
+      "E26": "low",
+      "E27": "low",
+      "E36": "low",
+      "E51": "low",
+      "E49": "low",
+      "E56": "low",
+      "E45": "low",
+      "E35": "low",
+      "E38": "low",
+      "E39": "low",
+      "E60 - sureste": "low"
+    },
+    "exits": {
+      "blocked_exits": 0,
+      "alternative_exits_used": 5,
+      "alternative_exits_under_blockage": 0,
+      "distance_rebuilds": 56,
+      "crossings": {
+        "secondary-E1-S": 2,
+        "E10-A1": 1,
+        "E11-A1": 4,
+        "functional-E4-S": 2,
+        "secondary-E4-W": 1,
+        "E41-A1": 1,
+        "E49-A1": 2,
+        "E51-A1": 1,
+        "functional-E57-S": 2,
+        "E59-A1": 2,
+        "E61-A1": 3,
+        "functional-E7-N": 2,
+        "functional-E18-E": 1,
+        "E27-A1": 2,
+        "E29-A-A1": 3,
+        "E30-A1": 2,
+        "secondary-E32-S": 1,
+        "E12-A1": 1,
+        "E37-A1": 1,
+        "E39-A1": 1,
+        "E13-A1": 2,
+        "E45-A1": 2,
+        "functional-E14-E": 2,
+        "functional-E6-S": 1,
+        "functional-E60 - sureste-S": 1,
+        "functional-E8-S": 1,
+        "secondary-E9-W": 1,
+        "E15-A1": 1,
+        "E16-A1": 1,
+        "E2-A1": 1,
+        "E20-A1": 1,
+        "E22-A1": 1,
+        "E24-A1": 1,
+        "E29-B-A1": 2,
+        "E3-A1": 1,
+        "functional-E31-N": 1
+      }
+    },
+    "wind_prediction": {
+      "turn": 3,
+      "u": 0.75,
+      "v": 0.0,
+      "direction": "E",
+      "speed": 0.75,
+      "method": "persistence",
+      "fallback_reason": "insufficient_history",
+      "data_source": "synthetic_simulation"
+    },
+    "evacuation_mode": "traditional",
+    "evacuation_states": {
+      "EVACUATING": 1847,
+      "WAITING_SAFE": 20,
+      "WAITING_UNSAFE": 10,
+      "AT_MEETING_AREA": 2
+    },
+    "unsafe_waiting_person_turns": 14,
+    "confirmed_forecast_departures": 0,
+    "wind_telemetry_records": 6
+  },
+  "peak_blocked_exits": 0,
+  "initialization_seconds": 1.0908690000069328,
+  "elapsed_seconds": 1.5710129000071902,
+  "seconds_per_turn": 0.2400719500001287,
+  "controlled_wind": false,
+  "evacuation_mode": "traditional",
+  "hazard_seed": 128,
+  "evacuation_metrics": {
+    "safe_meeting_arrivals": 2,
+    "people_ever_reached_meeting": 2,
+    "mean_turns_to_first_meeting": 2,
+    "median_turns_to_first_meeting": 2.0,
+    "worst_turns_to_first_meeting": 2,
+    "people_exposed_smoke": 1,
+    "accumulated_smoke_dose": 0.020180999999999998,
+    "people_close_to_fire": 12,
+    "fire_contacts": 0,
+    "incapacitated": 0,
+    "routes_recalculated": 0,
+    "preventive_reassignments": 0,
+    "maximum_congestion": 5,
+    "distance_traveled": 3712,
+    "people_in_cells_that_later_became_hazardous": 1,
+    "unsafe_waiting_person_turns": 14,
+    "destination_became_unsafe_before_arrival": 0,
+    "confirmed_forecast_departures": 0,
+    "forecast_departures": 0,
+    "unconfirmed_forecast_departures": 0,
+    "expired_unconfirmed_forecast_departures": 0,
+    "temporary_goals": 0,
+    "temporal_routes_rejected": 0,
+    "unassigned": 0,
+    "state_counts": {
+      "WAITING_SAFE": 20,
+      "WAITING_UNSAFE": 10,
+      "EVACUATING": 1847,
+      "REASSIGNING": 0,
+      "AT_MEETING_AREA": 2,
+      "INCAPACITATED": 0
+    }
+  },
+  "wind_prediction_calls": {
+    "ridge": 0,
+    "persistence": 3
+  },
+  "wind_observations": [
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_0e2b6aa274954dea967d05ad435fab06",
+      "turn": 0,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "E",
+      "wind_speed": 0.75
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_0e2b6aa274954dea967d05ad435fab06",
+      "turn": 0,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "E",
+      "wind_speed": 0.75
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_0e2b6aa274954dea967d05ad435fab06",
+      "turn": 1,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "E",
+      "wind_speed": 0.75
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_0e2b6aa274954dea967d05ad435fab06",
+      "turn": 1,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "E",
+      "wind_speed": 0.75
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_0e2b6aa274954dea967d05ad435fab06",
+      "turn": 2,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "E",
+      "wind_speed": 0.75
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_0e2b6aa274954dea967d05ad435fab06",
+      "turn": 2,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "E",
+      "wind_speed": 0.75
+    }
+  ],
+  "meeting_transitions": [],
+  "destination_changes": [],
+  "risk_array_bytes": 9216000,
+  "static_topology_cached": true
+}

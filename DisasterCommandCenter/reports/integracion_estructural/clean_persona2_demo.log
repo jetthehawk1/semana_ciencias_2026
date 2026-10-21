@@ -1,0 +1,56 @@
+{
+  "source": {
+    "run_id": "dcc_14_4_3_sesion_0001",
+    "dataset_kind": "synthetic_simulation",
+    "schema_version": "1.0",
+    "time_unit": "simulation_turn_not_seconds"
+  },
+  "model": {
+    "model_id": "synthetic-dt-4bd852c08c17644f1fc8fe532b95f5bd1b9b4c569f762febfa306350fab81683",
+    "algorithm": "DecisionTreeClassifier",
+    "status": "experimental_synthetic_baseline",
+    "dataset_kind": "synthetic_simulation",
+    "feature_columns": [
+      "temperature_c",
+      "smoke_index",
+      "alarm"
+    ],
+    "target_name": "fire_within_2_cells",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 2,
+      "class_weight": "balanced",
+      "random_state": 2026
+    },
+    "sklearn_version": "1.9.1",
+    "training": {
+      "run_id": "dcc_14_4_3_sesion_0001",
+      "records": 324,
+      "sensors": [
+        "S-E1-01",
+        "S-E10-01",
+        "S-E10-02",
+        "S-E15-01",
+        "S-E15-02",
+        "S-E25-02",
+        "S-E30-02",
+        "S-EXT-01",
+        "S-EXT-02"
+      ],
+      "sha256": "4bd852c08c17644f1fc8fe532b95f5bd1b9b4c569f762febfa306350fab81683"
+    }
+  },
+  "summary": {
+    "sensor_count": 12,
+    "turn_count": 36,
+    "predictions": 432,
+    "positive_predictions": 46,
+    "predictions_while_paused": 0
+  },
+  "notes": [
+    "Demostracion funcional con datos sinteticos; no es una nueva evaluacion del modelo.",
+    "La escena comparte escenario con el ejemplo de entrenamiento.",
+    "El Decision Tree es la referencia experimental explicita, no un ganador seleccionado.",
+    "No modifica motores, rutas ni estados de personas; no importa Pygame."
+  ]
+}

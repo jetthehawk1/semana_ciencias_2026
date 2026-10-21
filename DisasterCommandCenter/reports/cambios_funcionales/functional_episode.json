@@ -1,0 +1,47 @@
+{
+  "people": 1879,
+  "grid": [
+    480,
+    300
+  ],
+  "mode": "original",
+  "samples": [
+    {
+      "turn": 20,
+      "outside": 558,
+      "gathered": 11,
+      "unassigned": 96,
+      "routes": 449,
+      "elapsed_seconds": 6.56
+    },
+    {
+      "turn": 40,
+      "outside": 832,
+      "gathered": 23,
+      "unassigned": 83,
+      "routes": 929,
+      "elapsed_seconds": 15.26
+    },
+    {
+      "turn": 60,
+      "outside": 1129,
+      "gathered": 75,
+      "unassigned": 60,
+      "routes": 1409,
+      "elapsed_seconds": 26.1
+    }
+  ],
+  "reassignment_fixture": {
+    "controlled_smoke_injection": true,
+    "area": "R3",
+    "concentration_before_step": 0.4,
+    "area_available": false,
+    "changed_assignments": 18,
+    "pending_reassignments": 220
+  },
+  "no_collisions": true,
+  "maximum_one_cell_per_person_per_turn": true,
+  "notes": [
+    "Smoke injection at turn 31 is a controlled test fixture, not a natural fire result."
+  ]
+}

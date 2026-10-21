@@ -1,0 +1,11 @@
+=== PRUEBA DE MOVIMIENTO AUTOMÁTICO ===
+Ruta persona-A: [{'x': 0, 'y': 2}, {'x': 1, 'y': 2}, {'x': 2, 'y': 2}, {'x': 3, 'y': 2}, {'x': 4, 'y': 2}]
+Ruta persona-B: [{'x': 0, 'y': 3}, {'x': 1, 'y': 3}, {'x': 2, 'y': 3}, {'x': 3, 'y': 3}, {'x': 4, 'y': 3}]
+Turno 1: A=(1, 2), B=(1, 3), movimientos=2
+Turno 2: A=(2, 2), B=(2, 3), movimientos=2
+Turno 3: A=(3, 2), B=(3, 3), movimientos=2
+Turno 4: A=(4, 2), B=(4, 3), movimientos=2
+
+Ambas personas llegaron a sus destinos: OK
+No hubo colisiones: OK
+PRUEBA AUTOMÁTICA COMPLETADA

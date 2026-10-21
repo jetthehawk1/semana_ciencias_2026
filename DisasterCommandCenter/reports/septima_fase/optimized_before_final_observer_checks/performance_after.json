@@ -1,0 +1,718 @@
+{
+  "turns": 240,
+  "initialization_seconds": 1.0801521000103094,
+  "elapsed_seconds": 154.88157910000882,
+  "seconds_per_turn": 0.6408392791666605,
+  "evacuation_mode": "intelligent",
+  "source_hash": "4289532626eadb9e3a905540a83d2e3a8f0deeaaba1b1bf88773d24acaf5cffc",
+  "physics_digest": "190cdf38f9e41ec9b950f511363fb4a28365a27a6b4ae4b044e716c77c4cc1ce",
+  "metrics": {
+    "safe_meeting_arrivals": 1034,
+    "people_ever_reached_meeting": 1049,
+    "mean_turns_to_first_meeting": 104.72068636796949,
+    "median_turns_to_first_meeting": 99,
+    "worst_turns_to_first_meeting": 240,
+    "people_exposed_smoke": 25,
+    "accumulated_smoke_dose": 22.828757461745735,
+    "people_close_to_fire": 14,
+    "fire_contacts": 0,
+    "interior_fire_contacts": 0,
+    "exterior_fire_contacts": 0,
+    "next_turn_fire_escapes": 0,
+    "incapacitated": 4,
+    "routes_recalculated": 1972,
+    "preventive_reassignments": 223,
+    "maximum_congestion": 19,
+    "distance_traveled": 211885,
+    "people_in_cells_that_later_became_hazardous": 47,
+    "unsafe_waiting_person_turns": 528,
+    "destination_became_unsafe_before_arrival": 4,
+    "confirmed_forecast_departures": 31,
+    "candidate_hazard_departures": 223,
+    "pending_candidate_departures": 2,
+    "expired_candidate_departures": 190,
+    "rejected_current_danger_departures": 0,
+    "temporary_goals": 30,
+    "temporal_routes_rejected": 22,
+    "unassigned": 7,
+    "state_counts": {
+      "WAITING_SAFE": 445,
+      "WAITING_UNSAFE": 0,
+      "EVACUATING": 396,
+      "REASSIGNING": 0,
+      "AT_MEETING_AREA": 1034,
+      "INCAPACITATED": 4
+    },
+    "SafetyScore": 99.82622645276962
+  },
+  "summary": {
+    "fase": "en_curso",
+    "inicial": 1879,
+    "dentro": 10,
+    "salieron": 1869,
+    "turnos": 240,
+    "esperando": 17,
+    "movimientos": 211885,
+    "por_edificio": {
+      "E1": {
+        "inicial": 36,
+        "dentro": 0,
+        "salieron": 36
+      },
+      "E10": {
+        "inicial": 32,
+        "dentro": 0,
+        "salieron": 32
+      },
+      "E11": {
+        "inicial": 30,
+        "dentro": 0,
+        "salieron": 30
+      },
+      "E12": {
+        "inicial": 31,
+        "dentro": 0,
+        "salieron": 31
+      },
+      "E13": {
+        "inicial": 34,
+        "dentro": 0,
+        "salieron": 34
+      },
+      "E14": {
+        "inicial": 38,
+        "dentro": 0,
+        "salieron": 38
+      },
+      "E15": {
+        "inicial": 33,
+        "dentro": 0,
+        "salieron": 33
+      },
+      "E16": {
+        "inicial": 34,
+        "dentro": 0,
+        "salieron": 34
+      },
+      "E17": {
+        "inicial": 33,
+        "dentro": 0,
+        "salieron": 33
+      },
+      "E18": {
+        "inicial": 34,
+        "dentro": 0,
+        "salieron": 34
+      },
+      "E19": {
+        "inicial": 34,
+        "dentro": 0,
+        "salieron": 34
+      },
+      "E2": {
+        "inicial": 31,
+        "dentro": 0,
+        "salieron": 31
+      },
+      "E20": {
+        "inicial": 34,
+        "dentro": 0,
+        "salieron": 34
+      },
+      "E21": {
+        "inicial": 32,
+        "dentro": 0,
+        "salieron": 32
+      },
+      "E22": {
+        "inicial": 34,
+        "dentro": 0,
+        "salieron": 34
+      },
+      "E23": {
+        "inicial": 31,
+        "dentro": 0,
+        "salieron": 31
+      },
+      "E24": {
+        "inicial": 32,
+        "dentro": 0,
+        "salieron": 32
+      },
+      "E25": {
+        "inicial": 45,
+        "dentro": 0,
+        "salieron": 45
+      },
+      "E26": {
+        "inicial": 36,
+        "dentro": 0,
+        "salieron": 36
+      },
+      "E27": {
+        "inicial": 31,
+        "dentro": 0,
+        "salieron": 31
+      },
+      "E28": {
+        "inicial": 39,
+        "dentro": 0,
+        "salieron": 39
+      },
+      "E29": {
+        "inicial": 40,
+        "dentro": 0,
+        "salieron": 40
+      },
+      "E29-A": {
+        "inicial": 31,
+        "dentro": 0,
+        "salieron": 31
+      },
+      "E29-B": {
+        "inicial": 30,
+        "dentro": 0,
+        "salieron": 30
+      },
+      "E3": {
+        "inicial": 37,
+        "dentro": 0,
+        "salieron": 37
+      },
+      "E30": {
+        "inicial": 30,
+        "dentro": 0,
+        "salieron": 30
+      },
+      "E31": {
+        "inicial": 39,
+        "dentro": 0,
+        "salieron": 39
+      },
+      "E32": {
+        "inicial": 42,
+        "dentro": 0,
+        "salieron": 42
+      },
+      "E33": {
+        "inicial": 39,
+        "dentro": 0,
+        "salieron": 39
+      },
+      "E34": {
+        "inicial": 34,
+        "dentro": 0,
+        "salieron": 34
+      },
+      "E35": {
+        "inicial": 33,
+        "dentro": 0,
+        "salieron": 33
+      },
+      "E36": {
+        "inicial": 33,
+        "dentro": 0,
+        "salieron": 33
+      },
+      "E37": {
+        "inicial": 33,
+        "dentro": 0,
+        "salieron": 33
+      },
+      "E38": {
+        "inicial": 32,
+        "dentro": 0,
+        "salieron": 32
+      },
+      "E39": {
+        "inicial": 32,
+        "dentro": 0,
+        "salieron": 32
+      },
+      "E4": {
+        "inicial": 35,
+        "dentro": 0,
+        "salieron": 35
+      },
+      "E40": {
+        "inicial": 41,
+        "dentro": 0,
+        "salieron": 41
+      },
+      "E41": {
+        "inicial": 32,
+        "dentro": 0,
+        "salieron": 32
+      },
+      "E45": {
+        "inicial": 33,
+        "dentro": 0,
+        "salieron": 33
+      },
+      "E49": {
+        "inicial": 31,
+        "dentro": 0,
+        "salieron": 31
+      },
+      "E5": {
+        "inicial": 34,
+        "dentro": 0,
+        "salieron": 34
+      },
+      "E51": {
+        "inicial": 33,
+        "dentro": 2,
+        "salieron": 31
+      },
+      "E53": {
+        "inicial": 31,
+        "dentro": 0,
+        "salieron": 31
+      },
+      "E55": {
+        "inicial": 34,
+        "dentro": 0,
+        "salieron": 34
+      },
+      "E56": {
+        "inicial": 50,
+        "dentro": 0,
+        "salieron": 50
+      },
+      "E57": {
+        "inicial": 33,
+        "dentro": 8,
+        "salieron": 25
+      },
+      "E58": {
+        "inicial": 35,
+        "dentro": 0,
+        "salieron": 35
+      },
+      "E59": {
+        "inicial": 31,
+        "dentro": 0,
+        "salieron": 31
+      },
+      "E6": {
+        "inicial": 34,
+        "dentro": 0,
+        "salieron": 34
+      },
+      "E60 - norte": {
+        "inicial": 31,
+        "dentro": 0,
+        "salieron": 31
+      },
+      "E60 - sureste": {
+        "inicial": 31,
+        "dentro": 0,
+        "salieron": 31
+      },
+      "E61": {
+        "inicial": 30,
+        "dentro": 0,
+        "salieron": 30
+      },
+      "E7": {
+        "inicial": 32,
+        "dentro": 0,
+        "salieron": 32
+      },
+      "E8": {
+        "inicial": 33,
+        "dentro": 0,
+        "salieron": 33
+      },
+      "E9": {
+        "inicial": 36,
+        "dentro": 0,
+        "salieron": 36
+      }
+    },
+    "fuego": {
+      "turn": 240,
+      "burning": 270,
+      "burned": 2224,
+      "total_ignitions": 2494,
+      "secondary_foci": 37
+    },
+    "humo": {
+      "turn": 240,
+      "smoky_cells": 6489,
+      "max_concentration": 1.0,
+      "total_concentration": 3560.6479
+    },
+    "riesgo": {
+      "normal": 1865,
+      "alerta": 7,
+      "ralentizada": 3,
+      "incapacitada": 4
+    },
+    "viento": {
+      "direccion": "E",
+      "intensidad": 0.75
+    },
+    "meeting": {
+      "gathered": 1034,
+      "unassigned": 7,
+      "reassignments": 0,
+      "routes_calculated": 3837,
+      "replanned_routes": 1972,
+      "preventive_reassignments": 223,
+      "predictive_route_invalidations": 0,
+      "destination_changes": 218,
+      "unassigned_reasons": {
+        "INCAPACITATED": 4,
+        "RETRY_COOLDOWN": 3
+      },
+      "person_route_reasons": {
+        "P856": "INCAPACITATED",
+        "P871": "INCAPACITATED",
+        "P879": "INCAPACITATED",
+        "P875": "INCAPACITATED",
+        "P1438": "RETRY_COOLDOWN",
+        "P1431": "RETRY_COOLDOWN",
+        "P1576": "RETRY_COOLDOWN"
+      },
+      "total_astar_searches": 1582,
+      "cache_hits": 4653,
+      "cache_misses": 1512,
+      "flow_field_usage": 4184,
+      "watchdog_stops": 0,
+      "hard_invalidations": {
+        "intermediate_reached": 29,
+        "future_destination": 151,
+        "predicted_destination": 42,
+        "temporal_route": 1
+      },
+      "soft_replans": 1749,
+      "temporary_goals": 0,
+      "route_budget": 24,
+      "astar_searches": 5,
+      "maximum_astar_searches": 22,
+      "temporal_invalidations": 0,
+      "areas": {
+        "R1": {
+          "available": true,
+          "smoke": 0.0,
+          "state": "SAFE",
+          "risk_score": 0.0,
+          "predicted_smoke": 0.0,
+          "fire_distance": 172,
+          "fire_proximity": 0.0,
+          "current_smoke": 0.0,
+          "estimated_hazard_arrival_turn": null,
+          "capacity": 1149,
+          "meeting_entry_capacity": 44,
+          "current_occupancy": 125,
+          "assigned_in_transit": 174,
+          "predicted_arrival_rate": 9.833836780525766,
+          "remaining_capacity": 860,
+          "congestion_near_area": 2.28,
+          "reserved": 289
+        },
+        "R2": {
+          "available": false,
+          "smoke": 0.9200190685549728,
+          "state": "CLOSED",
+          "risk_score": 1.0,
+          "predicted_smoke": 0.8402748107910156,
+          "fire_distance": 4,
+          "fire_proximity": 0.623268723487854,
+          "current_smoke": 0.9200190685549728,
+          "estimated_hazard_arrival_turn": 240.0,
+          "capacity": 2157,
+          "meeting_entry_capacity": 38,
+          "current_occupancy": 1,
+          "assigned_in_transit": 0,
+          "predicted_arrival_rate": 0,
+          "remaining_capacity": 2156,
+          "congestion_near_area": 0.0,
+          "reserved": 0
+        },
+        "R3": {
+          "available": true,
+          "smoke": 0.0,
+          "state": "SAFE",
+          "risk_score": 0.0,
+          "predicted_smoke": 0.0,
+          "fire_distance": 29,
+          "fire_proximity": 0.0,
+          "current_smoke": 0.0,
+          "estimated_hazard_arrival_turn": null,
+          "capacity": 2154,
+          "meeting_entry_capacity": 80,
+          "current_occupancy": 93,
+          "assigned_in_transit": 194,
+          "predicted_arrival_rate": 8.71596573566483,
+          "remaining_capacity": 1874,
+          "congestion_near_area": 1.16,
+          "reserved": 280
+        },
+        "R4": {
+          "available": true,
+          "smoke": 0.0,
+          "state": "SAFE",
+          "risk_score": 0.024930745363235474,
+          "predicted_smoke": 0.0,
+          "fire_distance": 16,
+          "fire_proximity": 0.024930745363235474,
+          "current_smoke": 0.0,
+          "estimated_hazard_arrival_turn": null,
+          "capacity": 1725,
+          "meeting_entry_capacity": 116,
+          "current_occupancy": 258,
+          "assigned_in_transit": 197,
+          "predicted_arrival_rate": 11.243068619221805,
+          "remaining_capacity": 1279,
+          "congestion_near_area": 2.64,
+          "reserved": 446
+        },
+        "R5": {
+          "available": true,
+          "smoke": 0.0,
+          "state": "SAFE",
+          "risk_score": 0.0,
+          "predicted_smoke": 0.0,
+          "fire_distance": 186,
+          "fire_proximity": 0.0,
+          "current_smoke": 0.0,
+          "estimated_hazard_arrival_turn": null,
+          "capacity": 972,
+          "meeting_entry_capacity": 71,
+          "current_occupancy": 250,
+          "assigned_in_transit": 112,
+          "predicted_arrival_rate": 10.668820496458125,
+          "remaining_capacity": 620,
+          "congestion_near_area": 3.6,
+          "reserved": 350
+        },
+        "R6": {
+          "available": true,
+          "smoke": 0.0,
+          "state": "SAFE",
+          "risk_score": 0.0,
+          "predicted_smoke": 0.0,
+          "fire_distance": 109,
+          "fire_proximity": 0.0,
+          "current_smoke": 0.0,
+          "estimated_hazard_arrival_turn": null,
+          "capacity": 1440,
+          "meeting_entry_capacity": 83,
+          "current_occupancy": 145,
+          "assigned_in_transit": 15,
+          "predicted_arrival_rate": 1.3006283867565418,
+          "remaining_capacity": 1282,
+          "congestion_near_area": 1.25,
+          "reserved": 158
+        },
+        "R7": {
+          "available": true,
+          "smoke": 0.0,
+          "state": "SAFE",
+          "risk_score": 0.01427275612950325,
+          "predicted_smoke": 0.011893963441252708,
+          "fire_distance": 64,
+          "fire_proximity": 0.0,
+          "current_smoke": 0.0,
+          "estimated_hazard_arrival_turn": 297.3806037902832,
+          "capacity": 1869,
+          "meeting_entry_capacity": 106,
+          "current_occupancy": 187,
+          "assigned_in_transit": 49,
+          "predicted_arrival_rate": 11.95041131831682,
+          "remaining_capacity": 1644,
+          "congestion_near_area": 2.32,
+          "reserved": 225
+        },
+        "R8": {
+          "available": true,
+          "smoke": 0.0,
+          "state": "SAFE",
+          "risk_score": 0.0,
+          "predicted_smoke": 0.0,
+          "fire_distance": 133,
+          "fire_proximity": 0.0,
+          "current_smoke": 0.0,
+          "estimated_hazard_arrival_turn": null,
+          "capacity": 1620,
+          "meeting_entry_capacity": 35,
+          "current_occupancy": 31,
+          "assigned_in_transit": 87,
+          "predicted_arrival_rate": 3.4748262393575353,
+          "remaining_capacity": 1506,
+          "congestion_near_area": 0.64,
+          "reserved": 114
+        }
+      }
+    },
+    "building_risk": {
+      "E20": "low",
+      "E10": "low",
+      "E19": "low",
+      "E16": "low",
+      "E15": "low",
+      "E60 - norte": "low",
+      "E8": "low",
+      "E6": "low",
+      "E4": "low",
+      "E57": "low",
+      "E3": "low",
+      "E1": "low",
+      "E11": "low",
+      "E2": "low",
+      "E5": "low",
+      "E59": "low",
+      "E9": "low",
+      "E41": "low",
+      "E14": "low",
+      "E18": "low",
+      "E17": "low",
+      "E21": "low",
+      "E13": "low",
+      "E12": "low",
+      "E7": "low",
+      "E53": "low",
+      "E23": "low",
+      "E22": "low",
+      "E32": "low",
+      "E29": "high",
+      "E29-B": "low",
+      "E24": "low",
+      "E29-A": "high",
+      "E37": "low",
+      "E40": "low",
+      "E28": "high",
+      "E30": "low",
+      "E58": "low",
+      "E33": "low",
+      "E61": "low",
+      "E31": "high",
+      "E25": "low",
+      "E34": "low",
+      "E55": "low",
+      "E26": "low",
+      "E27": "low",
+      "E36": "low",
+      "E51": "low",
+      "E49": "low",
+      "E56": "low",
+      "E45": "low",
+      "E35": "low",
+      "E38": "low",
+      "E39": "low",
+      "E60 - sureste": "low"
+    },
+    "exits": {
+      "blocked_exits": 2,
+      "alternative_exits_used": 238,
+      "alternative_exits_under_blockage": 0,
+      "distance_rebuilds": 1247,
+      "crossings": {
+        "secondary-E1-S": 24,
+        "E10-A1": 32,
+        "E11-A1": 30,
+        "functional-E4-S": 25,
+        "secondary-E4-W": 10,
+        "E41-A1": 32,
+        "E49-A1": 31,
+        "E51-A1": 31,
+        "functional-E57-S": 25,
+        "E59-A1": 31,
+        "E61-A1": 30,
+        "functional-E7-N": 32,
+        "functional-E18-E": 34,
+        "E27-A1": 31,
+        "E29-A-A1": 31,
+        "E30-A1": 30,
+        "secondary-E32-S": 19,
+        "E12-A1": 31,
+        "E37-A1": 33,
+        "E39-A1": 32,
+        "E13-A1": 34,
+        "E45-A1": 33,
+        "functional-E14-E": 19,
+        "functional-E6-S": 34,
+        "functional-E60 - sureste-S": 31,
+        "functional-E8-S": 33,
+        "secondary-E9-W": 10,
+        "E15-A1": 33,
+        "E16-A1": 34,
+        "E2-A1": 31,
+        "E20-A1": 34,
+        "E22-A1": 34,
+        "E24-A1": 32,
+        "E29-B-A1": 30,
+        "E3-A1": 29,
+        "functional-E31-N": 22,
+        "E1-A1": 12,
+        "E34-A1": 34,
+        "E35-A1": 33,
+        "E38-A1": 32,
+        "E53-A1": 31,
+        "E58-A1": 35,
+        "functional-E60 - norte-S": 31,
+        "functional-E28-W": 26,
+        "secondary-E33-N": 14,
+        "E36-A1": 33,
+        "E40-A1": 21,
+        "functional-E55-S": 34,
+        "E56-A1": 24,
+        "functional-E19-S": 34,
+        "E21-A1": 32,
+        "E23-A1": 31,
+        "secondary-E25-N": 12,
+        "secondary-E3-S": 8,
+        "secondary-E32-E": 13,
+        "E5-A1": 34,
+        "secondary-E56-E": 16,
+        "secondary-E26-E": 7,
+        "functional-E32-W": 10,
+        "E33-A1": 11,
+        "E9-A1": 26,
+        "E17-A1": 33,
+        "secondary-E25-E": 11,
+        "E25-A1": 22,
+        "secondary-E29-N": 15,
+        "E29-A1": 22,
+        "functional-E31-S": 17,
+        "secondary-E33-S": 14,
+        "secondary-E14-W": 19,
+        "secondary-E28-E": 13,
+        "secondary-E40-S": 14,
+        "E26-A1": 29,
+        "secondary-E56-N": 10,
+        "secondary-E29-S": 3,
+        "secondary-E40-N": 6
+      }
+    },
+    "wind_prediction": {
+      "turn": 241,
+      "u": 0.75,
+      "v": 0.0,
+      "direction": "E",
+      "speed": 0.75,
+      "method": "persistence",
+      "fallback_reason": "constant_history",
+      "data_source": "synthetic_simulation"
+    },
+    "evacuation_mode": "intelligent",
+    "evacuation_states": {
+      "WAITING_SAFE": 445,
+      "AT_MEETING_AREA": 1034,
+      "EVACUATING": 396,
+      "INCAPACITATED": 4
+    },
+    "unsafe_waiting_person_turns": 528,
+    "confirmed_forecast_departures": 31,
+    "wind_telemetry_records": 482
+  },
+  "fire_contact_traces": [],
+  "total_astar_searches": 1582,
+  "cache_hits": 4653,
+  "cache_misses": 1512,
+  "flow_field_usage": 4184,
+  "flow_rebuilds": 240,
+  "flow_array_bytes": 10966288
+}

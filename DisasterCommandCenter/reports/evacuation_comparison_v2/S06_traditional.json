@@ -1,0 +1,1456 @@
+{
+  "source_hash": "ba5ff7b59b1a9894ab52a01ca451a7fda2058bb5662b23bd759460981aeb4ccf",
+  "scenario": {
+    "scenario_id": "S06",
+    "building": "E53",
+    "seed": 2111,
+    "ignition": [
+      126,
+      120
+    ],
+    "wind_inputs": [
+      [
+        "NW",
+        0.5369967285491206
+      ],
+      [
+        "NW",
+        0.5394130558905754
+      ],
+      [
+        "NW",
+        0.5421706131823125
+      ],
+      [
+        "NW",
+        0.5452608916338489
+      ],
+      [
+        "NW",
+        0.5486743558016399
+      ],
+      [
+        "NW",
+        0.5524004730118904
+      ],
+      [
+        "NW",
+        0.5564277458604483
+      ],
+      [
+        "NW",
+        0.5607437476894926
+      ],
+      [
+        "NW",
+        0.565335160931553
+      ],
+      [
+        "NW",
+        0.5701878182025413
+      ],
+      [
+        "NW",
+        0.575286746017001
+      ],
+      [
+        "NW",
+        0.580616210990683
+      ],
+      [
+        "NW",
+        0.5861597683878846
+      ],
+      [
+        "NW",
+        0.591900312863755
+      ],
+      [
+        "NW",
+        0.5978201312449908
+      ],
+      [
+        "NW",
+        0.6039009571860646
+      ],
+      [
+        "NW",
+        0.610124027532336
+      ],
+      [
+        "NW",
+        0.6164701402161289
+      ],
+      [
+        "NW",
+        0.6229197135071315
+      ],
+      [
+        "NW",
+        0.629452846434292
+      ],
+      [
+        "NW",
+        0.6360493801927725
+      ],
+      [
+        "NW",
+        0.6426889603464812
+      ],
+      [
+        "NW",
+        0.6493510996342502
+      ],
+      [
+        "NW",
+        0.6560152411858607
+      ],
+      [
+        "NW",
+        0.662660821952857
+      ],
+      [
+        "NW",
+        0.6692673361584222
+      ],
+      [
+        "NW",
+        0.6758143985705379
+      ],
+      [
+        "NW",
+        0.6822818074031851
+      ],
+      [
+        "NW",
+        0.6886496066515011
+      ],
+      [
+        "NW",
+        0.6948981476685464
+      ],
+      [
+        "NW",
+        0.701008149793681
+      ],
+      [
+        "NW",
+        0.7069607598454722
+      ],
+      [
+        "NW",
+        0.7127376102955616
+      ],
+      [
+        "NW",
+        0.7183208759439875
+      ],
+      [
+        "NW",
+        0.7236933289210864
+      ],
+      [
+        "NW",
+        0.7288383918462547
+      ],
+      [
+        "NW",
+        0.7337401889795461
+      ],
+      [
+        "NW",
+        0.738383595208267
+      ],
+      [
+        "NW",
+        0.742754282717418
+      ],
+      [
+        "NW",
+        0.7468387651999718
+      ],
+      [
+        "N",
+        0.7506244394705734
+      ],
+      [
+        "N",
+        0.7540996243542568
+      ],
+      [
+        "N",
+        0.7572535967301809
+      ],
+      [
+        "N",
+        0.7600766246191716
+      ],
+      [
+        "N",
+        0.7625599972129686
+      ],
+      [
+        "N",
+        0.7646960517525229
+      ],
+      [
+        "N",
+        0.7664781971724042
+      ],
+      [
+        "N",
+        0.7679009344383648
+      ],
+      [
+        "N",
+        0.768959873515302
+      ],
+      [
+        "N",
+        0.769651746913265
+      ],
+      [
+        "N",
+        0.7699744197697066
+      ],
+      [
+        "N",
+        0.7699268964368706
+      ],
+      [
+        "N",
+        0.7695093235539885
+      ],
+      [
+        "N",
+        0.7687229895948058
+      ],
+      [
+        "N",
+        0.7675703208918335
+      ],
+      [
+        "N",
+        0.766054874149594
+      ],
+      [
+        "N",
+        0.7641813254699601
+      ],
+      [
+        "N",
+        0.7619554559234551
+      ],
+      [
+        "N",
+        0.7593841337110296
+      ],
+      [
+        "N",
+        0.7564752929713634
+      ],
+      [
+        "N",
+        0.7532379092990796
+      ],
+      [
+        "N",
+        0.7496819720494179
+      ],
+      [
+        "N",
+        0.7458184535148189
+      ],
+      [
+        "N",
+        0.7416592750685341
+      ],
+      [
+        "N",
+        0.7372172703797266
+      ],
+      [
+        "N",
+        0.7325061458135674
+      ],
+      [
+        "N",
+        0.7275404381385189
+      ],
+      [
+        "N",
+        0.7223354696713039
+      ],
+      [
+        "N",
+        0.7169073009979675
+      ],
+      [
+        "N",
+        0.711272681416914
+      ],
+      [
+        "N",
+        0.7054489972568369
+      ],
+      [
+        "N",
+        0.6994542182290108
+      ],
+      [
+        "N",
+        0.6933068419794836
+      ],
+      [
+        "N",
+        0.6870258370122577
+      ],
+      [
+        "N",
+        0.6806305841595819
+      ],
+      [
+        "N",
+        0.6741408167799516
+      ],
+      [
+        "N",
+        0.667576559868343
+      ],
+      [
+        "N",
+        0.6609580682665701
+      ],
+      [
+        "N",
+        0.6543057641644163
+      ],
+      [
+        "N",
+        0.6476401740843963
+      ],
+      [
+        "NE",
+        0.6409818655445829
+      ],
+      [
+        "NE",
+        0.6343513835949393
+      ],
+      [
+        "NE",
+        0.6277691874229784
+      ],
+      [
+        "NE",
+        0.6212555872243619
+      ],
+      [
+        "NE",
+        0.6148306815332333
+      ],
+      [
+        "NE",
+        0.6085142952056558
+      ],
+      [
+        "NE",
+        0.6023259182475248
+      ],
+      [
+        "NE",
+        0.5962846456756945
+      ],
+      [
+        "NE",
+        0.5904091185979017
+      ],
+      [
+        "NE",
+        0.5847174666932756
+      ],
+      [
+        "NE",
+        0.5792272522709306
+      ],
+      [
+        "NE",
+        0.5739554160792476
+      ],
+      [
+        "NE",
+        0.5689182250330604
+      ],
+      [
+        "NE",
+        0.5641312220200412
+      ],
+      [
+        "NE",
+        0.5596091779411605
+      ],
+      [
+        "NE",
+        0.5553660461332133
+      ],
+      [
+        "NE",
+        0.5514149193140374
+      ],
+      [
+        "NE",
+        0.5477679891832861
+      ],
+      [
+        "NE",
+        0.5444365088033997
+      ],
+      [
+        "NE",
+        0.5414307578768652
+      ],
+      [
+        "NE",
+        0.538760011026899
+      ],
+      [
+        "NE",
+        0.536432509179427
+      ],
+      [
+        "NE",
+        0.534455434134671
+      ],
+      [
+        "NE",
+        0.5328348864067979
+      ],
+      [
+        "NE",
+        0.5315758664000152
+      ],
+      [
+        "NE",
+        0.5306822589791933
+      ],
+      [
+        "NE",
+        0.530156821482626
+      ],
+      [
+        "NE",
+        0.5300011752139157
+      ],
+      [
+        "NE",
+        0.5302158004392359
+      ],
+      [
+        "NE",
+        0.5308000349054107
+      ],
+      [
+        "NE",
+        0.5317520758833799
+      ],
+      [
+        "NE",
+        0.5330689857307462
+      ],
+      [
+        "NE",
+        0.5347467009562418
+      ],
+      [
+        "NE",
+        0.5367800447581418
+      ],
+      [
+        "NE",
+        0.5391627429979393
+      ],
+      [
+        "NE",
+        0.5418874435599894
+      ],
+      [
+        "NE",
+        0.5449457390373886
+      ],
+      [
+        "NE",
+        0.5483281926740886
+      ],
+      [
+        "NE",
+        0.5520243674831957
+      ],
+      [
+        "NE",
+        0.5560228584516094
+      ],
+      [
+        "E",
+        0.5603113277316261
+      ],
+      [
+        "E",
+        0.5648765427109249
+      ],
+      [
+        "E",
+        0.5697044168434584
+      ],
+      [
+        "E",
+        0.5747800531152667
+      ],
+      [
+        "E",
+        0.5800877900110899
+      ],
+      [
+        "E",
+        0.5856112498399478
+      ],
+      [
+        "E",
+        0.5913333892705688
+      ],
+      [
+        "E",
+        0.5972365519207358
+      ],
+      [
+        "E",
+        0.6033025228382783
+      ],
+      [
+        "E",
+        0.6095125847056024
+      ],
+      [
+        "E",
+        0.6158475755943338
+      ],
+      [
+        "E",
+        0.6222879480918596
+      ],
+      [
+        "E",
+        0.6288138296173366
+      ],
+      [
+        "E",
+        0.6354050837410397
+      ],
+      [
+        "E",
+        0.642041372317856
+      ],
+      [
+        "E",
+        0.6487022182431925
+      ],
+      [
+        "E",
+        0.6553670686376635
+      ],
+      [
+        "E",
+        0.662015358265589
+      ],
+      [
+        "E",
+        0.6686265729916203
+      ],
+      [
+        "E",
+        0.6751803130796914
+      ],
+      [
+        "E",
+        0.681656356138972
+      ],
+      [
+        "E",
+        0.688034719522606
+      ],
+      [
+        "E",
+        0.6942957219866825
+      ],
+      [
+        "E",
+        0.7004200444191969
+      ],
+      [
+        "E",
+        0.7063887894516038
+      ],
+      [
+        "E",
+        0.7121835397690286
+      ],
+      [
+        "E",
+        0.7177864149392139
+      ],
+      [
+        "E",
+        0.7231801265848459
+      ],
+      [
+        "E",
+        0.7283480317290207
+      ],
+      [
+        "E",
+        0.7332741841492467
+      ],
+      [
+        "E",
+        0.737943383581524
+      ],
+      [
+        "E",
+        0.7423412226226733
+      ],
+      [
+        "E",
+        0.7464541311861945
+      ],
+      [
+        "E",
+        0.750269418374478
+      ],
+      [
+        "E",
+        0.7537753116381685
+      ],
+      [
+        "E",
+        0.7569609931018496
+      ],
+      [
+        "E",
+        0.7598166329439613
+      ],
+      [
+        "E",
+        0.762333419727953
+      ],
+      [
+        "E",
+        0.7645035875910811
+      ],
+      [
+        "E",
+        0.7663204402069572
+      ]
+    ],
+    "turns": 160,
+    "category": "normal_building"
+  },
+  "result": {
+    "metrics": {
+      "safe_meeting_arrivals": 926,
+      "people_ever_reached_meeting": 926,
+      "mean_turns_to_first_meeting": 81.04427645788337,
+      "median_turns_to_first_meeting": 80.0,
+      "worst_turns_to_first_meeting": 160,
+      "people_exposed_smoke": 183,
+      "accumulated_smoke_dose": 288.7573330913201,
+      "people_close_to_fire": 28,
+      "fire_contacts": 9,
+      "incapacitated": 89,
+      "routes_recalculated": 2773,
+      "preventive_reassignments": 0,
+      "maximum_congestion": 19,
+      "distance_traveled": 141083,
+      "people_in_cells_that_later_became_hazardous": 108,
+      "unsafe_waiting_person_turns": 2568,
+      "destination_became_unsafe_before_arrival": 0,
+      "confirmed_forecast_departures": 0,
+      "candidate_hazard_departures": 0,
+      "pending_candidate_departures": 0,
+      "expired_candidate_departures": 0,
+      "rejected_current_danger_departures": 0,
+      "temporary_goals": 0,
+      "temporal_routes_rejected": 0,
+      "unassigned": 227,
+      "state_counts": {
+        "WAITING_SAFE": 428,
+        "WAITING_UNSAFE": 11,
+        "EVACUATING": 425,
+        "REASSIGNING": 0,
+        "AT_MEETING_AREA": 926,
+        "INCAPACITATED": 89
+      },
+      "SafetyScore": 97.03803086818525,
+      "runtime_seconds": 92.88268039998366
+    },
+    "elapsed_seconds": 92.88268039998366,
+    "initialization_seconds": 1.0427100000088103,
+    "seconds_per_turn": 0.5739998149998428,
+    "physical_trajectory": [
+      "c92c111521823a7240a67ef321165b80e5c536a39b9e8cabc21f2f0424b26c4b",
+      "9431216e95db199072ef7885b16561c422514775db50a290a9f16a4f9e61a913",
+      "e90dfd65f0afad4f542cbb1fbe17e2e9299555e12a52d87a98ce568f050ed026",
+      "19e990e503d5350f955cfe48f62a564de3d22198efb5de20cb433822f2470c01",
+      "2007f4a521301a5648a0cb03771659acc2218b7d2f490ac76e483f451c90b634",
+      "aa10e4a3c1e15a8ba6a9ba583a6a8e0cf4e4289fe21ba4272ddaa6953725a0a6",
+      "6561e2b7d3bb867ebd14f8fff913724014e24157b545c3cfd4e4cbde1a483d8f",
+      "e6994f50d112cedd76ae247a3fce55b00f39ef3cf408bff9edcfeff1445a6c1d",
+      "73043226e0caaec441e4575def7e361532c841be1ef7a984a7eabec2e382f739",
+      "e0f7fc2da528965a720251485d421d00b0a6265c75cc178bf357e6d0f0d275b0",
+      "1e515f9c628cf02b64b154ddd16f3d2474c2322774d533403e3160989147709b",
+      "c45ba1b5ecc011520e02d9a6f85e93112ca128418790761adc9e0c3bb18cb5cd",
+      "939b8919c20f59d1828eaeec1628f14e9fead8f92b2ea013af72c34f10f59b3f",
+      "1b1ce1f9ef10b3698ea59eebbc17e625cc448751938753ca608ed4ecd0018bfd",
+      "40097322247479d3b18771defd7e71d716705f0fb6129ca5c3704cd86dd74872",
+      "40da45d6880597e7158cba7ace7c357639ce8521a6a2d39aa9bd974f4f131626",
+      "c96ff575a65bd23520f6c6727fd78a4922c5b261c180c629449829593f9a8eaa",
+      "d352f3dea7de324fd4e223cbe0d04c5caaab110fc771684b3f734c94670c031c",
+      "7007123a93b079db8b4dbd7cfafba355f85a65d3b69a6f0687b3e25998701954",
+      "472a828ad1974ef6b7b6665f224a4e621b8c5235c78c50deb0ecfc2bcdbc234a",
+      "fe8d576a79654de3f65ef7c842dd8fd649710305376095074a88edad01eeca05",
+      "99683ac1dcc2c6d81133366492be9b6fd46764de678df3fbc97150be2cdbc550",
+      "d7bfcbae4212b786c68f97bb18cf0e5ca667d256642328e8f3df4f7c29a94e9b",
+      "e22457c5d4cbe5bd564809c6117b3cc4cee1e2d4ecfbfb07eba5dfee1b682d35",
+      "e51a37701e8617a172f42d12bc74803a6b8eaabf16b974d0abd21c35cfb7ef72",
+      "5760b8d5b7f5699b2e76ec84bf7dfe493edf7df77e403a9f62370dfb36e5d232",
+      "5c584a98097c9cd3a7a97bedd3db01aeaabecaa87b8e5d8e6fe5e4c24e6dd7c8",
+      "6a4c3d538b3c235f51487801f0fb1cdf4964272ee6e3626becca75e5d4834a37",
+      "b48bbde8d426888011cde3734d46af905f8c2921c708f3aa1a3b86ce079c2c74",
+      "1954a40a1361b816096f5de6807d622f6217dcf0e16da0a6cc6e434c1c007806",
+      "6ae869fa30f931e1b3de878dc960ca83524f3a5ba39dcc18a1dc3408c182f44d",
+      "4f25e77476e18dda1eff87ed895b7ffcfd0c453e4275faca2bcc4d0b0f1a9825",
+      "9d9088f65856f3dbef159de2332cf233b75fd431c1d46dbcdacea0b49568f072",
+      "02bc13237ad4c0cd17d9721dca06e9e7d4df17a130247868b261ba450c2ba1fa",
+      "732845515f39f4895d94ae56a6cca7be6402c555367bf93ed7c472d24b9d0505",
+      "1b7891a6f53e56a23945c91a2fdd0e3b69c27b7962090fe6e400933e420c008f",
+      "af19cacc116cc2f731d889965ee4758cf2b4c3b1007953ba0d00aceefb280fe9",
+      "15bb92c674bbfd63a7e55c986b577f8fe3e1a274aa985cc13d19ecb56c6a3036",
+      "2b4b99fc87a28eed08f9a6a409411846d418f2b79d95c19cc9d0c0632ce0ff4b",
+      "fccab9cb5257112483bf9fd245c584613f2c4a6fb5c9be8da419172279df259e",
+      "7749498c7c98e1600fe70f3ef4ac1ae15a7a0ead3a268b1637cf32adac1169d4",
+      "fe0650fddb996b4a5382cd75fd6134f74a507a1f4316a9747961e3f84b11d0e7",
+      "87f68a2b4da319fadd1b360963716d5230308fdd3b5ecd73a11acfea0483d63a",
+      "e77512e41ecd6df6aa5f11dfc6bb8390a316d7ea371b60085d5ef5bf6c6742b0",
+      "e57f4765a5371e0ecc8fe3728427bc9848376ed877d6d9d3a243cde14877dafd",
+      "fc2d23cdceb8502336e75af791321c811839621e2b90aee6d7de5ca307a627ec",
+      "c7908cc14ad08d97546ad33eb8189e3ae19734d7a812bbd696d1a805789a4a49",
+      "7779230630daf81545a109855eee5f3028050212c6efcf72a295ca79a24b695c",
+      "1493d2225759e57273dad7fcf8ee4fc229634288b4c5cb2ec11859b7bcb844fe",
+      "f90165f9014103280997602606ef06b59b3e3bd108c749976eb46c113f5227be",
+      "f0ef5545d5c17290a1aa425fc733b9503475ec1d612e812235b155aa988b353a",
+      "518ca72f21883cb857a3d61da4591cd765d341a062bcfb5b90be075e40afbf4c",
+      "7d256adeaf58be38502c1facadf84ff50ec59a6dc01f2f8c50bbbd59546bae41",
+      "abcdad70ef2c2c5c7896a6fc9f59a48a9f620b7e09f3f8857e0f69cf9715bb33",
+      "c0d99e4876b89154c7e9d3e69a9640efe8f22d46d4b3358c65c5e1d95b85aec2",
+      "a981fcb8b11ef86dde6321d60f67ee11ff2c480b8e13b034f0b12b566684b710",
+      "56e795d5067c27027939e357270bd43fbb59b13f5184876749c8822711d75b10",
+      "2c1e736aee4efad0bf1660486a249a0178f46f683e77c6960d254afd38636b07",
+      "9a1a686dd5c1b9e65029e912f908fe59fcd9b869e95233d49fd48919062be377",
+      "fe6227a46e6ba7e194489112cbbad4abfe0c9d89bcda769047b94e2384a81e26",
+      "c2902f22ea6368e12e1076f80d729a06e7294172112a68d26e52942b070485c0",
+      "a137dbb1fdc41c2ada69d7d6e6daf0b5fbf08d1200fd657c237ad0a4a7dacdcf",
+      "96601a35eca4e54000110543db786f4ee6e92d129411302fd0a6ae8269dee0bb",
+      "ab60e83508c86141d4af6001e2305130800164be1946bfe1bc32b021d9e3fcda",
+      "0464f6bc527d14cb45019a2231dbae4dca034a9e838304a50bbeec2f56ba5ad8",
+      "cbbfea577f14b4d7787ead5e79d112299055146bbd6bc763c8758a059d1165cf",
+      "19673fa1700d4d8da8fbc0f6f8b029f173af71a19d805846f8f0d5c35998f010",
+      "0a7b8110fd6b36653e0b09903ef4e7cfa80776151754ebf00de1a5ece7517355",
+      "08e383ac77fa492a6522ccef5f6e92e13c3e01e35dd4f4bbbbf28f01d23e7a60",
+      "4111b1143b2828b59a08bb681787fac981df5bc7d7a9bc1355ce65c41dd08601",
+      "5674500b25b99719c736eb8248b98066b42724621d1f0dff59674941943a24f4",
+      "78175bfa62f7c19ef81857168093b1f36b42dfa861110a5246231b1fa1f3ed57",
+      "e9fb6019149bed5b978cdaad7300806ff4ab5b5239bb03d85b0864c5494625f7",
+      "265bb5379f1cf776c912c42fb618878e2039a66d52d62ec85d27057920af47f6",
+      "31ad0cb1fd84b9e374332d65a4284bc03e9ce18ab4711a7c6f2a9745bd409897",
+      "2592f1f5cac685c65cd98849d3a7f229955578c29e61166382e046f77e1683ba",
+      "07a315adb9b7c4f9b7f6b4dcad9420cab79f9deca831bb1e98fd44e57afd17ca",
+      "8f54ac04b17dc4db0a13cf9f65e1d50d8028af167ad92b48d1bafb0ff5c7ba13",
+      "087f806df0ca10191f017dd7d34f4fa3c1655846280777a266bcc4ee8f5ddcb2",
+      "c85870c262f2739d53ae08ec963718c1304a2ddb35fe787c7e2d04c3d7f5b2fb",
+      "a6f9f5add6b9ee424fa7c2dfb3a4b93123c3ce09922243841483edc13806aa76",
+      "91940dc364107170e27185807509565c94ffc2e1f076038d7a1003a605c16b84",
+      "393f6480a18d78d490f9d8d48966023f455b8a437460698d4d52ed56a39d71b6",
+      "c195743944acbf72568d9b117871ceab7c9002470bf20ba42e1053777254ade1",
+      "8fc644c8c71da6a2dba9f754e7293ecb3232a729cb38b158fdd228a7b380bbaf",
+      "52e8761f8fa5c83488b0d757073ea9484e9444916a7fefeb44d000e8b36c4d8a",
+      "bec0a1bcef7ccc65ecde5798ac042f51eebf34af93cf0de3e9890c30b16b4641",
+      "1694df092b9d4b857f717dc45ea879f56e1cf9d8bd487eebf6abc05eef7302a3",
+      "053b0c01e312daff5f405e4c96460a289d25c49c4b3654f58c825ca81970e465",
+      "eef8cdc7800b3c309ae512b8b3b9fea43c387772798c97e968c73e7d0ad3046a",
+      "15e112756eafe3bb93429a6201885cd0bc1167bf5e74627eebda19e1552c988f",
+      "0c785330e9d63b7e3c2c47f1eaac7187df59cf85ffd3f940a8488ad71b8cbc65",
+      "a3175fdc35e8359256ce324a252b45bf9e5d337e6299a3a841f30cb10c3a1ee6",
+      "f76e86044a9cc10da93062f629d7a7a92ba90d78178056107320874bad195d18",
+      "82d9ade8bf799e67a048a6a2af8be6a6c16aadae5adf5da4e7b6ff94b8756428",
+      "730c84af82e7529b2cae225d6a7a93fe65a2979c6feeae0a04d754a067e336c6",
+      "abbfb8de956d41e4b4d56442420bb6fc1542de8389a3ff6057c38705a41c2181",
+      "2f75f9863767be7b2f24abce24b9562f2e8aa2bdd6a25c167c06622fdce6cac7",
+      "2ffb648d7af4be54e34d9411864329bb7afcab79e996fe18c8e345fe41ed12b0",
+      "8199ecdb85b73c893dd8fe795f0cad2e4c5f46c8edb64c909172edc6c42121a9",
+      "bb7557a9ae6961a51a3b00ce2ece5669c1872255ee0f08d3972d85bf23822fb3",
+      "abd74699362eabf8787400241663ca5ba69ce2cf2f2dc843c1d0305ec17554b9",
+      "e87bd14f8c8d0cd443493d16f317b3f5d4d7f295235a49c88e2bb1d13981a7c0",
+      "91a1418de0b46fa83f21a58927eab97f22adb5b2e62d4d10a303595c292aac93",
+      "2c76eafad645e5ffdbfa93b47bf4ca8b650016c8ccc59a65de15301ea14454f8",
+      "5162ba81cae834c36a837b1fd5a37c3da08e4c0ca93ded5ef34932803618bdfc",
+      "31ffe71d75e9aefbbf91f90436e7290efb1d87468a6318ecc13c99a46ccfa1b0",
+      "717448f86531bb7f9918e1b2755dcd92dc097b086420ae933f9c80217967afba",
+      "027c5769fb14880712911f45448f07f3a223e8b22955cead80dc727dacfe4e19",
+      "1b359f92ac0bd1303984408d2610ca7c30888e078275778cdf44b4d0bd579b9a",
+      "d5cf67192cddaca7e42e688fe0c4edd59c68b5ca8f35d4e16c8c436acc3372c6",
+      "f97448fdc951abc5b8a3b6dd2581b9008a651e75c1352c0c438c0cd6f769e96c",
+      "f8af67e5a636caf1919460779b1d959c68d2681236f8508ef3dd318582c32a15",
+      "25e93e9ae469b857f0503224d93d198cd8b3baf1d0452a98fbc9acdd88b79e47",
+      "3135febfd49f07447103facd6e1c7ad73ece847c001e055d321ff4fe6031d37f",
+      "fd66586a456edf64e9de7d9a6e4b4f158a1a6e6941a14dd3906b43fd5658ff7e",
+      "816fef833a7420f5b2ed6b91370b1180ed88638759216e5094f7c154bc271575",
+      "b2dee1eed5c0ec5fbbae2ccb4245db840c3b6c30593385ea330c746032738386",
+      "fb345f803b177736f30c3b07583c49ef37d9d82309ea2a6d0aceb926f89eb8b2",
+      "f6e904165cad56240ec15abe8cb15e3e0c9921550d5327a6d1a2b5a53f585a9b",
+      "334163bf95d4bf2081ca12c4f39b7a60167e2967301b2eb4234e8596b4673ded",
+      "e23896ac240051f75a3244071162b81f9d4ffb52165291f6c7ca21cfebb7be05",
+      "32f1a1e812ab9a07227ad76ad7b81dc02113b75603f8a416656ff8f920068c31",
+      "fc793c61a97db071d6a28cf6a12c74e109b827d25ae21ccaa889cb08b65c89a8",
+      "d73170ea7c801c66c880268c649ea90d883cf0817d8f9ea0775204df5e1285f7",
+      "c1cad432d4017cba2684efac971cf54372444455816f7423f12d75708859b9f1",
+      "48d28c56870e76fbffa3222d149ea2b847c83bc226bc21dfb23d65f19b2a15b3",
+      "189aeba45dea39815cff3b4d9043a5e55da1fc614ae2fe9f261b2d8225219281",
+      "6345a1e16fb2d527efc533ccaa453373197df33abc08984e943f9eeee166197b",
+      "d13627aa5eaff9f64c474532fdff6a3df563d83644a0db340a651b433266df36",
+      "7c55e1bb7d075b876b4997afd59ba0f008bf6322be5db106f65f1e21cac48cb6",
+      "924dc73069a7dd981a1c3543eea6e8f1c88a795260484e105c9ddcb425580697",
+      "e7f8184a46d5c11d76c8bc649f7db81db00421edb9bc408a2039ca235b2ec30e",
+      "aad20ef311d04a463ac6f6ba78d7d54d897e12f2fc8093f0f55dd660b37b4a41",
+      "d27ae90c5814201be269c5a9206c9e1a2d54f4fc00d6686f8344dfa458702eb2",
+      "7dc0cdc694d78558a0fecaff425acfe368a9f6a8c05ae2eed0d7a2f72d268988",
+      "4e66e4dffa0bae0d7ff7dc5927582cd22f0c3b9e8a4a0bd9a54b87f438eed132",
+      "dafa61d5601b66cf067e69c3ebf7a6616dbe07f32f2ad4e91e87856003ca8db9",
+      "f4088ab665b1b9efe838c5724ca963d1cc7302727af86e760d1e56de30b89537",
+      "0418e1352f523b8b463bd2e26b5de6ced571b76182ff0e7dedff1274b98da740",
+      "e75c51d8cc80cddef08d4d5320d281bf2419fc608e4e36e7ca03fc0cb6e8e269",
+      "8a2a0d0e986baa4ea7288af534fa42af8058012bbdf5d5bdaab853ed3354f221",
+      "13be4af2d9a39a5af86fcec22125e655f1ebef0c7a5dc38b812c21700146c553",
+      "755b643d7af7df5ea6e08970d9357726f9c9bffd05316970c2b82a94bdcc6245",
+      "a65c4e51ebe3067b0dea61b2bf440d7454ecd90573eb6bc92ddaba035b413198",
+      "dcefbe3bf23407d9ec67b878b6d4f61865a8e42fc73d4a6c765b79719f1efd5b",
+      "294ff9423e219c0882f8e20ad6e43181cb62e2159e82f6171d6cb4e7068c3c52",
+      "8ab709946822c5e18d99a5c9e05d5d9d2867078c321efe55dcc0ed5d164c4b64",
+      "2feef1563752ea32a0f7fd979f7db429469c2325cc61dab7ed8ba20027d3abad",
+      "80c1a399dfc37abad807f1657438bb50bcea6105170fe65115e00a849c7d48b7",
+      "da91390a34aa9f0602c1a98b298074226b28bfed9186cc52d3e82ddfa45e4b95",
+      "c8c41037738ba4f0a15230a27cc33f20ec397d7ee63dc788f477b2593ce6b339",
+      "4ff0e3e725542a76df98dc840a4c6e7628f5737cf1dd7e71bca44ac3e95cb763",
+      "157fceea3b5e9126bde2dfebcb81e20b9b8ed56a2227d78b94f8f9494dcb1449",
+      "c6bbf44d151624554a5bbffbbade6564860da9daa616e41301150ca07966999f",
+      "f0abf227df596ed9cf5ea2434cf0a693f12c1f1fde6f36916f0300a2658c70c3",
+      "5f799892dfd02331390262828ff067d53f1e6341ee094d6d1a58e8650105ebd8",
+      "970c5c6333c13b783b5de24d6370ddd8556bbc4861f305a4e48c23fbab8086c2",
+      "062b106bd83fcddfbdc9d6607c240e40f154571475ce4f6a2e27725de6a17828",
+      "eb390e6aae4f3fc1cde36b03832d99e54b569419e013f7b48156db1b9378cbfe",
+      "5734d2a6fec91781f69621c3500acb3cc69e5324a72da56d7c94ecbf9ce08c25"
+    ],
+    "samples": [
+      {
+        "turn": 40,
+        "safe_meeting_arrivals": 161,
+        "people_ever_reached_meeting": 161,
+        "mean_turns_to_first_meeting": 25.58385093167702,
+        "median_turns_to_first_meeting": 27,
+        "worst_turns_to_first_meeting": 40,
+        "people_exposed_smoke": 16,
+        "accumulated_smoke_dose": 9.23182481436333,
+        "people_close_to_fire": 19,
+        "fire_contacts": 9,
+        "incapacitated": 10,
+        "routes_recalculated": 232,
+        "preventive_reassignments": 0,
+        "maximum_congestion": 16,
+        "distance_traveled": 45961,
+        "people_in_cells_that_later_became_hazardous": 33,
+        "unsafe_waiting_person_turns": 181,
+        "destination_became_unsafe_before_arrival": 0,
+        "confirmed_forecast_departures": 0,
+        "candidate_hazard_departures": 0,
+        "pending_candidate_departures": 0,
+        "expired_candidate_departures": 0,
+        "rejected_current_danger_departures": 0,
+        "temporary_goals": 0,
+        "temporal_routes_rejected": 0,
+        "unassigned": 98,
+        "state_counts": {
+          "WAITING_SAFE": 673,
+          "WAITING_UNSAFE": 0,
+          "EVACUATING": 1035,
+          "REASSIGNING": 0,
+          "AT_MEETING_AREA": 161,
+          "INCAPACITATED": 10
+        },
+        "SafetyScore": 99.59254635014457
+      },
+      {
+        "turn": 80,
+        "safe_meeting_arrivals": 464,
+        "people_ever_reached_meeting": 464,
+        "mean_turns_to_first_meeting": 48.10344827586207,
+        "median_turns_to_first_meeting": 50.0,
+        "worst_turns_to_first_meeting": 80,
+        "people_exposed_smoke": 86,
+        "accumulated_smoke_dose": 67.48762220157343,
+        "people_close_to_fire": 25,
+        "fire_contacts": 9,
+        "incapacitated": 21,
+        "routes_recalculated": 1199,
+        "preventive_reassignments": 0,
+        "maximum_congestion": 19,
+        "distance_traveled": 88236,
+        "people_in_cells_that_later_became_hazardous": 61,
+        "unsafe_waiting_person_turns": 627,
+        "destination_became_unsafe_before_arrival": 0,
+        "confirmed_forecast_departures": 0,
+        "candidate_hazard_departures": 0,
+        "pending_candidate_departures": 0,
+        "expired_candidate_departures": 0,
+        "rejected_current_danger_departures": 0,
+        "temporary_goals": 0,
+        "temporal_routes_rejected": 0,
+        "unassigned": 131,
+        "state_counts": {
+          "WAITING_SAFE": 381,
+          "WAITING_UNSAFE": 12,
+          "EVACUATING": 1001,
+          "REASSIGNING": 0,
+          "AT_MEETING_AREA": 464,
+          "INCAPACITATED": 21
+        },
+        "SafetyScore": 99.17163954075696
+      },
+      {
+        "turn": 120,
+        "safe_meeting_arrivals": 742,
+        "people_ever_reached_meeting": 742,
+        "mean_turns_to_first_meeting": 67.03369272237197,
+        "median_turns_to_first_meeting": 67.0,
+        "worst_turns_to_first_meeting": 120,
+        "people_exposed_smoke": 170,
+        "accumulated_smoke_dose": 230.98643598728606,
+        "people_close_to_fire": 28,
+        "fire_contacts": 9,
+        "incapacitated": 68,
+        "routes_recalculated": 2301,
+        "preventive_reassignments": 0,
+        "maximum_congestion": 19,
+        "distance_traveled": 120301,
+        "people_in_cells_that_later_became_hazardous": 108,
+        "unsafe_waiting_person_turns": 1770,
+        "destination_became_unsafe_before_arrival": 0,
+        "confirmed_forecast_departures": 0,
+        "candidate_hazard_departures": 0,
+        "pending_candidate_departures": 0,
+        "expired_candidate_departures": 0,
+        "rejected_current_danger_departures": 0,
+        "temporary_goals": 0,
+        "temporal_routes_rejected": 0,
+        "unassigned": 188,
+        "state_counts": {
+          "WAITING_SAFE": 391,
+          "WAITING_UNSAFE": 34,
+          "EVACUATING": 644,
+          "REASSIGNING": 0,
+          "AT_MEETING_AREA": 742,
+          "INCAPACITATED": 68
+        },
+        "SafetyScore": 97.6596987682405
+      },
+      {
+        "turn": 160,
+        "safe_meeting_arrivals": 926,
+        "people_ever_reached_meeting": 926,
+        "mean_turns_to_first_meeting": 81.04427645788337,
+        "median_turns_to_first_meeting": 80.0,
+        "worst_turns_to_first_meeting": 160,
+        "people_exposed_smoke": 183,
+        "accumulated_smoke_dose": 288.7573330913201,
+        "people_close_to_fire": 28,
+        "fire_contacts": 9,
+        "incapacitated": 89,
+        "routes_recalculated": 2773,
+        "preventive_reassignments": 0,
+        "maximum_congestion": 19,
+        "distance_traveled": 141083,
+        "people_in_cells_that_later_became_hazardous": 108,
+        "unsafe_waiting_person_turns": 2568,
+        "destination_became_unsafe_before_arrival": 0,
+        "confirmed_forecast_departures": 0,
+        "candidate_hazard_departures": 0,
+        "pending_candidate_departures": 0,
+        "expired_candidate_departures": 0,
+        "rejected_current_danger_departures": 0,
+        "temporary_goals": 0,
+        "temporal_routes_rejected": 0,
+        "unassigned": 227,
+        "state_counts": {
+          "WAITING_SAFE": 428,
+          "WAITING_UNSAFE": 11,
+          "EVACUATING": 425,
+          "REASSIGNING": 0,
+          "AT_MEETING_AREA": 926,
+          "INCAPACITATED": 89
+        },
+        "SafetyScore": 97.03803086818525
+      }
+    ],
+    "total_astar_searches": 220,
+    "cache_hits": 4929,
+    "cache_misses": 885,
+    "flow_field_usage": 4398,
+    "fire_contact_traces": [
+      {
+        "turn": 2,
+        "person_id": "P1442",
+        "point": [
+          126,
+          121
+        ],
+        "building": "E53",
+        "source_building": "E53",
+        "category": "fire_reached_occupied_cell_before_movement",
+        "prior_diagnostic": null,
+        "route": null
+      },
+      {
+        "turn": 8,
+        "person_id": "P1463",
+        "point": [
+          127,
+          119
+        ],
+        "building": "E53",
+        "source_building": "E53",
+        "category": "fire_reached_occupied_cell_before_movement",
+        "prior_diagnostic": null,
+        "route": null
+      },
+      {
+        "turn": 12,
+        "person_id": "P1461",
+        "point": [
+          127,
+          121
+        ],
+        "building": "E53",
+        "source_building": "E53",
+        "category": "fire_reached_occupied_cell_before_movement",
+        "prior_diagnostic": null,
+        "route": null
+      },
+      {
+        "turn": 15,
+        "person_id": "P1465",
+        "point": [
+          127,
+          116
+        ],
+        "building": "E53",
+        "source_building": "E53",
+        "category": "fire_reached_occupied_cell_before_movement",
+        "prior_diagnostic": null,
+        "route": null
+      },
+      {
+        "turn": 17,
+        "person_id": "P1453",
+        "point": [
+          128,
+          119
+        ],
+        "building": "E53",
+        "source_building": "E53",
+        "category": "fire_reached_occupied_cell_before_movement",
+        "prior_diagnostic": null,
+        "route": null
+      },
+      {
+        "turn": 20,
+        "person_id": "P1444",
+        "point": [
+          128,
+          120
+        ],
+        "building": "E53",
+        "source_building": "E53",
+        "category": "fire_reached_occupied_cell_before_movement",
+        "prior_diagnostic": null,
+        "route": null
+      },
+      {
+        "turn": 21,
+        "person_id": "P1457",
+        "point": [
+          129,
+          120
+        ],
+        "building": "E53",
+        "source_building": "E53",
+        "category": "fire_reached_occupied_cell_before_movement",
+        "prior_diagnostic": null,
+        "route": null
+      },
+      {
+        "turn": 21,
+        "person_id": "P1460",
+        "point": [
+          127,
+          120
+        ],
+        "building": "E53",
+        "source_building": "E53",
+        "category": "fire_reached_occupied_cell_before_movement",
+        "prior_diagnostic": null,
+        "route": null
+      },
+      {
+        "turn": 24,
+        "person_id": "P1468",
+        "point": [
+          130,
+          120
+        ],
+        "building": "E53",
+        "source_building": "E53",
+        "category": "fire_reached_occupied_cell_before_movement",
+        "prior_diagnostic": null,
+        "route": null
+      }
+    ],
+    "unassigned_reasons": {
+      "RETRY_COOLDOWN": 128,
+      "CONGESTION_BLOCKED": 20,
+      "INCAPACITATED": 79
+    },
+    "per_person_route_reasons": {
+      "P425": "CONGESTION_BLOCKED",
+      "P427": "CONGESTION_BLOCKED",
+      "P433": "CONGESTION_BLOCKED",
+      "P402": "RETRY_COOLDOWN",
+      "P1297": "RETRY_COOLDOWN",
+      "P1630": "RETRY_COOLDOWN",
+      "P407": "RETRY_COOLDOWN",
+      "P428": "RETRY_COOLDOWN",
+      "P1288": "RETRY_COOLDOWN",
+      "P1289": "RETRY_COOLDOWN",
+      "P1302": "RETRY_COOLDOWN",
+      "P341": "CONGESTION_BLOCKED",
+      "P409": "CONGESTION_BLOCKED",
+      "P411": "CONGESTION_BLOCKED",
+      "P417": "CONGESTION_BLOCKED",
+      "P431": "CONGESTION_BLOCKED",
+      "P1647": "RETRY_COOLDOWN",
+      "P422": "RETRY_COOLDOWN",
+      "P423": "RETRY_COOLDOWN",
+      "P410": "RETRY_COOLDOWN",
+      "P429": "RETRY_COOLDOWN",
+      "P1291": "RETRY_COOLDOWN",
+      "P340": "RETRY_COOLDOWN",
+      "P346": "RETRY_COOLDOWN",
+      "P351": "RETRY_COOLDOWN",
+      "P354": "RETRY_COOLDOWN",
+      "P357": "RETRY_COOLDOWN",
+      "P360": "RETRY_COOLDOWN",
+      "P361": "RETRY_COOLDOWN",
+      "P364": "RETRY_COOLDOWN",
+      "P368": "RETRY_COOLDOWN",
+      "P369": "RETRY_COOLDOWN",
+      "P426": "RETRY_COOLDOWN",
+      "P156": "INCAPACITATED",
+      "P269": "INCAPACITATED",
+      "P131": "INCAPACITATED",
+      "P275": "INCAPACITATED",
+      "P142": "INCAPACITATED",
+      "P273": "INCAPACITATED",
+      "P312": "INCAPACITATED",
+      "P148": "INCAPACITATED",
+      "P159": "INCAPACITATED",
+      "P272": "INCAPACITATED",
+      "P280": "INCAPACITATED",
+      "P283": "INCAPACITATED",
+      "P300": "INCAPACITATED",
+      "P1770": "RETRY_COOLDOWN",
+      "P728": "RETRY_COOLDOWN",
+      "P737": "RETRY_COOLDOWN",
+      "P750": "RETRY_COOLDOWN",
+      "P146": "INCAPACITATED",
+      "P514": "INCAPACITATED",
+      "P529": "INCAPACITATED",
+      "P136": "INCAPACITATED",
+      "P163": "INCAPACITATED",
+      "P1580": "CONGESTION_BLOCKED",
+      "P1570": "RETRY_COOLDOWN",
+      "P138": "INCAPACITATED",
+      "P137": "INCAPACITATED",
+      "P531": "INCAPACITATED",
+      "P139": "INCAPACITATED",
+      "P155": "INCAPACITATED",
+      "P291": "INCAPACITATED",
+      "P295": "INCAPACITATED",
+      "P298": "INCAPACITATED",
+      "P884": "RETRY_COOLDOWN",
+      "P915": "RETRY_COOLDOWN",
+      "P974": "RETRY_COOLDOWN",
+      "P109": "INCAPACITATED",
+      "P157": "INCAPACITATED",
+      "P289": "INCAPACITATED",
+      "P132": "INCAPACITATED",
+      "P173": "INCAPACITATED",
+      "P881": "RETRY_COOLDOWN",
+      "P890": "RETRY_COOLDOWN",
+      "P904": "RETRY_COOLDOWN",
+      "P733": "RETRY_COOLDOWN",
+      "P1761": "RETRY_COOLDOWN",
+      "P876": "RETRY_COOLDOWN",
+      "P886": "RETRY_COOLDOWN",
+      "P178": "INCAPACITATED",
+      "P342": "RETRY_COOLDOWN",
+      "P347": "RETRY_COOLDOWN",
+      "P358": "RETRY_COOLDOWN",
+      "P367": "RETRY_COOLDOWN",
+      "P144": "INCAPACITATED",
+      "P134": "INCAPACITATED",
+      "P119": "INCAPACITATED",
+      "P107": "INCAPACITATED",
+      "P198": "INCAPACITATED",
+      "P201": "RETRY_COOLDOWN",
+      "P183": "INCAPACITATED",
+      "P187": "INCAPACITATED",
+      "P200": "INCAPACITATED",
+      "P754": "RETRY_COOLDOWN",
+      "P888": "RETRY_COOLDOWN",
+      "P892": "RETRY_COOLDOWN",
+      "P897": "RETRY_COOLDOWN",
+      "P901": "RETRY_COOLDOWN",
+      "P964": "RETRY_COOLDOWN",
+      "P099": "RETRY_COOLDOWN",
+      "P101": "INCAPACITATED",
+      "P102": "INCAPACITATED",
+      "P103": "RETRY_COOLDOWN",
+      "P104": "RETRY_COOLDOWN",
+      "P105": "INCAPACITATED",
+      "P106": "RETRY_COOLDOWN",
+      "P110": "INCAPACITATED",
+      "P111": "INCAPACITATED",
+      "P112": "RETRY_COOLDOWN",
+      "P113": "INCAPACITATED",
+      "P114": "INCAPACITATED",
+      "P115": "INCAPACITATED",
+      "P116": "INCAPACITATED",
+      "P117": "RETRY_COOLDOWN",
+      "P118": "INCAPACITATED",
+      "P120": "RETRY_COOLDOWN",
+      "P121": "INCAPACITATED",
+      "P122": "INCAPACITATED",
+      "P123": "INCAPACITATED",
+      "P124": "INCAPACITATED",
+      "P125": "RETRY_COOLDOWN",
+      "P126": "RETRY_COOLDOWN",
+      "P100": "INCAPACITATED",
+      "P108": "INCAPACITATED",
+      "P127": "INCAPACITATED",
+      "P141": "INCAPACITATED",
+      "P147": "INCAPACITATED",
+      "P154": "INCAPACITATED",
+      "P158": "INCAPACITATED",
+      "P128": "RETRY_COOLDOWN",
+      "P129": "RETRY_COOLDOWN",
+      "P130": "INCAPACITATED",
+      "P133": "INCAPACITATED",
+      "P135": "INCAPACITATED",
+      "P140": "INCAPACITATED",
+      "P143": "INCAPACITATED",
+      "P145": "INCAPACITATED",
+      "P149": "INCAPACITATED",
+      "P150": "INCAPACITATED",
+      "P151": "INCAPACITATED",
+      "P152": "INCAPACITATED",
+      "P153": "INCAPACITATED",
+      "P160": "INCAPACITATED",
+      "P161": "INCAPACITATED",
+      "P162": "INCAPACITATED",
+      "P170": "INCAPACITATED",
+      "P174": "RETRY_COOLDOWN",
+      "P175": "INCAPACITATED",
+      "P176": "RETRY_COOLDOWN",
+      "P182": "RETRY_COOLDOWN",
+      "P184": "INCAPACITATED",
+      "P185": "RETRY_COOLDOWN",
+      "P192": "RETRY_COOLDOWN",
+      "P193": "RETRY_COOLDOWN",
+      "P194": "RETRY_COOLDOWN",
+      "P195": "INCAPACITATED",
+      "P197": "RETRY_COOLDOWN",
+      "P349": "RETRY_COOLDOWN",
+      "P1404": "RETRY_COOLDOWN",
+      "P1657": "RETRY_COOLDOWN",
+      "P1661": "RETRY_COOLDOWN",
+      "P1668": "RETRY_COOLDOWN",
+      "P1670": "RETRY_COOLDOWN",
+      "P1677": "RETRY_COOLDOWN",
+      "P1681": "RETRY_COOLDOWN",
+      "P1684": "RETRY_COOLDOWN",
+      "P1773": "RETRY_COOLDOWN",
+      "P016": "RETRY_COOLDOWN",
+      "P021": "RETRY_COOLDOWN",
+      "P025": "RETRY_COOLDOWN",
+      "P029": "CONGESTION_BLOCKED",
+      "P030": "CONGESTION_BLOCKED",
+      "P374": "CONGESTION_BLOCKED",
+      "P377": "CONGESTION_BLOCKED",
+      "P378": "CONGESTION_BLOCKED",
+      "P379": "CONGESTION_BLOCKED",
+      "P381": "CONGESTION_BLOCKED",
+      "P385": "CONGESTION_BLOCKED",
+      "P390": "CONGESTION_BLOCKED",
+      "P393": "CONGESTION_BLOCKED",
+      "P400": "CONGESTION_BLOCKED",
+      "P009": "RETRY_COOLDOWN",
+      "P010": "RETRY_COOLDOWN",
+      "P028": "RETRY_COOLDOWN",
+      "P001": "RETRY_COOLDOWN",
+      "P003": "RETRY_COOLDOWN",
+      "P026": "RETRY_COOLDOWN",
+      "P1376": "RETRY_COOLDOWN",
+      "P1381": "RETRY_COOLDOWN",
+      "P1392": "RETRY_COOLDOWN",
+      "P1653": "RETRY_COOLDOWN",
+      "P1655": "RETRY_COOLDOWN",
+      "P1658": "RETRY_COOLDOWN",
+      "P1660": "RETRY_COOLDOWN",
+      "P1664": "RETRY_COOLDOWN",
+      "P1669": "RETRY_COOLDOWN",
+      "P1671": "RETRY_COOLDOWN",
+      "P1672": "RETRY_COOLDOWN",
+      "P1673": "RETRY_COOLDOWN",
+      "P1674": "RETRY_COOLDOWN",
+      "P1676": "RETRY_COOLDOWN",
+      "P1680": "RETRY_COOLDOWN",
+      "P1686": "RETRY_COOLDOWN",
+      "P370": "RETRY_COOLDOWN",
+      "P1682": "RETRY_COOLDOWN",
+      "P1678": "RETRY_COOLDOWN",
+      "P1400": "RETRY_COOLDOWN",
+      "P1656": "RETRY_COOLDOWN",
+      "P1659": "RETRY_COOLDOWN",
+      "P1662": "RETRY_COOLDOWN",
+      "P1663": "RETRY_COOLDOWN",
+      "P1666": "RETRY_COOLDOWN",
+      "P1667": "RETRY_COOLDOWN",
+      "P1679": "RETRY_COOLDOWN",
+      "P1685": "RETRY_COOLDOWN",
+      "P337": "RETRY_COOLDOWN",
+      "P172": "RETRY_COOLDOWN",
+      "P177": "RETRY_COOLDOWN",
+      "P179": "RETRY_COOLDOWN",
+      "P181": "RETRY_COOLDOWN",
+      "P186": "RETRY_COOLDOWN",
+      "P188": "RETRY_COOLDOWN",
+      "P189": "RETRY_COOLDOWN",
+      "P191": "RETRY_COOLDOWN",
+      "P196": "RETRY_COOLDOWN",
+      "P199": "RETRY_COOLDOWN"
+    },
+    "hard_invalidations": {
+      "stationary_obstacle": 2581,
+      "current_danger": 391
+    },
+    "watchdog_events": [],
+    "soft_replans": 0,
+    "route_comparisons": [],
+    "escape_progress": [],
+    "meeting_load": {
+      "R1": {
+        "current_occupancy": 163,
+        "assigned_in_transit": 12,
+        "predicted_arrival_rate": 0.7259478071987241,
+        "remaining_capacity": 974,
+        "congestion_near_area": 2.2
+      },
+      "R2": {
+        "current_occupancy": 117,
+        "assigned_in_transit": 221,
+        "predicted_arrival_rate": 6.057200360546879,
+        "remaining_capacity": 1835,
+        "congestion_near_area": 1.24
+      },
+      "R3": {
+        "current_occupancy": 82,
+        "assigned_in_transit": 137,
+        "predicted_arrival_rate": 5.29429235172087,
+        "remaining_capacity": 1941,
+        "congestion_near_area": 1.44
+      },
+      "R4": {
+        "current_occupancy": 236,
+        "assigned_in_transit": 99,
+        "predicted_arrival_rate": 5.398901579938076,
+        "remaining_capacity": 1398,
+        "congestion_near_area": 2.92
+      },
+      "R5": {
+        "current_occupancy": 142,
+        "assigned_in_transit": 97,
+        "predicted_arrival_rate": 4.93414009318844,
+        "remaining_capacity": 738,
+        "congestion_near_area": 1.32
+      },
+      "R6": {
+        "current_occupancy": 119,
+        "assigned_in_transit": 3,
+        "predicted_arrival_rate": 0.3222222222222222,
+        "remaining_capacity": 1318,
+        "congestion_near_area": 0.6666666666666666
+      },
+      "R7": {
+        "current_occupancy": 85,
+        "assigned_in_transit": 15,
+        "predicted_arrival_rate": 0.581107874563677,
+        "remaining_capacity": 1769,
+        "congestion_near_area": 0.36
+      },
+      "R8": {
+        "current_occupancy": 22,
+        "assigned_in_transit": 112,
+        "predicted_arrival_rate": 2.750502622636178,
+        "remaining_capacity": 1490,
+        "congestion_near_area": 0.24
+      }
+    },
+    "meeting_states": {
+      "R1": "SAFE",
+      "R2": "SAFE",
+      "R3": "SAFE",
+      "R4": "SAFE",
+      "R5": "SAFE",
+      "R6": "SAFE",
+      "R7": "SAFE",
+      "R8": "SAFE"
+    },
+    "destination_changes": [],
+    "execution_provenance": {
+      "reason": "Traditional decision_policy is always None; IntelligentEvacuationPolicy.replan_reason is never called in this mode. The sole changed actor function is replan_reason. AST equality excluding that function and hashes of every other actor/data/executor input were verified.",
+      "execution_source_hash": "57e7b862b79f990b398ae0669c5cd12b6a6dbd8c0e80f43f5ee2fc510e25013d",
+      "evaluation_source_hash": "ba5ff7b59b1a9894ab52a01ca451a7fda2058bb5662b23bd759460981aeb4ccf",
+      "changed_actor_files": [
+        "src\\routing\\intelligent_policy.py"
+      ],
+      "ast_equal_excluding_uncalled_function": true,
+      "unchanged_executor_and_physics_digest": true
+    }
+  },
+  "execution_source_hash": "57e7b862b79f990b398ae0669c5cd12b6a6dbd8c0e80f43f5ee2fc510e25013d"
+}

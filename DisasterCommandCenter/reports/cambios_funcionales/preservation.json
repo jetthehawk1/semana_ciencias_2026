@@ -1,0 +1,42 @@
+{
+  "changed": [
+    "DisasterCommandCenter/INTEGRATION_FEEDBACK.md",
+    "DisasterCommandCenter/main.py",
+    "DisasterCommandCenter/README.md",
+    "DisasterCommandCenter/docs/ARCHITECTURE.md",
+    "DisasterCommandCenter/tests/test_consolidation.py",
+    "DisasterCommandCenter/src/dcc_app/mode_application.py",
+    "DisasterCommandCenter/src/integration/route_gateway.py",
+    "DisasterCommandCenter/src/simulation/hazard_impact.py",
+    "DisasterCommandCenter/src/simulation/indoor_evacuation.py"
+  ],
+  "created": [
+    "DisasterCommandCenter/FUNCTIONAL_CHANGES_FEEDBACK.md",
+    "DisasterCommandCenter/data/functional_scenario.json",
+    "DisasterCommandCenter/tests/test_functional_changes.py",
+    "DisasterCommandCenter/tools/build_functional_scenario.py",
+    "DisasterCommandCenter/src/dcc_app/functional_application.py",
+    "DisasterCommandCenter/src/dcc_app/functional_scene.py",
+    "DisasterCommandCenter/src/integration/refined_sensor_view.py",
+    "DisasterCommandCenter/src/routing/meeting_areas.py",
+    "DisasterCommandCenter/src/simulation/building_risk.py",
+    "DisasterCommandCenter/src/simulation/functional_scenario.py",
+    "DisasterCommandCenter/src/simulation/wind_history.py",
+    "DisasterCommandCenter/data/functional/building_entrances.json",
+    "DisasterCommandCenter/data/functional/building_properties.json",
+    "DisasterCommandCenter/data/functional/campus.json",
+    "DisasterCommandCenter/data/functional/population.json"
+  ],
+  "chagoya_unchanged": true,
+  "source_data_unchanged": true,
+  "persona2_unchanged": true,
+  "no_existing_files_missing": true,
+  "tests": {
+    "scripts": 37,
+    "passed_scripts": 37,
+    "failed_scripts": 0,
+    "skipped_scripts": 0,
+    "unit_tests": 159,
+    "skipped": 0
+  }
+}

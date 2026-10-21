@@ -1,0 +1,21 @@
+test_all_real_observations_prepare_without_target (__main__.InferenceTests.test_all_real_observations_prepare_without_target) ... ok
+test_bad_sensor_configuration_is_rejected (__main__.InferenceTests.test_bad_sensor_configuration_is_rejected) ... ok
+test_each_observable_field_is_required (__main__.InferenceTests.test_each_observable_field_is_required) ... ok
+test_invalid_batch_is_rejected_before_model_call (__main__.InferenceTests.test_invalid_batch_is_rejected_before_model_call) ... ok
+test_invalid_predictor_outputs_are_rejected (__main__.InferenceTests.test_invalid_predictor_outputs_are_rejected) ... ok
+test_invalid_types_ranges_and_nulls (__main__.InferenceTests.test_invalid_types_ranges_and_nulls) ... ok
+test_metadata_is_isolated_and_target_features_rejected (__main__.InferenceTests.test_metadata_is_isolated_and_target_features_rejected) ... ok
+test_model_id_and_predictions_are_reproducible (__main__.InferenceTests.test_model_id_and_predictions_are_reproducible) ... ok
+test_numeric_boundaries_and_exterior_null_are_valid (__main__.InferenceTests.test_numeric_boundaries_and_exterior_null_are_valid) ... ok
+test_predictions_are_versioned_and_json_serializable (__main__.InferenceTests.test_predictions_are_versioned_and_json_serializable) ... ok
+test_predictor_can_be_replaced_without_changing_observations (__main__.InferenceTests.test_predictor_can_be_replaced_without_changing_observations) ... ok
+test_predictor_receives_only_features (__main__.InferenceTests.test_predictor_receives_only_features) ... ok
+test_runtime_does_not_import_simulator_pygame_or_postgres (__main__.InferenceTests.test_runtime_does_not_import_simulator_pygame_or_postgres) ... ok
+test_target_and_unknown_fields_are_rejected (__main__.InferenceTests.test_target_and_unknown_fields_are_rejected) ... ok
+test_test_features_do_not_change_training_identity (__main__.InferenceTests.test_test_features_do_not_change_training_identity) ... ok
+test_training_uses_only_p24_training_rows (__main__.InferenceTests.test_training_uses_only_p24_training_rows) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 3.934s
+
+OK

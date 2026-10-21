@@ -1,0 +1,8 @@
+{
+  "risk_direct_arrays_bytes": 9216000,
+  "laboratory_arrays_bytes": 6336000,
+  "risk_arrays_total_bytes": 15552000,
+  "static_topology_bytes": 21026256,
+  "note": "Resident arrays/topology only; not total process RSS or peak temporary allocations.",
+  "state": "after_start_alarm"
+}

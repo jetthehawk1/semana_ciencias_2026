@@ -1,0 +1,7 @@
+=== PASO 15.2.3: PRUEBA DEL EJEMPLO DE RUTAS PARA PERSONA 3 ===
+[OK] Solicitud v1.0: E1 exterior, 160x100, identificadores y bloqueo de ejemplo.
+[OK] JSON de solicitud/respuesta generado y leido sin divergencias.
+[OK] Respuestas invalidas rechazadas; ruta valida conservada.
+[OK] Pausa, bloqueo dinamico, reanudacion y llegada SIN marcar a salvo.
+[OK] Integridad de src/ y data/: 90 archivos sin cambios.
+PASO 15.2.3: EJEMPLO COMPATIBLE APROBADO. PERSONA 3 NO CONECTADA TODAVIA.

@@ -1,0 +1,3 @@
+usage: run_tests.py [-h] [--pattern PATTERN] [--require-db]
+                    [--output-dir OUTPUT_DIR]
+run_tests.py: error: --require-db necesita psycopg y DCC_POSTGRES_BIN o DCC_TEST_DATABASE_URL.

@@ -1,0 +1,502 @@
+{
+  "schema_version": "1.0",
+  "description": "Escenario sintetico detallado; coordenadas de zonas en el grid fuente 160x100.",
+  "subdivision": 3,
+  "seed": 2026,
+  "population_min": 30,
+  "population_max": 50,
+  "laboratory_buildings": [
+    "E19",
+    "E16",
+    "E15",
+    "E8",
+    "E6",
+    "E7",
+    "E9",
+    "E45",
+    "E35",
+    "E36",
+    "E51"
+  ],
+  "laboratory_policy": {
+    "laboratory": true,
+    "flammable_materials": true,
+    "fire_alert_radius_source_cells": 6,
+    "evacuation_risk_level": "critical"
+  },
+  "normal_fire_alert_radius_source_cells": 2,
+  "meeting_smoke_threshold": 0.3,
+  "route_smoke_threshold": 0.65,
+  "max_routes_per_turn": 24,
+  "retry_after_turns": 8,
+  "wind": {
+    "direction": "E",
+    "speed": 0.75,
+    "speed_unit": "normalized_0_1",
+    "history_limit": 256
+  },
+  "ignition_source_cell": [
+    78,
+    55
+  ],
+  "entrance_orientations": {
+    "E19": [
+      "S"
+    ],
+    "E60 - norte": [
+      "S"
+    ],
+    "E60 - sureste": [
+      "S"
+    ],
+    "E8": [
+      "S"
+    ],
+    "E6": [
+      "S"
+    ],
+    "E4": [
+      "S"
+    ],
+    "E57": [
+      "S"
+    ],
+    "E7": [
+      "N"
+    ],
+    "E32": [
+      "W"
+    ],
+    "E55": [
+      "S"
+    ],
+    "E31": [
+      "N",
+      "S"
+    ],
+    "E28": [
+      "W"
+    ],
+    "E18": [
+      "E"
+    ],
+    "E14": [
+      "E"
+    ]
+  },
+  "vegetation_patches_source": [
+    {
+      "id": "V1",
+      "bounds": [
+        89,
+        12,
+        12,
+        9
+      ],
+      "description": "Espacio de suelo entre E9 y E5; conservar conexiones peatonales."
+    },
+    {
+      "id": "V2",
+      "bounds": [
+        44,
+        13,
+        9,
+        9
+      ],
+      "description": "Espacio entre E17 y E14."
+    },
+    {
+      "id": "V3",
+      "bounds": [
+        84,
+        53,
+        16,
+        8
+      ],
+      "description": "Suelo abierto al este de E28 y al norte de E31."
+    },
+    {
+      "id": "V4",
+      "bounds": [
+        101,
+        79,
+        5,
+        10
+      ],
+      "description": "Franja entre E51 y E35; sin convertir las reuniones."
+    }
+  ],
+  "exterior_fire_buffer_fine_cells": 1,
+  "meeting_areas": [
+    {
+      "id": "R1",
+      "anchor_building": "E3",
+      "side": "left",
+      "bounds_source": [
+        123,
+        11,
+        16,
+        8
+      ],
+      "enabled": true,
+      "description": "Suelo abierto al oeste de E3, debajo de E57."
+    },
+    {
+      "id": "R2",
+      "anchor_building": "E32",
+      "side": "left",
+      "bounds_source": [
+        85,
+        36,
+        16,
+        15
+      ],
+      "enabled": true,
+      "description": "Explanada de suelo al oeste de E32."
+    },
+    {
+      "id": "R3",
+      "anchor_building": "E51",
+      "side": "left",
+      "bounds_source": [
+        80,
+        74,
+        16,
+        15
+      ],
+      "enabled": true,
+      "description": "Area abierta al oeste de E51."
+    },
+    {
+      "id": "R4",
+      "anchor_building": "E28",
+      "side": "left",
+      "bounds_source": [
+        50,
+        52,
+        16,
+        12
+      ],
+      "enabled": true,
+      "description": "Explanada al oeste de E28; se excluye cualquier edificio."
+    },
+    {
+      "id": "R5",
+      "anchor_building": "E18",
+      "side": "left",
+      "bounds_source": [
+        22,
+        16,
+        9,
+        12
+      ],
+      "enabled": true,
+      "description": "Suelo entre E21/E59 y el lado oeste de E18."
+    },
+    {
+      "id": "R6",
+      "anchor_building": "E58",
+      "side": "left",
+      "bounds_source": [
+        19,
+        53,
+        16,
+        10
+      ],
+      "enabled": true,
+      "description": "Andador y suelo contiguo al oeste de E58; aproximacion sin semantica de estacionamiento en el plano."
+    },
+    {
+      "id": "R7",
+      "anchor_building": "E32",
+      "side": "right",
+      "bounds_source": [
+        117,
+        36,
+        16,
+        13
+      ],
+      "enabled": true,
+      "description": "Area abierta al este de E32, antes de E37."
+    },
+    {
+      "id": "R8",
+      "anchor_building": "E40",
+      "side": "right",
+      "bounds_source": [
+        147,
+        55,
+        12,
+        15
+      ],
+      "enabled": true,
+      "description": "Franja de suelo al este de E40; se evita el cesped del borde."
+    }
+  ],
+  "fire_behavior": {
+    "base_spread_rate": 0.075,
+    "vegetation_multiplier": 0.8,
+    "laboratory_multiplier": 1.6,
+    "wind_multiplier": 0.6,
+    "burn_durations": {
+      "building": 18,
+      "grass": 14
+    },
+    "spotting_enabled": true,
+    "spotting_probability": 0.004,
+    "spotting_min_wind": 0.4,
+    "spotting_min_distance": 3,
+    "spotting_max_distance": 12,
+    "spotting_max_per_turn": 2,
+    "spotting_min_alignment": 0.75
+  },
+  "smoke_behavior": {
+    "emission_rate": 0.62,
+    "diffusion_rate": 0.3,
+    "decay_rate": 0.008,
+    "max_concentration": 1.0,
+    "epsilon": 0.0001,
+    "advection_rate": 0.75
+  },
+  "vegetation_distribution": {
+    "enabled": true,
+    "patch_scale_source_cells": 3,
+    "eligible_tile_fraction": 0.65
+  },
+  "multiple_exit_policy": {
+    "large_percentile": 0.75,
+    "very_large_percentile": 0.9,
+    "large_min_exits": 2,
+    "very_large_min_exits": 3
+  },
+  "wind_telemetry": {
+    "sensor_ids": [
+      "S-EXT-01",
+      "S-EXT-02"
+    ],
+    "coordinate_grid": "native_refined"
+  },
+  "wind_prediction": {
+    "enabled": true,
+    "lag_count": 4,
+    "minimum_training_samples": 100,
+    "model_type": "ridge",
+    "ridge_alpha": 1.0,
+    "model_path": "data/wind_prediction/model.json",
+    "constant_tolerance": 1e-08
+  },
+  "risk_routing": {
+    "fire_radius": 18,
+    "fire_proximity_weight": 20.0,
+    "current_smoke_weight": 8.0,
+    "vegetation_radius": 6,
+    "burning_vegetation_weight": 10.0,
+    "laboratory_radius": 9,
+    "laboratory_proximity_weight": 6.0,
+    "predicted_smoke_weight": 24.0,
+    "plume_length": 30,
+    "plume_stride": 3,
+    "plume_initial_width": 1.0,
+    "plume_lateral_growth": 0.2,
+    "plume_source_smoke_threshold": 0.05,
+    "minimum_plume_speed": 0.05,
+    "current_wind_fraction": 0.4,
+    "prediction_wind_change_threshold": 0.2,
+    "route_risk_threshold": 0.65,
+    "route_risk_increase": 0.15,
+    "replan_cooldown": 8,
+    "route_lookahead": 18,
+    "exit_risk_weight": 2.0,
+    "exit_risk_quantization": 2.0
+  },
+  "meeting_area_policy": {
+    "caution_threshold": 0.18,
+    "avoid_threshold": 0.5,
+    "hysteresis": 0.08,
+    "recovery_turns": 6,
+    "reassignment_cooldown": 12,
+    "minimum_risk_improvement": 0.15,
+    "resident_reassign_threshold": 0.65,
+    "near_goal_distance": 3,
+    "distance_weight": 1.0,
+    "fire_weight": 1.0,
+    "vegetation_weight": 0.5,
+    "laboratory_weight": 0.3,
+    "current_smoke_weight": 1.0,
+    "predicted_risk_weight": 1.2,
+    "destination_risk_weight": 100.0,
+    "capacity_weight": 12.0
+  },
+  "simulation_playback": {
+    "base_turn_interval_seconds": 0.4,
+    "speed_multiplier": 1.75,
+    "minimum_speed_multiplier": 0.25,
+    "maximum_speed_multiplier": 4.0,
+    "max_turns_per_frame": 2
+  },
+  "hazard_arrival": {
+    "source_smoke_threshold": 0.05,
+    "danger_smoke_threshold": 0.3,
+    "minimum_drift": 0.08,
+    "lateral_cells_per_turn": 0.22,
+    "upwind_cells_per_turn": 0.12,
+    "accumulation_turns": 8.0,
+    "maximum_source_distance": 45,
+    "horizon_turns": 60,
+    "fire_clearance_cells": 1,
+    "spotting_plume_threshold": 0.45,
+    "spotting_precaution_turns": 24,
+    "routing_weight": 32.0
+  },
+  "intelligent_evacuation": {
+    "default_mode": "intelligent",
+    "hazard_eta_enabled": true,
+    "safety_buffer_turns": 8,
+    "unsafe_wait_margin_turns": 12,
+    "critical_priority": 300,
+    "urgent_priority": 180,
+    "current_danger_priority": 400,
+    "starvation_weight": 5.0,
+    "exposure_weight": 20.0,
+    "door_queue_turns": 4,
+    "maximum_congestion_delay": 8,
+    "congestion_delay_per_unit": 0.2,
+    "horizon_turns": 60,
+    "maximum_destination_attempts": 3,
+    "escape_max_visited": 180,
+    "escape_radius": 12,
+    "escape_eta_weight": 2.0,
+    "escape_minimum_improvement": 4.0,
+    "event_cooldown_turns": 8,
+    "minimum_meeting_stay_turns": 12,
+    "prefer_local_escape_on_negative_margin": true
+  },
+  "route_safety": {
+    "sample_stride": 3,
+    "unsafe_margin_turns": -2,
+    "marginal_margin_turns": 8,
+    "escape_grace_steps": 5,
+    "maximum_delay_turns": 6,
+    "delay_per_sample": 0.02
+  },
+  "meeting_assignment": {
+    "predicted_arrival_weight": 3.0,
+    "preferred_margin_turns": 15,
+    "future_capacity_weight": 30.0,
+    "arrival_flow_weight": 1.5,
+    "entry_load_weight": 12,
+    "arrival_rate_weight": 10,
+    "near_congestion_weight": 0.1,
+    "frontier_penalty": 18
+  },
+  "route_scheduling": {
+    "emergency_route_budget": 40,
+    "burst_pending_threshold": 48,
+    "queue_age_weight": 4.0,
+    "maximum_escapes_per_turn": 8,
+    "unsafe_retry_turns": 2,
+    "congestion_replan_turns": 32,
+    "normal_budget": 24,
+    "critical_budget": 16,
+    "fairness_reserved_slots": 2,
+    "fairness_wait_turns": 24
+  },
+  "comparison": {
+    "traditional_mode_enabled": true,
+    "scenario_count": 10,
+    "turns": 160,
+    "seed": 2026
+  },
+  "fire_safety": {
+    "imminent_margin_turns": 3,
+    "route_margin_turns": 3,
+    "clearance_cells": 1,
+    "watchdog_predicted_threshold": 0.85,
+    "watchdog_smoke_threshold": 0.65,
+    "imminent_priority": 1200
+  },
+  "personal_safety": {
+    "predicted_dose_fraction": 0.12,
+    "minimum_dose_rate": 0.0001,
+    "critical_dose_eta": 12,
+    "urgent_dose_eta": 24,
+    "critical_dose_priority": 600,
+    "urgent_dose_priority": 280,
+    "dose_limit": 2.75
+  },
+  "route_stability": {
+    "soft_cooldown_turns": 24,
+    "minimum_route_improvement": 0.2,
+    "minimum_risk_improvement": 0.15,
+    "soft_margin_hysteresis": 6,
+    "hard_lookahead_steps": 6
+  },
+  "escape_policy": {
+    "history_length": 6,
+    "recent_goal_turns": 32,
+    "cooldown_turns": 6,
+    "minimum_distance": 3,
+    "connectivity_weight": 2,
+    "upwind_weight": 3,
+    "predicted_smoke_weight": 15,
+    "congestion_weight": 0.5,
+    "minimum_eta_gain": 2,
+    "minimum_risk_gain": 3
+  },
+  "routing_optimization": {
+    "flow_fields_enabled": true,
+    "maximum_flow_fields_per_turn": 8,
+    "exact_snapshot_cache": true
+  },
+  "safety_score": {
+    "description": "Fixed before phase-six comparison; pedagogical only. Incapacity and fire dominate; same formula in both modes. Fractions normalized by population (waiting also by turns).",
+    "reference_dose": 2.75,
+    "weights": {
+      "incapacitated": 40,
+      "fire_contacts": 30,
+      "accumulated_smoke_dose": 15,
+      "unsafe_waiting_person_turns": 10,
+      "destination_became_unsafe_before_arrival": 5
+    }
+  },
+  "performance_validation": {
+    "target_seconds_per_turn": 0.8,
+    "comparable_turns": 240,
+    "fifth_phase_historical_seconds_per_turn": 1.2467567954167558
+  },
+  "interior_prediction": {
+    "enabled": true,
+    "horizon_turns": 3,
+    "frontier_probability": 0.025,
+    "building_alert_distance": 22,
+    "frontier_priority": 2400,
+    "single_exit_threat_priority": 450,
+    "two_exit_threat_priority": 120,
+    "probability_cost": 160,
+    "fire_distance_weight": 3,
+    "smoke_weight": 30,
+    "predicted_smoke_weight": 12,
+    "refuge_minimum_gain": 2,
+    "refuge_degree_minimum": 2,
+    "refuge_candidate_fraction": 0.25,
+    "refuge_cells_per_mobile": 1
+  },
+  "presentation": {
+    "fire_level_cells": [
+      20,
+      100
+    ],
+    "smoke_level_cells": [
+      150,
+      1000
+    ],
+    "smoke_count_threshold": 0.05,
+    "wind_speed_thresholds": [
+      0.33,
+      0.66
+    ],
+    "message_lifetime_seconds": 3.5,
+    "maximum_messages": 3,
+    "episode_summary_turn": 240
+  }
+}

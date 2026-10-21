@@ -1,0 +1,44 @@
+{
+  "fresh_venv": true,
+  "standalone_application_copy": true,
+  "chagoya_present": false,
+  "postgres_driver_installed": false,
+  "steps": [
+    {
+      "step": "install",
+      "exit_code": 0,
+      "expected_exit_code": 0
+    },
+    {
+      "step": "pip_check",
+      "exit_code": 0,
+      "expected_exit_code": 0
+    },
+    {
+      "step": "imports_without_postgres",
+      "exit_code": 0,
+      "expected_exit_code": 0
+    },
+    {
+      "step": "main_smoke",
+      "exit_code": 0,
+      "expected_exit_code": 0
+    },
+    {
+      "step": "persona2_demo",
+      "exit_code": 0,
+      "expected_exit_code": 0
+    },
+    {
+      "step": "optional_db_skips",
+      "exit_code": 0,
+      "expected_exit_code": 0
+    },
+    {
+      "step": "required_db_missing",
+      "exit_code": 2,
+      "expected_exit_code": 2
+    }
+  ],
+  "passed": true
+}

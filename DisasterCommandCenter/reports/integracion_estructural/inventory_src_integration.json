@@ -1,0 +1,27 @@
+[
+  {
+    "file": "src/integration/persona2_contract_15_1.py",
+    "classes": [],
+    "tests": 0
+  },
+  {
+    "file": "src/integration/persona2_gateway.py",
+    "classes": [
+      "PredictionProvider",
+      "SensorPredictionAdapter"
+    ],
+    "tests": 0
+  },
+  {
+    "file": "src/integration/route_gateway.py",
+    "classes": [
+      "ExternalRouteFollower"
+    ],
+    "tests": 0
+  },
+  {
+    "file": "src/integration/sensor_export.py",
+    "classes": [],
+    "tests": 0
+  }
+]

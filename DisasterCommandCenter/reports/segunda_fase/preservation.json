@@ -1,0 +1,34 @@
+{
+  "changed": [
+    "DisasterCommandCenter/FUNCTIONAL_CHANGES_FEEDBACK.md",
+    "DisasterCommandCenter/README.md",
+    "DisasterCommandCenter/data/functional_scenario.json",
+    "DisasterCommandCenter/tests/test_functional_changes.py",
+    "DisasterCommandCenter/tools/build_functional_scenario.py",
+    "DisasterCommandCenter/src/dcc_app/functional_application.py",
+    "DisasterCommandCenter/src/dcc_app/functional_scene.py",
+    "DisasterCommandCenter/src/dcc_app/mode_application.py",
+    "DisasterCommandCenter/src/dcc_app/viewport.py",
+    "DisasterCommandCenter/src/routing/meeting_areas.py",
+    "DisasterCommandCenter/src/simulation/functional_scenario.py",
+    "DisasterCommandCenter/data/functional/building_entrances.json",
+    "DisasterCommandCenter/data/functional/campus.json"
+  ],
+  "created": [
+    "DisasterCommandCenter/SECOND_FUNCTIONAL_CHANGES_FEEDBACK.md",
+    "DisasterCommandCenter/tests/test_second_functional_changes.py",
+    "DisasterCommandCenter/tools/functional_geometry.py",
+    "DisasterCommandCenter/src/simulation/exterior_risk.py",
+    "DisasterCommandCenter/data/functional/vegetation.json"
+  ],
+  "no_previous_files_missing": true,
+  "protected_components_unchanged": true,
+  "tests": {
+    "scripts": 38,
+    "passed_scripts": 38,
+    "failed_scripts": 0,
+    "skipped_scripts": 0,
+    "unit_tests": 190,
+    "skipped": 0
+  }
+}

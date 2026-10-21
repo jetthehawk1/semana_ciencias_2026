@@ -1,0 +1,42 @@
+{
+  "source_hash": "417124e87c5ae4c8aeecea0f797c56b8e8567da477b0a6f333c024b44a736205",
+  "files": {
+    "src/integration/persona2_contract_15_1.py": true,
+    "src/integration/sensor_export.py": true,
+    "src/persona2/baseline.py": true,
+    "src/persona2/dataset.py": true,
+    "src/persona2/eda.py": true,
+    "src/persona2/inference.py": true,
+    "src/persona2/ingestion.py": true,
+    "src/persona2/model_comparison.py": true,
+    "src/persona2/observations.py": true,
+    "src/persona2/postgres_repository.py": true,
+    "src/persona2/__init__.py": true,
+    "src/routing/congestion.py": true,
+    "src/routing/graph.py": true,
+    "src/routing/weighted_astar.py": true,
+    "src/simulation/fire_simulation.py": true,
+    "src/simulation/safety_score.py": true,
+    "src/simulation/scenario_fire.py": true,
+    "src/simulation/smoke_simulation.py": true,
+    "src/simulation/wind_simulation.py": true,
+    "src/wind_prediction/dataset.py": true,
+    "src/wind_prediction/model.py": true,
+    "src/wind_prediction/synthetic.py": true,
+    "src/wind_prediction/__init__.py": true,
+    "data/functional/building_entrances.json": true,
+    "data/functional/building_properties.json": true,
+    "data/functional/campus.json": true,
+    "data/functional/population.json": true,
+    "data/functional/vegetation.json": true,
+    "data/wind_prediction/evaluation.json": true,
+    "data/wind_prediction/model.json": true,
+    "data/wind_prediction/sequences.json": true
+  },
+  "preserved_hazard_impact_classes_ast": {
+    "Exposure": true,
+    "ExposureTracker": true,
+    "FireEvacuationControlCenter": true
+  },
+  "intentional_change": "HazardEvacuationController extracts shared move helper and no-op default completion hook"
+}

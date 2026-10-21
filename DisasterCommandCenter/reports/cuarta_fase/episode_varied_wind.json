@@ -1,0 +1,4765 @@
+{
+  "seed": 2026,
+  "mode": "optimizado",
+  "ignition": [
+    235,
+    166
+  ],
+  "wind": {
+    "direction": "E",
+    "speed": 0.75,
+    "speed_unit": "normalized_0_1",
+    "history_limit": 256
+  },
+  "turns": 120,
+  "samples": [
+    {
+      "turn": 0,
+      "fire_cells": 1,
+      "smoke_cells_ge_005": 0,
+      "outside_students": 0,
+      "gathered_students": 0,
+      "routes_calculated": 0,
+      "routes_recalculated": 0,
+      "secondary_foci": 0,
+      "buildings_reached": [
+        "E30"
+      ],
+      "blocked_exits": 0,
+      "alternative_exits_used": 0,
+      "alternative_exits_under_blockage": 0,
+      "incapacitated_students": 0,
+      "available_meeting_areas": 8,
+      "wind_direction": "E",
+      "wind_speed": 0.75,
+      "predicted_wind": {
+        "turn": 1,
+        "u": 0.75,
+        "v": 0.0,
+        "direction": "E",
+        "speed": 0.75,
+        "method": "persistence",
+        "fallback_reason": "insufficient_history",
+        "data_source": "synthetic_simulation"
+      },
+      "meeting_states": {
+        "R1": "SAFE",
+        "R2": "SAFE",
+        "R3": "SAFE",
+        "R4": "SAFE",
+        "R5": "SAFE",
+        "R6": "SAFE",
+        "R7": "SAFE",
+        "R8": "SAFE"
+      },
+      "preventive_reassignments": 0,
+      "predictive_route_invalidations": 0,
+      "destination_changes": 0
+    },
+    {
+      "turn": 20,
+      "fire_cells": 11,
+      "smoke_cells_ge_005": 55,
+      "outside_students": 596,
+      "gathered_students": 17,
+      "routes_calculated": 454,
+      "routes_recalculated": 8,
+      "secondary_foci": 0,
+      "buildings_reached": [
+        "E30"
+      ],
+      "blocked_exits": 0,
+      "alternative_exits_used": 97,
+      "alternative_exits_under_blockage": 0,
+      "incapacitated_students": 1,
+      "available_meeting_areas": 8,
+      "wind_direction": "E",
+      "wind_speed": 0.7993111936627648,
+      "predicted_wind": {
+        "turn": 21,
+        "u": 0.7816271683092726,
+        "v": 0.008980253283692704,
+        "direction": "E",
+        "speed": 0.7816787544690026,
+        "method": "ridge",
+        "fallback_reason": null,
+        "data_source": "synthetic_simulation"
+      },
+      "meeting_states": {
+        "R1": "SAFE",
+        "R2": "SAFE",
+        "R3": "SAFE",
+        "R4": "SAFE",
+        "R5": "SAFE",
+        "R6": "SAFE",
+        "R7": "SAFE",
+        "R8": "SAFE"
+      },
+      "preventive_reassignments": 0,
+      "predictive_route_invalidations": 5,
+      "destination_changes": 0
+    },
+    {
+      "turn": 40,
+      "fire_cells": 36,
+      "smoke_cells_ge_005": 269,
+      "outside_students": 942,
+      "gathered_students": 46,
+      "routes_calculated": 934,
+      "routes_recalculated": 99,
+      "secondary_foci": 0,
+      "buildings_reached": [
+        "E30"
+      ],
+      "blocked_exits": 0,
+      "alternative_exits_used": 141,
+      "alternative_exits_under_blockage": 0,
+      "incapacitated_students": 4,
+      "available_meeting_areas": 8,
+      "wind_direction": "SE",
+      "wind_speed": 0.6214148055686772,
+      "predicted_wind": {
+        "turn": 41,
+        "u": 0.4229242379330501,
+        "v": 0.43275550419915526,
+        "direction": "SE",
+        "speed": 0.6050968826939338,
+        "method": "ridge",
+        "fallback_reason": null,
+        "data_source": "synthetic_simulation"
+      },
+      "meeting_states": {
+        "R1": "SAFE",
+        "R2": "SAFE",
+        "R3": "SAFE",
+        "R4": "SAFE",
+        "R5": "SAFE",
+        "R6": "SAFE",
+        "R7": "SAFE",
+        "R8": "SAFE"
+      },
+      "preventive_reassignments": 0,
+      "predictive_route_invalidations": 5,
+      "destination_changes": 0
+    },
+    {
+      "turn": 60,
+      "fire_cells": 85,
+      "smoke_cells_ge_005": 531,
+      "outside_students": 1128,
+      "gathered_students": 83,
+      "routes_calculated": 1414,
+      "routes_recalculated": 379,
+      "secondary_foci": 3,
+      "buildings_reached": [
+        "E28",
+        "E29",
+        "E30",
+        "E61"
+      ],
+      "blocked_exits": 3,
+      "alternative_exits_used": 150,
+      "alternative_exits_under_blockage": 0,
+      "incapacitated_students": 4,
+      "available_meeting_areas": 8,
+      "wind_direction": "S",
+      "wind_speed": 0.5061613588005293,
+      "predicted_wind": {
+        "turn": 61,
+        "u": -0.0070090466219163705,
+        "v": 0.49325948919142376,
+        "direction": "S",
+        "speed": 0.49330928474125896,
+        "method": "ridge",
+        "fallback_reason": null,
+        "data_source": "synthetic_simulation"
+      },
+      "meeting_states": {
+        "R1": "SAFE",
+        "R2": "SAFE",
+        "R3": "SAFE",
+        "R4": "SAFE",
+        "R5": "SAFE",
+        "R6": "SAFE",
+        "R7": "SAFE",
+        "R8": "SAFE"
+      },
+      "preventive_reassignments": 0,
+      "predictive_route_invalidations": 9,
+      "destination_changes": 0
+    },
+    {
+      "turn": 80,
+      "fire_cells": 123,
+      "smoke_cells_ge_005": 951,
+      "outside_students": 1193,
+      "gathered_students": 151,
+      "routes_calculated": 1894,
+      "routes_recalculated": 782,
+      "secondary_foci": 7,
+      "buildings_reached": [
+        "E28",
+        "E29",
+        "E30",
+        "E61"
+      ],
+      "blocked_exits": 1,
+      "alternative_exits_used": 158,
+      "alternative_exits_under_blockage": 0,
+      "incapacitated_students": 4,
+      "available_meeting_areas": 8,
+      "wind_direction": "SW",
+      "wind_speed": 0.7061226845856831,
+      "predicted_wind": {
+        "turn": 81,
+        "u": -0.49214215085876495,
+        "v": 0.4827142916430983,
+        "direction": "SW",
+        "speed": 0.6893598363760319,
+        "method": "ridge",
+        "fallback_reason": null,
+        "data_source": "synthetic_simulation"
+      },
+      "meeting_states": {
+        "R1": "SAFE",
+        "R2": "SAFE",
+        "R3": "SAFE",
+        "R4": "SAFE",
+        "R5": "SAFE",
+        "R6": "SAFE",
+        "R7": "SAFE",
+        "R8": "SAFE"
+      },
+      "preventive_reassignments": 0,
+      "predictive_route_invalidations": 9,
+      "destination_changes": 0
+    },
+    {
+      "turn": 100,
+      "fire_cells": 297,
+      "smoke_cells_ge_005": 1380,
+      "outside_students": 1207,
+      "gathered_students": 172,
+      "routes_calculated": 2374,
+      "routes_recalculated": 1250,
+      "secondary_foci": 20,
+      "buildings_reached": [
+        "E28",
+        "E29",
+        "E30",
+        "E61"
+      ],
+      "blocked_exits": 0,
+      "alternative_exits_used": 158,
+      "alternative_exits_under_blockage": 0,
+      "incapacitated_students": 4,
+      "available_meeting_areas": 7,
+      "wind_direction": "W",
+      "wind_speed": 0.7830941162142042,
+      "predicted_wind": {
+        "turn": 101,
+        "u": -0.7606600325062753,
+        "v": -0.006362319939631525,
+        "direction": "W",
+        "speed": 0.7606866399296507,
+        "method": "ridge",
+        "fallback_reason": null,
+        "data_source": "synthetic_simulation"
+      },
+      "meeting_states": {
+        "R1": "SAFE",
+        "R2": "SAFE",
+        "R3": "SAFE",
+        "R4": "AVOID",
+        "R5": "SAFE",
+        "R6": "SAFE",
+        "R7": "SAFE",
+        "R8": "SAFE"
+      },
+      "preventive_reassignments": 156,
+      "predictive_route_invalidations": 9,
+      "destination_changes": 93
+    },
+    {
+      "turn": 120,
+      "fire_cells": 385,
+      "smoke_cells_ge_005": 2061,
+      "outside_students": 1228,
+      "gathered_students": 196,
+      "routes_calculated": 2854,
+      "routes_recalculated": 1705,
+      "secondary_foci": 32,
+      "buildings_reached": [
+        "E28",
+        "E29",
+        "E30",
+        "E61"
+      ],
+      "blocked_exits": 0,
+      "alternative_exits_used": 158,
+      "alternative_exits_under_blockage": 0,
+      "incapacitated_students": 9,
+      "available_meeting_areas": 7,
+      "wind_direction": "NW",
+      "wind_speed": 0.5683968333665945,
+      "predicted_wind": {
+        "turn": 121,
+        "u": -0.38605507694433766,
+        "v": -0.39424424143037023,
+        "direction": "NW",
+        "speed": 0.5517853245017545,
+        "method": "ridge",
+        "fallback_reason": null,
+        "data_source": "synthetic_simulation"
+      },
+      "meeting_states": {
+        "R1": "SAFE",
+        "R2": "SAFE",
+        "R3": "SAFE",
+        "R4": "CLOSED",
+        "R5": "SAFE",
+        "R6": "SAFE",
+        "R7": "SAFE",
+        "R8": "SAFE"
+      },
+      "preventive_reassignments": 156,
+      "predictive_route_invalidations": 33,
+      "destination_changes": 107
+    }
+  ],
+  "spotting_events": [
+    {
+      "turn": 49,
+      "source": [
+        234,
+        171
+      ],
+      "target": [
+        231,
+        176
+      ],
+      "direction": "S",
+      "intensity": 0.5287124737222472
+    },
+    {
+      "turn": 49,
+      "source": [
+        240,
+        163
+      ],
+      "target": [
+        235,
+        172
+      ],
+      "direction": "S",
+      "intensity": 0.5287124737222472
+    },
+    {
+      "turn": 57,
+      "source": [
+        233,
+        172
+      ],
+      "target": [
+        232,
+        178
+      ],
+      "direction": "S",
+      "intensity": 0.5001060816536933
+    },
+    {
+      "turn": 72,
+      "source": [
+        233,
+        164
+      ],
+      "target": [
+        227,
+        174
+      ],
+      "direction": "SW",
+      "intensity": 0.6080876752701612
+    },
+    {
+      "turn": 73,
+      "source": [
+        230,
+        171
+      ],
+      "target": [
+        223,
+        179
+      ],
+      "direction": "SW",
+      "intensity": 0.6202213620300407
+    },
+    {
+      "turn": 76,
+      "source": [
+        234,
+        159
+      ],
+      "target": [
+        227,
+        160
+      ],
+      "direction": "SW",
+      "intensity": 0.6575190514823259
+    },
+    {
+      "turn": 77,
+      "source": [
+        223,
+        179
+      ],
+      "target": [
+        216,
+        183
+      ],
+      "direction": "SW",
+      "intensity": 0.6699628000218792
+    },
+    {
+      "turn": 81,
+      "source": [
+        232,
+        181
+      ],
+      "target": [
+        225,
+        183
+      ],
+      "direction": "W",
+      "intensity": 0.7175066110670927
+    },
+    {
+      "turn": 84,
+      "source": [
+        221,
+        179
+      ],
+      "target": [
+        215,
+        184
+      ],
+      "direction": "W",
+      "intensity": 0.7485479898078183
+    },
+    {
+      "turn": 85,
+      "source": [
+        232,
+        160
+      ],
+      "target": [
+        223,
+        155
+      ],
+      "direction": "W",
+      "intensity": 0.757618882078154
+    },
+    {
+      "turn": 85,
+      "source": [
+        234,
+        158
+      ],
+      "target": [
+        225,
+        153
+      ],
+      "direction": "W",
+      "intensity": 0.757618882078154
+    },
+    {
+      "turn": 87,
+      "source": [
+        226,
+        183
+      ],
+      "target": [
+        218,
+        176
+      ],
+      "direction": "W",
+      "intensity": 0.7734621318517259
+    },
+    {
+      "turn": 89,
+      "source": [
+        220,
+        180
+      ],
+      "target": [
+        211,
+        175
+      ],
+      "direction": "W",
+      "intensity": 0.7858838092816638
+    },
+    {
+      "turn": 90,
+      "source": [
+        227,
+        177
+      ],
+      "target": [
+        217,
+        171
+      ],
+      "direction": "W",
+      "intensity": 0.7906999965162108
+    },
+    {
+      "turn": 90,
+      "source": [
+        231,
+        181
+      ],
+      "target": [
+        228,
+        181
+      ],
+      "direction": "W",
+      "intensity": 0.7906999965162108
+    },
+    {
+      "turn": 93,
+      "source": [
+        222,
+        180
+      ],
+      "target": [
+        218,
+        182
+      ],
+      "direction": "W",
+      "intensity": 0.7991898168666765
+    },
+    {
+      "turn": 93,
+      "source": [
+        225,
+        176
+      ],
+      "target": [
+        219,
+        179
+      ],
+      "direction": "W",
+      "intensity": 0.7991898168666765
+    },
+    {
+      "turn": 95,
+      "source": [
+        214,
+        183
+      ],
+      "target": [
+        205,
+        178
+      ],
+      "direction": "W",
+      "intensity": 0.7997053904898962
+    },
+    {
+      "turn": 99,
+      "source": [
+        224,
+        163
+      ],
+      "target": [
+        219,
+        163
+      ],
+      "direction": "W",
+      "intensity": 0.788390631535901
+    },
+    {
+      "turn": 99,
+      "source": [
+        224,
+        172
+      ],
+      "target": [
+        218,
+        169
+      ],
+      "direction": "W",
+      "intensity": 0.788390631535901
+    },
+    {
+      "turn": 101,
+      "source": [
+        224,
+        163
+      ],
+      "target": [
+        220,
+        157
+      ],
+      "direction": "NW",
+      "intensity": 0.7768738709481798
+    },
+    {
+      "turn": 102,
+      "source": [
+        225,
+        180
+      ],
+      "target": [
+        215,
+        179
+      ],
+      "direction": "NW",
+      "intensity": 0.7697730668935235
+    },
+    {
+      "turn": 103,
+      "source": [
+        238,
+        158
+      ],
+      "target": [
+        230,
+        153
+      ],
+      "direction": "NW",
+      "intensity": 0.7618409866595699
+    },
+    {
+      "turn": 104,
+      "source": [
+        220,
+        180
+      ],
+      "target": [
+        213,
+        174
+      ],
+      "direction": "NW",
+      "intensity": 0.7531326822669593
+    },
+    {
+      "turn": 108,
+      "source": [
+        217,
+        176
+      ],
+      "target": [
+        210,
+        168
+      ],
+      "direction": "NW",
+      "intensity": 0.7118177727862635
+    },
+    {
+      "turn": 108,
+      "source": [
+        223,
+        152
+      ],
+      "target": [
+        219,
+        143
+      ],
+      "direction": "NW",
+      "intensity": 0.7118177727862635
+    },
+    {
+      "turn": 109,
+      "source": [
+        210,
+        173
+      ],
+      "target": [
+        208,
+        164
+      ],
+      "direction": "NW",
+      "intensity": 0.7002273009405895
+    },
+    {
+      "turn": 110,
+      "source": [
+        236,
+        158
+      ],
+      "target": [
+        233,
+        157
+      ],
+      "direction": "NW",
+      "intensity": 0.6882882301994777
+    },
+    {
+      "turn": 112,
+      "source": [
+        236,
+        156
+      ],
+      "target": [
+        233,
+        154
+      ],
+      "direction": "NW",
+      "intensity": 0.6636975853332124
+    },
+    {
+      "turn": 113,
+      "source": [
+        221,
+        165
+      ],
+      "target": [
+        210,
+        163
+      ],
+      "direction": "NW",
+      "intensity": 0.6512166807737729
+    },
+    {
+      "turn": 117,
+      "source": [
+        206,
+        179
+      ],
+      "target": [
+        203,
+        169
+      ],
+      "direction": "NW",
+      "intensity": 0.602072120956659
+    },
+    {
+      "turn": 117,
+      "source": [
+        220,
+        166
+      ],
+      "target": [
+        217,
+        160
+      ],
+      "direction": "NW",
+      "intensity": 0.602072120956659
+    }
+  ],
+  "final_summary": {
+    "fase": "en_curso",
+    "inicial": 1879,
+    "dentro": 651,
+    "salieron": 1228,
+    "turnos": 120,
+    "esperando": 1033,
+    "movimientos": 90528,
+    "por_edificio": {
+      "E1": {
+        "inicial": 36,
+        "dentro": 0,
+        "salieron": 36
+      },
+      "E10": {
+        "inicial": 32,
+        "dentro": 0,
+        "salieron": 32
+      },
+      "E11": {
+        "inicial": 30,
+        "dentro": 0,
+        "salieron": 30
+      },
+      "E12": {
+        "inicial": 31,
+        "dentro": 0,
+        "salieron": 31
+      },
+      "E13": {
+        "inicial": 34,
+        "dentro": 0,
+        "salieron": 34
+      },
+      "E14": {
+        "inicial": 38,
+        "dentro": 7,
+        "salieron": 31
+      },
+      "E15": {
+        "inicial": 33,
+        "dentro": 25,
+        "salieron": 8
+      },
+      "E16": {
+        "inicial": 34,
+        "dentro": 30,
+        "salieron": 4
+      },
+      "E17": {
+        "inicial": 33,
+        "dentro": 30,
+        "salieron": 3
+      },
+      "E18": {
+        "inicial": 34,
+        "dentro": 30,
+        "salieron": 4
+      },
+      "E19": {
+        "inicial": 34,
+        "dentro": 31,
+        "salieron": 3
+      },
+      "E2": {
+        "inicial": 31,
+        "dentro": 27,
+        "salieron": 4
+      },
+      "E20": {
+        "inicial": 34,
+        "dentro": 32,
+        "salieron": 2
+      },
+      "E21": {
+        "inicial": 32,
+        "dentro": 29,
+        "salieron": 3
+      },
+      "E22": {
+        "inicial": 34,
+        "dentro": 31,
+        "salieron": 3
+      },
+      "E23": {
+        "inicial": 31,
+        "dentro": 28,
+        "salieron": 3
+      },
+      "E24": {
+        "inicial": 32,
+        "dentro": 30,
+        "salieron": 2
+      },
+      "E25": {
+        "inicial": 45,
+        "dentro": 38,
+        "salieron": 7
+      },
+      "E26": {
+        "inicial": 36,
+        "dentro": 31,
+        "salieron": 5
+      },
+      "E27": {
+        "inicial": 31,
+        "dentro": 26,
+        "salieron": 5
+      },
+      "E28": {
+        "inicial": 39,
+        "dentro": 0,
+        "salieron": 39
+      },
+      "E29": {
+        "inicial": 40,
+        "dentro": 0,
+        "salieron": 40
+      },
+      "E29-A": {
+        "inicial": 31,
+        "dentro": 6,
+        "salieron": 25
+      },
+      "E29-B": {
+        "inicial": 30,
+        "dentro": 27,
+        "salieron": 3
+      },
+      "E3": {
+        "inicial": 37,
+        "dentro": 33,
+        "salieron": 4
+      },
+      "E30": {
+        "inicial": 30,
+        "dentro": 0,
+        "salieron": 30
+      },
+      "E31": {
+        "inicial": 39,
+        "dentro": 33,
+        "salieron": 6
+      },
+      "E32": {
+        "inicial": 42,
+        "dentro": 33,
+        "salieron": 9
+      },
+      "E33": {
+        "inicial": 39,
+        "dentro": 29,
+        "salieron": 10
+      },
+      "E34": {
+        "inicial": 34,
+        "dentro": 0,
+        "salieron": 34
+      },
+      "E35": {
+        "inicial": 33,
+        "dentro": 0,
+        "salieron": 33
+      },
+      "E36": {
+        "inicial": 33,
+        "dentro": 0,
+        "salieron": 33
+      },
+      "E37": {
+        "inicial": 33,
+        "dentro": 0,
+        "salieron": 33
+      },
+      "E38": {
+        "inicial": 32,
+        "dentro": 0,
+        "salieron": 32
+      },
+      "E39": {
+        "inicial": 32,
+        "dentro": 0,
+        "salieron": 32
+      },
+      "E4": {
+        "inicial": 35,
+        "dentro": 0,
+        "salieron": 35
+      },
+      "E40": {
+        "inicial": 41,
+        "dentro": 0,
+        "salieron": 41
+      },
+      "E41": {
+        "inicial": 32,
+        "dentro": 0,
+        "salieron": 32
+      },
+      "E45": {
+        "inicial": 33,
+        "dentro": 0,
+        "salieron": 33
+      },
+      "E49": {
+        "inicial": 31,
+        "dentro": 0,
+        "salieron": 31
+      },
+      "E5": {
+        "inicial": 34,
+        "dentro": 0,
+        "salieron": 34
+      },
+      "E51": {
+        "inicial": 33,
+        "dentro": 25,
+        "salieron": 8
+      },
+      "E53": {
+        "inicial": 31,
+        "dentro": 0,
+        "salieron": 31
+      },
+      "E55": {
+        "inicial": 34,
+        "dentro": 0,
+        "salieron": 34
+      },
+      "E56": {
+        "inicial": 50,
+        "dentro": 0,
+        "salieron": 50
+      },
+      "E57": {
+        "inicial": 33,
+        "dentro": 28,
+        "salieron": 5
+      },
+      "E58": {
+        "inicial": 35,
+        "dentro": 0,
+        "salieron": 35
+      },
+      "E59": {
+        "inicial": 31,
+        "dentro": 5,
+        "salieron": 26
+      },
+      "E6": {
+        "inicial": 34,
+        "dentro": 0,
+        "salieron": 34
+      },
+      "E60 - norte": {
+        "inicial": 31,
+        "dentro": 0,
+        "salieron": 31
+      },
+      "E60 - sureste": {
+        "inicial": 31,
+        "dentro": 0,
+        "salieron": 31
+      },
+      "E61": {
+        "inicial": 30,
+        "dentro": 0,
+        "salieron": 30
+      },
+      "E7": {
+        "inicial": 32,
+        "dentro": 0,
+        "salieron": 32
+      },
+      "E8": {
+        "inicial": 33,
+        "dentro": 3,
+        "salieron": 30
+      },
+      "E9": {
+        "inicial": 36,
+        "dentro": 4,
+        "salieron": 32
+      }
+    },
+    "fuego": {
+      "turn": 120,
+      "burning": 385,
+      "burned": 656,
+      "total_ignitions": 1041,
+      "secondary_foci": 32
+    },
+    "humo": {
+      "turn": 120,
+      "smoky_cells": 2061,
+      "max_concentration": 1.0,
+      "total_concentration": 1339.5671
+    },
+    "riesgo": {
+      "normal": 1824,
+      "alerta": 32,
+      "ralentizada": 14,
+      "incapacitada": 9
+    },
+    "viento": {
+      "direccion": "NW",
+      "intensidad": 0.5683968333665945
+    },
+    "meeting": {
+      "gathered": 196,
+      "unassigned": 382,
+      "reassignments": 156,
+      "routes_calculated": 2854,
+      "replanned_routes": 1705,
+      "preventive_reassignments": 156,
+      "predictive_route_invalidations": 33,
+      "destination_changes": 107,
+      "areas": {
+        "R1": {
+          "available": true,
+          "smoke": 0.0,
+          "state": "SAFE",
+          "risk_score": 0.0,
+          "predicted_smoke": 0.0,
+          "fire_distance": 225,
+          "fire_proximity": 0.0,
+          "current_smoke": 0.0,
+          "capacity": 1149,
+          "reserved": 94
+        },
+        "R2": {
+          "available": true,
+          "smoke": 0.0,
+          "state": "SAFE",
+          "risk_score": 0.04432133212685585,
+          "predicted_smoke": 0.0,
+          "fire_distance": 15,
+          "fire_proximity": 0.04432133212685585,
+          "current_smoke": 0.0,
+          "capacity": 2157,
+          "reserved": 243
+        },
+        "R3": {
+          "available": true,
+          "smoke": 0.0,
+          "state": "SAFE",
+          "risk_score": 0.0,
+          "predicted_smoke": 0.0,
+          "fire_distance": 45,
+          "fire_proximity": 0.0,
+          "current_smoke": 0.0,
+          "capacity": 2154,
+          "reserved": 160
+        },
+        "R4": {
+          "available": false,
+          "smoke": 0.7389101727045405,
+          "state": "CLOSED",
+          "risk_score": 1.0,
+          "predicted_smoke": 0.783560037612915,
+          "fire_distance": 5,
+          "fire_proximity": 0.5429362654685974,
+          "current_smoke": 0.7389101727045405,
+          "capacity": 1725,
+          "reserved": 0
+        },
+        "R5": {
+          "available": true,
+          "smoke": 0.0,
+          "state": "SAFE",
+          "risk_score": 0.0,
+          "predicted_smoke": 0.0,
+          "fire_distance": 183,
+          "fire_proximity": 0.0,
+          "current_smoke": 0.0,
+          "capacity": 972,
+          "reserved": 116
+        },
+        "R6": {
+          "available": true,
+          "smoke": 0.0,
+          "state": "SAFE",
+          "risk_score": 0.0,
+          "predicted_smoke": 0.0,
+          "fire_distance": 98,
+          "fire_proximity": 0.0,
+          "current_smoke": 0.0,
+          "capacity": 1440,
+          "reserved": 64
+        },
+        "R7": {
+          "available": true,
+          "smoke": 0.0,
+          "state": "SAFE",
+          "risk_score": 0.0,
+          "predicted_smoke": 0.0,
+          "fire_distance": 117,
+          "fire_proximity": 0.0,
+          "current_smoke": 0.0,
+          "capacity": 1869,
+          "reserved": 55
+        },
+        "R8": {
+          "available": true,
+          "smoke": 0.0,
+          "state": "SAFE",
+          "risk_score": 0.0,
+          "predicted_smoke": 0.0,
+          "fire_distance": 196,
+          "fire_proximity": 0.0,
+          "current_smoke": 0.0,
+          "capacity": 1620,
+          "reserved": 114
+        }
+      }
+    },
+    "building_risk": {
+      "E20": "low",
+      "E10": "low",
+      "E19": "low",
+      "E16": "low",
+      "E15": "low",
+      "E60 - norte": "low",
+      "E8": "low",
+      "E6": "low",
+      "E4": "low",
+      "E57": "low",
+      "E3": "low",
+      "E1": "low",
+      "E11": "low",
+      "E2": "low",
+      "E5": "low",
+      "E59": "low",
+      "E9": "low",
+      "E41": "low",
+      "E14": "low",
+      "E18": "low",
+      "E17": "low",
+      "E21": "low",
+      "E13": "low",
+      "E12": "low",
+      "E7": "low",
+      "E53": "low",
+      "E23": "low",
+      "E22": "low",
+      "E32": "low",
+      "E29": "high",
+      "E29-B": "low",
+      "E24": "low",
+      "E29-A": "high",
+      "E37": "low",
+      "E40": "low",
+      "E28": "high",
+      "E30": "high",
+      "E58": "low",
+      "E33": "low",
+      "E61": "high",
+      "E31": "low",
+      "E25": "low",
+      "E34": "low",
+      "E55": "low",
+      "E26": "low",
+      "E27": "low",
+      "E36": "low",
+      "E51": "low",
+      "E49": "low",
+      "E56": "low",
+      "E45": "low",
+      "E35": "low",
+      "E38": "low",
+      "E39": "low",
+      "E60 - sureste": "low"
+    },
+    "exits": {
+      "blocked_exits": 0,
+      "alternative_exits_used": 158,
+      "alternative_exits_under_blockage": 0,
+      "distance_rebuilds": 560,
+      "crossings": {
+        "secondary-E1-S": 24,
+        "E10-A1": 32,
+        "E11-A1": 30,
+        "functional-E4-S": 25,
+        "secondary-E4-W": 10,
+        "E41-A1": 32,
+        "E49-A1": 31,
+        "E51-A1": 8,
+        "functional-E57-S": 5,
+        "E59-A1": 26,
+        "E61-A1": 30,
+        "functional-E7-N": 32,
+        "functional-E18-E": 4,
+        "E27-A1": 5,
+        "E29-A-A1": 25,
+        "E30-A1": 30,
+        "secondary-E32-S": 4,
+        "E12-A1": 31,
+        "E37-A1": 33,
+        "E39-A1": 32,
+        "E13-A1": 34,
+        "E45-A1": 33,
+        "functional-E14-E": 19,
+        "functional-E6-S": 34,
+        "functional-E60 - sureste-S": 31,
+        "functional-E8-S": 30,
+        "secondary-E9-W": 10,
+        "E15-A1": 8,
+        "E16-A1": 4,
+        "E2-A1": 4,
+        "E20-A1": 2,
+        "E22-A1": 3,
+        "E24-A1": 2,
+        "E29-B-A1": 3,
+        "E3-A1": 2,
+        "functional-E31-N": 3,
+        "E1-A1": 12,
+        "E34-A1": 34,
+        "E35-A1": 33,
+        "E38-A1": 32,
+        "E53-A1": 31,
+        "E58-A1": 35,
+        "functional-E60 - norte-S": 31,
+        "functional-E28-W": 24,
+        "secondary-E33-N": 4,
+        "E36-A1": 33,
+        "E40-A1": 21,
+        "functional-E55-S": 34,
+        "E56-A1": 24,
+        "functional-E19-S": 3,
+        "E21-A1": 3,
+        "E23-A1": 3,
+        "secondary-E25-N": 2,
+        "secondary-E3-S": 2,
+        "secondary-E32-E": 3,
+        "E5-A1": 34,
+        "secondary-E56-E": 16,
+        "secondary-E26-E": 2,
+        "functional-E32-W": 2,
+        "E33-A1": 2,
+        "E9-A1": 22,
+        "E17-A1": 3,
+        "secondary-E25-E": 2,
+        "E25-A1": 3,
+        "secondary-E29-N": 15,
+        "E29-A1": 22,
+        "functional-E31-S": 3,
+        "secondary-E33-S": 4,
+        "secondary-E14-W": 12,
+        "secondary-E28-E": 15,
+        "secondary-E40-S": 14,
+        "E26-A1": 3,
+        "secondary-E56-N": 10,
+        "secondary-E29-S": 3,
+        "secondary-E40-N": 6
+      }
+    },
+    "wind_prediction": {
+      "turn": 121,
+      "u": -0.38605507694433766,
+      "v": -0.39424424143037023,
+      "direction": "NW",
+      "speed": 0.5517853245017545,
+      "method": "ridge",
+      "fallback_reason": null,
+      "data_source": "synthetic_simulation"
+    },
+    "wind_telemetry_records": 242
+  },
+  "peak_blocked_exits": 3,
+  "initialization_seconds": 0.8175526999984868,
+  "elapsed_seconds": 54.084291600011056,
+  "seconds_per_turn": 0.4438894908334381,
+  "controlled_wind": true,
+  "wind_prediction_calls": {
+    "ridge": 118,
+    "persistence": 3
+  },
+  "wind_observations": [
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 0,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "E",
+      "wind_speed": 0.75
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 0,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "E",
+      "wind_speed": 0.75
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 1,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "E",
+      "wind_speed": 0.6624855374300466
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 1,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "E",
+      "wind_speed": 0.6624855374300466
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 2,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "E",
+      "wind_speed": 0.6748844199040123
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 2,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "E",
+      "wind_speed": 0.6748844199040123
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 3,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "E",
+      "wind_speed": 0.6871105938881784
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 3,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "E",
+      "wind_speed": 0.6871105938881784
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 4,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "E",
+      "wind_speed": 0.6990792045194228
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 4,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "E",
+      "wind_speed": 0.6990792045194228
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 5,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "E",
+      "wind_speed": 0.7107071845341687
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 5,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "E",
+      "wind_speed": 0.7107071845341687
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 6,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "E",
+      "wind_speed": 0.7219138307906304
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 6,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "E",
+      "wind_speed": 0.7219138307906304
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 7,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "E",
+      "wind_speed": 0.7326213643830455
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 7,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "E",
+      "wind_speed": 0.7326213643830455
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 8,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "E",
+      "wind_speed": 0.7427554704604605
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 8,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "E",
+      "wind_speed": 0.7427554704604605
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 9,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "E",
+      "wind_speed": 0.7522458140035001
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 9,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "E",
+      "wind_speed": 0.7522458140035001
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 10,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "E",
+      "wind_speed": 0.7610265279794056
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 10,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "E",
+      "wind_speed": 0.7610265279794056
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 11,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "E",
+      "wind_speed": 0.7690366704873413
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 11,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "E",
+      "wind_speed": 0.7690366704873413
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 12,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "E",
+      "wind_speed": 0.7762206477211845
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 12,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "E",
+      "wind_speed": 0.7762206477211845
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 13,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "E",
+      "wind_speed": 0.7825285998142555
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 13,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "E",
+      "wind_speed": 0.7825285998142555
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 14,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "E",
+      "wind_speed": 0.7879167468880632
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 14,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "E",
+      "wind_speed": 0.7879167468880632
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 15,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "E",
+      "wind_speed": 0.792347692903338
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 15,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "E",
+      "wind_speed": 0.792347692903338
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 16,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "E",
+      "wind_speed": 0.7957906852044969
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 16,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "E",
+      "wind_speed": 0.7957906852044969
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 17,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "E",
+      "wind_speed": 0.7982218279561936
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 17,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "E",
+      "wind_speed": 0.7982218279561936
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 18,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "E",
+      "wind_speed": 0.7996242479906082
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 18,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "E",
+      "wind_speed": 0.7996242479906082
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 19,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "E",
+      "wind_speed": 0.7999882119144313
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 19,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "E",
+      "wind_speed": 0.7999882119144313
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 20,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "E",
+      "wind_speed": 0.7993111936627648
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 20,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "E",
+      "wind_speed": 0.7993111936627648
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 21,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SE",
+      "wind_speed": 0.7975978920310905
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 21,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SE",
+      "wind_speed": 0.7975978920310905
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 22,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SE",
+      "wind_speed": 0.794860198063625
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 22,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SE",
+      "wind_speed": 0.794860198063625
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 23,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SE",
+      "wind_speed": 0.7911171125243994
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 23,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SE",
+      "wind_speed": 0.7911171125243994
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 24,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SE",
+      "wind_speed": 0.7863946140238522
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 24,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SE",
+      "wind_speed": 0.7863946140238522
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 25,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SE",
+      "wind_speed": 0.7807254787161898
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 25,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SE",
+      "wind_speed": 0.7807254787161898
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 26,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SE",
+      "wind_speed": 0.7741490528188941
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 26,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SE",
+      "wind_speed": 0.7741490528188941
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 27,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SE",
+      "wind_speed": 0.7667109795331882
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 27,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SE",
+      "wind_speed": 0.7667109795331882
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 28,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SE",
+      "wind_speed": 0.7584628822607486
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 28,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SE",
+      "wind_speed": 0.7584628822607486
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 29,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SE",
+      "wind_speed": 0.7494620063152754
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 29,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SE",
+      "wind_speed": 0.7494620063152754
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 30,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SE",
+      "wind_speed": 0.7397708216155935
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 30,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SE",
+      "wind_speed": 0.7397708216155935
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 31,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SE",
+      "wind_speed": 0.7294565891177673
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 31,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SE",
+      "wind_speed": 0.7294565891177673
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 32,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SE",
+      "wind_speed": 0.7185908939953718
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 32,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SE",
+      "wind_speed": 0.7185908939953718
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 33,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SE",
+      "wind_speed": 0.7072491488078498
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 33,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SE",
+      "wind_speed": 0.7072491488078498
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 34,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SE",
+      "wind_speed": 0.6955100701051784
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 34,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SE",
+      "wind_speed": 0.6955100701051784
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 35,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SE",
+      "wind_speed": 0.6834551321014323
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 35,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SE",
+      "wind_speed": 0.6834551321014323
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 36,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SE",
+      "wind_speed": 0.6711680012089801
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 36,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SE",
+      "wind_speed": 0.6711680012089801
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 37,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SE",
+      "wind_speed": 0.658733955357892
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 37,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SE",
+      "wind_speed": 0.658733955357892
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 38,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SE",
+      "wind_speed": 0.6462392921307246
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 38,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SE",
+      "wind_speed": 0.6462392921307246
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 39,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SE",
+      "wind_speed": 0.6337707298204838
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 39,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SE",
+      "wind_speed": 0.6337707298204838
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 40,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SE",
+      "wind_speed": 0.6214148055686772
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 40,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SE",
+      "wind_speed": 0.6214148055686772
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 41,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "S",
+      "wind_speed": 0.6092572747606361
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 41,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "S",
+      "wind_speed": 0.6092572747606361
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 42,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "S",
+      "wind_speed": 0.5973825158465571
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 42,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "S",
+      "wind_speed": 0.5973825158465571
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 43,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "S",
+      "wind_speed": 0.5858729447190628
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 43,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "S",
+      "wind_speed": 0.5858729447190628
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 44,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "S",
+      "wind_speed": 0.5748084427117484
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 44,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "S",
+      "wind_speed": 0.5748084427117484
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 45,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "S",
+      "wind_speed": 0.5642658021886484
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 45,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "S",
+      "wind_speed": 0.5642658021886484
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 46,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "S",
+      "wind_speed": 0.5543181935724723
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 46,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "S",
+      "wind_speed": 0.5543181935724723
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 47,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "S",
+      "wind_speed": 0.5450346575106547
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 47,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "S",
+      "wind_speed": 0.5450346575106547
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 48,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "S",
+      "wind_speed": 0.5364796257038108
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 48,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "S",
+      "wind_speed": 0.5364796257038108
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 49,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "S",
+      "wind_speed": 0.5287124737222472
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 49,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "S",
+      "wind_speed": 0.5287124737222472
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 50,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "S",
+      "wind_speed": 0.521787108914174
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 50,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "S",
+      "wind_speed": 0.521787108914174
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 51,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "S",
+      "wind_speed": 0.5157515962657125
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 51,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "S",
+      "wind_speed": 0.5157515962657125
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 52,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "S",
+      "wind_speed": 0.5106478248093858
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 52,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "S",
+      "wind_speed": 0.5106478248093858
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 53,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "S",
+      "wind_speed": 0.5065112168963638
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 53,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "S",
+      "wind_speed": 0.5065112168963638
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 54,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "S",
+      "wind_speed": 0.5033704823502355
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 54,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "S",
+      "wind_speed": 0.5033704823502355
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 55,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "S",
+      "wind_speed": 0.5012474192085846
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 55,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "S",
+      "wind_speed": 0.5012474192085846
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 56,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "S",
+      "wind_speed": 0.5001567624353108
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 56,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "S",
+      "wind_speed": 0.5001567624353108
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 57,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "S",
+      "wind_speed": 0.5001060816536933
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 57,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "S",
+      "wind_speed": 0.5001060816536933
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 58,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "S",
+      "wind_speed": 0.5010957286099771
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 58,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "S",
+      "wind_speed": 0.5010957286099771
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 59,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "S",
+      "wind_speed": 0.5031188347321032
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 59,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "S",
+      "wind_speed": 0.5031188347321032
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 60,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "S",
+      "wind_speed": 0.5061613588005293
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 60,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "S",
+      "wind_speed": 0.5061613588005293
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 61,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SW",
+      "wind_speed": 0.510202184400283
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 61,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SW",
+      "wind_speed": 0.510202184400283
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 62,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SW",
+      "wind_speed": 0.5152132664778906
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 62,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SW",
+      "wind_speed": 0.5152132664778906
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 63,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SW",
+      "wind_speed": 0.5211598259860113
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 63,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SW",
+      "wind_speed": 0.5211598259860113
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 64,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SW",
+      "wind_speed": 0.528000591264863
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 64,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SW",
+      "wind_speed": 0.528000591264863
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 65,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SW",
+      "wind_speed": 0.535688084485148
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 65,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SW",
+      "wind_speed": 0.535688084485148
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 66,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SW",
+      "wind_speed": 0.5441689511644412
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 66,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SW",
+      "wind_speed": 0.5441689511644412
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 67,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SW",
+      "wind_speed": 0.5533843304700603
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 67,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SW",
+      "wind_speed": 0.5533843304700603
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 68,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SW",
+      "wind_speed": 0.5632702637383536
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 68,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SW",
+      "wind_speed": 0.5632702637383536
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 69,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SW",
+      "wind_speed": 0.5737581383751112
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 69,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SW",
+      "wind_speed": 0.5737581383751112
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 70,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SW",
+      "wind_speed": 0.5847751640562384
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 70,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SW",
+      "wind_speed": 0.5847751640562384
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 71,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SW",
+      "wind_speed": 0.5962448779236574
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 71,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SW",
+      "wind_speed": 0.5962448779236574
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 72,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SW",
+      "wind_speed": 0.6080876752701612
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 72,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SW",
+      "wind_speed": 0.6080876752701612
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 73,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SW",
+      "wind_speed": 0.6202213620300407
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 73,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SW",
+      "wind_speed": 0.6202213620300407
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 74,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SW",
+      "wind_speed": 0.6325617252409655
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 74,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SW",
+      "wind_speed": 0.6325617252409655
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 75,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SW",
+      "wind_speed": 0.6450231175178665
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 75,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SW",
+      "wind_speed": 0.6450231175178665
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 76,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SW",
+      "wind_speed": 0.6575190514823259
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 76,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SW",
+      "wind_speed": 0.6575190514823259
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 77,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SW",
+      "wind_speed": 0.6699628000218792
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 77,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SW",
+      "wind_speed": 0.6699628000218792
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 78,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SW",
+      "wind_speed": 0.6822679982131723
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 78,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SW",
+      "wind_speed": 0.6822679982131723
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 79,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SW",
+      "wind_speed": 0.6943492427313741
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 79,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SW",
+      "wind_speed": 0.6943492427313741
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 80,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "SW",
+      "wind_speed": 0.7061226845856831
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 80,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "SW",
+      "wind_speed": 0.7061226845856831
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 81,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "W",
+      "wind_speed": 0.7175066110670927
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 81,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "W",
+      "wind_speed": 0.7175066110670927
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 82,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "W",
+      "wind_speed": 0.728422012869452
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 82,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "W",
+      "wind_speed": 0.728422012869452
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 83,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "W",
+      "wind_speed": 0.7387931324477544
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 83,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "W",
+      "wind_speed": 0.7387931324477544
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 84,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "W",
+      "wind_speed": 0.7485479898078183
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 84,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "W",
+      "wind_speed": 0.7485479898078183
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 85,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "W",
+      "wind_speed": 0.757618882078154
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 85,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "W",
+      "wind_speed": 0.757618882078154
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 86,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "W",
+      "wind_speed": 0.7659428533967725
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 86,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "W",
+      "wind_speed": 0.7659428533967725
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 87,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "W",
+      "wind_speed": 0.7734621318517259
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 87,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "W",
+      "wind_speed": 0.7734621318517259
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 88,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "W",
+      "wind_speed": 0.7801245304428209
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 88,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "W",
+      "wind_speed": 0.7801245304428209
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 89,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "W",
+      "wind_speed": 0.7858838092816638
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 89,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "W",
+      "wind_speed": 0.7858838092816638
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 90,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "W",
+      "wind_speed": 0.7906999965162108
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 90,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "W",
+      "wind_speed": 0.7906999965162108
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 91,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "W",
+      "wind_speed": 0.7945396657524744
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 91,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "W",
+      "wind_speed": 0.7945396657524744
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 92,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "W",
+      "wind_speed": 0.797376168047956
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 92,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "W",
+      "wind_speed": 0.797376168047956
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 93,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "W",
+      "wind_speed": 0.7991898168666765
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 93,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "W",
+      "wind_speed": 0.7991898168666765
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 94,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "W",
+      "wind_speed": 0.7999680247121332
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 94,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "W",
+      "wind_speed": 0.7999680247121332
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 95,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "W",
+      "wind_speed": 0.7997053904898962
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 95,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "W",
+      "wind_speed": 0.7997053904898962
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 96,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "W",
+      "wind_speed": 0.7984037369935073
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 96,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "W",
+      "wind_speed": 0.7984037369935073
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 97,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "W",
+      "wind_speed": 0.7960720982535152
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 97,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "W",
+      "wind_speed": 0.7960720982535152
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 98,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "W",
+      "wind_speed": 0.7927266568374502
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 98,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "W",
+      "wind_speed": 0.7927266568374502
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 99,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "W",
+      "wind_speed": 0.788390631535901
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 99,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "W",
+      "wind_speed": 0.788390631535901
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 100,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "W",
+      "wind_speed": 0.7830941162142042
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 100,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "W",
+      "wind_speed": 0.7830941162142042
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 101,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "NW",
+      "wind_speed": 0.7768738709481798
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 101,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "NW",
+      "wind_speed": 0.7768738709481798
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 102,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "NW",
+      "wind_speed": 0.7697730668935235
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 102,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "NW",
+      "wind_speed": 0.7697730668935235
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 103,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "NW",
+      "wind_speed": 0.7618409866595699
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 103,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "NW",
+      "wind_speed": 0.7618409866595699
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 104,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "NW",
+      "wind_speed": 0.7531326822669593
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 104,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "NW",
+      "wind_speed": 0.7531326822669593
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 105,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "NW",
+      "wind_speed": 0.7437085930631289
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 105,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "NW",
+      "wind_speed": 0.7437085930631289
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 106,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "NW",
+      "wind_speed": 0.7336341262474594
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 106,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "NW",
+      "wind_speed": 0.7336341262474594
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 107,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "NW",
+      "wind_speed": 0.7229792029174081
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 107,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "NW",
+      "wind_speed": 0.7229792029174081
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 108,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "NW",
+      "wind_speed": 0.7118177727862635
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 108,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "NW",
+      "wind_speed": 0.7118177727862635
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 109,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "NW",
+      "wind_speed": 0.7002273009405895
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 109,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "NW",
+      "wind_speed": 0.7002273009405895
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 110,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "NW",
+      "wind_speed": 0.6882882301994777
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 110,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "NW",
+      "wind_speed": 0.6882882301994777
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 111,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "NW",
+      "wind_speed": 0.676083422807065
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 111,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "NW",
+      "wind_speed": 0.676083422807065
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 112,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "NW",
+      "wind_speed": 0.6636975853332124
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 112,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "NW",
+      "wind_speed": 0.6636975853332124
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 113,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "NW",
+      "wind_speed": 0.6512166807737729
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 113,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "NW",
+      "wind_speed": 0.6512166807737729
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 114,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "NW",
+      "wind_speed": 0.6387273319307286
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 114,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "NW",
+      "wind_speed": 0.6387273319307286
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 115,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "NW",
+      "wind_speed": 0.6263162202129926
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 115,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "NW",
+      "wind_speed": 0.6263162202129926
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 116,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "NW",
+      "wind_speed": 0.6140694840304526
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 116,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "NW",
+      "wind_speed": 0.6140694840304526
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 117,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "NW",
+      "wind_speed": 0.602072120956659
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 117,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "NW",
+      "wind_speed": 0.602072120956659
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 118,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "NW",
+      "wind_speed": 0.5904073978094057
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 118,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "NW",
+      "wind_speed": 0.5904073978094057
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 119,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "NW",
+      "wind_speed": 0.5791562727434928
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 119,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "NW",
+      "wind_speed": 0.5791562727434928
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 120,
+      "sensor_id": "S-EXT-01",
+      "x": 244,
+      "y": 166,
+      "wind_direction": "NW",
+      "wind_speed": 0.5683968333665945
+    },
+    {
+      "schema_version": "wind_observation/1.0",
+      "data_source": "synthetic_simulation",
+      "run_id": "dcc_functional_c447608e1c1b46ea8b0c0e3e94b3390f",
+      "turn": 120,
+      "sensor_id": "S-EXT-02",
+      "x": 250,
+      "y": 169,
+      "wind_direction": "NW",
+      "wind_speed": 0.5683968333665945
+    }
+  ],
+  "meeting_transitions": [
+    {
+      "turn": 81,
+      "area_id": "R4",
+      "from": "SAFE",
+      "to": "CAUTION",
+      "score": 0.18540183305740357
+    },
+    {
+      "turn": 89,
+      "area_id": "R4",
+      "from": "CAUTION",
+      "to": "AVOID",
+      "score": 0.581928439438343
+    },
+    {
+      "turn": 112,
+      "area_id": "R4",
+      "from": "AVOID",
+      "to": "CLOSED",
+      "score": 1.0
+    }
+  ],
+  "destination_changes": [
+    {
+      "turn": 89,
+      "person_id": "P677",
+      "from": "R4",
+      "to": "R3",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 89,
+      "person_id": "P678",
+      "from": "R4",
+      "to": "R3",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 89,
+      "person_id": "P679",
+      "from": "R4",
+      "to": "R3",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 89,
+      "person_id": "P681",
+      "from": "R4",
+      "to": "R3",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 89,
+      "person_id": "P687",
+      "from": "R4",
+      "to": "R3",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 89,
+      "person_id": "P688",
+      "from": "R4",
+      "to": "R3",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 89,
+      "person_id": "P690",
+      "from": "R4",
+      "to": "R3",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 89,
+      "person_id": "P691",
+      "from": "R4",
+      "to": "R3",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 89,
+      "person_id": "P697",
+      "from": "R4",
+      "to": "R3",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 89,
+      "person_id": "P702",
+      "from": "R4",
+      "to": "R3",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 89,
+      "person_id": "P708",
+      "from": "R4",
+      "to": "R3",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 89,
+      "person_id": "P713",
+      "from": "R4",
+      "to": "R3",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 89,
+      "person_id": "P723",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 89,
+      "person_id": "P733",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 89,
+      "person_id": "P736",
+      "from": "R4",
+      "to": "R2",
+      "reason": "congestion"
+    },
+    {
+      "turn": 89,
+      "person_id": "P737",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 89,
+      "person_id": "P739",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 89,
+      "person_id": "P743",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 89,
+      "person_id": "P746",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 89,
+      "person_id": "P752",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 89,
+      "person_id": "P754",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 90,
+      "person_id": "P710",
+      "from": "R4",
+      "to": "R3",
+      "reason": "congestion"
+    },
+    {
+      "turn": 90,
+      "person_id": "P099",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 90,
+      "person_id": "P100",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 90,
+      "person_id": "P101",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 90,
+      "person_id": "P102",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 90,
+      "person_id": "P103",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 90,
+      "person_id": "P104",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 90,
+      "person_id": "P105",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 90,
+      "person_id": "P106",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 91,
+      "person_id": "P707",
+      "from": "R4",
+      "to": "R2",
+      "reason": "congestion"
+    },
+    {
+      "turn": 91,
+      "person_id": "P107",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 91,
+      "person_id": "P108",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 91,
+      "person_id": "P109",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 91,
+      "person_id": "P110",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 91,
+      "person_id": "P111",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 91,
+      "person_id": "P112",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 91,
+      "person_id": "P113",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 91,
+      "person_id": "P114",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 91,
+      "person_id": "P115",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 91,
+      "person_id": "P116",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 91,
+      "person_id": "P117",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 91,
+      "person_id": "P118",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 92,
+      "person_id": "P698",
+      "from": "R4",
+      "to": "R2",
+      "reason": "congestion"
+    },
+    {
+      "turn": 92,
+      "person_id": "P119",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 92,
+      "person_id": "P120",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 92,
+      "person_id": "P121",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 92,
+      "person_id": "P122",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 92,
+      "person_id": "P123",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 92,
+      "person_id": "P124",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 92,
+      "person_id": "P125",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 92,
+      "person_id": "P126",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 92,
+      "person_id": "P127",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 92,
+      "person_id": "P128",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 93,
+      "person_id": "P129",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 94,
+      "person_id": "P700",
+      "from": "R4",
+      "to": "R3",
+      "reason": "congestion"
+    },
+    {
+      "turn": 95,
+      "person_id": "P683",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 95,
+      "person_id": "P689",
+      "from": "R4",
+      "to": "R3",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 95,
+      "person_id": "P692",
+      "from": "R4",
+      "to": "R3",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 95,
+      "person_id": "P693",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 95,
+      "person_id": "P703",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 95,
+      "person_id": "P705",
+      "from": "R4",
+      "to": "R3",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 95,
+      "person_id": "P706",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 95,
+      "person_id": "P714",
+      "from": "R4",
+      "to": "R3",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 95,
+      "person_id": "P720",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 95,
+      "person_id": "P722",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 95,
+      "person_id": "P724",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 95,
+      "person_id": "P725",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 95,
+      "person_id": "P729",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 95,
+      "person_id": "P732",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 95,
+      "person_id": "P740",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 95,
+      "person_id": "P741",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 95,
+      "person_id": "P744",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 95,
+      "person_id": "P745",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 95,
+      "person_id": "P748",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 95,
+      "person_id": "P749",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 95,
+      "person_id": "P750",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 97,
+      "person_id": "P1439",
+      "from": "R4",
+      "to": "R6",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 97,
+      "person_id": "P1440",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 97,
+      "person_id": "P1441",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 97,
+      "person_id": "P1442",
+      "from": "R4",
+      "to": "R6",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 97,
+      "person_id": "P1443",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 97,
+      "person_id": "P1444",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 98,
+      "person_id": "P1445",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 98,
+      "person_id": "P1446",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 98,
+      "person_id": "P1447",
+      "from": "R4",
+      "to": "R6",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 99,
+      "person_id": "P1448",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 99,
+      "person_id": "P1449",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 99,
+      "person_id": "P1450",
+      "from": "R4",
+      "to": "R6",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 99,
+      "person_id": "P1451",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 99,
+      "person_id": "P1452",
+      "from": "R4",
+      "to": "R6",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 100,
+      "person_id": "P756",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 100,
+      "person_id": "P760",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 111,
+      "person_id": "P1453",
+      "from": "R4",
+      "to": "R6",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 111,
+      "person_id": "P1454",
+      "from": "R4",
+      "to": "R6",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 111,
+      "person_id": "P1455",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 113,
+      "person_id": "P1456",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 113,
+      "person_id": "P1457",
+      "from": "R4",
+      "to": "R6",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 113,
+      "person_id": "P1458",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 113,
+      "person_id": "P1459",
+      "from": "R4",
+      "to": "R6",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 113,
+      "person_id": "P1460",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 113,
+      "person_id": "P1461",
+      "from": "R4",
+      "to": "R5",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 113,
+      "person_id": "P1462",
+      "from": "R4",
+      "to": "R6",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 113,
+      "person_id": "P1463",
+      "from": "R4",
+      "to": "R6",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 113,
+      "person_id": "P1464",
+      "from": "R4",
+      "to": "R6",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 113,
+      "person_id": "P1465",
+      "from": "R4",
+      "to": "R6",
+      "reason": "predicted_destination"
+    },
+    {
+      "turn": 113,
+      "person_id": "P1466",
+      "from": "R4",
+      "to": "R2",
+      "reason": "predicted_destination"
+    }
+  ],
+  "risk_array_bytes": 9216000,
+  "static_topology_cached": true
+}

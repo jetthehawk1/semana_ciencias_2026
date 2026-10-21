@@ -1,0 +1,57 @@
+pygame 2.6.1 (SDL 2.28.4, Python 3.13.7)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+[OK] App integrada 14.4.4: 480x300; personas=1879; escenario=emergencia; modo=optimizado; sensores=12.
+A alarma; ESPACIO pausa; . turno; R reinicia; T cambia escenario antes de A; M modo (solo antes de alarma); V viento; [ ] intensidad; H humo; clic izquierdo selecciona foco antes de A; despues no genera focos; E exportar; S sensores; TAB seleccionar; F encuadrar; N etiquetas; G cuadricula; P accesos; ESC cerrar.
+[OK] Paso 14.4.4: arranque grafico de 3 fotogramas; modo=optimizado
+test_cached_geometry_equals_full_validation_at_every_remaining_step (__main__.GeometryCacheTests.test_cached_geometry_equals_full_validation_at_every_remaining_step) ... ok
+test_in_place_path_edit_invalidates_geometry (__main__.GeometryCacheTests.test_in_place_path_edit_invalidates_geometry) ... ok
+test_new_hazard_is_not_hidden_by_coordinate_cache (__main__.GeometryCacheTests.test_new_hazard_is_not_hidden_by_coordinate_cache) ... ok
+test_avoided_zone_is_not_presented_as_safe_even_in_traditional (__main__.IntegrationAndPresentationTests.test_avoided_zone_is_not_presented_as_safe_even_in_traditional) ... ok
+test_counts_are_disjoint_and_total_population_is_preserved (__main__.IntegrationAndPresentationTests.test_counts_are_disjoint_and_total_population_is_preserved) ... ok
+test_e16_priority_reaches_actual_controller_before_next_fire_update (__main__.IntegrationAndPresentationTests.test_e16_priority_reaches_actual_controller_before_next_fire_update) ... ok
+test_e16_single_group_diagnosis_and_preventive_priority (__main__.IntegrationAndPresentationTests.test_e16_single_group_diagnosis_and_preventive_priority) ... ok
+test_escape_counter_requires_observed_later_fire_not_just_a_forecast (__main__.IntegrationAndPresentationTests.test_escape_counter_requires_observed_later_fire_not_just_a_forecast) ... ok
+test_levels_and_wind_thresholds_are_defined (__main__.IntegrationAndPresentationTests.test_levels_and_wind_thresholds_are_defined) ... ok
+test_message_queue_aggregates_limits_expires_and_resets (__main__.IntegrationAndPresentationTests.test_message_queue_aggregates_limits_expires_and_resets) ... ok
+test_new_split_preserves_original_fire_contact_metric (__main__.IntegrationAndPresentationTests.test_new_split_preserves_original_fire_contact_metric) ... ok
+test_presentation_render_and_double_debug_are_visual_only (__main__.IntegrationAndPresentationTests.test_presentation_render_and_double_debug_are_visual_only) ... ok
+test_student_presentation_hides_technical_fields (__main__.IntegrationAndPresentationTests.test_student_presentation_hides_technical_fields) ... ok
+test_traditional_debug_reads_observed_eta_without_inventing_personal_margin (__main__.IntegrationAndPresentationTests.test_traditional_debug_reads_observed_eta_without_inventing_personal_margin) ... FAIL
+test_zone_states_are_spanish (__main__.IntegrationAndPresentationTests.test_zone_states_are_spanish) ... ok
+test_closed_exits_selects_safer_refuge (__main__.InteriorTests.test_closed_exits_selects_safer_refuge) ... ok
+test_dependency_chain_rescues_frontier_without_a_second_step (__main__.InteriorTests.test_dependency_chain_rescues_frontier_without_a_second_step) ... ok
+test_dependency_retry_respects_slowdown_eligibility (__main__.InteriorTests.test_dependency_retry_respects_slowdown_eligibility) ... ok
+test_disabled_dependency_resolution_preserves_original_one_pass (__main__.InteriorTests.test_disabled_dependency_resolution_preserves_original_one_pass) ... ok
+test_fire_now_is_never_entered_when_exit_unavailable (__main__.InteriorTests.test_fire_now_is_never_entered_when_exit_unavailable) ... ok
+test_freed_but_dangerous_cell_is_still_forbidden_in_retry (__main__.InteriorTests.test_freed_but_dangerous_cell_is_still_forbidden_in_retry) ... ok
+test_frontier_person_moves_towards_available_safe_exit (__main__.InteriorTests.test_frontier_person_moves_towards_available_safe_exit) ... ok
+test_no_threat_does_not_add_redundancy_priority (__main__.InteriorTests.test_no_threat_does_not_add_redundancy_priority) ... ok
+test_preventive_move_precedes_observed_next_ignition (__main__.InteriorTests.test_preventive_move_precedes_observed_next_ignition) ... ok
+test_refuge_offers_free_space_for_pending_building_population (__main__.InteriorTests.test_refuge_offers_free_space_for_pending_building_population) ... ok
+test_refuge_prefers_branching_cells_over_avoidable_dead_end (__main__.InteriorTests.test_refuge_prefers_branching_cells_over_avoidable_dead_end) ... ok
+test_refuge_tier_does_not_funnel_to_an_occupied_maximum (__main__.InteriorTests.test_refuge_tier_does_not_funnel_to_an_occupied_maximum) ... ok
+test_same_component_reuses_refuge_field (__main__.InteriorTests.test_same_component_reuses_refuge_field) ... ok
+test_threatened_nearest_exit_uses_alternative (__main__.InteriorTests.test_threatened_nearest_exit_uses_alternative) ... ok
+test_backend_change_cannot_be_relabelled_as_visual (__main__.ReportProvenanceTests.test_backend_change_cannot_be_relabelled_as_visual) ... ok
+test_data_change_cannot_be_relabelled_as_visual (__main__.ReportProvenanceTests.test_data_change_cannot_be_relabelled_as_visual) ... ok
+test_ui_revision_preserves_execution_hash_and_actual_metrics (__main__.ReportProvenanceTests.test_ui_revision_preserves_execution_hash_and_actual_metrics) ... ok
+test_now_frontier_safe_are_separate (__main__.ThreatTests.test_now_frontier_safe_are_separate) ... ok
+test_observation_never_consumes_either_rng (__main__.ThreatTests.test_observation_never_consumes_either_rng) ... ok
+test_real_lab_probability_increases_precaution (__main__.ThreatTests.test_real_lab_probability_increases_precaution) ... ok
+test_roads_and_burned_cells_are_not_frontier (__main__.ThreatTests.test_roads_and_burned_cells_are_not_frontier) ... ok
+test_spotting_is_directional_bounded_and_does_not_ignite (__main__.ThreatTests.test_spotting_is_directional_bounded_and_does_not_ignite) ... ok
+test_wind_changes_front_direction (__main__.ThreatTests.test_wind_changes_front_direction) ... ok
+
+======================================================================
+FAIL: test_traditional_debug_reads_observed_eta_without_inventing_personal_margin (__main__.IntegrationAndPresentationTests.test_traditional_debug_reads_observed_eta_without_inventing_personal_margin)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\enriq\AppData\Local\Temp\dcc_suite_mb86sevi\DisasterCommandCenter\tests\test_seventh_functional_changes.py", line 279, in test_traditional_debug_reads_observed_eta_without_inventing_personal_margin
+    self.assertAlmostEqual(data['toxic_dose_eta'], 7.5)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 7.499999888241293 != 7.5 within 7 places (1.1175870717750058e-07 difference)
+
+----------------------------------------------------------------------
+Ran 38 tests in 6.269s
+
+FAILED (failures=1)

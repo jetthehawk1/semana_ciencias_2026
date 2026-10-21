@@ -1,0 +1,6 @@
+Contrato de solicitud/respuesta y archivos JSON: correctos.
+Validación de destino solicitado, mapa incorrecto, ruta obsoleta, diagonales y paredes: correcta.
+Pausa, bloqueo por riesgo, reanudación y llegada sin a_salvo: correctos.
+Ocupación, espera y ruta desfasada: correctas.
+Persona interior no aceptada y límites validados: correctos.
+Paso 14.1 completado correctamente. Persona 3 NO está conectada aún.

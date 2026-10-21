@@ -1,0 +1,7 @@
+Exposicion acumulada, lentitud y contacto con fuego: correctos.
+Sin incendio: 100 personas cruzaron puertas en 31 turnos, como en Paso 8.13.
+Incendio E30, humo, viento, 100 personas y ausencia de colisiones: correctos.
+Inmovilizacion por fuego, ocupacion y movimiento lento: correctos.
+Pausa, avance manual, reanudacion y cambio de viento: correctos.
+Reporte JSON, reinicio y compatibilidad con pasos anteriores: correctos.
+Paso 12 completado correctamente.
