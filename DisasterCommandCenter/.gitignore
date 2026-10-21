@@ -1,0 +1,28 @@
+﻿# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Archivos privados
+.env
+.env.*
+!.env.example
+
+# Archivos generados
+exports/
+reports/
+*.log
+*.tmp
+*.bak
+*.zip
+
+# Configuración local
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Modo seleccionado en cada computadora
+data/modo_ejecucion_14_3_6B.json
